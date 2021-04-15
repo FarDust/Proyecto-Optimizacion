@@ -1,0 +1,1 @@
+from vacunacion_regional.data_management.vaccine_info import get_info_comuna

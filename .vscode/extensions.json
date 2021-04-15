@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "almenon.arepl",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "ms-toolsai.jupyter",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    "davidanson.vscode-markdownlint",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "gruntfuggly.todo-tree",
+    "visualstudioexptteam.vscodeintellicode",
+    "jumpinjackie.vscode-map-preview",
+    "tomoki1207.pdf",
+    "takanotume24.pdf"
+  ]
+}

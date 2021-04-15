@@ -1,0 +1,372 @@
+{
+  "objectIdFieldName": "FID",
+  "uniqueIdField": {
+    "name": "FID",
+    "isSystemMaintained": true
+  },
+  "globalIdFieldName": "",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 5360,
+    "latestWkid": 5360
+  },
+  "fields": [
+    {
+      "name": "FID",
+      "type": "esriFieldTypeOID",
+      "alias": "FID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "CUT_REG",
+      "type": "esriFieldTypeString",
+      "alias": "CUT_REG",
+      "sqlType": "sqlTypeOther",
+      "length": 254,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "CUT_REG_EN",
+      "type": "esriFieldTypeInteger",
+      "alias": "CUT_REG_EN",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "REGION",
+      "type": "esriFieldTypeString",
+      "alias": "Región",
+      "sqlType": "sqlTypeOther",
+      "length": 254,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DOSIS_1",
+      "type": "esriFieldTypeInteger",
+      "alias": "Dosis 1",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DOSIS_2",
+      "type": "esriFieldTypeInteger",
+      "alias": "Dosis 2",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DOSIS_TOT",
+      "type": "esriFieldTypeInteger",
+      "alias": "Dosis total",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "F_REPORTE",
+      "type": "esriFieldTypeDate",
+      "alias": "Fecha Reporte",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ORD_REG",
+      "type": "esriFieldTypeInteger",
+      "alias": "Orden región",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "POB_TOTAL",
+      "type": "esriFieldTypeInteger",
+      "alias": "Población Total",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "POB_OBJ",
+      "type": "esriFieldTypeInteger",
+      "alias": "Población Objetivo",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "POR_DOSIS1",
+      "type": "esriFieldTypeDouble",
+      "alias": "% Dosis 1",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "FID": 1,
+        "CUT_REG": "15",
+        "CUT_REG_EN": 15,
+        "REGION": "Arica y Parinacota",
+        "DOSIS_1": 80115,
+        "DOSIS_2": 53076,
+        "DOSIS_TOT": 133191,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 1,
+        "POB_TOTAL": 255380,
+        "POB_OBJ": 199374,
+        "POR_DOSIS1": 0.401832736465
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "CUT_REG": "01",
+        "CUT_REG_EN": 1,
+        "REGION": "Tarapacá",
+        "DOSIS_1": 117851,
+        "DOSIS_2": 71701,
+        "DOSIS_TOT": 189552,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 2,
+        "POB_TOTAL": 391165,
+        "POB_OBJ": 297211,
+        "POR_DOSIS1": 0.396523008906
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "CUT_REG": "02",
+        "CUT_REG_EN": 2,
+        "REGION": "Antofagasta",
+        "DOSIS_1": 225275,
+        "DOSIS_2": 126984,
+        "DOSIS_TOT": 352259,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 3,
+        "POB_TOTAL": 703746,
+        "POB_OBJ": 547528,
+        "POR_DOSIS1": 0.411440145527
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "CUT_REG": "03",
+        "CUT_REG_EN": 3,
+        "REGION": "Atacama",
+        "DOSIS_1": 107418,
+        "DOSIS_2": 65874,
+        "DOSIS_TOT": 173292,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 4,
+        "POB_TOTAL": 316737,
+        "POB_OBJ": 242030,
+        "POR_DOSIS1": 0.443821013924
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "CUT_REG": "04",
+        "CUT_REG_EN": 4,
+        "REGION": "Coquimbo",
+        "DOSIS_1": 303043,
+        "DOSIS_2": 192947,
+        "DOSIS_TOT": 495990,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 5,
+        "POB_TOTAL": 848079,
+        "POB_OBJ": 665619,
+        "POR_DOSIS1": 0.455279972477
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "CUT_REG": "05",
+        "CUT_REG_EN": 5,
+        "REGION": "Valparaíso",
+        "DOSIS_1": 831645,
+        "DOSIS_2": 549017,
+        "DOSIS_TOT": 1380662,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 6,
+        "POB_TOTAL": 1979373,
+        "POB_OBJ": 1594943,
+        "POR_DOSIS1": 0.521426157549
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "CUT_REG": "13",
+        "CUT_REG_EN": 13,
+        "REGION": "Metropolitana",
+        "DOSIS_1": 2880370,
+        "DOSIS_2": 1758189,
+        "DOSIS_TOT": 4638559,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 7,
+        "POB_TOTAL": 8242459,
+        "POB_OBJ": 6623409,
+        "POR_DOSIS1": 0.434877266374
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "CUT_REG": "06",
+        "CUT_REG_EN": 6,
+        "REGION": "O'Higgins",
+        "DOSIS_1": 399328,
+        "DOSIS_2": 258198,
+        "DOSIS_TOT": 657526,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 8,
+        "POB_TOTAL": 1000959,
+        "POB_OBJ": 793625,
+        "POR_DOSIS1": 0.503169633013
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9,
+        "CUT_REG": "07",
+        "CUT_REG_EN": 7,
+        "REGION": "Maule",
+        "DOSIS_1": 455029,
+        "DOSIS_2": 289346,
+        "DOSIS_TOT": 744375,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 9,
+        "POB_TOTAL": 1143012,
+        "POB_OBJ": 907163,
+        "POR_DOSIS1": 0.501595633861
+      }
+    },
+    {
+      "attributes": {
+        "FID": 10,
+        "CUT_REG": "16",
+        "CUT_REG_EN": 16,
+        "REGION": "Ñuble",
+        "DOSIS_1": 235078,
+        "DOSIS_2": 154928,
+        "DOSIS_TOT": 390006,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 10,
+        "POB_TOTAL": 514508,
+        "POB_OBJ": 412972,
+        "POR_DOSIS1": 0.569234718092
+      }
+    },
+    {
+      "attributes": {
+        "FID": 11,
+        "CUT_REG": "08",
+        "CUT_REG_EN": 8,
+        "REGION": "Biobío",
+        "DOSIS_1": 678882,
+        "DOSIS_2": 438599,
+        "DOSIS_TOT": 1117481,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 11,
+        "POB_TOTAL": 1670590,
+        "POB_OBJ": 1334358,
+        "POR_DOSIS1": 0.508770509863
+      }
+    },
+    {
+      "attributes": {
+        "FID": 12,
+        "CUT_REG": "09",
+        "CUT_REG_EN": 9,
+        "REGION": "La Araucanía",
+        "DOSIS_1": 400170,
+        "DOSIS_2": 266545,
+        "DOSIS_TOT": 666715,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 12,
+        "POB_TOTAL": 1019548,
+        "POB_OBJ": 804405,
+        "POR_DOSIS1": 0.49747328771
+      }
+    },
+    {
+      "attributes": {
+        "FID": 13,
+        "CUT_REG": "14",
+        "CUT_REG_EN": 14,
+        "REGION": "Los Ríos",
+        "DOSIS_1": 166164,
+        "DOSIS_2": 108988,
+        "DOSIS_TOT": 275152,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 13,
+        "POB_TOTAL": 407818,
+        "POB_OBJ": 326386,
+        "POR_DOSIS1": 0.509102718867
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "CUT_REG": "10",
+        "CUT_REG_EN": 10,
+        "REGION": "Los Lagos",
+        "DOSIS_1": 347953,
+        "DOSIS_2": 222013,
+        "DOSIS_TOT": 569966,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 14,
+        "POB_TOTAL": 897303,
+        "POB_OBJ": 712321,
+        "POR_DOSIS1": 0.488477807056
+      }
+    },
+    {
+      "attributes": {
+        "FID": 15,
+        "CUT_REG": "11",
+        "CUT_REG_EN": 11,
+        "REGION": "Aysén",
+        "DOSIS_1": 40617,
+        "DOSIS_2": 28468,
+        "DOSIS_TOT": 69085,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 15,
+        "POB_TOTAL": 107737,
+        "POB_OBJ": 83140,
+        "POR_DOSIS1": 0.488537406784
+      }
+    },
+    {
+      "attributes": {
+        "FID": 16,
+        "CUT_REG": "12",
+        "CUT_REG_EN": 12,
+        "REGION": "Magallanes",
+        "DOSIS_1": 85888,
+        "DOSIS_2": 58209,
+        "DOSIS_TOT": 144097,
+        "F_REPORTE": 1618012800000,
+        "ORD_REG": 16,
+        "POB_TOTAL": 179949,
+        "POB_OBJ": 145516,
+        "POR_DOSIS1": 0.59023062756
+      }
+    }
+  ]
+}

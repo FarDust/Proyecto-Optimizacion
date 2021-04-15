@@ -1,3 +1,18 @@
+# Binaries ignore
+## Ignore all ##
+*
+
+## Unignore all with extensions ##
+!*.*
+
+## Unignore all dirs ##
+!*/
+
+# ignore enunciados in root
+*.pdf
+!*/*.pdf
+
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,linux,venv,dotenv,macos,windows,vscode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,linux,venv,dotenv,macos,windows,vscode
