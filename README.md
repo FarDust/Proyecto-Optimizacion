@@ -16,4 +16,4 @@ _ICS1113 2021-1_
 
 ## Entrega 1
 
-> Ver detalles [aquí](https://github.com/FarDust/Proyecto-Optimizacion/tree/main/entrega1)
+> Ver detalles [aquí](https://github.com/FarDust/Proyecto-Optimizacion/tree/main/docs/entrega1)
