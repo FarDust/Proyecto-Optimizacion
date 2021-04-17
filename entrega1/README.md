@@ -1,4 +1,14 @@
-# Jupyter Notebook - Proyecto de optimización
+# Entrega 1
+
+## Informe
+
+Disponible en `E1.pdf`.
+
+En este informe se realiza una descripción del problema a tratar. Para ello se incluye su contexto, impacto y modelación.
+
+## Jupiter Notebook
+
+Disponible en `E1.ipynb`.
 
 Este `ipynb` realiza el análisis de datos correspondiente a la entrega 1 del proyecto.
 
