@@ -11,6 +11,8 @@
 # ignore enunciados in root
 *.pdf
 !*/*.pdf
+!*/*/*.pdf
+!*/*/*/*.pdf
 
 
 
