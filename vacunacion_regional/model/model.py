@@ -14,6 +14,8 @@ seed(10)
 def get_model():
     m = Model("vacunacion-regional")
 
+    m.params.NonConvex = 2
+
     # add variables
     # var_name = m.addVars( *iterators, vtype=GRB.BINARY, name="<var_name>")
     x = m.addVars(N, C, D, vtype=GRB.BINARY,      name="x")     # toma valor 1 si el camion n se encuentra en la comuna c en el dia d
@@ -46,5 +48,7 @@ if __name__ == "__main__":
     m = get_model()
 
     m.optimize()
-
+    
     m.printAttr("X")
+
+    m.printStats()

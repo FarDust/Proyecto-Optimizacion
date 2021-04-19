@@ -6,9 +6,9 @@ seed(10)
 
 
 # SETS
-N = range(10)                                             # Camiones disponibles
-C = range(303)                                            # Comunas
-D = range(30)                                             # Días
+N = range(3)                                            # Camiones disponibles
+C = range(30)                                            # Comunas
+D = range(10)                                            # Días
 
 # PARAMS
 F     = 100000000                                          # Fondos disponibles
