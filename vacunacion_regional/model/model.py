@@ -10,6 +10,7 @@ __all__ = ["get_model"]
 
 seed(10)
 
+M = 10e6
 
 def get_model():
     m = Model("vacunacion-regional")
@@ -32,9 +33,10 @@ def get_model():
     m.addConstrs((quicksum(x[n, c, d] for c in C) <= 1 for n in N for d in D),                                  name="R3")
     m.addConstr(quicksum(p[c, d] for d in D for c in C) <= V_t,                                                 name="R4")
     m.addConstrs((quicksum(p[c, d] for d in D) <= ha[c] - p_v[c] for c in C),                                   name="R5")
-    m.addConstrs((p[c, d] <= quicksum(x[n, c, d] * h[n, d] for n in N) for c in C for d in D),                  name="R6")
-    m.addConstrs((p[c, d] <= v for c in C for d in D),                                                          name="R7")
-    m.addConstrs((ha[c] * y[c, d] == p_v[c] + quicksum(p[c, rho] for rho in range(d)) for c in C for d in D),   name="R8")
+    m.addConstrs((p[c, d] <= quicksum(h[n, d] for n in N) for c in C for d in D),                               name="R6")
+    m.addConstrs((p[c, d] <= M * quicksum(x[n, c, d] for n in N) for c in C for d in D),                    name="R7")
+    m.addConstrs((p[c, d] <= v for c in C for d in D),                                                          name="R8")
+    m.addConstrs((ha[c] * y[c, d] == p_v[c] + quicksum(p[c, rho] for rho in range(d)) for c in C for d in D),   name="R9")
 
 
     # define objective function
