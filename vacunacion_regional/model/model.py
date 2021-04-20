@@ -15,7 +15,7 @@ M = 10e6
 def get_model():
     m = Model("vacunacion-regional")
 
-    m.params.NonConvex = 2
+    #m.params.NonConvex = 2
 
     # add variables
     # var_name = m.addVars( *iterators, vtype=GRB.BINARY, name="<var_name>")
@@ -40,7 +40,8 @@ def get_model():
 
 
     # define objective function
-    obj = quicksum(p[c, d] * (1 - y[c, d]) for c in C for d in D)
+    #obj = quicksum(p[c, d] * (1 - y[c, d]) for c in C for d in D)              # versión no lineal
+    obj = quicksum(p[c, d] * (1 - (p_v[c] / ha[c])) for c in C for d in D)               # versión lineal
     m.setObjective(obj, GRB.MAXIMIZE)
 
     return m
