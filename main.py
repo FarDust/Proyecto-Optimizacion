@@ -1,1 +1,3 @@
-from vacunacion_regional.entrypoints import cli
+from vacunacion_regional.entrypoints.cli import cli_entrypoint
+
+cli_entrypoint()

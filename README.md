@@ -13,6 +13,7 @@ _ICS1113 2021-1_
 
 ## Instrucciones de instalación
 
+`python .\main.py .\data\vaccines.json`
 
 ## Entrega 1
 
