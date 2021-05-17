@@ -1,21 +1,31 @@
-#from vaccines import data                      # Para probar el modelo con datos reales
-from random import randint, seed                # Para probar el modelo con datos random
-
+# from vaccines import data
+# Para probar el modelo con datos reales
+# Para probar el modelo con datos random
+from random import randint, seed
 
 seed(10)
 
 
 # SETS
-N = range(5)                                             # Camiones disponibles
-C = range(29)                                            # Comunas
-D = range(20)                                            # Días
+camiones = range(5)  # Camiones disponibles
+comunas = range(29)  # Comunas
+dias = range(20)  # Días
 
 # PARAMS
-F     = 100000000                                          # Fondos disponibles
-c_v   = 50                                                 # Costo variable de utilizar un camión
-c_vn  = 10                                                 # Costo variable de no utilizar un camión
-v     = 1000                                               # Capacidad de vacunación por día centro móvil
-ha    = {c: randint(10000, 500000) for c in C}             # Habitantes objetivo comuna c
-p_v   = {c: randint(1000, ha[c]) for c in C}               # Habitantes vacunados comuna c
-H_max = 10000                                              # Capacidad de vacunas en camión
-V_t   = 10000000                                           # Vacunas disponibles
+fondos = 100000000  # Fondos disponibles
+# Costo variable de utilizar un camión
+costo_usar = 50
+# Costo variable de no utilizar un camión
+costo_no_usar = 4
+# Capacidad de vacunación por día centro móvil
+vacunacion_dia = 1000
+poblacion_objetivo = {
+    comuna: randint(10000, 500000) for comuna in comunas
+}  # Habitantes objetivo comuna comuna
+# Habitantes vacunados comuna comuna
+poblacion_vacunada = {
+    comuna: randint(1000, poblacion_objetivo[comuna]) for comuna in comunas
+}
+# Capacidad de vacunas en camión
+capacidad_max = 10000
+vacunas_disponibles = 10000000  # Vacunas disponibles

@@ -1,10 +1,8 @@
 from random import seed
 
-from gurobipy import quicksum
-from gurobipy import Model, GRB
+from gurobipy import GRB, Model, quicksum
 
-#from vacunacion_regional.model.parameters import *
-from parameters import *
+import vacunacion_regional.model.parameters as pm
 
 __all__ = ["get_model"]
 
@@ -12,46 +10,149 @@ seed(10)
 
 M = 10e6
 
-def get_model():
-    m = Model("vacunacion-regional")
 
-    #m.params.NonConvex = 2
+def get_model():
+    model = Model("vacunacion-regional")
+
+    # model.params.NonConvex = 2
 
     # add variables
-    # var_name = m.addVars( *iterators, vtype=GRB.BINARY, name="<var_name>")
-    x = m.addVars(N, C, D, vtype=GRB.BINARY,      name="x")     # toma valor 1 si el camion n se encuentra en la comuna c en el dia d
-    h = m.addVars(N, D,    vtype=GRB.INTEGER,     name="h")     # numero de vacunas en el cami ́on n en el dia d
-    p = m.addVars(C, D,    vtype=GRB.INTEGER,     name="p")     # numero de personas que se vacunaron en la comuna c en el dia d
-    y = m.addVars(C, D,    vtype=GRB.CONTINUOUS,  name="y")     # porcentaje de personas vacunadas en la comuna c hasta el dia d
+    # var_name = model.addVars(*iterators, vtype=GRB.BINARY, name="<var_name>")
+    # toma valor 1 si el camion n se encuentra en la comuna c en el dia d
+    # X
+    camion_en_comuna = model.addVars(
+        pm.camiones, pm.comunas, pm.dias, vtype=GRB.BINARY,
+        name="camion_en_comuna"
+    )
+    # numero de vacunas en el camión n en el dia d
+    vacunas_camion_dia = model.addVars(
+        pm.camiones, pm.dias, vtype=GRB.INTEGER,
+        name="vacunas_camion_dia"
+    )
+    # numero de personas que se vacunaron en la comuna c en el dia d
+    personas_vacunadas_comuna_dia = model.addVars(
+        pm.comunas, pm.dias, vtype=GRB.INTEGER,
+        name="personas_vacunadas_comuna_dia"
+    )
+    # porcentaje de personas vacunadas en la comuna c hasta el dia d
+    porcentajes_comuna_dia = model.addVars(
+        pm.comunas, pm.dias, vtype=GRB.CONTINUOUS,
+        name="porcentajes_comuna_dia"
+    )
 
-    m.update()
+    model.update()
 
     # add restrictions
-    #  m.addConstrs( generator, name="awesome_name")
-    m.addConstrs((quicksum(x[n, c, d] * c_v + (1 - x[n, c, d]) * c_vn for c in C for n in N) <= F for d in D),  name="R1")
-    m.addConstrs((h[n, d] <= H_max for n in N for d in D),                                                      name="R2")
-    m.addConstrs((quicksum(x[n, c, d] for c in C) <= 1 for n in N for d in D),                                  name="R3")
-    m.addConstr(quicksum(p[c, d] for d in D for c in C) <= V_t,                                                 name="R4")
-    m.addConstrs((quicksum(p[c, d] for d in D) <= ha[c] - p_v[c] for c in C),                                   name="R5")
-    m.addConstrs((p[c, d] <= quicksum(h[n, d] for n in N) for c in C for d in D),                               name="R6")
-    m.addConstrs((p[c, d] <= M * quicksum(x[n, c, d] for n in N) for c in C for d in D),                    name="R7")
-    m.addConstrs((p[c, d] <= v for c in C for d in D),                                                          name="R8")
-    m.addConstrs((ha[c] * y[c, d] == p_v[c] + quicksum(p[c, rho] for rho in range(d)) for c in C for d in D),   name="R9")
-
+    #  model.addConstrs( generator, name="awesome_name")
+    model.addConstrs(
+        (
+            quicksum(
+                camion_en_comuna[n, c, d] * pm.costo_usar
+                + (1 - camion_en_comuna[n, c, d]) * pm.costo_no_usar
+                for c in pm.comunas
+                for n in pm.camiones
+            )
+            <= pm.fondos
+            for d in pm.dias
+        ),
+        name="R1",
+    )
+    model.addConstrs(
+        (
+            vacunas_camion_dia[n, d] <= pm.capacidad_max
+            for n in pm.camiones
+            for d in pm.dias
+        ),
+        name="R2",
+    )
+    model.addConstrs(
+        (
+            quicksum(camion_en_comuna[n, c, d] for c in pm.comunas) <= 1
+            for n in pm.camiones
+            for d in pm.dias
+        ),
+        name="R3",
+    )
+    model.addConstr(
+        quicksum(
+            personas_vacunadas_comuna_dia[c, d] for d in pm.dias
+            for c in pm.comunas
+        )
+        <= pm.vacunas_disponibles,
+        name="R4",
+    )
+    model.addConstrs(
+        (
+            quicksum(personas_vacunadas_comuna_dia[c, d] for d in pm.dias)
+            <= pm.poblacion_objetivo[c] - pm.poblacion_vacunada[c]
+            for c in pm.comunas
+        ),
+        name="R5",
+    )
+    model.addConstrs(
+        (
+            personas_vacunadas_comuna_dia[c, d]
+            <= quicksum(vacunas_camion_dia[n, d] for n in pm.camiones)
+            for c in pm.comunas
+            for d in pm.dias
+        ),
+        name="R6",
+    )
+    model.addConstrs(
+        (
+            personas_vacunadas_comuna_dia[c, d]
+            <= M * quicksum(camion_en_comuna[n, c, d] for n in pm.camiones)
+            for c in pm.comunas
+            for d in pm.dias
+        ),
+        name="R7",
+    )
+    model.addConstrs(
+        (
+            personas_vacunadas_comuna_dia[c, d] <= pm.vacunacion_dia
+            for c in pm.comunas
+            for d in pm.dias
+        ),
+        name="R8",
+    )
+    model.addConstrs(
+        (
+            pm.poblacion_objetivo[c] * porcentajes_comuna_dia[c, d]
+            == pm.poblacion_vacunada[c]
+            + quicksum(
+                personas_vacunadas_comuna_dia[c, rho] for rho in range(d)
+                )
+            for c in pm.comunas
+            for d in pm.dias
+        ),
+        name="R9",
+    )
 
     # define objective function
-    #obj = quicksum(p[c, d] * (1 - y[c, d]) for c in C for d in D)              # versión no lineal
-    obj = quicksum(p[c, d] * (1 - (p_v[c] / ha[c])) for c in C for d in D)               # versión lineal
-    m.setObjective(obj, GRB.MAXIMIZE)
+    # # OPT1: versión no lineal
+    # obj = quicksum(
+    #   p[comuna, dia] * (1 - y[comuna, dia])
+    #   for comuna in comunas
+    #   for dia in dias
+    # )
+    # # OPT2: versión lineal
+    obj = quicksum(
+        personas_vacunadas_comuna_dia[c, d]
+        * (1 - (pm.poblacion_vacunada[c] / pm.poblacion_objetivo[c]))
+        for c in pm.comunas
+        for d in pm.dias
+    )
 
-    return m
+    model.setObjective(obj, GRB.MAXIMIZE)
+
+    return model
 
 
 if __name__ == "__main__":
-    m = get_model()
+    model = get_model()
 
-    m.optimize()
-    
-    m.printAttr("X")
+    model.optimize()
 
-    m.printStats()
+    model.printAttr("X")
+
+    model.printStats()
