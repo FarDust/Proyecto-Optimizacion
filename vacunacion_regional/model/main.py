@@ -1,3 +1,5 @@
+import math
+
 from random import seed
 
 from gurobipy import GRB, Model, quicksum
@@ -166,25 +168,28 @@ def get_model(pm: ParametersConfig):
     )
 
     # R10: Acota el valor del promedio entre los porcentajes de vacunación entre las comunas
-    model.addConstrs(
-        (
-            len(pm.comunas) * promedio_vacunacion[dia]
-            == quicksum(porcentajes_comuna_dia[comuna, dia] for comuna in pm.comunas)
-            for dia in pm.dias
-        ),
-        name="R10",
-    )
+    ##model.addConstrs(
+    ##    (
+    ##        len(pm.comunas) * promedio_vacunacion[dia]
+    ##        == quicksum(porcentajes_comuna_dia[comuna, dia] for comuna in pm.comunas)
+    ##        for dia in pm.dias
+    ##    ),
+    ##    name="R10",
+    ##)
 
-    # R11: En un día, una comuna no puede sobrepasar el promedio de vacunación (tal vez el dia siguiente)
+    # R11: Si el día d una comuna c no pertenece al 10% de comunas con menos porcentaje de vacunación,
+    #      entonces no deben llegar camiones a vacunar en ella.
+    percentile = 10 # Percentil de comunas a las que pueden llegar camiones
     model.addConstrs(
         (
-            porcentajes_comuna_dia[comuna, dia] <= promedio_vacunacion[dia]
-            for comuna in pm.comunas
+            quicksum(camion_en_comuna(camion) for camion in pm.camiones) <= 0
+            for comuna in sorted(porcentajes_comuna_dia[comuna, dia] for comuna in pm.comunas)[int(math.ceil((len(pm.comunas) * percentile) / 100)) - 1, len(pm.comunas)]
             for dia in pm.dias
         ),
         name="R11",
     )
 
+    # R12: Los porcentajes no deben superar el 100%
     model.addConstrs(
         (
             porcentajes_comuna_dia[comuna, dia] <= 1
