@@ -8,20 +8,21 @@ __all__ = ['ParametersConfig']
 
 seed(10)
 
+ESTIMATED_MAX_VACCINATION_RATE_PER_COMUNA = 1200
 
 # SETS
 camiones = tuple(range(5))  # Camiones disponibles
 comunas = tuple(range(29))  # Comunas
-dias = tuple(range(20))  # Días
+dias = tuple(range(35))  # Días
 
 # PARAMS
-fondos = 100000000  # Fondos disponibles
+fondos = 1e6  # Fondos disponibles
 # Costo variable de utilizar un camión
-costo_usar = 50
+costo_usar = 5e4
 # Costo variable de no utilizar un camión
-costo_no_usar = 4
+costo_no_usar = 4e3
 # Capacidad de vacunación por día centro móvil
-vacunacion_dia = 1000
+vacunacion_dia = ESTIMATED_MAX_VACCINATION_RATE_PER_COMUNA // len(camiones)
 poblacion_objetivo = tuple([
     randint(100, 5000) for comuna in comunas
   ])  # Habitantes objetivo comuna comuna
@@ -30,8 +31,8 @@ poblacion_vacunada = tuple([
     randint(100, poblacion_objetivo[comuna]) for comuna in comunas
 ])
 # Capacidad de vacunas en camión
-capacidad_max = 10000
-vacunas_disponibles = 10000000  # Vacunas disponibles
+capacidad_max = 1e3
+vacunas_disponibles = 5e5  # Vacunas disponibles
 
 
 @dataclass

@@ -85,8 +85,6 @@ def get_params(data: DataFrame, region=None):
             ]['P_VACUNADOS'])
         poblacion_vacunada.append(poblacion_objetivo_comuna)
 
-    print( data[ data['P_VACUNADOS'] > data['POB_OBJ'] ] )
-
     data_parameters.update({"comunas": comunas})
     data_parameters.update({"poblacion_objetivo": tuple(poblacion_objetivo)})
     data_parameters.update({"poblacion_vacunada": tuple(poblacion_vacunada)})
