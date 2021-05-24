@@ -18,8 +18,8 @@ _ICS1113 2021-1_
 
 ## Instrucciones de ejecución
 
-> on windows: `$ python ./main.py ./data/vaccines.json`
-> on linux or macos: `$ python3 ./main.py ./data/vaccines.json`
+> on windows: `$ python ./main.py ./data/vaccines.json --save`
+> on linux or macos: `$ python3 ./main.py ./data/vaccines.json --save`
 
 ## Entrega 1
 

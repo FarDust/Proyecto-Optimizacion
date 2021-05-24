@@ -1,5 +1,6 @@
 # python >= 3.9.4
 pandas
+seaborn
 click==8.0.1
 halo==0.0.31
 spinners==0.0.24
