@@ -7,15 +7,15 @@ seed(10)
 
 ESTIMATED_MAX_VACCINATION_RATE_PER_TRUCK = 200
 
-## SETS
+# SETS
 # N: camiones disponibles
 camiones = tuple(range(6))
 # C: comunas
 comunas = tuple(range(29))
 # D: días
-dias = tuple(range(5))
+dias = tuple(range(50))
 
-## PARAMS
+# PARAMS
 # F: fondos disponibles
 fondos = 1e6
 # co_si: costo de utilizar un camión un día
@@ -41,7 +41,7 @@ vacunas_disponibles = 5e5
 
 @dataclass
 class ParametersConfig():
-    ## SETS
+    # SETS
     # N: camiones disponibles
     camiones: tuple = camiones
     # C: comunas
@@ -49,7 +49,7 @@ class ParametersConfig():
     # D: días
     dias: tuple = dias
 
-    ## PARAMS
+    # PARAMS
     # F: fondos disponibles
     fondos: int = fondos
     # co_si: costo de utilizar un camión un día
@@ -65,5 +65,4 @@ class ParametersConfig():
     # H_max: capacidad de vacunas en camión
     capacidad_max: int = capacidad_max
     # V: vacunas disponibles
-    vacunas_disponibles: int = vacunas_disponibles 
-
+    vacunas_disponibles: int = vacunas_disponibles
