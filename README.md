@@ -13,7 +13,13 @@ _ICS1113 2021-1_
 
 ## Instrucciones de instalación
 
-`python .\main.py .\data\vaccines.json`
+- Windows `$ pip install -r "requirements.txt"`
+- Linux or Mac `$ pip3 install -r "requirements.txt"`
+
+## Instrucciones de ejecución
+
+> on windows: `$ python ./main.py ./data/vaccines.json`
+> on linux or macos: `$ python3 ./main.py ./data/vaccines.json`
 
 ## Entrega 1
 

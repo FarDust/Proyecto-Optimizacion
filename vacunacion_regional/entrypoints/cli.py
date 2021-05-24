@@ -7,6 +7,7 @@ from vacunacion_regional.data_management.vaccines import process_data_from_file,
 from vacunacion_regional.model.main import get_model
 from vacunacion_regional.model.parameters import ParametersConfig
 
+
 @command()
 @argument("source_path", required=True)
 def cli_entrypoint(source_path):
@@ -17,8 +18,10 @@ def cli_entrypoint(source_path):
     config = ParametersConfig(**params)
     dump(config.__dict__, open('params.json', 'w'))
     model = get_model(config)
-    with Halo(text='Optimizing', spinner=Spinners.dots.value):
+    with Halo(text='Optimizing\n', spinner=Spinners.dots.value) as spinner:
         model.optimize()
-    with Halo(text='Showing variables', spinner=Spinners.dots.value):
+        spinner.succeed('Optimized\n')
+    with Halo(text='Showing variables\n', spinner=Spinners.dots.value) as spinner:
         model.printAttr("X")
+        spinner.succeed('Printted all variables\n')
     model.printStats()

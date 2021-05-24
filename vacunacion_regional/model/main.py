@@ -1,5 +1,3 @@
-import math
-
 from random import seed
 
 from gurobipy import GRB, Model, quicksum
@@ -16,12 +14,8 @@ M = 1e12
 def get_model(pm: ParametersConfig):
     model = Model("vacunacion-regional")
 
-    # model.params.NonConvex = 2
-
-    # add variables
-    # var_name = model.addVars(*iterators, vtype=GRB.BINARY, name="<var_name>")
-    # toma valor 1 si el camion camion se encuentra
-    # en la comuna comuna en el dia dia
+    ## VARIABLES
+    ##  var_name = model.addVars(*iterators, vtype=GRB.BINARY, name="<var_name>")
 
     # X_ncd: toma valor 1 si el camion n se encuentra en la comuna c en el día d.
     camion_en_comuna = model.addVars(
@@ -31,35 +25,52 @@ def get_model(pm: ParametersConfig):
         vtype=GRB.BINARY,
         name="camion_n_en_comuna_c_dia_d",
     )
+
     # H_ncd: numero de vacunas en el camión camion en la comuna c en el dia d
     vacunas_camion_dia = model.addVars(
-        pm.camiones, pm.comunas, pm.dias, vtype=GRB.INTEGER, name="vacunas_camion_dia"
-    )
-    # P_cd: numero de personas que se vacunaron en la comuna comuna en el dia dia
-    personas_vacunadas_comuna_dia = model.addVars(
-        pm.comunas, pm.dias, vtype=GRB.INTEGER, name="personas_vacunadas_comuna_dia"
-    )
-    # Y_cd: porcentaje de personas vacunadas en la comuna c hasta el dia d
-    porcentajes_comuna_dia = model.addVars(
-        pm.comunas, pm.dias, vtype=GRB.CONTINUOUS, name="porcentajes_comuna_dia"
+        pm.camiones, pm.comunas, pm.dias, vtype=GRB.INTEGER,
+        name="vacunas_camion_dia"
     )
 
-    # W_d: porcentaje promedio de personas vacunas entre todas las comunas el día d
+    # P_cd: numero de personas que se vacunaron en la comuna comuna en el dia dia
+    personas_vacunadas_comuna_dia = model.addVars(
+        pm.comunas, pm.dias, vtype=GRB.INTEGER,
+        name="personas_vacunadas_comuna_dia"
+    )
+
+    # Y_cd: porcentaje de personas vacunadas en la comuna c hasta el dia d
+    porcentajes_comuna_dia = model.addVars(
+        pm.comunas, pm.dias, vtype=GRB.CONTINUOUS,
+        name="porcentajes_comuna_dia"
+    )
+
+    # W_d: porcentaje promedio de personas vacunas
+    # entre todas las comunas el día d
     promedio_vacunacion = model.addVars(
         pm.dias, vtype=GRB.CONTINUOUS, name="promedio_vacunacion_dia"
     )
 
+    # Q_cd: toma valor 1 si el porcentaje de vacunados en la comuna c, en el día d
+    # es menor a una cota, 0 en otro caso.
+    comuna_critica = model.addVars(
+        pm.comunas,
+        pm.dias, vtype=GRB.BINARY, name="comuna_critica"
+    )
+
     model.update()
 
-    # add restrictions
-    #  model.addConstrs( generator, name="awesome_name")
+
+
+    ## RESTRICCIONES
+    ## model.addConstrs( generator, name="awesome_name")
 
     # R1: No se sobrepasa el presupuesto
     model.addConstrs(
         (
             quicksum(
                 camion_en_comuna[camion, comuna, dia] * pm.costo_usar
-                + (1 - camion_en_comuna[camion, comuna, dia]) * pm.costo_no_usar
+                + (1 - camion_en_comuna[camion,
+                   comuna, dia]) * pm.costo_no_usar
                 for comuna in pm.comunas
                 for camion in pm.camiones
             )
@@ -83,7 +94,8 @@ def get_model(pm: ParametersConfig):
     # R3: Asignar un camión a una sola comuna y no a mas, en un mismo día
     model.addConstrs(
         (
-            quicksum(camion_en_comuna[camion, comuna, dia] for comuna in pm.comunas)
+            quicksum(camion_en_comuna[camion, comuna, dia]
+                     for comuna in pm.comunas)
             <= 1
             for camion in pm.camiones
             for dia in pm.dias
@@ -102,18 +114,20 @@ def get_model(pm: ParametersConfig):
         name="R4",
     )
 
-    # R5: En una comuna no se pueden vacunar más personas que el número de habitantes no vacunados
+    # R5: En una comuna no se pueden vacunar más personas que el número de
+    #     habitantes no vacunados
     model.addConstrs(
         (
-            quicksum(personas_vacunadas_comuna_dia[comuna, dia] for dia in pm.dias)
+            quicksum(
+                personas_vacunadas_comuna_dia[comuna, dia] for dia in pm.dias)
             <= (pm.poblacion_objetivo[comuna] - pm.poblacion_vacunada[comuna])
             for comuna in pm.comunas
         ),
         name="R5",
     )
 
-    # R6: Si un camión no se encuentra en una comuna, la cantidad de vacunas de ese camión en la comuna
-    #     debe ser igual a cero.
+    # R6: Si un camión no se encuentra en una comuna, la cantidad de vacunas
+    #     de ese camión en la comuna debe ser igual a cero.
     model.addConstrs(
         (
             M * camion_en_comuna[camion, comuna, dia]
@@ -125,13 +139,15 @@ def get_model(pm: ParametersConfig):
         name="R6",
     )
 
-    # R7: En una comuna en un cierto día, no se pueden vacunar más personas que el número de vacunas en
-    #     los camiones que se encuentran actualmente en la comuna.
+    # R7: En una comuna en un cierto día, no se pueden vacunar más personas
+    #     que el número de vacunas en los camiones que se encuentran
+    #     actualmente en la comuna.
     model.addConstrs(
         (
             personas_vacunadas_comuna_dia[comuna, dia]
             <= quicksum(
-                vacunas_camion_dia[camion, comuna, dia] for camion in pm.camiones
+                vacunas_camion_dia[camion, comuna, dia]
+                for camion in pm.camiones
             )
             for comuna in pm.comunas
             for dia in pm.dias
@@ -139,8 +155,8 @@ def get_model(pm: ParametersConfig):
         name="R7",
     )
 
-    # R8: En una comuna en un cierto día, no se pueden vacunar más personas que el límite de vacunación
-    #     diario de los camiones en la comuna.
+    # R8: En una comuna en un cierto día, no se pueden vacunar más personas
+    #     que el límite de vacunación diario de los camiones en la comuna.
     model.addConstrs(
         (
             personas_vacunadas_comuna_dia[comuna, dia]
@@ -154,39 +170,34 @@ def get_model(pm: ParametersConfig):
         name="R8",
     )
 
-    # R9: El porcentaje de personas vacunadas un cierto día depende del número de
-    #     personas que han vacunado los camiones
+    # R9: El porcentaje de personas vacunadas un cierto día depende del número
+    #     de personas que han vacunado los camiones
     model.addConstrs(
         (
-            pm.poblacion_objetivo[comuna] * porcentajes_comuna_dia[comuna, dia]
-            == pm.poblacion_vacunada[comuna]
-            + quicksum(personas_vacunadas_comuna_dia[comuna, rho] for rho in range(dia))
+            (pm.poblacion_objetivo[comuna] * porcentajes_comuna_dia[comuna, dia])
+            == pm.poblacion_vacunada[comuna] + quicksum(
+                personas_vacunadas_comuna_dia[comuna, rho]
+                for rho in range(dia)
+                )
             for comuna in pm.comunas
             for dia in pm.dias
         ),
         name="R9",
     )
 
-    # R10: Acota el valor del promedio entre los porcentajes de vacunación entre las comunas
-    ##model.addConstrs(
-    ##    (
-    ##        len(pm.comunas) * promedio_vacunacion[dia]
-    ##        == quicksum(porcentajes_comuna_dia[comuna, dia] for comuna in pm.comunas)
-    ##        for dia in pm.dias
-    ##    ),
-    ##    name="R10",
-    ##)
-
-    # R11: Si el día d una comuna c no pertenece al 10% de comunas con menos porcentaje de vacunación,
-    #      entonces no deben llegar camiones a vacunar en ella.
-    percentile = 10 # Percentil de comunas a las que pueden llegar camiones
+    # R10: Si el día d una comuna c no pertenece al 10% de comunas con menos
+    #      porcentaje de vacunación, entonces no deben llegar
+    #      camiones a vacunar en ella.
     model.addConstrs(
         (
-            quicksum(camion_en_comuna(camion) for camion in pm.camiones) <= 0
-            for comuna in sorted(porcentajes_comuna_dia[comuna, dia] for comuna in pm.comunas)[int(math.ceil((len(pm.comunas) * percentile) / 100)) - 1, len(pm.comunas)]
+            quicksum(
+                camion_en_comuna[camion, comuna, dia]
+                for camion in pm.camiones
+            ) <= M * comuna_critica[comuna, dia]
+            for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R11",
+        name="R10",
     )
 
     # R12: Los porcentajes no deben superar el 100%
@@ -199,8 +210,43 @@ def get_model(pm: ParametersConfig):
         name="R12",
     )
 
+    # R13: Acota el valor del promedio entre los porcentajes de vacunación entre las comunas
+    model.addConstrs(
+        (
+            len(pm.comunas) * promedio_vacunacion[dia]
+            == quicksum(porcentajes_comuna_dia[comuna, dia] for comuna in pm.comunas)
+            for dia in pm.dias
+        ),
+        name="R13",
+    )
+
+    # RQ1
+    model.addConstrs(
+        (
+            porcentajes_comuna_dia[comuna, dia] - promedio_vacunacion[dia] <=
+            M*(1 - comuna_critica[comuna, dia])
+            for comuna in pm.comunas
+            for dia in pm.dias
+        ),
+        name="RQ1",
+    )
+
+    # RQ2
+    model.addConstrs(
+        (
+            promedio_vacunacion[dia] <= 
+            porcentajes_comuna_dia[comuna, dia] + 
+            (M * comuna_critica[comuna, dia])
+            for comuna in pm.comunas
+            for dia in pm.dias
+        ),
+        name="RQ2",
+    )
+
+
     obj = quicksum(
-        personas_vacunadas_comuna_dia[comuna, dia] * (1 - pm.poblacion_vacunada[comuna] / pm.poblacion_objetivo[comuna])
+        personas_vacunadas_comuna_dia[comuna, dia] * (
+            1 - pm.poblacion_vacunada[comuna] / pm.poblacion_objetivo[comuna])
         for comuna in pm.comunas
         for dia in pm.dias
     )
