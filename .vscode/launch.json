@@ -9,7 +9,7 @@
       "type": "python",
       "request": "launch",
       "program": "${workspaceFolder}/main.py",
-      "args": ["./data/vaccines.json"],
+      "args": ["./data/vaccines.json", "--save"],
       "console": "integratedTerminal"
     }
   ]
