@@ -17,11 +17,11 @@ dias = tuple(range(50))
 
 # PARAMS
 # F: fondos disponibles
-fondos = 1e6
-# co_si: costo de utilizar un camión un día
-costo_usar = 5e4
-# co_no: costo de no utilizar un camión un día
-costo_no_usar = 4e3
+# fondos = 1e6
+# # co_si: costo de utilizar un camión un día
+# costo_usar = 5e4
+# # co_no: costo de no utilizar un camión un día
+# costo_no_usar = 4e3
 
 # ho_c: habitantes objetivo comuna c
 poblacion_objetivo = tuple([
@@ -51,11 +51,11 @@ class ParametersConfig():
 
     # PARAMS
     # F: fondos disponibles
-    fondos: int = fondos
+    #fondos: int = fondos
     # co_si: costo de utilizar un camión un día
-    costo_usar: int = costo_usar
+    #costo_usar: int = costo_usar
     # co_no: costo de no utilizar un camión un día
-    costo_no_usar: int = costo_no_usar
+    #costo_no_usar: int = costo_no_usar
     # ho_c: habitantes objetivo comuna c
     poblacion_objetivo: tuple = poblacion_objetivo
     # hv_c: habitantes vacunados comuna c

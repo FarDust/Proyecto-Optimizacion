@@ -63,20 +63,20 @@ def get_model(pm: ParametersConfig):
     # RESTRICCIONES
 
     # R1: No se sobrepasa el presupuesto
-    model.addConstrs(
-        (
-            quicksum(
-                camion_en_comuna[camion, comuna, dia] * pm.costo_usar
-                + (1 - camion_en_comuna[camion,
-                   comuna, dia]) * pm.costo_no_usar
-                for comuna in pm.comunas
-                for camion in pm.camiones
-            )
-            <= pm.fondos
-            for dia in pm.dias
-        ),
-        name="R1",
-    )
+    # model.addConstrs(
+    #     (
+    #         quicksum(
+    #             camion_en_comuna[camion, comuna, dia] * pm.costo_usar
+    #             + (1 - camion_en_comuna[camion,
+    #                comuna, dia]) * pm.costo_no_usar
+    #             for comuna in pm.comunas
+    #             for camion in pm.camiones
+    #         )
+    #         <= pm.fondos
+    #         for dia in pm.dias
+    #     ),
+    #     name="R1",
+    # )
 
     # R2: Camión no lleva más vacunas que su capacidad máxima
     model.addConstrs(
@@ -86,7 +86,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R2",
+        name="R1",
     )
 
     # R3: Asignar un camión a una sola comuna y no a mas, en un mismo día
@@ -98,7 +98,7 @@ def get_model(pm: ParametersConfig):
             for camion in pm.camiones
             for dia in pm.dias
         ),
-        name="R3",
+        name="R2",
     )
 
     # R4:  No se pueden utilizar más vacunas de las disponibles
@@ -109,7 +109,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
         )
         <= pm.vacunas_disponibles,
-        name="R4",
+        name="R3",
     )
 
     # R5: En una comuna no se pueden vacunar más personas que el número de
@@ -121,7 +121,7 @@ def get_model(pm: ParametersConfig):
             <= (pm.poblacion_objetivo[comuna] - pm.poblacion_vacunada[comuna])
             for comuna in pm.comunas
         ),
-        name="R5",
+        name="R4",
     )
 
     # R6: Si un camión no se encuentra en una comuna, la cantidad de vacunas
@@ -134,7 +134,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R6",
+        name="R5",
     )
 
     # R7: En una comuna en un cierto día, no se pueden vacunar más personas
@@ -150,7 +150,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R7",
+        name="R6",
     )
 
     # R8: En una comuna en un cierto día, no se pueden vacunar más personas
@@ -165,7 +165,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R8",
+        name="R7",
     )
 
     # R9: El porcentaje de personas vacunadas un cierto día depende del número
@@ -183,7 +183,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R9",
+        name="R8",
     )
 
     # R10: Si el día d una comuna c tiene un porcentaje de vacunación
@@ -198,7 +198,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R10",
+        name="R9",
     )
 
     # R11: Si la comuna es critica entonces
@@ -210,7 +210,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R11",
+        name="R10",
     )
 
     # R12: Si el porcentaje de vacunación en una comuna c un día d es mayor
@@ -223,7 +223,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R12",
+        name="R11",
     )
 
     # R13: Si el porcentaje de vacunación en una comuna c un día d es menor
@@ -237,7 +237,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R13",
+        name="R12",
     )
 
     # R14: Los porcentajes no deben superar el 100%
@@ -247,7 +247,7 @@ def get_model(pm: ParametersConfig):
             for comuna in pm.comunas
             for dia in pm.dias
         ),
-        name="R14",
+        name="R13",
     )
 
     # R15: Acota el valor del promedio entre los porcentajes
@@ -261,7 +261,7 @@ def get_model(pm: ParametersConfig):
                 )
             for dia in pm.dias
         ),
-        name="R15",
+        name="R14",
     )
 
     # FUNCIÓN OBJETIVO
