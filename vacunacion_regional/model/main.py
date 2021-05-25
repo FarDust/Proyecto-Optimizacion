@@ -266,8 +266,7 @@ def get_model(pm: ParametersConfig):
 
     # FUNCIÓN OBJETIVO
     obj = quicksum(
-        personas_vacunadas_comuna_dia[comuna, dia] * (
-            1 - pm.poblacion_vacunada[comuna] / pm.poblacion_objetivo[comuna])
+        personas_vacunadas_comuna_dia[comuna, dia]
         for comuna in pm.comunas
         for dia in pm.dias
     )

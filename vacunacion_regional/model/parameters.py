@@ -13,7 +13,7 @@ camiones = tuple(range(6))
 # C: comunas
 comunas = tuple(range(29))
 # D: días
-dias = tuple(range(50))
+dias = tuple(range(100))
 
 # PARAMS
 # F: fondos disponibles
@@ -32,7 +32,7 @@ poblacion_vacunada = tuple([
     randint(100, poblacion_objetivo[comuna]) for comuna in comunas
 ])
 # v: capacidad de vacunación por día de un centro móvil
-vacunacion_dia = ESTIMATED_MAX_VACCINATION_RATE_PER_TRUCK
+vacunacion_dia = ESTIMATED_MAX_VACCINATION_RATE_PER_TRUCK * 2
 # H_max: capacidad de vacunas en camión
 capacidad_max = 1e3
 # V: vacunas disponibles
