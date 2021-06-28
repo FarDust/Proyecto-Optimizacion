@@ -55,7 +55,7 @@ def process_data_from_file(path: Path):
 
 
 def get_params(data: DataFrame, region=None):
-    data = data[data['REGION'] == "Antofagasta"]
+    data = data[data['REGION'] == "Arica y Parinacota"]
     data_parameters = {
         "mappings": dict()
     }

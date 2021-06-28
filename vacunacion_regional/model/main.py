@@ -62,23 +62,7 @@ def get_model(pm: ParametersConfig):
 
     # RESTRICCIONES
 
-    # R1: No se sobrepasa el presupuesto
-    # model.addConstrs(
-    #     (
-    #         quicksum(
-    #             camion_en_comuna[camion, comuna, dia] * pm.costo_usar
-    #             + (1 - camion_en_comuna[camion,
-    #                comuna, dia]) * pm.costo_no_usar
-    #             for comuna in pm.comunas
-    #             for camion in pm.camiones
-    #         )
-    #         <= pm.fondos
-    #         for dia in pm.dias
-    #     ),
-    #     name="R1",
-    # )
-
-    # R2: Camión no lleva más vacunas que su capacidad máxima
+    # R1: Camión no lleva más vacunas que su capacidad máxima
     model.addConstrs(
         (
             vacunas_camion_dia[camion, comuna, dia] <= pm.capacidad_max
@@ -89,7 +73,7 @@ def get_model(pm: ParametersConfig):
         name="R1",
     )
 
-    # R3: Asignar un camión a una sola comuna y no a mas, en un mismo día
+    # R2: Asignar un camión a una sola comuna y no a mas, en un mismo día
     model.addConstrs(
         (
             quicksum(camion_en_comuna[camion, comuna, dia]
@@ -101,7 +85,7 @@ def get_model(pm: ParametersConfig):
         name="R2",
     )
 
-    # R4:  No se pueden utilizar más vacunas de las disponibles
+    # R3:  No se pueden utilizar más vacunas de las disponibles
     model.addConstr(
         quicksum(
             personas_vacunadas_comuna_dia[comuna, dia]
@@ -112,7 +96,7 @@ def get_model(pm: ParametersConfig):
         name="R3",
     )
 
-    # R5: En una comuna no se pueden vacunar más personas que el número de
+    # R4: En una comuna no se pueden vacunar más personas que el número de
     #     habitantes no vacunados
     model.addConstrs(
         (
@@ -124,7 +108,7 @@ def get_model(pm: ParametersConfig):
         name="R4",
     )
 
-    # R6: Si un camión no se encuentra en una comuna, la cantidad de vacunas
+    # R5: Si un camión no se encuentra en una comuna, la cantidad de vacunas
     #     de ese camión en la comuna debe ser igual a cero.
     model.addConstrs(
         (
@@ -137,7 +121,7 @@ def get_model(pm: ParametersConfig):
         name="R5",
     )
 
-    # R7: En una comuna en un cierto día, no se pueden vacunar más personas
+    # R6: En una comuna en un cierto día, no se pueden vacunar más personas
     #     que el número de vacunas en los camiones que se encuentran
     #     actualmente en la comuna.
     model.addConstrs(
@@ -153,7 +137,7 @@ def get_model(pm: ParametersConfig):
         name="R6",
     )
 
-    # R8: En una comuna en un cierto día, no se pueden vacunar más personas
+    # R7: En una comuna en un cierto día, no se pueden vacunar más personas
     #     que el límite de vacunación diario de los camiones en la comuna.
     model.addConstrs(
         (
@@ -168,7 +152,7 @@ def get_model(pm: ParametersConfig):
         name="R7",
     )
 
-    # R9: El porcentaje de personas vacunadas un cierto día depende del número
+    # R8: El porcentaje de personas vacunadas un cierto día depende del número
     #     de personas que han vacunado los camiones
     model.addConstrs(
         (
@@ -186,7 +170,7 @@ def get_model(pm: ParametersConfig):
         name="R8",
     )
 
-    # R10: Si el día d una comuna c tiene un porcentaje de vacunación
+    # R99: Si el día d una comuna c tiene un porcentaje de vacunación
     #      mayor al porcentaje de vacunación promedio de ese día,
     #      entonces no deben llegar camiones a vacunar en ella.
     model.addConstrs(
@@ -201,7 +185,7 @@ def get_model(pm: ParametersConfig):
         name="R9",
     )
 
-    # R11: Si la comuna es critica entonces
+    # R10: Si la comuna es critica entonces
     # se puede vacunar gente en esa comuna
     model.addConstrs(
         (
@@ -213,9 +197,9 @@ def get_model(pm: ParametersConfig):
         name="R10",
     )
 
-    # R12: Si el porcentaje de vacunación en una comuna c un día d es mayor
-    #      o igual al promedio de vacunación de ese día, entonces la comuna
-    #      no es crítica (Q_cd = 0)
+    # R11: Si el porcentaje de vacunación en una comuna c un día d es mayor
+    #     o igual al promedio de vacunación de ese día, entonces la comuna
+    #     no es crítica (Q_cd = 0)
     model.addConstrs(
         (
             porcentajes_comuna_dia[comuna, dia] - promedio_vacunacion[dia] <=
@@ -226,7 +210,7 @@ def get_model(pm: ParametersConfig):
         name="R11",
     )
 
-    # R13: Si el porcentaje de vacunación en una comuna c un día d es menor
+    # R12: Si el porcentaje de vacunación en una comuna c un día d es menor
     #      al promedio de vacunación de ese día, entonces la comuna es
     #      crítica (Q_cd = 1)
     model.addConstrs(
@@ -240,7 +224,7 @@ def get_model(pm: ParametersConfig):
         name="R12",
     )
 
-    # R14: Los porcentajes no deben superar el 100%
+    # R13: Los porcentajes no deben superar el 100%
     model.addConstrs(
         (
             porcentajes_comuna_dia[comuna, dia] <= 1
@@ -250,7 +234,7 @@ def get_model(pm: ParametersConfig):
         name="R13",
     )
 
-    # R15: Acota el valor del promedio entre los porcentajes
+    # R14: Acota el valor del promedio entre los porcentajes
     # de vacunación entre las comunas
     model.addConstrs(
         (

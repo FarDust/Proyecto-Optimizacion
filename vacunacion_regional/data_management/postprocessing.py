@@ -3,6 +3,7 @@ from typing import Dict, List
 from gurobipy import Model
 
 import pandas as pd
+from pandas.core.frame import DataFrame
 import seaborn as sns
 import matplotlib.pyplot as plt
 
@@ -27,6 +28,7 @@ class NullParser(VariableParser):
         return dict()
 
 
+# porcentajes_comuna_dia
 class PorcentajesComunaDiaParser(VariableParser):
 
     def parse(self, name: str, indexes: List[int], value: float) -> Dict:
@@ -41,6 +43,7 @@ class PorcentajesComunaDiaParser(VariableParser):
             return self.next_parser.parse(name, indexes, value)
 
 
+# promedio_vacunacion_dia
 class PromedioVacunacionDiaParser(VariableParser):
 
     def parse(self, name: str, indexes: List[int], value: float) -> Dict:
@@ -54,6 +57,7 @@ class PromedioVacunacionDiaParser(VariableParser):
             return self.next_parser.parse(name, indexes, value)
 
 
+# personas_vacunadas_comuna_dia
 class PersonasVacunadasComunaDiaParser(VariableParser):
 
     def parse(self, name: str, indexes: List[int], value: float) -> Dict:
@@ -65,16 +69,69 @@ class PersonasVacunadasComunaDiaParser(VariableParser):
                 "value": value
             }
         else:
+            return self.next_parser.parse(name, indexes, value)  
+
+
+# camion_n_en_comuna_c_dia_d
+class CamionComunaDiaParser(VariableParser):
+
+    def parse(self, name: str, indexes: List[int], value: float) -> Dict:
+        if "camion_n_en_comuna_c_dia_d" in name:
+            camion, comuna, dia = indexes
+            return {
+                "camion": int(camion),
+                "dia": int(dia),
+                "comuna": int(comuna),
+                "value": value
+            }
+        else:
+            return self.next_parser.parse(name, indexes, value)   
+
+
+# vacunas_camion_dia
+class VacunasCamionDiaParser(VariableParser):
+
+    def parse(self, name: str, indexes: List[int], value: float) -> Dict:
+        if "vacunas_camion_dia" in name:
+            camion, comuna, dia = indexes
+            return {
+                "camion": int(camion),
+                "comuna": int(comuna),
+                "dia": int(dia),
+                "value": value
+            }
+        else:
+            return self.next_parser.parse(name, indexes, value)   
+
+
+# comuna_critica
+class ComunaCriticaParser(VariableParser):
+
+    def parse(self, name: str, indexes: List[int], value: float) -> Dict:
+        if "comuna_critica" in name:
+            comuna, dia = indexes
+            return {
+                "comuna": int(comuna),
+                "dia": int(dia),
+                "value": value
+            }
+        else:
             return self.next_parser.parse(name, indexes, value)   
 
 
 parsing_chain = PersonasVacunadasComunaDiaParser(
     PromedioVacunacionDiaParser(
         PorcentajesComunaDiaParser(
-            NullParser()
+            CamionComunaDiaParser(
+                VacunasCamionDiaParser(
+                    ComunaCriticaParser(
+                        NullParser()
+                    )
+                )
             )
         )
     )
+)
 
 
 def get_mapped_variables(model: Model):
@@ -128,3 +185,17 @@ def get_porcentajes_vacunacion_target_plot(variables: Dict, mappings: Dict):
     data['comuna'] = data['comuna'].map(mappings['comunas'])
     plot = sns.lineplot(data=data, x="dia", y="value")
     return plot
+
+
+def generate_tables(model: Model, mappings=None, save=False) ->Dict[str, DataFrame]:
+    mapped_variables = get_mapped_variables(model)
+    variables = process_model_variables(mapped_variables)
+    tables = dict()
+    for variable_key in variables.keys():
+        table = pd.json_normalize(variables[variable_key])
+        if mappings is not None and 'comuna' in table.columns:
+            table['comuna'] = table['comuna'].map(mappings['comunas'])
+        if save:
+            table.to_csv(f"{variable_key}.csv")
+        tables[variable_key] = table.copy()
+    return tables
