@@ -1,6 +1,6 @@
 from click.decorators import option
 from vacunacion_regional.data_management.postprocessing import generate_tables
-from vacunacion_regional.entrypoints.api import get_from_data_parameters, save_parameters_as_file
+from vacunacion_regional.entrypoints.api import get_from_data_parameters, save_parameters_as_file, save_plots
 from pathlib import Path
 from click import command, argument
 from halo import Halo
@@ -27,4 +27,5 @@ def cli_entrypoint(source_path: str, output_path, save):
     if save:
         output_path = Path(output_path).absolute()
         model.write(str(output_path))
+        save_plots(model, mappings)
     model.printStats()
