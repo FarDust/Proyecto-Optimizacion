@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from vacunacion_regional.setting import REGION
 import pandas as pd
 from pandas.core.frame import DataFrame
 
@@ -55,7 +56,7 @@ def process_data_from_file(path: Path):
 
 
 def get_params(data: DataFrame, region=None):
-    data = data[data['REGION'] == "Arica y Parinacota"]
+    data = data[data['REGION'] == REGION]
     data_parameters = {
         "mappings": dict()
     }

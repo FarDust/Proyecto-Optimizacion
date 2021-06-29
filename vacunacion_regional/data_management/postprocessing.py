@@ -1,5 +1,7 @@
 from abc import ABC, abstractmethod
+from pathlib import Path
 from typing import Dict, List
+from vacunacion_regional.setting import OUTPUTS_PATH, ROOT_DIR
 from gurobipy import Model
 
 import pandas as pd
@@ -187,7 +189,7 @@ def get_porcentajes_vacunacion_target_plot(variables: Dict, mappings: Dict):
     return plot
 
 
-def generate_tables(model: Model, mappings=None, save=False) ->Dict[str, DataFrame]:
+def generate_tables(model: Model, mappings=None, save=False, experiment=1) ->Dict[str, DataFrame]:
     mapped_variables = get_mapped_variables(model)
     variables = process_model_variables(mapped_variables)
     tables = dict()
@@ -196,6 +198,9 @@ def generate_tables(model: Model, mappings=None, save=False) ->Dict[str, DataFra
         if mappings is not None and 'comuna' in table.columns:
             table['comuna'] = table['comuna'].map(mappings['comunas'])
         if save:
-            table.to_csv(f"{variable_key}.csv")
+            csv_path = Path(OUTPUTS_PATH, 'tables')
+            if not csv_path.exists():
+                csv_path.mkdir()
+            table.to_csv(str(Path(csv_path, f"{variable_key}_{experiment}.csv")))
         tables[variable_key] = table.copy()
     return tables
