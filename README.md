@@ -18,8 +18,15 @@ _ICS1113 2021-1_
 
 ## Instrucciones de ejecución
 
-> on windows: `$ python ./main.py ./data/vaccines.json --save`
-> on linux or macos: `$ python3 ./main.py ./data/vaccines.json --save`
+- on windows: `$ python ./main.py ./data/vaccines.json --save`
+- on linux or macos: `$ python3 ./main.py ./data/vaccines.json --save`
+
+## Archivos de Output
+
+- Graficos: `outputs/plots/`
+- Resultados: `outputs/stats/`
+- Variables: `outputs/tables/`
+- Parametros: `params_<experiment>.json`
 
 ## Entrega 1
 
