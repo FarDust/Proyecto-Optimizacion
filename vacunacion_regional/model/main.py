@@ -170,7 +170,7 @@ def get_model(pm: ParametersConfig):
         name="R8",
     )
 
-    # R99: Si el día d una comuna c tiene un porcentaje de vacunación
+    # R9: Si el día d una comuna c tiene un porcentaje de vacunación
     #      mayor al porcentaje de vacunación promedio de ese día,
     #      entonces no deben llegar camiones a vacunar en ella.
     model.addConstrs(
@@ -250,11 +250,12 @@ def get_model(pm: ParametersConfig):
 
     # FUNCIÓN OBJETIVO
     obj = quicksum(
-        personas_vacunadas_comuna_dia[comuna, dia]
+        0.75 * personas_vacunadas_comuna_dia[comuna, dia]
         for comuna in pm.comunas
         for dia in pm.dias
     )
 
     model.setObjective(obj, GRB.MAXIMIZE)
+    model.setParam('TimeLimit', 20)
 
     return model

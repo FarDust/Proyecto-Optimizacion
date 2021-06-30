@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from random import randint, seed
 import random
 import numpy as np
+from copy import deepcopy
 from numpy.random import uniform
 from typing import Dict, Tuple
 
@@ -113,6 +114,50 @@ class parametersRandomizer(object):
             capacidad_max=max(
                 1, int(self.parameters.capacidad_max * multipliers['capacidad_max'])),
             vacunas_disponibles=max(
-                1, int(self.parameters.capacidad_max * multipliers['vacunas_disponibles']))
+                1, int(self.parameters.vacunas_disponibles * multipliers['vacunas_disponibles']))
         )
+        return new_parameters
+    
+    def generate_new_param(self, parameter_name: str) -> ParametersConfig:
+        multipliers = {
+            'camiones': random.uniform(0, 2),
+            'dias': random.uniform(0.75, 1.15),
+            'poblacion_objetivo': uniform(0.5, 2, len(self.parameters.comunas)),
+            'poblacion_vacunada': uniform(0.5, 2, len(self.parameters.comunas)),
+            'vacunacion_dia': random.uniform(0.5, 2),
+            'capacidad_max': random.uniform(0.5, 2),
+            'vacunas_disponibles': random.uniform(0.5, 2),
+        }
+
+        poblacion_objetivo = np.multiply(np.array(
+            self.parameters.poblacion_objetivo), multipliers['poblacion_objetivo']).astype(int)
+        poblacion_objetivo[poblacion_objetivo <= 1] = 1
+
+        poblacion_vacunada = np.multiply(np.array(
+            self.parameters.poblacion_vacunada), multipliers['poblacion_vacunada']).astype(int)
+        poblacion_vacunada[poblacion_vacunada >
+                           poblacion_objetivo.max()] = poblacion_objetivo.max()
+
+        transformations = {
+            'camiones': tuple(
+                range(max(1, int(len(self.parameters.camiones) * multipliers['camiones'])))),
+            'dias': tuple(
+                range(max(1, int(len(self.parameters.dias) * multipliers['dias'])))),
+            'poblacion_objetivo': tuple(map(int, poblacion_objetivo)),
+            'poblacion_vacunada': tuple(map(int, poblacion_vacunada)),
+            'vacunacion_dia': max(
+                1, int(self.parameters.vacunacion_dia * multipliers['vacunacion_dia'])),
+            'capacidad_max': max(
+                1, int(self.parameters.capacidad_max * multipliers['capacidad_max'])),
+            'vacunas_disponibles': max(
+                1, int(self.parameters.vacunas_disponibles * multipliers['vacunas_disponibles'])),
+        }
+
+        new_parameters = deepcopy(self.parameters)
+        setattr(
+            new_parameters,
+            parameter_name,
+            transformations[parameter_name]
+            ) 
+        
         return new_parameters

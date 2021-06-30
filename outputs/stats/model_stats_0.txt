@@ -1,10 +1,10 @@
-Objetivo: 120000.0
+Objetivo: 179991.75
 
 
 Statistics for model vacunacion-regional :
-  Linear constraint matrix    : 4355 Constrs, 3050 Vars, 16550 NZs
-  Variable types              : 250 Continuous, 2800 Integer (1400 Binary)
+  Linear constraint matrix    : 8705 Constrs, 6100 Vars, 43100 NZs
+  Variable types              : 500 Continuous, 5600 Integer (2800 Binary)
   Matrix coefficient range    : [ 1, 1e+12 ]
-  Objective coefficient range : [ 1, 1 ]
+  Objective coefficient range : [ 0.75, 0.75 ]
   Variable bound range        : [ 1, 1 ]
   RHS coefficient range       : [ 1, 1e+12 ]

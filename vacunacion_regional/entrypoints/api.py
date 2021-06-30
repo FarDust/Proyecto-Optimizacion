@@ -40,7 +40,7 @@ def get_default_parameters() -> Tuple[ParametersConfig, Dict]:
 
 
 def save_parameters_as_file(parameters: ParametersConfig, experiment=0) -> None:
-    dump(parameters.__dict__, Path(OUTPUTS_PATH, f"params_{experiment}.json").open('w'))
+    dump(parameters.__dict__, Path(OUTPUTS_PATH, f"params_{experiment}.json").open('w'), indent=4, sort_keys=True)
 
 
 def save_plots(model: Model, mappings: dict, experiment=0):

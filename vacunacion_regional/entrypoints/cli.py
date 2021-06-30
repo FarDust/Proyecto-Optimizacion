@@ -1,4 +1,5 @@
 import sys
+import shutil
 from vacunacion_regional.model.parameters import parametersRandomizer
 from vacunacion_regional.setting import OUTPUTS_PATH
 from click.decorators import option
@@ -15,16 +16,22 @@ from vacunacion_regional.model.main import get_model
 @argument("source_path", required=True)
 @option("--save", "save", flag_value=True, default=False)
 @option("--output", "output_path", default="out.mps")
-@option("--experiments", "experiments", default=0)
+@option("--experiments", "experiments", default=1)
+@option("--attribute", "attribute", default='camiones')
 @option("--random", "is_random_experiment", flag_value=True, default=False)
-def cli_entrypoint(source_path: str, output_path, save, experiments, is_random_experiment):
+def cli_entrypoint(source_path: str, output_path, save, experiments, is_random_experiment, attribute):
     config, mappings = get_from_data_parameters(source_path=source_path)
     randomizer = parametersRandomizer(config)
+    stats_path = Path(OUTPUTS_PATH, 'stats')
+    if OUTPUTS_PATH.exists():
+        shutil.rmtree(OUTPUTS_PATH)
+    OUTPUTS_PATH.mkdir()
+    if not stats_path.exists():
+        stats_path.mkdir()
     for experiment in range(experiments):
-        stats_path = Path(OUTPUTS_PATH, 'stats')
-        if not stats_path.exists():
-            stats_path.mkdir()
-        if is_random_experiment and experiment > 0:
+        if attribute and is_random_experiment and experiment > 0:
+            config = randomizer.generate_new_param(attribute)
+        elif is_random_experiment and experiment > 0:
             config = randomizer.generate_new()
         save_parameters_as_file(config, experiment=experiment)
         model = get_model(config)
