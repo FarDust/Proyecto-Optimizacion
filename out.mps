@@ -8711,9603 +8711,9603 @@ COLUMNS
     MARKER    'MARKER'                 'INTORG'
     camion_n_en_comuna_c_dia_d[0,0,0]  R2[0,0]   1
     camion_n_en_comuna_c_dia_d[0,0,0]  R5[0,0,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,0]  R7[0,0]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,0]  R7[0,0]   -400
     camion_n_en_comuna_c_dia_d[0,0,0]  R9[0,0]   1
     camion_n_en_comuna_c_dia_d[0,0,1]  R2[0,1]   1
     camion_n_en_comuna_c_dia_d[0,0,1]  R5[0,0,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,1]  R7[0,1]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,1]  R7[0,1]   -400
     camion_n_en_comuna_c_dia_d[0,0,1]  R9[0,1]   1
     camion_n_en_comuna_c_dia_d[0,0,2]  R2[0,2]   1
     camion_n_en_comuna_c_dia_d[0,0,2]  R5[0,0,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,2]  R7[0,2]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,2]  R7[0,2]   -400
     camion_n_en_comuna_c_dia_d[0,0,2]  R9[0,2]   1
     camion_n_en_comuna_c_dia_d[0,0,3]  R2[0,3]   1
     camion_n_en_comuna_c_dia_d[0,0,3]  R5[0,0,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,3]  R7[0,3]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,3]  R7[0,3]   -400
     camion_n_en_comuna_c_dia_d[0,0,3]  R9[0,3]   1
     camion_n_en_comuna_c_dia_d[0,0,4]  R2[0,4]   1
     camion_n_en_comuna_c_dia_d[0,0,4]  R5[0,0,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,4]  R7[0,4]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,4]  R7[0,4]   -400
     camion_n_en_comuna_c_dia_d[0,0,4]  R9[0,4]   1
     camion_n_en_comuna_c_dia_d[0,0,5]  R2[0,5]   1
     camion_n_en_comuna_c_dia_d[0,0,5]  R5[0,0,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,5]  R7[0,5]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,5]  R7[0,5]   -400
     camion_n_en_comuna_c_dia_d[0,0,5]  R9[0,5]   1
     camion_n_en_comuna_c_dia_d[0,0,6]  R2[0,6]   1
     camion_n_en_comuna_c_dia_d[0,0,6]  R5[0,0,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,6]  R7[0,6]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,6]  R7[0,6]   -400
     camion_n_en_comuna_c_dia_d[0,0,6]  R9[0,6]   1
     camion_n_en_comuna_c_dia_d[0,0,7]  R2[0,7]   1
     camion_n_en_comuna_c_dia_d[0,0,7]  R5[0,0,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,7]  R7[0,7]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,7]  R7[0,7]   -400
     camion_n_en_comuna_c_dia_d[0,0,7]  R9[0,7]   1
     camion_n_en_comuna_c_dia_d[0,0,8]  R2[0,8]   1
     camion_n_en_comuna_c_dia_d[0,0,8]  R5[0,0,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,8]  R7[0,8]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,8]  R7[0,8]   -400
     camion_n_en_comuna_c_dia_d[0,0,8]  R9[0,8]   1
     camion_n_en_comuna_c_dia_d[0,0,9]  R2[0,9]   1
     camion_n_en_comuna_c_dia_d[0,0,9]  R5[0,0,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,9]  R7[0,9]   -1000
+    camion_n_en_comuna_c_dia_d[0,0,9]  R7[0,9]   -400
     camion_n_en_comuna_c_dia_d[0,0,9]  R9[0,9]   1
     camion_n_en_comuna_c_dia_d[0,0,10]  R2[0,10]  1
     camion_n_en_comuna_c_dia_d[0,0,10]  R5[0,0,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,10]  R7[0,10]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,10]  R7[0,10]  -400
     camion_n_en_comuna_c_dia_d[0,0,10]  R9[0,10]  1
     camion_n_en_comuna_c_dia_d[0,0,11]  R2[0,11]  1
     camion_n_en_comuna_c_dia_d[0,0,11]  R5[0,0,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,11]  R7[0,11]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,11]  R7[0,11]  -400
     camion_n_en_comuna_c_dia_d[0,0,11]  R9[0,11]  1
     camion_n_en_comuna_c_dia_d[0,0,12]  R2[0,12]  1
     camion_n_en_comuna_c_dia_d[0,0,12]  R5[0,0,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,12]  R7[0,12]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,12]  R7[0,12]  -400
     camion_n_en_comuna_c_dia_d[0,0,12]  R9[0,12]  1
     camion_n_en_comuna_c_dia_d[0,0,13]  R2[0,13]  1
     camion_n_en_comuna_c_dia_d[0,0,13]  R5[0,0,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,13]  R7[0,13]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,13]  R7[0,13]  -400
     camion_n_en_comuna_c_dia_d[0,0,13]  R9[0,13]  1
     camion_n_en_comuna_c_dia_d[0,0,14]  R2[0,14]  1
     camion_n_en_comuna_c_dia_d[0,0,14]  R5[0,0,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,14]  R7[0,14]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,14]  R7[0,14]  -400
     camion_n_en_comuna_c_dia_d[0,0,14]  R9[0,14]  1
     camion_n_en_comuna_c_dia_d[0,0,15]  R2[0,15]  1
     camion_n_en_comuna_c_dia_d[0,0,15]  R5[0,0,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,15]  R7[0,15]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,15]  R7[0,15]  -400
     camion_n_en_comuna_c_dia_d[0,0,15]  R9[0,15]  1
     camion_n_en_comuna_c_dia_d[0,0,16]  R2[0,16]  1
     camion_n_en_comuna_c_dia_d[0,0,16]  R5[0,0,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,16]  R7[0,16]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,16]  R7[0,16]  -400
     camion_n_en_comuna_c_dia_d[0,0,16]  R9[0,16]  1
     camion_n_en_comuna_c_dia_d[0,0,17]  R2[0,17]  1
     camion_n_en_comuna_c_dia_d[0,0,17]  R5[0,0,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,17]  R7[0,17]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,17]  R7[0,17]  -400
     camion_n_en_comuna_c_dia_d[0,0,17]  R9[0,17]  1
     camion_n_en_comuna_c_dia_d[0,0,18]  R2[0,18]  1
     camion_n_en_comuna_c_dia_d[0,0,18]  R5[0,0,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,18]  R7[0,18]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,18]  R7[0,18]  -400
     camion_n_en_comuna_c_dia_d[0,0,18]  R9[0,18]  1
     camion_n_en_comuna_c_dia_d[0,0,19]  R2[0,19]  1
     camion_n_en_comuna_c_dia_d[0,0,19]  R5[0,0,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,19]  R7[0,19]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,19]  R7[0,19]  -400
     camion_n_en_comuna_c_dia_d[0,0,19]  R9[0,19]  1
     camion_n_en_comuna_c_dia_d[0,0,20]  R2[0,20]  1
     camion_n_en_comuna_c_dia_d[0,0,20]  R5[0,0,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,20]  R7[0,20]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,20]  R7[0,20]  -400
     camion_n_en_comuna_c_dia_d[0,0,20]  R9[0,20]  1
     camion_n_en_comuna_c_dia_d[0,0,21]  R2[0,21]  1
     camion_n_en_comuna_c_dia_d[0,0,21]  R5[0,0,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,21]  R7[0,21]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,21]  R7[0,21]  -400
     camion_n_en_comuna_c_dia_d[0,0,21]  R9[0,21]  1
     camion_n_en_comuna_c_dia_d[0,0,22]  R2[0,22]  1
     camion_n_en_comuna_c_dia_d[0,0,22]  R5[0,0,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,22]  R7[0,22]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,22]  R7[0,22]  -400
     camion_n_en_comuna_c_dia_d[0,0,22]  R9[0,22]  1
     camion_n_en_comuna_c_dia_d[0,0,23]  R2[0,23]  1
     camion_n_en_comuna_c_dia_d[0,0,23]  R5[0,0,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,23]  R7[0,23]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,23]  R7[0,23]  -400
     camion_n_en_comuna_c_dia_d[0,0,23]  R9[0,23]  1
     camion_n_en_comuna_c_dia_d[0,0,24]  R2[0,24]  1
     camion_n_en_comuna_c_dia_d[0,0,24]  R5[0,0,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,24]  R7[0,24]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,24]  R7[0,24]  -400
     camion_n_en_comuna_c_dia_d[0,0,24]  R9[0,24]  1
     camion_n_en_comuna_c_dia_d[0,0,25]  R2[0,25]  1
     camion_n_en_comuna_c_dia_d[0,0,25]  R5[0,0,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,25]  R7[0,25]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,25]  R7[0,25]  -400
     camion_n_en_comuna_c_dia_d[0,0,25]  R9[0,25]  1
     camion_n_en_comuna_c_dia_d[0,0,26]  R2[0,26]  1
     camion_n_en_comuna_c_dia_d[0,0,26]  R5[0,0,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,26]  R7[0,26]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,26]  R7[0,26]  -400
     camion_n_en_comuna_c_dia_d[0,0,26]  R9[0,26]  1
     camion_n_en_comuna_c_dia_d[0,0,27]  R2[0,27]  1
     camion_n_en_comuna_c_dia_d[0,0,27]  R5[0,0,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,27]  R7[0,27]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,27]  R7[0,27]  -400
     camion_n_en_comuna_c_dia_d[0,0,27]  R9[0,27]  1
     camion_n_en_comuna_c_dia_d[0,0,28]  R2[0,28]  1
     camion_n_en_comuna_c_dia_d[0,0,28]  R5[0,0,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,28]  R7[0,28]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,28]  R7[0,28]  -400
     camion_n_en_comuna_c_dia_d[0,0,28]  R9[0,28]  1
     camion_n_en_comuna_c_dia_d[0,0,29]  R2[0,29]  1
     camion_n_en_comuna_c_dia_d[0,0,29]  R5[0,0,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,29]  R7[0,29]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,29]  R7[0,29]  -400
     camion_n_en_comuna_c_dia_d[0,0,29]  R9[0,29]  1
     camion_n_en_comuna_c_dia_d[0,0,30]  R2[0,30]  1
     camion_n_en_comuna_c_dia_d[0,0,30]  R5[0,0,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,30]  R7[0,30]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,30]  R7[0,30]  -400
     camion_n_en_comuna_c_dia_d[0,0,30]  R9[0,30]  1
     camion_n_en_comuna_c_dia_d[0,0,31]  R2[0,31]  1
     camion_n_en_comuna_c_dia_d[0,0,31]  R5[0,0,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,31]  R7[0,31]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,31]  R7[0,31]  -400
     camion_n_en_comuna_c_dia_d[0,0,31]  R9[0,31]  1
     camion_n_en_comuna_c_dia_d[0,0,32]  R2[0,32]  1
     camion_n_en_comuna_c_dia_d[0,0,32]  R5[0,0,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,32]  R7[0,32]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,32]  R7[0,32]  -400
     camion_n_en_comuna_c_dia_d[0,0,32]  R9[0,32]  1
     camion_n_en_comuna_c_dia_d[0,0,33]  R2[0,33]  1
     camion_n_en_comuna_c_dia_d[0,0,33]  R5[0,0,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,33]  R7[0,33]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,33]  R7[0,33]  -400
     camion_n_en_comuna_c_dia_d[0,0,33]  R9[0,33]  1
     camion_n_en_comuna_c_dia_d[0,0,34]  R2[0,34]  1
     camion_n_en_comuna_c_dia_d[0,0,34]  R5[0,0,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,34]  R7[0,34]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,34]  R7[0,34]  -400
     camion_n_en_comuna_c_dia_d[0,0,34]  R9[0,34]  1
     camion_n_en_comuna_c_dia_d[0,0,35]  R2[0,35]  1
     camion_n_en_comuna_c_dia_d[0,0,35]  R5[0,0,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,35]  R7[0,35]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,35]  R7[0,35]  -400
     camion_n_en_comuna_c_dia_d[0,0,35]  R9[0,35]  1
     camion_n_en_comuna_c_dia_d[0,0,36]  R2[0,36]  1
     camion_n_en_comuna_c_dia_d[0,0,36]  R5[0,0,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,36]  R7[0,36]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,36]  R7[0,36]  -400
     camion_n_en_comuna_c_dia_d[0,0,36]  R9[0,36]  1
     camion_n_en_comuna_c_dia_d[0,0,37]  R2[0,37]  1
     camion_n_en_comuna_c_dia_d[0,0,37]  R5[0,0,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,37]  R7[0,37]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,37]  R7[0,37]  -400
     camion_n_en_comuna_c_dia_d[0,0,37]  R9[0,37]  1
     camion_n_en_comuna_c_dia_d[0,0,38]  R2[0,38]  1
     camion_n_en_comuna_c_dia_d[0,0,38]  R5[0,0,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,38]  R7[0,38]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,38]  R7[0,38]  -400
     camion_n_en_comuna_c_dia_d[0,0,38]  R9[0,38]  1
     camion_n_en_comuna_c_dia_d[0,0,39]  R2[0,39]  1
     camion_n_en_comuna_c_dia_d[0,0,39]  R5[0,0,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,39]  R7[0,39]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,39]  R7[0,39]  -400
     camion_n_en_comuna_c_dia_d[0,0,39]  R9[0,39]  1
     camion_n_en_comuna_c_dia_d[0,0,40]  R2[0,40]  1
     camion_n_en_comuna_c_dia_d[0,0,40]  R5[0,0,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,40]  R7[0,40]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,40]  R7[0,40]  -400
     camion_n_en_comuna_c_dia_d[0,0,40]  R9[0,40]  1
     camion_n_en_comuna_c_dia_d[0,0,41]  R2[0,41]  1
     camion_n_en_comuna_c_dia_d[0,0,41]  R5[0,0,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,41]  R7[0,41]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,41]  R7[0,41]  -400
     camion_n_en_comuna_c_dia_d[0,0,41]  R9[0,41]  1
     camion_n_en_comuna_c_dia_d[0,0,42]  R2[0,42]  1
     camion_n_en_comuna_c_dia_d[0,0,42]  R5[0,0,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,42]  R7[0,42]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,42]  R7[0,42]  -400
     camion_n_en_comuna_c_dia_d[0,0,42]  R9[0,42]  1
     camion_n_en_comuna_c_dia_d[0,0,43]  R2[0,43]  1
     camion_n_en_comuna_c_dia_d[0,0,43]  R5[0,0,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,43]  R7[0,43]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,43]  R7[0,43]  -400
     camion_n_en_comuna_c_dia_d[0,0,43]  R9[0,43]  1
     camion_n_en_comuna_c_dia_d[0,0,44]  R2[0,44]  1
     camion_n_en_comuna_c_dia_d[0,0,44]  R5[0,0,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,44]  R7[0,44]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,44]  R7[0,44]  -400
     camion_n_en_comuna_c_dia_d[0,0,44]  R9[0,44]  1
     camion_n_en_comuna_c_dia_d[0,0,45]  R2[0,45]  1
     camion_n_en_comuna_c_dia_d[0,0,45]  R5[0,0,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,45]  R7[0,45]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,45]  R7[0,45]  -400
     camion_n_en_comuna_c_dia_d[0,0,45]  R9[0,45]  1
     camion_n_en_comuna_c_dia_d[0,0,46]  R2[0,46]  1
     camion_n_en_comuna_c_dia_d[0,0,46]  R5[0,0,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,46]  R7[0,46]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,46]  R7[0,46]  -400
     camion_n_en_comuna_c_dia_d[0,0,46]  R9[0,46]  1
     camion_n_en_comuna_c_dia_d[0,0,47]  R2[0,47]  1
     camion_n_en_comuna_c_dia_d[0,0,47]  R5[0,0,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,47]  R7[0,47]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,47]  R7[0,47]  -400
     camion_n_en_comuna_c_dia_d[0,0,47]  R9[0,47]  1
     camion_n_en_comuna_c_dia_d[0,0,48]  R2[0,48]  1
     camion_n_en_comuna_c_dia_d[0,0,48]  R5[0,0,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,48]  R7[0,48]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,48]  R7[0,48]  -400
     camion_n_en_comuna_c_dia_d[0,0,48]  R9[0,48]  1
     camion_n_en_comuna_c_dia_d[0,0,49]  R2[0,49]  1
     camion_n_en_comuna_c_dia_d[0,0,49]  R5[0,0,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,49]  R7[0,49]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,49]  R7[0,49]  -400
     camion_n_en_comuna_c_dia_d[0,0,49]  R9[0,49]  1
     camion_n_en_comuna_c_dia_d[0,0,50]  R2[0,50]  1
     camion_n_en_comuna_c_dia_d[0,0,50]  R5[0,0,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,50]  R7[0,50]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,50]  R7[0,50]  -400
     camion_n_en_comuna_c_dia_d[0,0,50]  R9[0,50]  1
     camion_n_en_comuna_c_dia_d[0,0,51]  R2[0,51]  1
     camion_n_en_comuna_c_dia_d[0,0,51]  R5[0,0,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,51]  R7[0,51]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,51]  R7[0,51]  -400
     camion_n_en_comuna_c_dia_d[0,0,51]  R9[0,51]  1
     camion_n_en_comuna_c_dia_d[0,0,52]  R2[0,52]  1
     camion_n_en_comuna_c_dia_d[0,0,52]  R5[0,0,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,52]  R7[0,52]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,52]  R7[0,52]  -400
     camion_n_en_comuna_c_dia_d[0,0,52]  R9[0,52]  1
     camion_n_en_comuna_c_dia_d[0,0,53]  R2[0,53]  1
     camion_n_en_comuna_c_dia_d[0,0,53]  R5[0,0,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,53]  R7[0,53]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,53]  R7[0,53]  -400
     camion_n_en_comuna_c_dia_d[0,0,53]  R9[0,53]  1
     camion_n_en_comuna_c_dia_d[0,0,54]  R2[0,54]  1
     camion_n_en_comuna_c_dia_d[0,0,54]  R5[0,0,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,54]  R7[0,54]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,54]  R7[0,54]  -400
     camion_n_en_comuna_c_dia_d[0,0,54]  R9[0,54]  1
     camion_n_en_comuna_c_dia_d[0,0,55]  R2[0,55]  1
     camion_n_en_comuna_c_dia_d[0,0,55]  R5[0,0,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,55]  R7[0,55]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,55]  R7[0,55]  -400
     camion_n_en_comuna_c_dia_d[0,0,55]  R9[0,55]  1
     camion_n_en_comuna_c_dia_d[0,0,56]  R2[0,56]  1
     camion_n_en_comuna_c_dia_d[0,0,56]  R5[0,0,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,56]  R7[0,56]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,56]  R7[0,56]  -400
     camion_n_en_comuna_c_dia_d[0,0,56]  R9[0,56]  1
     camion_n_en_comuna_c_dia_d[0,0,57]  R2[0,57]  1
     camion_n_en_comuna_c_dia_d[0,0,57]  R5[0,0,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,57]  R7[0,57]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,57]  R7[0,57]  -400
     camion_n_en_comuna_c_dia_d[0,0,57]  R9[0,57]  1
     camion_n_en_comuna_c_dia_d[0,0,58]  R2[0,58]  1
     camion_n_en_comuna_c_dia_d[0,0,58]  R5[0,0,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,58]  R7[0,58]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,58]  R7[0,58]  -400
     camion_n_en_comuna_c_dia_d[0,0,58]  R9[0,58]  1
     camion_n_en_comuna_c_dia_d[0,0,59]  R2[0,59]  1
     camion_n_en_comuna_c_dia_d[0,0,59]  R5[0,0,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,59]  R7[0,59]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,59]  R7[0,59]  -400
     camion_n_en_comuna_c_dia_d[0,0,59]  R9[0,59]  1
     camion_n_en_comuna_c_dia_d[0,0,60]  R2[0,60]  1
     camion_n_en_comuna_c_dia_d[0,0,60]  R5[0,0,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,60]  R7[0,60]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,60]  R7[0,60]  -400
     camion_n_en_comuna_c_dia_d[0,0,60]  R9[0,60]  1
     camion_n_en_comuna_c_dia_d[0,0,61]  R2[0,61]  1
     camion_n_en_comuna_c_dia_d[0,0,61]  R5[0,0,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,61]  R7[0,61]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,61]  R7[0,61]  -400
     camion_n_en_comuna_c_dia_d[0,0,61]  R9[0,61]  1
     camion_n_en_comuna_c_dia_d[0,0,62]  R2[0,62]  1
     camion_n_en_comuna_c_dia_d[0,0,62]  R5[0,0,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,62]  R7[0,62]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,62]  R7[0,62]  -400
     camion_n_en_comuna_c_dia_d[0,0,62]  R9[0,62]  1
     camion_n_en_comuna_c_dia_d[0,0,63]  R2[0,63]  1
     camion_n_en_comuna_c_dia_d[0,0,63]  R5[0,0,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,63]  R7[0,63]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,63]  R7[0,63]  -400
     camion_n_en_comuna_c_dia_d[0,0,63]  R9[0,63]  1
     camion_n_en_comuna_c_dia_d[0,0,64]  R2[0,64]  1
     camion_n_en_comuna_c_dia_d[0,0,64]  R5[0,0,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,64]  R7[0,64]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,64]  R7[0,64]  -400
     camion_n_en_comuna_c_dia_d[0,0,64]  R9[0,64]  1
     camion_n_en_comuna_c_dia_d[0,0,65]  R2[0,65]  1
     camion_n_en_comuna_c_dia_d[0,0,65]  R5[0,0,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,65]  R7[0,65]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,65]  R7[0,65]  -400
     camion_n_en_comuna_c_dia_d[0,0,65]  R9[0,65]  1
     camion_n_en_comuna_c_dia_d[0,0,66]  R2[0,66]  1
     camion_n_en_comuna_c_dia_d[0,0,66]  R5[0,0,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,66]  R7[0,66]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,66]  R7[0,66]  -400
     camion_n_en_comuna_c_dia_d[0,0,66]  R9[0,66]  1
     camion_n_en_comuna_c_dia_d[0,0,67]  R2[0,67]  1
     camion_n_en_comuna_c_dia_d[0,0,67]  R5[0,0,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,67]  R7[0,67]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,67]  R7[0,67]  -400
     camion_n_en_comuna_c_dia_d[0,0,67]  R9[0,67]  1
     camion_n_en_comuna_c_dia_d[0,0,68]  R2[0,68]  1
     camion_n_en_comuna_c_dia_d[0,0,68]  R5[0,0,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,68]  R7[0,68]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,68]  R7[0,68]  -400
     camion_n_en_comuna_c_dia_d[0,0,68]  R9[0,68]  1
     camion_n_en_comuna_c_dia_d[0,0,69]  R2[0,69]  1
     camion_n_en_comuna_c_dia_d[0,0,69]  R5[0,0,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,69]  R7[0,69]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,69]  R7[0,69]  -400
     camion_n_en_comuna_c_dia_d[0,0,69]  R9[0,69]  1
     camion_n_en_comuna_c_dia_d[0,0,70]  R2[0,70]  1
     camion_n_en_comuna_c_dia_d[0,0,70]  R5[0,0,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,70]  R7[0,70]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,70]  R7[0,70]  -400
     camion_n_en_comuna_c_dia_d[0,0,70]  R9[0,70]  1
     camion_n_en_comuna_c_dia_d[0,0,71]  R2[0,71]  1
     camion_n_en_comuna_c_dia_d[0,0,71]  R5[0,0,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,71]  R7[0,71]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,71]  R7[0,71]  -400
     camion_n_en_comuna_c_dia_d[0,0,71]  R9[0,71]  1
     camion_n_en_comuna_c_dia_d[0,0,72]  R2[0,72]  1
     camion_n_en_comuna_c_dia_d[0,0,72]  R5[0,0,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,72]  R7[0,72]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,72]  R7[0,72]  -400
     camion_n_en_comuna_c_dia_d[0,0,72]  R9[0,72]  1
     camion_n_en_comuna_c_dia_d[0,0,73]  R2[0,73]  1
     camion_n_en_comuna_c_dia_d[0,0,73]  R5[0,0,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,73]  R7[0,73]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,73]  R7[0,73]  -400
     camion_n_en_comuna_c_dia_d[0,0,73]  R9[0,73]  1
     camion_n_en_comuna_c_dia_d[0,0,74]  R2[0,74]  1
     camion_n_en_comuna_c_dia_d[0,0,74]  R5[0,0,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,74]  R7[0,74]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,74]  R7[0,74]  -400
     camion_n_en_comuna_c_dia_d[0,0,74]  R9[0,74]  1
     camion_n_en_comuna_c_dia_d[0,0,75]  R2[0,75]  1
     camion_n_en_comuna_c_dia_d[0,0,75]  R5[0,0,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,75]  R7[0,75]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,75]  R7[0,75]  -400
     camion_n_en_comuna_c_dia_d[0,0,75]  R9[0,75]  1
     camion_n_en_comuna_c_dia_d[0,0,76]  R2[0,76]  1
     camion_n_en_comuna_c_dia_d[0,0,76]  R5[0,0,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,76]  R7[0,76]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,76]  R7[0,76]  -400
     camion_n_en_comuna_c_dia_d[0,0,76]  R9[0,76]  1
     camion_n_en_comuna_c_dia_d[0,0,77]  R2[0,77]  1
     camion_n_en_comuna_c_dia_d[0,0,77]  R5[0,0,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,77]  R7[0,77]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,77]  R7[0,77]  -400
     camion_n_en_comuna_c_dia_d[0,0,77]  R9[0,77]  1
     camion_n_en_comuna_c_dia_d[0,0,78]  R2[0,78]  1
     camion_n_en_comuna_c_dia_d[0,0,78]  R5[0,0,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,78]  R7[0,78]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,78]  R7[0,78]  -400
     camion_n_en_comuna_c_dia_d[0,0,78]  R9[0,78]  1
     camion_n_en_comuna_c_dia_d[0,0,79]  R2[0,79]  1
     camion_n_en_comuna_c_dia_d[0,0,79]  R5[0,0,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,79]  R7[0,79]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,79]  R7[0,79]  -400
     camion_n_en_comuna_c_dia_d[0,0,79]  R9[0,79]  1
     camion_n_en_comuna_c_dia_d[0,0,80]  R2[0,80]  1
     camion_n_en_comuna_c_dia_d[0,0,80]  R5[0,0,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,80]  R7[0,80]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,80]  R7[0,80]  -400
     camion_n_en_comuna_c_dia_d[0,0,80]  R9[0,80]  1
     camion_n_en_comuna_c_dia_d[0,0,81]  R2[0,81]  1
     camion_n_en_comuna_c_dia_d[0,0,81]  R5[0,0,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,81]  R7[0,81]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,81]  R7[0,81]  -400
     camion_n_en_comuna_c_dia_d[0,0,81]  R9[0,81]  1
     camion_n_en_comuna_c_dia_d[0,0,82]  R2[0,82]  1
     camion_n_en_comuna_c_dia_d[0,0,82]  R5[0,0,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,82]  R7[0,82]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,82]  R7[0,82]  -400
     camion_n_en_comuna_c_dia_d[0,0,82]  R9[0,82]  1
     camion_n_en_comuna_c_dia_d[0,0,83]  R2[0,83]  1
     camion_n_en_comuna_c_dia_d[0,0,83]  R5[0,0,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,83]  R7[0,83]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,83]  R7[0,83]  -400
     camion_n_en_comuna_c_dia_d[0,0,83]  R9[0,83]  1
     camion_n_en_comuna_c_dia_d[0,0,84]  R2[0,84]  1
     camion_n_en_comuna_c_dia_d[0,0,84]  R5[0,0,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,84]  R7[0,84]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,84]  R7[0,84]  -400
     camion_n_en_comuna_c_dia_d[0,0,84]  R9[0,84]  1
     camion_n_en_comuna_c_dia_d[0,0,85]  R2[0,85]  1
     camion_n_en_comuna_c_dia_d[0,0,85]  R5[0,0,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,85]  R7[0,85]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,85]  R7[0,85]  -400
     camion_n_en_comuna_c_dia_d[0,0,85]  R9[0,85]  1
     camion_n_en_comuna_c_dia_d[0,0,86]  R2[0,86]  1
     camion_n_en_comuna_c_dia_d[0,0,86]  R5[0,0,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,86]  R7[0,86]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,86]  R7[0,86]  -400
     camion_n_en_comuna_c_dia_d[0,0,86]  R9[0,86]  1
     camion_n_en_comuna_c_dia_d[0,0,87]  R2[0,87]  1
     camion_n_en_comuna_c_dia_d[0,0,87]  R5[0,0,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,87]  R7[0,87]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,87]  R7[0,87]  -400
     camion_n_en_comuna_c_dia_d[0,0,87]  R9[0,87]  1
     camion_n_en_comuna_c_dia_d[0,0,88]  R2[0,88]  1
     camion_n_en_comuna_c_dia_d[0,0,88]  R5[0,0,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,88]  R7[0,88]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,88]  R7[0,88]  -400
     camion_n_en_comuna_c_dia_d[0,0,88]  R9[0,88]  1
     camion_n_en_comuna_c_dia_d[0,0,89]  R2[0,89]  1
     camion_n_en_comuna_c_dia_d[0,0,89]  R5[0,0,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,89]  R7[0,89]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,89]  R7[0,89]  -400
     camion_n_en_comuna_c_dia_d[0,0,89]  R9[0,89]  1
     camion_n_en_comuna_c_dia_d[0,0,90]  R2[0,90]  1
     camion_n_en_comuna_c_dia_d[0,0,90]  R5[0,0,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,90]  R7[0,90]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,90]  R7[0,90]  -400
     camion_n_en_comuna_c_dia_d[0,0,90]  R9[0,90]  1
     camion_n_en_comuna_c_dia_d[0,0,91]  R2[0,91]  1
     camion_n_en_comuna_c_dia_d[0,0,91]  R5[0,0,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,91]  R7[0,91]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,91]  R7[0,91]  -400
     camion_n_en_comuna_c_dia_d[0,0,91]  R9[0,91]  1
     camion_n_en_comuna_c_dia_d[0,0,92]  R2[0,92]  1
     camion_n_en_comuna_c_dia_d[0,0,92]  R5[0,0,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,92]  R7[0,92]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,92]  R7[0,92]  -400
     camion_n_en_comuna_c_dia_d[0,0,92]  R9[0,92]  1
     camion_n_en_comuna_c_dia_d[0,0,93]  R2[0,93]  1
     camion_n_en_comuna_c_dia_d[0,0,93]  R5[0,0,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,93]  R7[0,93]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,93]  R7[0,93]  -400
     camion_n_en_comuna_c_dia_d[0,0,93]  R9[0,93]  1
     camion_n_en_comuna_c_dia_d[0,0,94]  R2[0,94]  1
     camion_n_en_comuna_c_dia_d[0,0,94]  R5[0,0,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,94]  R7[0,94]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,94]  R7[0,94]  -400
     camion_n_en_comuna_c_dia_d[0,0,94]  R9[0,94]  1
     camion_n_en_comuna_c_dia_d[0,0,95]  R2[0,95]  1
     camion_n_en_comuna_c_dia_d[0,0,95]  R5[0,0,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,95]  R7[0,95]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,95]  R7[0,95]  -400
     camion_n_en_comuna_c_dia_d[0,0,95]  R9[0,95]  1
     camion_n_en_comuna_c_dia_d[0,0,96]  R2[0,96]  1
     camion_n_en_comuna_c_dia_d[0,0,96]  R5[0,0,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,96]  R7[0,96]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,96]  R7[0,96]  -400
     camion_n_en_comuna_c_dia_d[0,0,96]  R9[0,96]  1
     camion_n_en_comuna_c_dia_d[0,0,97]  R2[0,97]  1
     camion_n_en_comuna_c_dia_d[0,0,97]  R5[0,0,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,97]  R7[0,97]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,97]  R7[0,97]  -400
     camion_n_en_comuna_c_dia_d[0,0,97]  R9[0,97]  1
     camion_n_en_comuna_c_dia_d[0,0,98]  R2[0,98]  1
     camion_n_en_comuna_c_dia_d[0,0,98]  R5[0,0,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,98]  R7[0,98]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,98]  R7[0,98]  -400
     camion_n_en_comuna_c_dia_d[0,0,98]  R9[0,98]  1
     camion_n_en_comuna_c_dia_d[0,0,99]  R2[0,99]  1
     camion_n_en_comuna_c_dia_d[0,0,99]  R5[0,0,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,0,99]  R7[0,99]  -1000
+    camion_n_en_comuna_c_dia_d[0,0,99]  R7[0,99]  -400
     camion_n_en_comuna_c_dia_d[0,0,99]  R9[0,99]  1
     camion_n_en_comuna_c_dia_d[0,1,0]  R2[0,0]   1
     camion_n_en_comuna_c_dia_d[0,1,0]  R5[0,1,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,0]  R7[1,0]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,0]  R7[1,0]   -400
     camion_n_en_comuna_c_dia_d[0,1,0]  R9[1,0]   1
     camion_n_en_comuna_c_dia_d[0,1,1]  R2[0,1]   1
     camion_n_en_comuna_c_dia_d[0,1,1]  R5[0,1,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,1]  R7[1,1]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,1]  R7[1,1]   -400
     camion_n_en_comuna_c_dia_d[0,1,1]  R9[1,1]   1
     camion_n_en_comuna_c_dia_d[0,1,2]  R2[0,2]   1
     camion_n_en_comuna_c_dia_d[0,1,2]  R5[0,1,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,2]  R7[1,2]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,2]  R7[1,2]   -400
     camion_n_en_comuna_c_dia_d[0,1,2]  R9[1,2]   1
     camion_n_en_comuna_c_dia_d[0,1,3]  R2[0,3]   1
     camion_n_en_comuna_c_dia_d[0,1,3]  R5[0,1,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,3]  R7[1,3]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,3]  R7[1,3]   -400
     camion_n_en_comuna_c_dia_d[0,1,3]  R9[1,3]   1
     camion_n_en_comuna_c_dia_d[0,1,4]  R2[0,4]   1
     camion_n_en_comuna_c_dia_d[0,1,4]  R5[0,1,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,4]  R7[1,4]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,4]  R7[1,4]   -400
     camion_n_en_comuna_c_dia_d[0,1,4]  R9[1,4]   1
     camion_n_en_comuna_c_dia_d[0,1,5]  R2[0,5]   1
     camion_n_en_comuna_c_dia_d[0,1,5]  R5[0,1,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,5]  R7[1,5]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,5]  R7[1,5]   -400
     camion_n_en_comuna_c_dia_d[0,1,5]  R9[1,5]   1
     camion_n_en_comuna_c_dia_d[0,1,6]  R2[0,6]   1
     camion_n_en_comuna_c_dia_d[0,1,6]  R5[0,1,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,6]  R7[1,6]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,6]  R7[1,6]   -400
     camion_n_en_comuna_c_dia_d[0,1,6]  R9[1,6]   1
     camion_n_en_comuna_c_dia_d[0,1,7]  R2[0,7]   1
     camion_n_en_comuna_c_dia_d[0,1,7]  R5[0,1,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,7]  R7[1,7]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,7]  R7[1,7]   -400
     camion_n_en_comuna_c_dia_d[0,1,7]  R9[1,7]   1
     camion_n_en_comuna_c_dia_d[0,1,8]  R2[0,8]   1
     camion_n_en_comuna_c_dia_d[0,1,8]  R5[0,1,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,8]  R7[1,8]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,8]  R7[1,8]   -400
     camion_n_en_comuna_c_dia_d[0,1,8]  R9[1,8]   1
     camion_n_en_comuna_c_dia_d[0,1,9]  R2[0,9]   1
     camion_n_en_comuna_c_dia_d[0,1,9]  R5[0,1,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,9]  R7[1,9]   -1000
+    camion_n_en_comuna_c_dia_d[0,1,9]  R7[1,9]   -400
     camion_n_en_comuna_c_dia_d[0,1,9]  R9[1,9]   1
     camion_n_en_comuna_c_dia_d[0,1,10]  R2[0,10]  1
     camion_n_en_comuna_c_dia_d[0,1,10]  R5[0,1,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,10]  R7[1,10]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,10]  R7[1,10]  -400
     camion_n_en_comuna_c_dia_d[0,1,10]  R9[1,10]  1
     camion_n_en_comuna_c_dia_d[0,1,11]  R2[0,11]  1
     camion_n_en_comuna_c_dia_d[0,1,11]  R5[0,1,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,11]  R7[1,11]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,11]  R7[1,11]  -400
     camion_n_en_comuna_c_dia_d[0,1,11]  R9[1,11]  1
     camion_n_en_comuna_c_dia_d[0,1,12]  R2[0,12]  1
     camion_n_en_comuna_c_dia_d[0,1,12]  R5[0,1,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,12]  R7[1,12]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,12]  R7[1,12]  -400
     camion_n_en_comuna_c_dia_d[0,1,12]  R9[1,12]  1
     camion_n_en_comuna_c_dia_d[0,1,13]  R2[0,13]  1
     camion_n_en_comuna_c_dia_d[0,1,13]  R5[0,1,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,13]  R7[1,13]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,13]  R7[1,13]  -400
     camion_n_en_comuna_c_dia_d[0,1,13]  R9[1,13]  1
     camion_n_en_comuna_c_dia_d[0,1,14]  R2[0,14]  1
     camion_n_en_comuna_c_dia_d[0,1,14]  R5[0,1,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,14]  R7[1,14]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,14]  R7[1,14]  -400
     camion_n_en_comuna_c_dia_d[0,1,14]  R9[1,14]  1
     camion_n_en_comuna_c_dia_d[0,1,15]  R2[0,15]  1
     camion_n_en_comuna_c_dia_d[0,1,15]  R5[0,1,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,15]  R7[1,15]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,15]  R7[1,15]  -400
     camion_n_en_comuna_c_dia_d[0,1,15]  R9[1,15]  1
     camion_n_en_comuna_c_dia_d[0,1,16]  R2[0,16]  1
     camion_n_en_comuna_c_dia_d[0,1,16]  R5[0,1,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,16]  R7[1,16]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,16]  R7[1,16]  -400
     camion_n_en_comuna_c_dia_d[0,1,16]  R9[1,16]  1
     camion_n_en_comuna_c_dia_d[0,1,17]  R2[0,17]  1
     camion_n_en_comuna_c_dia_d[0,1,17]  R5[0,1,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,17]  R7[1,17]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,17]  R7[1,17]  -400
     camion_n_en_comuna_c_dia_d[0,1,17]  R9[1,17]  1
     camion_n_en_comuna_c_dia_d[0,1,18]  R2[0,18]  1
     camion_n_en_comuna_c_dia_d[0,1,18]  R5[0,1,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,18]  R7[1,18]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,18]  R7[1,18]  -400
     camion_n_en_comuna_c_dia_d[0,1,18]  R9[1,18]  1
     camion_n_en_comuna_c_dia_d[0,1,19]  R2[0,19]  1
     camion_n_en_comuna_c_dia_d[0,1,19]  R5[0,1,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,19]  R7[1,19]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,19]  R7[1,19]  -400
     camion_n_en_comuna_c_dia_d[0,1,19]  R9[1,19]  1
     camion_n_en_comuna_c_dia_d[0,1,20]  R2[0,20]  1
     camion_n_en_comuna_c_dia_d[0,1,20]  R5[0,1,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,20]  R7[1,20]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,20]  R7[1,20]  -400
     camion_n_en_comuna_c_dia_d[0,1,20]  R9[1,20]  1
     camion_n_en_comuna_c_dia_d[0,1,21]  R2[0,21]  1
     camion_n_en_comuna_c_dia_d[0,1,21]  R5[0,1,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,21]  R7[1,21]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,21]  R7[1,21]  -400
     camion_n_en_comuna_c_dia_d[0,1,21]  R9[1,21]  1
     camion_n_en_comuna_c_dia_d[0,1,22]  R2[0,22]  1
     camion_n_en_comuna_c_dia_d[0,1,22]  R5[0,1,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,22]  R7[1,22]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,22]  R7[1,22]  -400
     camion_n_en_comuna_c_dia_d[0,1,22]  R9[1,22]  1
     camion_n_en_comuna_c_dia_d[0,1,23]  R2[0,23]  1
     camion_n_en_comuna_c_dia_d[0,1,23]  R5[0,1,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,23]  R7[1,23]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,23]  R7[1,23]  -400
     camion_n_en_comuna_c_dia_d[0,1,23]  R9[1,23]  1
     camion_n_en_comuna_c_dia_d[0,1,24]  R2[0,24]  1
     camion_n_en_comuna_c_dia_d[0,1,24]  R5[0,1,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,24]  R7[1,24]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,24]  R7[1,24]  -400
     camion_n_en_comuna_c_dia_d[0,1,24]  R9[1,24]  1
     camion_n_en_comuna_c_dia_d[0,1,25]  R2[0,25]  1
     camion_n_en_comuna_c_dia_d[0,1,25]  R5[0,1,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,25]  R7[1,25]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,25]  R7[1,25]  -400
     camion_n_en_comuna_c_dia_d[0,1,25]  R9[1,25]  1
     camion_n_en_comuna_c_dia_d[0,1,26]  R2[0,26]  1
     camion_n_en_comuna_c_dia_d[0,1,26]  R5[0,1,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,26]  R7[1,26]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,26]  R7[1,26]  -400
     camion_n_en_comuna_c_dia_d[0,1,26]  R9[1,26]  1
     camion_n_en_comuna_c_dia_d[0,1,27]  R2[0,27]  1
     camion_n_en_comuna_c_dia_d[0,1,27]  R5[0,1,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,27]  R7[1,27]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,27]  R7[1,27]  -400
     camion_n_en_comuna_c_dia_d[0,1,27]  R9[1,27]  1
     camion_n_en_comuna_c_dia_d[0,1,28]  R2[0,28]  1
     camion_n_en_comuna_c_dia_d[0,1,28]  R5[0,1,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,28]  R7[1,28]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,28]  R7[1,28]  -400
     camion_n_en_comuna_c_dia_d[0,1,28]  R9[1,28]  1
     camion_n_en_comuna_c_dia_d[0,1,29]  R2[0,29]  1
     camion_n_en_comuna_c_dia_d[0,1,29]  R5[0,1,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,29]  R7[1,29]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,29]  R7[1,29]  -400
     camion_n_en_comuna_c_dia_d[0,1,29]  R9[1,29]  1
     camion_n_en_comuna_c_dia_d[0,1,30]  R2[0,30]  1
     camion_n_en_comuna_c_dia_d[0,1,30]  R5[0,1,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,30]  R7[1,30]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,30]  R7[1,30]  -400
     camion_n_en_comuna_c_dia_d[0,1,30]  R9[1,30]  1
     camion_n_en_comuna_c_dia_d[0,1,31]  R2[0,31]  1
     camion_n_en_comuna_c_dia_d[0,1,31]  R5[0,1,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,31]  R7[1,31]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,31]  R7[1,31]  -400
     camion_n_en_comuna_c_dia_d[0,1,31]  R9[1,31]  1
     camion_n_en_comuna_c_dia_d[0,1,32]  R2[0,32]  1
     camion_n_en_comuna_c_dia_d[0,1,32]  R5[0,1,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,32]  R7[1,32]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,32]  R7[1,32]  -400
     camion_n_en_comuna_c_dia_d[0,1,32]  R9[1,32]  1
     camion_n_en_comuna_c_dia_d[0,1,33]  R2[0,33]  1
     camion_n_en_comuna_c_dia_d[0,1,33]  R5[0,1,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,33]  R7[1,33]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,33]  R7[1,33]  -400
     camion_n_en_comuna_c_dia_d[0,1,33]  R9[1,33]  1
     camion_n_en_comuna_c_dia_d[0,1,34]  R2[0,34]  1
     camion_n_en_comuna_c_dia_d[0,1,34]  R5[0,1,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,34]  R7[1,34]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,34]  R7[1,34]  -400
     camion_n_en_comuna_c_dia_d[0,1,34]  R9[1,34]  1
     camion_n_en_comuna_c_dia_d[0,1,35]  R2[0,35]  1
     camion_n_en_comuna_c_dia_d[0,1,35]  R5[0,1,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,35]  R7[1,35]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,35]  R7[1,35]  -400
     camion_n_en_comuna_c_dia_d[0,1,35]  R9[1,35]  1
     camion_n_en_comuna_c_dia_d[0,1,36]  R2[0,36]  1
     camion_n_en_comuna_c_dia_d[0,1,36]  R5[0,1,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,36]  R7[1,36]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,36]  R7[1,36]  -400
     camion_n_en_comuna_c_dia_d[0,1,36]  R9[1,36]  1
     camion_n_en_comuna_c_dia_d[0,1,37]  R2[0,37]  1
     camion_n_en_comuna_c_dia_d[0,1,37]  R5[0,1,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,37]  R7[1,37]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,37]  R7[1,37]  -400
     camion_n_en_comuna_c_dia_d[0,1,37]  R9[1,37]  1
     camion_n_en_comuna_c_dia_d[0,1,38]  R2[0,38]  1
     camion_n_en_comuna_c_dia_d[0,1,38]  R5[0,1,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,38]  R7[1,38]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,38]  R7[1,38]  -400
     camion_n_en_comuna_c_dia_d[0,1,38]  R9[1,38]  1
     camion_n_en_comuna_c_dia_d[0,1,39]  R2[0,39]  1
     camion_n_en_comuna_c_dia_d[0,1,39]  R5[0,1,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,39]  R7[1,39]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,39]  R7[1,39]  -400
     camion_n_en_comuna_c_dia_d[0,1,39]  R9[1,39]  1
     camion_n_en_comuna_c_dia_d[0,1,40]  R2[0,40]  1
     camion_n_en_comuna_c_dia_d[0,1,40]  R5[0,1,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,40]  R7[1,40]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,40]  R7[1,40]  -400
     camion_n_en_comuna_c_dia_d[0,1,40]  R9[1,40]  1
     camion_n_en_comuna_c_dia_d[0,1,41]  R2[0,41]  1
     camion_n_en_comuna_c_dia_d[0,1,41]  R5[0,1,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,41]  R7[1,41]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,41]  R7[1,41]  -400
     camion_n_en_comuna_c_dia_d[0,1,41]  R9[1,41]  1
     camion_n_en_comuna_c_dia_d[0,1,42]  R2[0,42]  1
     camion_n_en_comuna_c_dia_d[0,1,42]  R5[0,1,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,42]  R7[1,42]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,42]  R7[1,42]  -400
     camion_n_en_comuna_c_dia_d[0,1,42]  R9[1,42]  1
     camion_n_en_comuna_c_dia_d[0,1,43]  R2[0,43]  1
     camion_n_en_comuna_c_dia_d[0,1,43]  R5[0,1,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,43]  R7[1,43]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,43]  R7[1,43]  -400
     camion_n_en_comuna_c_dia_d[0,1,43]  R9[1,43]  1
     camion_n_en_comuna_c_dia_d[0,1,44]  R2[0,44]  1
     camion_n_en_comuna_c_dia_d[0,1,44]  R5[0,1,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,44]  R7[1,44]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,44]  R7[1,44]  -400
     camion_n_en_comuna_c_dia_d[0,1,44]  R9[1,44]  1
     camion_n_en_comuna_c_dia_d[0,1,45]  R2[0,45]  1
     camion_n_en_comuna_c_dia_d[0,1,45]  R5[0,1,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,45]  R7[1,45]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,45]  R7[1,45]  -400
     camion_n_en_comuna_c_dia_d[0,1,45]  R9[1,45]  1
     camion_n_en_comuna_c_dia_d[0,1,46]  R2[0,46]  1
     camion_n_en_comuna_c_dia_d[0,1,46]  R5[0,1,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,46]  R7[1,46]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,46]  R7[1,46]  -400
     camion_n_en_comuna_c_dia_d[0,1,46]  R9[1,46]  1
     camion_n_en_comuna_c_dia_d[0,1,47]  R2[0,47]  1
     camion_n_en_comuna_c_dia_d[0,1,47]  R5[0,1,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,47]  R7[1,47]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,47]  R7[1,47]  -400
     camion_n_en_comuna_c_dia_d[0,1,47]  R9[1,47]  1
     camion_n_en_comuna_c_dia_d[0,1,48]  R2[0,48]  1
     camion_n_en_comuna_c_dia_d[0,1,48]  R5[0,1,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,48]  R7[1,48]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,48]  R7[1,48]  -400
     camion_n_en_comuna_c_dia_d[0,1,48]  R9[1,48]  1
     camion_n_en_comuna_c_dia_d[0,1,49]  R2[0,49]  1
     camion_n_en_comuna_c_dia_d[0,1,49]  R5[0,1,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,49]  R7[1,49]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,49]  R7[1,49]  -400
     camion_n_en_comuna_c_dia_d[0,1,49]  R9[1,49]  1
     camion_n_en_comuna_c_dia_d[0,1,50]  R2[0,50]  1
     camion_n_en_comuna_c_dia_d[0,1,50]  R5[0,1,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,50]  R7[1,50]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,50]  R7[1,50]  -400
     camion_n_en_comuna_c_dia_d[0,1,50]  R9[1,50]  1
     camion_n_en_comuna_c_dia_d[0,1,51]  R2[0,51]  1
     camion_n_en_comuna_c_dia_d[0,1,51]  R5[0,1,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,51]  R7[1,51]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,51]  R7[1,51]  -400
     camion_n_en_comuna_c_dia_d[0,1,51]  R9[1,51]  1
     camion_n_en_comuna_c_dia_d[0,1,52]  R2[0,52]  1
     camion_n_en_comuna_c_dia_d[0,1,52]  R5[0,1,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,52]  R7[1,52]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,52]  R7[1,52]  -400
     camion_n_en_comuna_c_dia_d[0,1,52]  R9[1,52]  1
     camion_n_en_comuna_c_dia_d[0,1,53]  R2[0,53]  1
     camion_n_en_comuna_c_dia_d[0,1,53]  R5[0,1,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,53]  R7[1,53]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,53]  R7[1,53]  -400
     camion_n_en_comuna_c_dia_d[0,1,53]  R9[1,53]  1
     camion_n_en_comuna_c_dia_d[0,1,54]  R2[0,54]  1
     camion_n_en_comuna_c_dia_d[0,1,54]  R5[0,1,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,54]  R7[1,54]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,54]  R7[1,54]  -400
     camion_n_en_comuna_c_dia_d[0,1,54]  R9[1,54]  1
     camion_n_en_comuna_c_dia_d[0,1,55]  R2[0,55]  1
     camion_n_en_comuna_c_dia_d[0,1,55]  R5[0,1,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,55]  R7[1,55]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,55]  R7[1,55]  -400
     camion_n_en_comuna_c_dia_d[0,1,55]  R9[1,55]  1
     camion_n_en_comuna_c_dia_d[0,1,56]  R2[0,56]  1
     camion_n_en_comuna_c_dia_d[0,1,56]  R5[0,1,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,56]  R7[1,56]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,56]  R7[1,56]  -400
     camion_n_en_comuna_c_dia_d[0,1,56]  R9[1,56]  1
     camion_n_en_comuna_c_dia_d[0,1,57]  R2[0,57]  1
     camion_n_en_comuna_c_dia_d[0,1,57]  R5[0,1,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,57]  R7[1,57]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,57]  R7[1,57]  -400
     camion_n_en_comuna_c_dia_d[0,1,57]  R9[1,57]  1
     camion_n_en_comuna_c_dia_d[0,1,58]  R2[0,58]  1
     camion_n_en_comuna_c_dia_d[0,1,58]  R5[0,1,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,58]  R7[1,58]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,58]  R7[1,58]  -400
     camion_n_en_comuna_c_dia_d[0,1,58]  R9[1,58]  1
     camion_n_en_comuna_c_dia_d[0,1,59]  R2[0,59]  1
     camion_n_en_comuna_c_dia_d[0,1,59]  R5[0,1,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,59]  R7[1,59]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,59]  R7[1,59]  -400
     camion_n_en_comuna_c_dia_d[0,1,59]  R9[1,59]  1
     camion_n_en_comuna_c_dia_d[0,1,60]  R2[0,60]  1
     camion_n_en_comuna_c_dia_d[0,1,60]  R5[0,1,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,60]  R7[1,60]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,60]  R7[1,60]  -400
     camion_n_en_comuna_c_dia_d[0,1,60]  R9[1,60]  1
     camion_n_en_comuna_c_dia_d[0,1,61]  R2[0,61]  1
     camion_n_en_comuna_c_dia_d[0,1,61]  R5[0,1,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,61]  R7[1,61]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,61]  R7[1,61]  -400
     camion_n_en_comuna_c_dia_d[0,1,61]  R9[1,61]  1
     camion_n_en_comuna_c_dia_d[0,1,62]  R2[0,62]  1
     camion_n_en_comuna_c_dia_d[0,1,62]  R5[0,1,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,62]  R7[1,62]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,62]  R7[1,62]  -400
     camion_n_en_comuna_c_dia_d[0,1,62]  R9[1,62]  1
     camion_n_en_comuna_c_dia_d[0,1,63]  R2[0,63]  1
     camion_n_en_comuna_c_dia_d[0,1,63]  R5[0,1,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,63]  R7[1,63]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,63]  R7[1,63]  -400
     camion_n_en_comuna_c_dia_d[0,1,63]  R9[1,63]  1
     camion_n_en_comuna_c_dia_d[0,1,64]  R2[0,64]  1
     camion_n_en_comuna_c_dia_d[0,1,64]  R5[0,1,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,64]  R7[1,64]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,64]  R7[1,64]  -400
     camion_n_en_comuna_c_dia_d[0,1,64]  R9[1,64]  1
     camion_n_en_comuna_c_dia_d[0,1,65]  R2[0,65]  1
     camion_n_en_comuna_c_dia_d[0,1,65]  R5[0,1,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,65]  R7[1,65]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,65]  R7[1,65]  -400
     camion_n_en_comuna_c_dia_d[0,1,65]  R9[1,65]  1
     camion_n_en_comuna_c_dia_d[0,1,66]  R2[0,66]  1
     camion_n_en_comuna_c_dia_d[0,1,66]  R5[0,1,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,66]  R7[1,66]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,66]  R7[1,66]  -400
     camion_n_en_comuna_c_dia_d[0,1,66]  R9[1,66]  1
     camion_n_en_comuna_c_dia_d[0,1,67]  R2[0,67]  1
     camion_n_en_comuna_c_dia_d[0,1,67]  R5[0,1,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,67]  R7[1,67]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,67]  R7[1,67]  -400
     camion_n_en_comuna_c_dia_d[0,1,67]  R9[1,67]  1
     camion_n_en_comuna_c_dia_d[0,1,68]  R2[0,68]  1
     camion_n_en_comuna_c_dia_d[0,1,68]  R5[0,1,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,68]  R7[1,68]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,68]  R7[1,68]  -400
     camion_n_en_comuna_c_dia_d[0,1,68]  R9[1,68]  1
     camion_n_en_comuna_c_dia_d[0,1,69]  R2[0,69]  1
     camion_n_en_comuna_c_dia_d[0,1,69]  R5[0,1,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,69]  R7[1,69]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,69]  R7[1,69]  -400
     camion_n_en_comuna_c_dia_d[0,1,69]  R9[1,69]  1
     camion_n_en_comuna_c_dia_d[0,1,70]  R2[0,70]  1
     camion_n_en_comuna_c_dia_d[0,1,70]  R5[0,1,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,70]  R7[1,70]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,70]  R7[1,70]  -400
     camion_n_en_comuna_c_dia_d[0,1,70]  R9[1,70]  1
     camion_n_en_comuna_c_dia_d[0,1,71]  R2[0,71]  1
     camion_n_en_comuna_c_dia_d[0,1,71]  R5[0,1,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,71]  R7[1,71]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,71]  R7[1,71]  -400
     camion_n_en_comuna_c_dia_d[0,1,71]  R9[1,71]  1
     camion_n_en_comuna_c_dia_d[0,1,72]  R2[0,72]  1
     camion_n_en_comuna_c_dia_d[0,1,72]  R5[0,1,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,72]  R7[1,72]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,72]  R7[1,72]  -400
     camion_n_en_comuna_c_dia_d[0,1,72]  R9[1,72]  1
     camion_n_en_comuna_c_dia_d[0,1,73]  R2[0,73]  1
     camion_n_en_comuna_c_dia_d[0,1,73]  R5[0,1,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,73]  R7[1,73]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,73]  R7[1,73]  -400
     camion_n_en_comuna_c_dia_d[0,1,73]  R9[1,73]  1
     camion_n_en_comuna_c_dia_d[0,1,74]  R2[0,74]  1
     camion_n_en_comuna_c_dia_d[0,1,74]  R5[0,1,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,74]  R7[1,74]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,74]  R7[1,74]  -400
     camion_n_en_comuna_c_dia_d[0,1,74]  R9[1,74]  1
     camion_n_en_comuna_c_dia_d[0,1,75]  R2[0,75]  1
     camion_n_en_comuna_c_dia_d[0,1,75]  R5[0,1,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,75]  R7[1,75]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,75]  R7[1,75]  -400
     camion_n_en_comuna_c_dia_d[0,1,75]  R9[1,75]  1
     camion_n_en_comuna_c_dia_d[0,1,76]  R2[0,76]  1
     camion_n_en_comuna_c_dia_d[0,1,76]  R5[0,1,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,76]  R7[1,76]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,76]  R7[1,76]  -400
     camion_n_en_comuna_c_dia_d[0,1,76]  R9[1,76]  1
     camion_n_en_comuna_c_dia_d[0,1,77]  R2[0,77]  1
     camion_n_en_comuna_c_dia_d[0,1,77]  R5[0,1,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,77]  R7[1,77]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,77]  R7[1,77]  -400
     camion_n_en_comuna_c_dia_d[0,1,77]  R9[1,77]  1
     camion_n_en_comuna_c_dia_d[0,1,78]  R2[0,78]  1
     camion_n_en_comuna_c_dia_d[0,1,78]  R5[0,1,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,78]  R7[1,78]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,78]  R7[1,78]  -400
     camion_n_en_comuna_c_dia_d[0,1,78]  R9[1,78]  1
     camion_n_en_comuna_c_dia_d[0,1,79]  R2[0,79]  1
     camion_n_en_comuna_c_dia_d[0,1,79]  R5[0,1,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,79]  R7[1,79]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,79]  R7[1,79]  -400
     camion_n_en_comuna_c_dia_d[0,1,79]  R9[1,79]  1
     camion_n_en_comuna_c_dia_d[0,1,80]  R2[0,80]  1
     camion_n_en_comuna_c_dia_d[0,1,80]  R5[0,1,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,80]  R7[1,80]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,80]  R7[1,80]  -400
     camion_n_en_comuna_c_dia_d[0,1,80]  R9[1,80]  1
     camion_n_en_comuna_c_dia_d[0,1,81]  R2[0,81]  1
     camion_n_en_comuna_c_dia_d[0,1,81]  R5[0,1,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,81]  R7[1,81]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,81]  R7[1,81]  -400
     camion_n_en_comuna_c_dia_d[0,1,81]  R9[1,81]  1
     camion_n_en_comuna_c_dia_d[0,1,82]  R2[0,82]  1
     camion_n_en_comuna_c_dia_d[0,1,82]  R5[0,1,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,82]  R7[1,82]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,82]  R7[1,82]  -400
     camion_n_en_comuna_c_dia_d[0,1,82]  R9[1,82]  1
     camion_n_en_comuna_c_dia_d[0,1,83]  R2[0,83]  1
     camion_n_en_comuna_c_dia_d[0,1,83]  R5[0,1,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,83]  R7[1,83]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,83]  R7[1,83]  -400
     camion_n_en_comuna_c_dia_d[0,1,83]  R9[1,83]  1
     camion_n_en_comuna_c_dia_d[0,1,84]  R2[0,84]  1
     camion_n_en_comuna_c_dia_d[0,1,84]  R5[0,1,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,84]  R7[1,84]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,84]  R7[1,84]  -400
     camion_n_en_comuna_c_dia_d[0,1,84]  R9[1,84]  1
     camion_n_en_comuna_c_dia_d[0,1,85]  R2[0,85]  1
     camion_n_en_comuna_c_dia_d[0,1,85]  R5[0,1,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,85]  R7[1,85]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,85]  R7[1,85]  -400
     camion_n_en_comuna_c_dia_d[0,1,85]  R9[1,85]  1
     camion_n_en_comuna_c_dia_d[0,1,86]  R2[0,86]  1
     camion_n_en_comuna_c_dia_d[0,1,86]  R5[0,1,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,86]  R7[1,86]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,86]  R7[1,86]  -400
     camion_n_en_comuna_c_dia_d[0,1,86]  R9[1,86]  1
     camion_n_en_comuna_c_dia_d[0,1,87]  R2[0,87]  1
     camion_n_en_comuna_c_dia_d[0,1,87]  R5[0,1,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,87]  R7[1,87]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,87]  R7[1,87]  -400
     camion_n_en_comuna_c_dia_d[0,1,87]  R9[1,87]  1
     camion_n_en_comuna_c_dia_d[0,1,88]  R2[0,88]  1
     camion_n_en_comuna_c_dia_d[0,1,88]  R5[0,1,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,88]  R7[1,88]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,88]  R7[1,88]  -400
     camion_n_en_comuna_c_dia_d[0,1,88]  R9[1,88]  1
     camion_n_en_comuna_c_dia_d[0,1,89]  R2[0,89]  1
     camion_n_en_comuna_c_dia_d[0,1,89]  R5[0,1,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,89]  R7[1,89]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,89]  R7[1,89]  -400
     camion_n_en_comuna_c_dia_d[0,1,89]  R9[1,89]  1
     camion_n_en_comuna_c_dia_d[0,1,90]  R2[0,90]  1
     camion_n_en_comuna_c_dia_d[0,1,90]  R5[0,1,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,90]  R7[1,90]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,90]  R7[1,90]  -400
     camion_n_en_comuna_c_dia_d[0,1,90]  R9[1,90]  1
     camion_n_en_comuna_c_dia_d[0,1,91]  R2[0,91]  1
     camion_n_en_comuna_c_dia_d[0,1,91]  R5[0,1,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,91]  R7[1,91]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,91]  R7[1,91]  -400
     camion_n_en_comuna_c_dia_d[0,1,91]  R9[1,91]  1
     camion_n_en_comuna_c_dia_d[0,1,92]  R2[0,92]  1
     camion_n_en_comuna_c_dia_d[0,1,92]  R5[0,1,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,92]  R7[1,92]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,92]  R7[1,92]  -400
     camion_n_en_comuna_c_dia_d[0,1,92]  R9[1,92]  1
     camion_n_en_comuna_c_dia_d[0,1,93]  R2[0,93]  1
     camion_n_en_comuna_c_dia_d[0,1,93]  R5[0,1,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,93]  R7[1,93]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,93]  R7[1,93]  -400
     camion_n_en_comuna_c_dia_d[0,1,93]  R9[1,93]  1
     camion_n_en_comuna_c_dia_d[0,1,94]  R2[0,94]  1
     camion_n_en_comuna_c_dia_d[0,1,94]  R5[0,1,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,94]  R7[1,94]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,94]  R7[1,94]  -400
     camion_n_en_comuna_c_dia_d[0,1,94]  R9[1,94]  1
     camion_n_en_comuna_c_dia_d[0,1,95]  R2[0,95]  1
     camion_n_en_comuna_c_dia_d[0,1,95]  R5[0,1,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,95]  R7[1,95]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,95]  R7[1,95]  -400
     camion_n_en_comuna_c_dia_d[0,1,95]  R9[1,95]  1
     camion_n_en_comuna_c_dia_d[0,1,96]  R2[0,96]  1
     camion_n_en_comuna_c_dia_d[0,1,96]  R5[0,1,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,96]  R7[1,96]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,96]  R7[1,96]  -400
     camion_n_en_comuna_c_dia_d[0,1,96]  R9[1,96]  1
     camion_n_en_comuna_c_dia_d[0,1,97]  R2[0,97]  1
     camion_n_en_comuna_c_dia_d[0,1,97]  R5[0,1,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,97]  R7[1,97]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,97]  R7[1,97]  -400
     camion_n_en_comuna_c_dia_d[0,1,97]  R9[1,97]  1
     camion_n_en_comuna_c_dia_d[0,1,98]  R2[0,98]  1
     camion_n_en_comuna_c_dia_d[0,1,98]  R5[0,1,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,98]  R7[1,98]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,98]  R7[1,98]  -400
     camion_n_en_comuna_c_dia_d[0,1,98]  R9[1,98]  1
     camion_n_en_comuna_c_dia_d[0,1,99]  R2[0,99]  1
     camion_n_en_comuna_c_dia_d[0,1,99]  R5[0,1,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,1,99]  R7[1,99]  -1000
+    camion_n_en_comuna_c_dia_d[0,1,99]  R7[1,99]  -400
     camion_n_en_comuna_c_dia_d[0,1,99]  R9[1,99]  1
     camion_n_en_comuna_c_dia_d[0,2,0]  R2[0,0]   1
     camion_n_en_comuna_c_dia_d[0,2,0]  R5[0,2,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,0]  R7[2,0]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,0]  R7[2,0]   -400
     camion_n_en_comuna_c_dia_d[0,2,0]  R9[2,0]   1
     camion_n_en_comuna_c_dia_d[0,2,1]  R2[0,1]   1
     camion_n_en_comuna_c_dia_d[0,2,1]  R5[0,2,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,1]  R7[2,1]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,1]  R7[2,1]   -400
     camion_n_en_comuna_c_dia_d[0,2,1]  R9[2,1]   1
     camion_n_en_comuna_c_dia_d[0,2,2]  R2[0,2]   1
     camion_n_en_comuna_c_dia_d[0,2,2]  R5[0,2,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,2]  R7[2,2]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,2]  R7[2,2]   -400
     camion_n_en_comuna_c_dia_d[0,2,2]  R9[2,2]   1
     camion_n_en_comuna_c_dia_d[0,2,3]  R2[0,3]   1
     camion_n_en_comuna_c_dia_d[0,2,3]  R5[0,2,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,3]  R7[2,3]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,3]  R7[2,3]   -400
     camion_n_en_comuna_c_dia_d[0,2,3]  R9[2,3]   1
     camion_n_en_comuna_c_dia_d[0,2,4]  R2[0,4]   1
     camion_n_en_comuna_c_dia_d[0,2,4]  R5[0,2,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,4]  R7[2,4]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,4]  R7[2,4]   -400
     camion_n_en_comuna_c_dia_d[0,2,4]  R9[2,4]   1
     camion_n_en_comuna_c_dia_d[0,2,5]  R2[0,5]   1
     camion_n_en_comuna_c_dia_d[0,2,5]  R5[0,2,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,5]  R7[2,5]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,5]  R7[2,5]   -400
     camion_n_en_comuna_c_dia_d[0,2,5]  R9[2,5]   1
     camion_n_en_comuna_c_dia_d[0,2,6]  R2[0,6]   1
     camion_n_en_comuna_c_dia_d[0,2,6]  R5[0,2,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,6]  R7[2,6]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,6]  R7[2,6]   -400
     camion_n_en_comuna_c_dia_d[0,2,6]  R9[2,6]   1
     camion_n_en_comuna_c_dia_d[0,2,7]  R2[0,7]   1
     camion_n_en_comuna_c_dia_d[0,2,7]  R5[0,2,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,7]  R7[2,7]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,7]  R7[2,7]   -400
     camion_n_en_comuna_c_dia_d[0,2,7]  R9[2,7]   1
     camion_n_en_comuna_c_dia_d[0,2,8]  R2[0,8]   1
     camion_n_en_comuna_c_dia_d[0,2,8]  R5[0,2,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,8]  R7[2,8]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,8]  R7[2,8]   -400
     camion_n_en_comuna_c_dia_d[0,2,8]  R9[2,8]   1
     camion_n_en_comuna_c_dia_d[0,2,9]  R2[0,9]   1
     camion_n_en_comuna_c_dia_d[0,2,9]  R5[0,2,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,9]  R7[2,9]   -1000
+    camion_n_en_comuna_c_dia_d[0,2,9]  R7[2,9]   -400
     camion_n_en_comuna_c_dia_d[0,2,9]  R9[2,9]   1
     camion_n_en_comuna_c_dia_d[0,2,10]  R2[0,10]  1
     camion_n_en_comuna_c_dia_d[0,2,10]  R5[0,2,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,10]  R7[2,10]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,10]  R7[2,10]  -400
     camion_n_en_comuna_c_dia_d[0,2,10]  R9[2,10]  1
     camion_n_en_comuna_c_dia_d[0,2,11]  R2[0,11]  1
     camion_n_en_comuna_c_dia_d[0,2,11]  R5[0,2,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,11]  R7[2,11]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,11]  R7[2,11]  -400
     camion_n_en_comuna_c_dia_d[0,2,11]  R9[2,11]  1
     camion_n_en_comuna_c_dia_d[0,2,12]  R2[0,12]  1
     camion_n_en_comuna_c_dia_d[0,2,12]  R5[0,2,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,12]  R7[2,12]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,12]  R7[2,12]  -400
     camion_n_en_comuna_c_dia_d[0,2,12]  R9[2,12]  1
     camion_n_en_comuna_c_dia_d[0,2,13]  R2[0,13]  1
     camion_n_en_comuna_c_dia_d[0,2,13]  R5[0,2,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,13]  R7[2,13]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,13]  R7[2,13]  -400
     camion_n_en_comuna_c_dia_d[0,2,13]  R9[2,13]  1
     camion_n_en_comuna_c_dia_d[0,2,14]  R2[0,14]  1
     camion_n_en_comuna_c_dia_d[0,2,14]  R5[0,2,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,14]  R7[2,14]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,14]  R7[2,14]  -400
     camion_n_en_comuna_c_dia_d[0,2,14]  R9[2,14]  1
     camion_n_en_comuna_c_dia_d[0,2,15]  R2[0,15]  1
     camion_n_en_comuna_c_dia_d[0,2,15]  R5[0,2,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,15]  R7[2,15]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,15]  R7[2,15]  -400
     camion_n_en_comuna_c_dia_d[0,2,15]  R9[2,15]  1
     camion_n_en_comuna_c_dia_d[0,2,16]  R2[0,16]  1
     camion_n_en_comuna_c_dia_d[0,2,16]  R5[0,2,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,16]  R7[2,16]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,16]  R7[2,16]  -400
     camion_n_en_comuna_c_dia_d[0,2,16]  R9[2,16]  1
     camion_n_en_comuna_c_dia_d[0,2,17]  R2[0,17]  1
     camion_n_en_comuna_c_dia_d[0,2,17]  R5[0,2,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,17]  R7[2,17]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,17]  R7[2,17]  -400
     camion_n_en_comuna_c_dia_d[0,2,17]  R9[2,17]  1
     camion_n_en_comuna_c_dia_d[0,2,18]  R2[0,18]  1
     camion_n_en_comuna_c_dia_d[0,2,18]  R5[0,2,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,18]  R7[2,18]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,18]  R7[2,18]  -400
     camion_n_en_comuna_c_dia_d[0,2,18]  R9[2,18]  1
     camion_n_en_comuna_c_dia_d[0,2,19]  R2[0,19]  1
     camion_n_en_comuna_c_dia_d[0,2,19]  R5[0,2,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,19]  R7[2,19]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,19]  R7[2,19]  -400
     camion_n_en_comuna_c_dia_d[0,2,19]  R9[2,19]  1
     camion_n_en_comuna_c_dia_d[0,2,20]  R2[0,20]  1
     camion_n_en_comuna_c_dia_d[0,2,20]  R5[0,2,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,20]  R7[2,20]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,20]  R7[2,20]  -400
     camion_n_en_comuna_c_dia_d[0,2,20]  R9[2,20]  1
     camion_n_en_comuna_c_dia_d[0,2,21]  R2[0,21]  1
     camion_n_en_comuna_c_dia_d[0,2,21]  R5[0,2,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,21]  R7[2,21]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,21]  R7[2,21]  -400
     camion_n_en_comuna_c_dia_d[0,2,21]  R9[2,21]  1
     camion_n_en_comuna_c_dia_d[0,2,22]  R2[0,22]  1
     camion_n_en_comuna_c_dia_d[0,2,22]  R5[0,2,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,22]  R7[2,22]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,22]  R7[2,22]  -400
     camion_n_en_comuna_c_dia_d[0,2,22]  R9[2,22]  1
     camion_n_en_comuna_c_dia_d[0,2,23]  R2[0,23]  1
     camion_n_en_comuna_c_dia_d[0,2,23]  R5[0,2,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,23]  R7[2,23]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,23]  R7[2,23]  -400
     camion_n_en_comuna_c_dia_d[0,2,23]  R9[2,23]  1
     camion_n_en_comuna_c_dia_d[0,2,24]  R2[0,24]  1
     camion_n_en_comuna_c_dia_d[0,2,24]  R5[0,2,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,24]  R7[2,24]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,24]  R7[2,24]  -400
     camion_n_en_comuna_c_dia_d[0,2,24]  R9[2,24]  1
     camion_n_en_comuna_c_dia_d[0,2,25]  R2[0,25]  1
     camion_n_en_comuna_c_dia_d[0,2,25]  R5[0,2,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,25]  R7[2,25]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,25]  R7[2,25]  -400
     camion_n_en_comuna_c_dia_d[0,2,25]  R9[2,25]  1
     camion_n_en_comuna_c_dia_d[0,2,26]  R2[0,26]  1
     camion_n_en_comuna_c_dia_d[0,2,26]  R5[0,2,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,26]  R7[2,26]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,26]  R7[2,26]  -400
     camion_n_en_comuna_c_dia_d[0,2,26]  R9[2,26]  1
     camion_n_en_comuna_c_dia_d[0,2,27]  R2[0,27]  1
     camion_n_en_comuna_c_dia_d[0,2,27]  R5[0,2,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,27]  R7[2,27]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,27]  R7[2,27]  -400
     camion_n_en_comuna_c_dia_d[0,2,27]  R9[2,27]  1
     camion_n_en_comuna_c_dia_d[0,2,28]  R2[0,28]  1
     camion_n_en_comuna_c_dia_d[0,2,28]  R5[0,2,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,28]  R7[2,28]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,28]  R7[2,28]  -400
     camion_n_en_comuna_c_dia_d[0,2,28]  R9[2,28]  1
     camion_n_en_comuna_c_dia_d[0,2,29]  R2[0,29]  1
     camion_n_en_comuna_c_dia_d[0,2,29]  R5[0,2,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,29]  R7[2,29]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,29]  R7[2,29]  -400
     camion_n_en_comuna_c_dia_d[0,2,29]  R9[2,29]  1
     camion_n_en_comuna_c_dia_d[0,2,30]  R2[0,30]  1
     camion_n_en_comuna_c_dia_d[0,2,30]  R5[0,2,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,30]  R7[2,30]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,30]  R7[2,30]  -400
     camion_n_en_comuna_c_dia_d[0,2,30]  R9[2,30]  1
     camion_n_en_comuna_c_dia_d[0,2,31]  R2[0,31]  1
     camion_n_en_comuna_c_dia_d[0,2,31]  R5[0,2,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,31]  R7[2,31]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,31]  R7[2,31]  -400
     camion_n_en_comuna_c_dia_d[0,2,31]  R9[2,31]  1
     camion_n_en_comuna_c_dia_d[0,2,32]  R2[0,32]  1
     camion_n_en_comuna_c_dia_d[0,2,32]  R5[0,2,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,32]  R7[2,32]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,32]  R7[2,32]  -400
     camion_n_en_comuna_c_dia_d[0,2,32]  R9[2,32]  1
     camion_n_en_comuna_c_dia_d[0,2,33]  R2[0,33]  1
     camion_n_en_comuna_c_dia_d[0,2,33]  R5[0,2,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,33]  R7[2,33]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,33]  R7[2,33]  -400
     camion_n_en_comuna_c_dia_d[0,2,33]  R9[2,33]  1
     camion_n_en_comuna_c_dia_d[0,2,34]  R2[0,34]  1
     camion_n_en_comuna_c_dia_d[0,2,34]  R5[0,2,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,34]  R7[2,34]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,34]  R7[2,34]  -400
     camion_n_en_comuna_c_dia_d[0,2,34]  R9[2,34]  1
     camion_n_en_comuna_c_dia_d[0,2,35]  R2[0,35]  1
     camion_n_en_comuna_c_dia_d[0,2,35]  R5[0,2,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,35]  R7[2,35]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,35]  R7[2,35]  -400
     camion_n_en_comuna_c_dia_d[0,2,35]  R9[2,35]  1
     camion_n_en_comuna_c_dia_d[0,2,36]  R2[0,36]  1
     camion_n_en_comuna_c_dia_d[0,2,36]  R5[0,2,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,36]  R7[2,36]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,36]  R7[2,36]  -400
     camion_n_en_comuna_c_dia_d[0,2,36]  R9[2,36]  1
     camion_n_en_comuna_c_dia_d[0,2,37]  R2[0,37]  1
     camion_n_en_comuna_c_dia_d[0,2,37]  R5[0,2,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,37]  R7[2,37]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,37]  R7[2,37]  -400
     camion_n_en_comuna_c_dia_d[0,2,37]  R9[2,37]  1
     camion_n_en_comuna_c_dia_d[0,2,38]  R2[0,38]  1
     camion_n_en_comuna_c_dia_d[0,2,38]  R5[0,2,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,38]  R7[2,38]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,38]  R7[2,38]  -400
     camion_n_en_comuna_c_dia_d[0,2,38]  R9[2,38]  1
     camion_n_en_comuna_c_dia_d[0,2,39]  R2[0,39]  1
     camion_n_en_comuna_c_dia_d[0,2,39]  R5[0,2,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,39]  R7[2,39]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,39]  R7[2,39]  -400
     camion_n_en_comuna_c_dia_d[0,2,39]  R9[2,39]  1
     camion_n_en_comuna_c_dia_d[0,2,40]  R2[0,40]  1
     camion_n_en_comuna_c_dia_d[0,2,40]  R5[0,2,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,40]  R7[2,40]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,40]  R7[2,40]  -400
     camion_n_en_comuna_c_dia_d[0,2,40]  R9[2,40]  1
     camion_n_en_comuna_c_dia_d[0,2,41]  R2[0,41]  1
     camion_n_en_comuna_c_dia_d[0,2,41]  R5[0,2,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,41]  R7[2,41]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,41]  R7[2,41]  -400
     camion_n_en_comuna_c_dia_d[0,2,41]  R9[2,41]  1
     camion_n_en_comuna_c_dia_d[0,2,42]  R2[0,42]  1
     camion_n_en_comuna_c_dia_d[0,2,42]  R5[0,2,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,42]  R7[2,42]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,42]  R7[2,42]  -400
     camion_n_en_comuna_c_dia_d[0,2,42]  R9[2,42]  1
     camion_n_en_comuna_c_dia_d[0,2,43]  R2[0,43]  1
     camion_n_en_comuna_c_dia_d[0,2,43]  R5[0,2,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,43]  R7[2,43]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,43]  R7[2,43]  -400
     camion_n_en_comuna_c_dia_d[0,2,43]  R9[2,43]  1
     camion_n_en_comuna_c_dia_d[0,2,44]  R2[0,44]  1
     camion_n_en_comuna_c_dia_d[0,2,44]  R5[0,2,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,44]  R7[2,44]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,44]  R7[2,44]  -400
     camion_n_en_comuna_c_dia_d[0,2,44]  R9[2,44]  1
     camion_n_en_comuna_c_dia_d[0,2,45]  R2[0,45]  1
     camion_n_en_comuna_c_dia_d[0,2,45]  R5[0,2,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,45]  R7[2,45]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,45]  R7[2,45]  -400
     camion_n_en_comuna_c_dia_d[0,2,45]  R9[2,45]  1
     camion_n_en_comuna_c_dia_d[0,2,46]  R2[0,46]  1
     camion_n_en_comuna_c_dia_d[0,2,46]  R5[0,2,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,46]  R7[2,46]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,46]  R7[2,46]  -400
     camion_n_en_comuna_c_dia_d[0,2,46]  R9[2,46]  1
     camion_n_en_comuna_c_dia_d[0,2,47]  R2[0,47]  1
     camion_n_en_comuna_c_dia_d[0,2,47]  R5[0,2,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,47]  R7[2,47]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,47]  R7[2,47]  -400
     camion_n_en_comuna_c_dia_d[0,2,47]  R9[2,47]  1
     camion_n_en_comuna_c_dia_d[0,2,48]  R2[0,48]  1
     camion_n_en_comuna_c_dia_d[0,2,48]  R5[0,2,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,48]  R7[2,48]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,48]  R7[2,48]  -400
     camion_n_en_comuna_c_dia_d[0,2,48]  R9[2,48]  1
     camion_n_en_comuna_c_dia_d[0,2,49]  R2[0,49]  1
     camion_n_en_comuna_c_dia_d[0,2,49]  R5[0,2,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,49]  R7[2,49]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,49]  R7[2,49]  -400
     camion_n_en_comuna_c_dia_d[0,2,49]  R9[2,49]  1
     camion_n_en_comuna_c_dia_d[0,2,50]  R2[0,50]  1
     camion_n_en_comuna_c_dia_d[0,2,50]  R5[0,2,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,50]  R7[2,50]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,50]  R7[2,50]  -400
     camion_n_en_comuna_c_dia_d[0,2,50]  R9[2,50]  1
     camion_n_en_comuna_c_dia_d[0,2,51]  R2[0,51]  1
     camion_n_en_comuna_c_dia_d[0,2,51]  R5[0,2,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,51]  R7[2,51]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,51]  R7[2,51]  -400
     camion_n_en_comuna_c_dia_d[0,2,51]  R9[2,51]  1
     camion_n_en_comuna_c_dia_d[0,2,52]  R2[0,52]  1
     camion_n_en_comuna_c_dia_d[0,2,52]  R5[0,2,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,52]  R7[2,52]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,52]  R7[2,52]  -400
     camion_n_en_comuna_c_dia_d[0,2,52]  R9[2,52]  1
     camion_n_en_comuna_c_dia_d[0,2,53]  R2[0,53]  1
     camion_n_en_comuna_c_dia_d[0,2,53]  R5[0,2,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,53]  R7[2,53]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,53]  R7[2,53]  -400
     camion_n_en_comuna_c_dia_d[0,2,53]  R9[2,53]  1
     camion_n_en_comuna_c_dia_d[0,2,54]  R2[0,54]  1
     camion_n_en_comuna_c_dia_d[0,2,54]  R5[0,2,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,54]  R7[2,54]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,54]  R7[2,54]  -400
     camion_n_en_comuna_c_dia_d[0,2,54]  R9[2,54]  1
     camion_n_en_comuna_c_dia_d[0,2,55]  R2[0,55]  1
     camion_n_en_comuna_c_dia_d[0,2,55]  R5[0,2,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,55]  R7[2,55]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,55]  R7[2,55]  -400
     camion_n_en_comuna_c_dia_d[0,2,55]  R9[2,55]  1
     camion_n_en_comuna_c_dia_d[0,2,56]  R2[0,56]  1
     camion_n_en_comuna_c_dia_d[0,2,56]  R5[0,2,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,56]  R7[2,56]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,56]  R7[2,56]  -400
     camion_n_en_comuna_c_dia_d[0,2,56]  R9[2,56]  1
     camion_n_en_comuna_c_dia_d[0,2,57]  R2[0,57]  1
     camion_n_en_comuna_c_dia_d[0,2,57]  R5[0,2,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,57]  R7[2,57]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,57]  R7[2,57]  -400
     camion_n_en_comuna_c_dia_d[0,2,57]  R9[2,57]  1
     camion_n_en_comuna_c_dia_d[0,2,58]  R2[0,58]  1
     camion_n_en_comuna_c_dia_d[0,2,58]  R5[0,2,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,58]  R7[2,58]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,58]  R7[2,58]  -400
     camion_n_en_comuna_c_dia_d[0,2,58]  R9[2,58]  1
     camion_n_en_comuna_c_dia_d[0,2,59]  R2[0,59]  1
     camion_n_en_comuna_c_dia_d[0,2,59]  R5[0,2,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,59]  R7[2,59]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,59]  R7[2,59]  -400
     camion_n_en_comuna_c_dia_d[0,2,59]  R9[2,59]  1
     camion_n_en_comuna_c_dia_d[0,2,60]  R2[0,60]  1
     camion_n_en_comuna_c_dia_d[0,2,60]  R5[0,2,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,60]  R7[2,60]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,60]  R7[2,60]  -400
     camion_n_en_comuna_c_dia_d[0,2,60]  R9[2,60]  1
     camion_n_en_comuna_c_dia_d[0,2,61]  R2[0,61]  1
     camion_n_en_comuna_c_dia_d[0,2,61]  R5[0,2,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,61]  R7[2,61]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,61]  R7[2,61]  -400
     camion_n_en_comuna_c_dia_d[0,2,61]  R9[2,61]  1
     camion_n_en_comuna_c_dia_d[0,2,62]  R2[0,62]  1
     camion_n_en_comuna_c_dia_d[0,2,62]  R5[0,2,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,62]  R7[2,62]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,62]  R7[2,62]  -400
     camion_n_en_comuna_c_dia_d[0,2,62]  R9[2,62]  1
     camion_n_en_comuna_c_dia_d[0,2,63]  R2[0,63]  1
     camion_n_en_comuna_c_dia_d[0,2,63]  R5[0,2,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,63]  R7[2,63]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,63]  R7[2,63]  -400
     camion_n_en_comuna_c_dia_d[0,2,63]  R9[2,63]  1
     camion_n_en_comuna_c_dia_d[0,2,64]  R2[0,64]  1
     camion_n_en_comuna_c_dia_d[0,2,64]  R5[0,2,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,64]  R7[2,64]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,64]  R7[2,64]  -400
     camion_n_en_comuna_c_dia_d[0,2,64]  R9[2,64]  1
     camion_n_en_comuna_c_dia_d[0,2,65]  R2[0,65]  1
     camion_n_en_comuna_c_dia_d[0,2,65]  R5[0,2,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,65]  R7[2,65]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,65]  R7[2,65]  -400
     camion_n_en_comuna_c_dia_d[0,2,65]  R9[2,65]  1
     camion_n_en_comuna_c_dia_d[0,2,66]  R2[0,66]  1
     camion_n_en_comuna_c_dia_d[0,2,66]  R5[0,2,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,66]  R7[2,66]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,66]  R7[2,66]  -400
     camion_n_en_comuna_c_dia_d[0,2,66]  R9[2,66]  1
     camion_n_en_comuna_c_dia_d[0,2,67]  R2[0,67]  1
     camion_n_en_comuna_c_dia_d[0,2,67]  R5[0,2,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,67]  R7[2,67]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,67]  R7[2,67]  -400
     camion_n_en_comuna_c_dia_d[0,2,67]  R9[2,67]  1
     camion_n_en_comuna_c_dia_d[0,2,68]  R2[0,68]  1
     camion_n_en_comuna_c_dia_d[0,2,68]  R5[0,2,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,68]  R7[2,68]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,68]  R7[2,68]  -400
     camion_n_en_comuna_c_dia_d[0,2,68]  R9[2,68]  1
     camion_n_en_comuna_c_dia_d[0,2,69]  R2[0,69]  1
     camion_n_en_comuna_c_dia_d[0,2,69]  R5[0,2,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,69]  R7[2,69]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,69]  R7[2,69]  -400
     camion_n_en_comuna_c_dia_d[0,2,69]  R9[2,69]  1
     camion_n_en_comuna_c_dia_d[0,2,70]  R2[0,70]  1
     camion_n_en_comuna_c_dia_d[0,2,70]  R5[0,2,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,70]  R7[2,70]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,70]  R7[2,70]  -400
     camion_n_en_comuna_c_dia_d[0,2,70]  R9[2,70]  1
     camion_n_en_comuna_c_dia_d[0,2,71]  R2[0,71]  1
     camion_n_en_comuna_c_dia_d[0,2,71]  R5[0,2,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,71]  R7[2,71]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,71]  R7[2,71]  -400
     camion_n_en_comuna_c_dia_d[0,2,71]  R9[2,71]  1
     camion_n_en_comuna_c_dia_d[0,2,72]  R2[0,72]  1
     camion_n_en_comuna_c_dia_d[0,2,72]  R5[0,2,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,72]  R7[2,72]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,72]  R7[2,72]  -400
     camion_n_en_comuna_c_dia_d[0,2,72]  R9[2,72]  1
     camion_n_en_comuna_c_dia_d[0,2,73]  R2[0,73]  1
     camion_n_en_comuna_c_dia_d[0,2,73]  R5[0,2,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,73]  R7[2,73]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,73]  R7[2,73]  -400
     camion_n_en_comuna_c_dia_d[0,2,73]  R9[2,73]  1
     camion_n_en_comuna_c_dia_d[0,2,74]  R2[0,74]  1
     camion_n_en_comuna_c_dia_d[0,2,74]  R5[0,2,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,74]  R7[2,74]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,74]  R7[2,74]  -400
     camion_n_en_comuna_c_dia_d[0,2,74]  R9[2,74]  1
     camion_n_en_comuna_c_dia_d[0,2,75]  R2[0,75]  1
     camion_n_en_comuna_c_dia_d[0,2,75]  R5[0,2,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,75]  R7[2,75]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,75]  R7[2,75]  -400
     camion_n_en_comuna_c_dia_d[0,2,75]  R9[2,75]  1
     camion_n_en_comuna_c_dia_d[0,2,76]  R2[0,76]  1
     camion_n_en_comuna_c_dia_d[0,2,76]  R5[0,2,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,76]  R7[2,76]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,76]  R7[2,76]  -400
     camion_n_en_comuna_c_dia_d[0,2,76]  R9[2,76]  1
     camion_n_en_comuna_c_dia_d[0,2,77]  R2[0,77]  1
     camion_n_en_comuna_c_dia_d[0,2,77]  R5[0,2,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,77]  R7[2,77]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,77]  R7[2,77]  -400
     camion_n_en_comuna_c_dia_d[0,2,77]  R9[2,77]  1
     camion_n_en_comuna_c_dia_d[0,2,78]  R2[0,78]  1
     camion_n_en_comuna_c_dia_d[0,2,78]  R5[0,2,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,78]  R7[2,78]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,78]  R7[2,78]  -400
     camion_n_en_comuna_c_dia_d[0,2,78]  R9[2,78]  1
     camion_n_en_comuna_c_dia_d[0,2,79]  R2[0,79]  1
     camion_n_en_comuna_c_dia_d[0,2,79]  R5[0,2,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,79]  R7[2,79]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,79]  R7[2,79]  -400
     camion_n_en_comuna_c_dia_d[0,2,79]  R9[2,79]  1
     camion_n_en_comuna_c_dia_d[0,2,80]  R2[0,80]  1
     camion_n_en_comuna_c_dia_d[0,2,80]  R5[0,2,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,80]  R7[2,80]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,80]  R7[2,80]  -400
     camion_n_en_comuna_c_dia_d[0,2,80]  R9[2,80]  1
     camion_n_en_comuna_c_dia_d[0,2,81]  R2[0,81]  1
     camion_n_en_comuna_c_dia_d[0,2,81]  R5[0,2,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,81]  R7[2,81]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,81]  R7[2,81]  -400
     camion_n_en_comuna_c_dia_d[0,2,81]  R9[2,81]  1
     camion_n_en_comuna_c_dia_d[0,2,82]  R2[0,82]  1
     camion_n_en_comuna_c_dia_d[0,2,82]  R5[0,2,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,82]  R7[2,82]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,82]  R7[2,82]  -400
     camion_n_en_comuna_c_dia_d[0,2,82]  R9[2,82]  1
     camion_n_en_comuna_c_dia_d[0,2,83]  R2[0,83]  1
     camion_n_en_comuna_c_dia_d[0,2,83]  R5[0,2,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,83]  R7[2,83]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,83]  R7[2,83]  -400
     camion_n_en_comuna_c_dia_d[0,2,83]  R9[2,83]  1
     camion_n_en_comuna_c_dia_d[0,2,84]  R2[0,84]  1
     camion_n_en_comuna_c_dia_d[0,2,84]  R5[0,2,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,84]  R7[2,84]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,84]  R7[2,84]  -400
     camion_n_en_comuna_c_dia_d[0,2,84]  R9[2,84]  1
     camion_n_en_comuna_c_dia_d[0,2,85]  R2[0,85]  1
     camion_n_en_comuna_c_dia_d[0,2,85]  R5[0,2,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,85]  R7[2,85]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,85]  R7[2,85]  -400
     camion_n_en_comuna_c_dia_d[0,2,85]  R9[2,85]  1
     camion_n_en_comuna_c_dia_d[0,2,86]  R2[0,86]  1
     camion_n_en_comuna_c_dia_d[0,2,86]  R5[0,2,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,86]  R7[2,86]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,86]  R7[2,86]  -400
     camion_n_en_comuna_c_dia_d[0,2,86]  R9[2,86]  1
     camion_n_en_comuna_c_dia_d[0,2,87]  R2[0,87]  1
     camion_n_en_comuna_c_dia_d[0,2,87]  R5[0,2,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,87]  R7[2,87]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,87]  R7[2,87]  -400
     camion_n_en_comuna_c_dia_d[0,2,87]  R9[2,87]  1
     camion_n_en_comuna_c_dia_d[0,2,88]  R2[0,88]  1
     camion_n_en_comuna_c_dia_d[0,2,88]  R5[0,2,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,88]  R7[2,88]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,88]  R7[2,88]  -400
     camion_n_en_comuna_c_dia_d[0,2,88]  R9[2,88]  1
     camion_n_en_comuna_c_dia_d[0,2,89]  R2[0,89]  1
     camion_n_en_comuna_c_dia_d[0,2,89]  R5[0,2,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,89]  R7[2,89]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,89]  R7[2,89]  -400
     camion_n_en_comuna_c_dia_d[0,2,89]  R9[2,89]  1
     camion_n_en_comuna_c_dia_d[0,2,90]  R2[0,90]  1
     camion_n_en_comuna_c_dia_d[0,2,90]  R5[0,2,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,90]  R7[2,90]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,90]  R7[2,90]  -400
     camion_n_en_comuna_c_dia_d[0,2,90]  R9[2,90]  1
     camion_n_en_comuna_c_dia_d[0,2,91]  R2[0,91]  1
     camion_n_en_comuna_c_dia_d[0,2,91]  R5[0,2,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,91]  R7[2,91]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,91]  R7[2,91]  -400
     camion_n_en_comuna_c_dia_d[0,2,91]  R9[2,91]  1
     camion_n_en_comuna_c_dia_d[0,2,92]  R2[0,92]  1
     camion_n_en_comuna_c_dia_d[0,2,92]  R5[0,2,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,92]  R7[2,92]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,92]  R7[2,92]  -400
     camion_n_en_comuna_c_dia_d[0,2,92]  R9[2,92]  1
     camion_n_en_comuna_c_dia_d[0,2,93]  R2[0,93]  1
     camion_n_en_comuna_c_dia_d[0,2,93]  R5[0,2,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,93]  R7[2,93]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,93]  R7[2,93]  -400
     camion_n_en_comuna_c_dia_d[0,2,93]  R9[2,93]  1
     camion_n_en_comuna_c_dia_d[0,2,94]  R2[0,94]  1
     camion_n_en_comuna_c_dia_d[0,2,94]  R5[0,2,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,94]  R7[2,94]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,94]  R7[2,94]  -400
     camion_n_en_comuna_c_dia_d[0,2,94]  R9[2,94]  1
     camion_n_en_comuna_c_dia_d[0,2,95]  R2[0,95]  1
     camion_n_en_comuna_c_dia_d[0,2,95]  R5[0,2,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,95]  R7[2,95]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,95]  R7[2,95]  -400
     camion_n_en_comuna_c_dia_d[0,2,95]  R9[2,95]  1
     camion_n_en_comuna_c_dia_d[0,2,96]  R2[0,96]  1
     camion_n_en_comuna_c_dia_d[0,2,96]  R5[0,2,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,96]  R7[2,96]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,96]  R7[2,96]  -400
     camion_n_en_comuna_c_dia_d[0,2,96]  R9[2,96]  1
     camion_n_en_comuna_c_dia_d[0,2,97]  R2[0,97]  1
     camion_n_en_comuna_c_dia_d[0,2,97]  R5[0,2,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,97]  R7[2,97]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,97]  R7[2,97]  -400
     camion_n_en_comuna_c_dia_d[0,2,97]  R9[2,97]  1
     camion_n_en_comuna_c_dia_d[0,2,98]  R2[0,98]  1
     camion_n_en_comuna_c_dia_d[0,2,98]  R5[0,2,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,98]  R7[2,98]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,98]  R7[2,98]  -400
     camion_n_en_comuna_c_dia_d[0,2,98]  R9[2,98]  1
     camion_n_en_comuna_c_dia_d[0,2,99]  R2[0,99]  1
     camion_n_en_comuna_c_dia_d[0,2,99]  R5[0,2,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,2,99]  R7[2,99]  -1000
+    camion_n_en_comuna_c_dia_d[0,2,99]  R7[2,99]  -400
     camion_n_en_comuna_c_dia_d[0,2,99]  R9[2,99]  1
     camion_n_en_comuna_c_dia_d[0,3,0]  R2[0,0]   1
     camion_n_en_comuna_c_dia_d[0,3,0]  R5[0,3,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,0]  R7[3,0]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,0]  R7[3,0]   -400
     camion_n_en_comuna_c_dia_d[0,3,0]  R9[3,0]   1
     camion_n_en_comuna_c_dia_d[0,3,1]  R2[0,1]   1
     camion_n_en_comuna_c_dia_d[0,3,1]  R5[0,3,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,1]  R7[3,1]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,1]  R7[3,1]   -400
     camion_n_en_comuna_c_dia_d[0,3,1]  R9[3,1]   1
     camion_n_en_comuna_c_dia_d[0,3,2]  R2[0,2]   1
     camion_n_en_comuna_c_dia_d[0,3,2]  R5[0,3,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,2]  R7[3,2]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,2]  R7[3,2]   -400
     camion_n_en_comuna_c_dia_d[0,3,2]  R9[3,2]   1
     camion_n_en_comuna_c_dia_d[0,3,3]  R2[0,3]   1
     camion_n_en_comuna_c_dia_d[0,3,3]  R5[0,3,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,3]  R7[3,3]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,3]  R7[3,3]   -400
     camion_n_en_comuna_c_dia_d[0,3,3]  R9[3,3]   1
     camion_n_en_comuna_c_dia_d[0,3,4]  R2[0,4]   1
     camion_n_en_comuna_c_dia_d[0,3,4]  R5[0,3,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,4]  R7[3,4]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,4]  R7[3,4]   -400
     camion_n_en_comuna_c_dia_d[0,3,4]  R9[3,4]   1
     camion_n_en_comuna_c_dia_d[0,3,5]  R2[0,5]   1
     camion_n_en_comuna_c_dia_d[0,3,5]  R5[0,3,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,5]  R7[3,5]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,5]  R7[3,5]   -400
     camion_n_en_comuna_c_dia_d[0,3,5]  R9[3,5]   1
     camion_n_en_comuna_c_dia_d[0,3,6]  R2[0,6]   1
     camion_n_en_comuna_c_dia_d[0,3,6]  R5[0,3,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,6]  R7[3,6]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,6]  R7[3,6]   -400
     camion_n_en_comuna_c_dia_d[0,3,6]  R9[3,6]   1
     camion_n_en_comuna_c_dia_d[0,3,7]  R2[0,7]   1
     camion_n_en_comuna_c_dia_d[0,3,7]  R5[0,3,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,7]  R7[3,7]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,7]  R7[3,7]   -400
     camion_n_en_comuna_c_dia_d[0,3,7]  R9[3,7]   1
     camion_n_en_comuna_c_dia_d[0,3,8]  R2[0,8]   1
     camion_n_en_comuna_c_dia_d[0,3,8]  R5[0,3,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,8]  R7[3,8]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,8]  R7[3,8]   -400
     camion_n_en_comuna_c_dia_d[0,3,8]  R9[3,8]   1
     camion_n_en_comuna_c_dia_d[0,3,9]  R2[0,9]   1
     camion_n_en_comuna_c_dia_d[0,3,9]  R5[0,3,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,9]  R7[3,9]   -1000
+    camion_n_en_comuna_c_dia_d[0,3,9]  R7[3,9]   -400
     camion_n_en_comuna_c_dia_d[0,3,9]  R9[3,9]   1
     camion_n_en_comuna_c_dia_d[0,3,10]  R2[0,10]  1
     camion_n_en_comuna_c_dia_d[0,3,10]  R5[0,3,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,10]  R7[3,10]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,10]  R7[3,10]  -400
     camion_n_en_comuna_c_dia_d[0,3,10]  R9[3,10]  1
     camion_n_en_comuna_c_dia_d[0,3,11]  R2[0,11]  1
     camion_n_en_comuna_c_dia_d[0,3,11]  R5[0,3,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,11]  R7[3,11]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,11]  R7[3,11]  -400
     camion_n_en_comuna_c_dia_d[0,3,11]  R9[3,11]  1
     camion_n_en_comuna_c_dia_d[0,3,12]  R2[0,12]  1
     camion_n_en_comuna_c_dia_d[0,3,12]  R5[0,3,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,12]  R7[3,12]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,12]  R7[3,12]  -400
     camion_n_en_comuna_c_dia_d[0,3,12]  R9[3,12]  1
     camion_n_en_comuna_c_dia_d[0,3,13]  R2[0,13]  1
     camion_n_en_comuna_c_dia_d[0,3,13]  R5[0,3,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,13]  R7[3,13]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,13]  R7[3,13]  -400
     camion_n_en_comuna_c_dia_d[0,3,13]  R9[3,13]  1
     camion_n_en_comuna_c_dia_d[0,3,14]  R2[0,14]  1
     camion_n_en_comuna_c_dia_d[0,3,14]  R5[0,3,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,14]  R7[3,14]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,14]  R7[3,14]  -400
     camion_n_en_comuna_c_dia_d[0,3,14]  R9[3,14]  1
     camion_n_en_comuna_c_dia_d[0,3,15]  R2[0,15]  1
     camion_n_en_comuna_c_dia_d[0,3,15]  R5[0,3,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,15]  R7[3,15]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,15]  R7[3,15]  -400
     camion_n_en_comuna_c_dia_d[0,3,15]  R9[3,15]  1
     camion_n_en_comuna_c_dia_d[0,3,16]  R2[0,16]  1
     camion_n_en_comuna_c_dia_d[0,3,16]  R5[0,3,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,16]  R7[3,16]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,16]  R7[3,16]  -400
     camion_n_en_comuna_c_dia_d[0,3,16]  R9[3,16]  1
     camion_n_en_comuna_c_dia_d[0,3,17]  R2[0,17]  1
     camion_n_en_comuna_c_dia_d[0,3,17]  R5[0,3,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,17]  R7[3,17]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,17]  R7[3,17]  -400
     camion_n_en_comuna_c_dia_d[0,3,17]  R9[3,17]  1
     camion_n_en_comuna_c_dia_d[0,3,18]  R2[0,18]  1
     camion_n_en_comuna_c_dia_d[0,3,18]  R5[0,3,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,18]  R7[3,18]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,18]  R7[3,18]  -400
     camion_n_en_comuna_c_dia_d[0,3,18]  R9[3,18]  1
     camion_n_en_comuna_c_dia_d[0,3,19]  R2[0,19]  1
     camion_n_en_comuna_c_dia_d[0,3,19]  R5[0,3,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,19]  R7[3,19]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,19]  R7[3,19]  -400
     camion_n_en_comuna_c_dia_d[0,3,19]  R9[3,19]  1
     camion_n_en_comuna_c_dia_d[0,3,20]  R2[0,20]  1
     camion_n_en_comuna_c_dia_d[0,3,20]  R5[0,3,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,20]  R7[3,20]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,20]  R7[3,20]  -400
     camion_n_en_comuna_c_dia_d[0,3,20]  R9[3,20]  1
     camion_n_en_comuna_c_dia_d[0,3,21]  R2[0,21]  1
     camion_n_en_comuna_c_dia_d[0,3,21]  R5[0,3,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,21]  R7[3,21]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,21]  R7[3,21]  -400
     camion_n_en_comuna_c_dia_d[0,3,21]  R9[3,21]  1
     camion_n_en_comuna_c_dia_d[0,3,22]  R2[0,22]  1
     camion_n_en_comuna_c_dia_d[0,3,22]  R5[0,3,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,22]  R7[3,22]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,22]  R7[3,22]  -400
     camion_n_en_comuna_c_dia_d[0,3,22]  R9[3,22]  1
     camion_n_en_comuna_c_dia_d[0,3,23]  R2[0,23]  1
     camion_n_en_comuna_c_dia_d[0,3,23]  R5[0,3,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,23]  R7[3,23]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,23]  R7[3,23]  -400
     camion_n_en_comuna_c_dia_d[0,3,23]  R9[3,23]  1
     camion_n_en_comuna_c_dia_d[0,3,24]  R2[0,24]  1
     camion_n_en_comuna_c_dia_d[0,3,24]  R5[0,3,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,24]  R7[3,24]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,24]  R7[3,24]  -400
     camion_n_en_comuna_c_dia_d[0,3,24]  R9[3,24]  1
     camion_n_en_comuna_c_dia_d[0,3,25]  R2[0,25]  1
     camion_n_en_comuna_c_dia_d[0,3,25]  R5[0,3,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,25]  R7[3,25]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,25]  R7[3,25]  -400
     camion_n_en_comuna_c_dia_d[0,3,25]  R9[3,25]  1
     camion_n_en_comuna_c_dia_d[0,3,26]  R2[0,26]  1
     camion_n_en_comuna_c_dia_d[0,3,26]  R5[0,3,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,26]  R7[3,26]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,26]  R7[3,26]  -400
     camion_n_en_comuna_c_dia_d[0,3,26]  R9[3,26]  1
     camion_n_en_comuna_c_dia_d[0,3,27]  R2[0,27]  1
     camion_n_en_comuna_c_dia_d[0,3,27]  R5[0,3,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,27]  R7[3,27]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,27]  R7[3,27]  -400
     camion_n_en_comuna_c_dia_d[0,3,27]  R9[3,27]  1
     camion_n_en_comuna_c_dia_d[0,3,28]  R2[0,28]  1
     camion_n_en_comuna_c_dia_d[0,3,28]  R5[0,3,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,28]  R7[3,28]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,28]  R7[3,28]  -400
     camion_n_en_comuna_c_dia_d[0,3,28]  R9[3,28]  1
     camion_n_en_comuna_c_dia_d[0,3,29]  R2[0,29]  1
     camion_n_en_comuna_c_dia_d[0,3,29]  R5[0,3,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,29]  R7[3,29]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,29]  R7[3,29]  -400
     camion_n_en_comuna_c_dia_d[0,3,29]  R9[3,29]  1
     camion_n_en_comuna_c_dia_d[0,3,30]  R2[0,30]  1
     camion_n_en_comuna_c_dia_d[0,3,30]  R5[0,3,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,30]  R7[3,30]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,30]  R7[3,30]  -400
     camion_n_en_comuna_c_dia_d[0,3,30]  R9[3,30]  1
     camion_n_en_comuna_c_dia_d[0,3,31]  R2[0,31]  1
     camion_n_en_comuna_c_dia_d[0,3,31]  R5[0,3,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,31]  R7[3,31]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,31]  R7[3,31]  -400
     camion_n_en_comuna_c_dia_d[0,3,31]  R9[3,31]  1
     camion_n_en_comuna_c_dia_d[0,3,32]  R2[0,32]  1
     camion_n_en_comuna_c_dia_d[0,3,32]  R5[0,3,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,32]  R7[3,32]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,32]  R7[3,32]  -400
     camion_n_en_comuna_c_dia_d[0,3,32]  R9[3,32]  1
     camion_n_en_comuna_c_dia_d[0,3,33]  R2[0,33]  1
     camion_n_en_comuna_c_dia_d[0,3,33]  R5[0,3,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,33]  R7[3,33]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,33]  R7[3,33]  -400
     camion_n_en_comuna_c_dia_d[0,3,33]  R9[3,33]  1
     camion_n_en_comuna_c_dia_d[0,3,34]  R2[0,34]  1
     camion_n_en_comuna_c_dia_d[0,3,34]  R5[0,3,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,34]  R7[3,34]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,34]  R7[3,34]  -400
     camion_n_en_comuna_c_dia_d[0,3,34]  R9[3,34]  1
     camion_n_en_comuna_c_dia_d[0,3,35]  R2[0,35]  1
     camion_n_en_comuna_c_dia_d[0,3,35]  R5[0,3,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,35]  R7[3,35]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,35]  R7[3,35]  -400
     camion_n_en_comuna_c_dia_d[0,3,35]  R9[3,35]  1
     camion_n_en_comuna_c_dia_d[0,3,36]  R2[0,36]  1
     camion_n_en_comuna_c_dia_d[0,3,36]  R5[0,3,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,36]  R7[3,36]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,36]  R7[3,36]  -400
     camion_n_en_comuna_c_dia_d[0,3,36]  R9[3,36]  1
     camion_n_en_comuna_c_dia_d[0,3,37]  R2[0,37]  1
     camion_n_en_comuna_c_dia_d[0,3,37]  R5[0,3,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,37]  R7[3,37]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,37]  R7[3,37]  -400
     camion_n_en_comuna_c_dia_d[0,3,37]  R9[3,37]  1
     camion_n_en_comuna_c_dia_d[0,3,38]  R2[0,38]  1
     camion_n_en_comuna_c_dia_d[0,3,38]  R5[0,3,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,38]  R7[3,38]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,38]  R7[3,38]  -400
     camion_n_en_comuna_c_dia_d[0,3,38]  R9[3,38]  1
     camion_n_en_comuna_c_dia_d[0,3,39]  R2[0,39]  1
     camion_n_en_comuna_c_dia_d[0,3,39]  R5[0,3,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,39]  R7[3,39]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,39]  R7[3,39]  -400
     camion_n_en_comuna_c_dia_d[0,3,39]  R9[3,39]  1
     camion_n_en_comuna_c_dia_d[0,3,40]  R2[0,40]  1
     camion_n_en_comuna_c_dia_d[0,3,40]  R5[0,3,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,40]  R7[3,40]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,40]  R7[3,40]  -400
     camion_n_en_comuna_c_dia_d[0,3,40]  R9[3,40]  1
     camion_n_en_comuna_c_dia_d[0,3,41]  R2[0,41]  1
     camion_n_en_comuna_c_dia_d[0,3,41]  R5[0,3,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,41]  R7[3,41]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,41]  R7[3,41]  -400
     camion_n_en_comuna_c_dia_d[0,3,41]  R9[3,41]  1
     camion_n_en_comuna_c_dia_d[0,3,42]  R2[0,42]  1
     camion_n_en_comuna_c_dia_d[0,3,42]  R5[0,3,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,42]  R7[3,42]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,42]  R7[3,42]  -400
     camion_n_en_comuna_c_dia_d[0,3,42]  R9[3,42]  1
     camion_n_en_comuna_c_dia_d[0,3,43]  R2[0,43]  1
     camion_n_en_comuna_c_dia_d[0,3,43]  R5[0,3,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,43]  R7[3,43]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,43]  R7[3,43]  -400
     camion_n_en_comuna_c_dia_d[0,3,43]  R9[3,43]  1
     camion_n_en_comuna_c_dia_d[0,3,44]  R2[0,44]  1
     camion_n_en_comuna_c_dia_d[0,3,44]  R5[0,3,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,44]  R7[3,44]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,44]  R7[3,44]  -400
     camion_n_en_comuna_c_dia_d[0,3,44]  R9[3,44]  1
     camion_n_en_comuna_c_dia_d[0,3,45]  R2[0,45]  1
     camion_n_en_comuna_c_dia_d[0,3,45]  R5[0,3,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,45]  R7[3,45]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,45]  R7[3,45]  -400
     camion_n_en_comuna_c_dia_d[0,3,45]  R9[3,45]  1
     camion_n_en_comuna_c_dia_d[0,3,46]  R2[0,46]  1
     camion_n_en_comuna_c_dia_d[0,3,46]  R5[0,3,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,46]  R7[3,46]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,46]  R7[3,46]  -400
     camion_n_en_comuna_c_dia_d[0,3,46]  R9[3,46]  1
     camion_n_en_comuna_c_dia_d[0,3,47]  R2[0,47]  1
     camion_n_en_comuna_c_dia_d[0,3,47]  R5[0,3,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,47]  R7[3,47]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,47]  R7[3,47]  -400
     camion_n_en_comuna_c_dia_d[0,3,47]  R9[3,47]  1
     camion_n_en_comuna_c_dia_d[0,3,48]  R2[0,48]  1
     camion_n_en_comuna_c_dia_d[0,3,48]  R5[0,3,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,48]  R7[3,48]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,48]  R7[3,48]  -400
     camion_n_en_comuna_c_dia_d[0,3,48]  R9[3,48]  1
     camion_n_en_comuna_c_dia_d[0,3,49]  R2[0,49]  1
     camion_n_en_comuna_c_dia_d[0,3,49]  R5[0,3,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,49]  R7[3,49]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,49]  R7[3,49]  -400
     camion_n_en_comuna_c_dia_d[0,3,49]  R9[3,49]  1
     camion_n_en_comuna_c_dia_d[0,3,50]  R2[0,50]  1
     camion_n_en_comuna_c_dia_d[0,3,50]  R5[0,3,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,50]  R7[3,50]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,50]  R7[3,50]  -400
     camion_n_en_comuna_c_dia_d[0,3,50]  R9[3,50]  1
     camion_n_en_comuna_c_dia_d[0,3,51]  R2[0,51]  1
     camion_n_en_comuna_c_dia_d[0,3,51]  R5[0,3,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,51]  R7[3,51]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,51]  R7[3,51]  -400
     camion_n_en_comuna_c_dia_d[0,3,51]  R9[3,51]  1
     camion_n_en_comuna_c_dia_d[0,3,52]  R2[0,52]  1
     camion_n_en_comuna_c_dia_d[0,3,52]  R5[0,3,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,52]  R7[3,52]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,52]  R7[3,52]  -400
     camion_n_en_comuna_c_dia_d[0,3,52]  R9[3,52]  1
     camion_n_en_comuna_c_dia_d[0,3,53]  R2[0,53]  1
     camion_n_en_comuna_c_dia_d[0,3,53]  R5[0,3,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,53]  R7[3,53]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,53]  R7[3,53]  -400
     camion_n_en_comuna_c_dia_d[0,3,53]  R9[3,53]  1
     camion_n_en_comuna_c_dia_d[0,3,54]  R2[0,54]  1
     camion_n_en_comuna_c_dia_d[0,3,54]  R5[0,3,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,54]  R7[3,54]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,54]  R7[3,54]  -400
     camion_n_en_comuna_c_dia_d[0,3,54]  R9[3,54]  1
     camion_n_en_comuna_c_dia_d[0,3,55]  R2[0,55]  1
     camion_n_en_comuna_c_dia_d[0,3,55]  R5[0,3,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,55]  R7[3,55]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,55]  R7[3,55]  -400
     camion_n_en_comuna_c_dia_d[0,3,55]  R9[3,55]  1
     camion_n_en_comuna_c_dia_d[0,3,56]  R2[0,56]  1
     camion_n_en_comuna_c_dia_d[0,3,56]  R5[0,3,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,56]  R7[3,56]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,56]  R7[3,56]  -400
     camion_n_en_comuna_c_dia_d[0,3,56]  R9[3,56]  1
     camion_n_en_comuna_c_dia_d[0,3,57]  R2[0,57]  1
     camion_n_en_comuna_c_dia_d[0,3,57]  R5[0,3,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,57]  R7[3,57]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,57]  R7[3,57]  -400
     camion_n_en_comuna_c_dia_d[0,3,57]  R9[3,57]  1
     camion_n_en_comuna_c_dia_d[0,3,58]  R2[0,58]  1
     camion_n_en_comuna_c_dia_d[0,3,58]  R5[0,3,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,58]  R7[3,58]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,58]  R7[3,58]  -400
     camion_n_en_comuna_c_dia_d[0,3,58]  R9[3,58]  1
     camion_n_en_comuna_c_dia_d[0,3,59]  R2[0,59]  1
     camion_n_en_comuna_c_dia_d[0,3,59]  R5[0,3,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,59]  R7[3,59]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,59]  R7[3,59]  -400
     camion_n_en_comuna_c_dia_d[0,3,59]  R9[3,59]  1
     camion_n_en_comuna_c_dia_d[0,3,60]  R2[0,60]  1
     camion_n_en_comuna_c_dia_d[0,3,60]  R5[0,3,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,60]  R7[3,60]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,60]  R7[3,60]  -400
     camion_n_en_comuna_c_dia_d[0,3,60]  R9[3,60]  1
     camion_n_en_comuna_c_dia_d[0,3,61]  R2[0,61]  1
     camion_n_en_comuna_c_dia_d[0,3,61]  R5[0,3,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,61]  R7[3,61]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,61]  R7[3,61]  -400
     camion_n_en_comuna_c_dia_d[0,3,61]  R9[3,61]  1
     camion_n_en_comuna_c_dia_d[0,3,62]  R2[0,62]  1
     camion_n_en_comuna_c_dia_d[0,3,62]  R5[0,3,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,62]  R7[3,62]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,62]  R7[3,62]  -400
     camion_n_en_comuna_c_dia_d[0,3,62]  R9[3,62]  1
     camion_n_en_comuna_c_dia_d[0,3,63]  R2[0,63]  1
     camion_n_en_comuna_c_dia_d[0,3,63]  R5[0,3,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,63]  R7[3,63]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,63]  R7[3,63]  -400
     camion_n_en_comuna_c_dia_d[0,3,63]  R9[3,63]  1
     camion_n_en_comuna_c_dia_d[0,3,64]  R2[0,64]  1
     camion_n_en_comuna_c_dia_d[0,3,64]  R5[0,3,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,64]  R7[3,64]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,64]  R7[3,64]  -400
     camion_n_en_comuna_c_dia_d[0,3,64]  R9[3,64]  1
     camion_n_en_comuna_c_dia_d[0,3,65]  R2[0,65]  1
     camion_n_en_comuna_c_dia_d[0,3,65]  R5[0,3,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,65]  R7[3,65]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,65]  R7[3,65]  -400
     camion_n_en_comuna_c_dia_d[0,3,65]  R9[3,65]  1
     camion_n_en_comuna_c_dia_d[0,3,66]  R2[0,66]  1
     camion_n_en_comuna_c_dia_d[0,3,66]  R5[0,3,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,66]  R7[3,66]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,66]  R7[3,66]  -400
     camion_n_en_comuna_c_dia_d[0,3,66]  R9[3,66]  1
     camion_n_en_comuna_c_dia_d[0,3,67]  R2[0,67]  1
     camion_n_en_comuna_c_dia_d[0,3,67]  R5[0,3,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,67]  R7[3,67]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,67]  R7[3,67]  -400
     camion_n_en_comuna_c_dia_d[0,3,67]  R9[3,67]  1
     camion_n_en_comuna_c_dia_d[0,3,68]  R2[0,68]  1
     camion_n_en_comuna_c_dia_d[0,3,68]  R5[0,3,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,68]  R7[3,68]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,68]  R7[3,68]  -400
     camion_n_en_comuna_c_dia_d[0,3,68]  R9[3,68]  1
     camion_n_en_comuna_c_dia_d[0,3,69]  R2[0,69]  1
     camion_n_en_comuna_c_dia_d[0,3,69]  R5[0,3,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,69]  R7[3,69]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,69]  R7[3,69]  -400
     camion_n_en_comuna_c_dia_d[0,3,69]  R9[3,69]  1
     camion_n_en_comuna_c_dia_d[0,3,70]  R2[0,70]  1
     camion_n_en_comuna_c_dia_d[0,3,70]  R5[0,3,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,70]  R7[3,70]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,70]  R7[3,70]  -400
     camion_n_en_comuna_c_dia_d[0,3,70]  R9[3,70]  1
     camion_n_en_comuna_c_dia_d[0,3,71]  R2[0,71]  1
     camion_n_en_comuna_c_dia_d[0,3,71]  R5[0,3,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,71]  R7[3,71]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,71]  R7[3,71]  -400
     camion_n_en_comuna_c_dia_d[0,3,71]  R9[3,71]  1
     camion_n_en_comuna_c_dia_d[0,3,72]  R2[0,72]  1
     camion_n_en_comuna_c_dia_d[0,3,72]  R5[0,3,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,72]  R7[3,72]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,72]  R7[3,72]  -400
     camion_n_en_comuna_c_dia_d[0,3,72]  R9[3,72]  1
     camion_n_en_comuna_c_dia_d[0,3,73]  R2[0,73]  1
     camion_n_en_comuna_c_dia_d[0,3,73]  R5[0,3,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,73]  R7[3,73]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,73]  R7[3,73]  -400
     camion_n_en_comuna_c_dia_d[0,3,73]  R9[3,73]  1
     camion_n_en_comuna_c_dia_d[0,3,74]  R2[0,74]  1
     camion_n_en_comuna_c_dia_d[0,3,74]  R5[0,3,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,74]  R7[3,74]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,74]  R7[3,74]  -400
     camion_n_en_comuna_c_dia_d[0,3,74]  R9[3,74]  1
     camion_n_en_comuna_c_dia_d[0,3,75]  R2[0,75]  1
     camion_n_en_comuna_c_dia_d[0,3,75]  R5[0,3,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,75]  R7[3,75]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,75]  R7[3,75]  -400
     camion_n_en_comuna_c_dia_d[0,3,75]  R9[3,75]  1
     camion_n_en_comuna_c_dia_d[0,3,76]  R2[0,76]  1
     camion_n_en_comuna_c_dia_d[0,3,76]  R5[0,3,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,76]  R7[3,76]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,76]  R7[3,76]  -400
     camion_n_en_comuna_c_dia_d[0,3,76]  R9[3,76]  1
     camion_n_en_comuna_c_dia_d[0,3,77]  R2[0,77]  1
     camion_n_en_comuna_c_dia_d[0,3,77]  R5[0,3,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,77]  R7[3,77]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,77]  R7[3,77]  -400
     camion_n_en_comuna_c_dia_d[0,3,77]  R9[3,77]  1
     camion_n_en_comuna_c_dia_d[0,3,78]  R2[0,78]  1
     camion_n_en_comuna_c_dia_d[0,3,78]  R5[0,3,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,78]  R7[3,78]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,78]  R7[3,78]  -400
     camion_n_en_comuna_c_dia_d[0,3,78]  R9[3,78]  1
     camion_n_en_comuna_c_dia_d[0,3,79]  R2[0,79]  1
     camion_n_en_comuna_c_dia_d[0,3,79]  R5[0,3,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,79]  R7[3,79]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,79]  R7[3,79]  -400
     camion_n_en_comuna_c_dia_d[0,3,79]  R9[3,79]  1
     camion_n_en_comuna_c_dia_d[0,3,80]  R2[0,80]  1
     camion_n_en_comuna_c_dia_d[0,3,80]  R5[0,3,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,80]  R7[3,80]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,80]  R7[3,80]  -400
     camion_n_en_comuna_c_dia_d[0,3,80]  R9[3,80]  1
     camion_n_en_comuna_c_dia_d[0,3,81]  R2[0,81]  1
     camion_n_en_comuna_c_dia_d[0,3,81]  R5[0,3,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,81]  R7[3,81]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,81]  R7[3,81]  -400
     camion_n_en_comuna_c_dia_d[0,3,81]  R9[3,81]  1
     camion_n_en_comuna_c_dia_d[0,3,82]  R2[0,82]  1
     camion_n_en_comuna_c_dia_d[0,3,82]  R5[0,3,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,82]  R7[3,82]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,82]  R7[3,82]  -400
     camion_n_en_comuna_c_dia_d[0,3,82]  R9[3,82]  1
     camion_n_en_comuna_c_dia_d[0,3,83]  R2[0,83]  1
     camion_n_en_comuna_c_dia_d[0,3,83]  R5[0,3,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,83]  R7[3,83]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,83]  R7[3,83]  -400
     camion_n_en_comuna_c_dia_d[0,3,83]  R9[3,83]  1
     camion_n_en_comuna_c_dia_d[0,3,84]  R2[0,84]  1
     camion_n_en_comuna_c_dia_d[0,3,84]  R5[0,3,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,84]  R7[3,84]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,84]  R7[3,84]  -400
     camion_n_en_comuna_c_dia_d[0,3,84]  R9[3,84]  1
     camion_n_en_comuna_c_dia_d[0,3,85]  R2[0,85]  1
     camion_n_en_comuna_c_dia_d[0,3,85]  R5[0,3,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,85]  R7[3,85]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,85]  R7[3,85]  -400
     camion_n_en_comuna_c_dia_d[0,3,85]  R9[3,85]  1
     camion_n_en_comuna_c_dia_d[0,3,86]  R2[0,86]  1
     camion_n_en_comuna_c_dia_d[0,3,86]  R5[0,3,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,86]  R7[3,86]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,86]  R7[3,86]  -400
     camion_n_en_comuna_c_dia_d[0,3,86]  R9[3,86]  1
     camion_n_en_comuna_c_dia_d[0,3,87]  R2[0,87]  1
     camion_n_en_comuna_c_dia_d[0,3,87]  R5[0,3,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,87]  R7[3,87]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,87]  R7[3,87]  -400
     camion_n_en_comuna_c_dia_d[0,3,87]  R9[3,87]  1
     camion_n_en_comuna_c_dia_d[0,3,88]  R2[0,88]  1
     camion_n_en_comuna_c_dia_d[0,3,88]  R5[0,3,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,88]  R7[3,88]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,88]  R7[3,88]  -400
     camion_n_en_comuna_c_dia_d[0,3,88]  R9[3,88]  1
     camion_n_en_comuna_c_dia_d[0,3,89]  R2[0,89]  1
     camion_n_en_comuna_c_dia_d[0,3,89]  R5[0,3,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,89]  R7[3,89]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,89]  R7[3,89]  -400
     camion_n_en_comuna_c_dia_d[0,3,89]  R9[3,89]  1
     camion_n_en_comuna_c_dia_d[0,3,90]  R2[0,90]  1
     camion_n_en_comuna_c_dia_d[0,3,90]  R5[0,3,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,90]  R7[3,90]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,90]  R7[3,90]  -400
     camion_n_en_comuna_c_dia_d[0,3,90]  R9[3,90]  1
     camion_n_en_comuna_c_dia_d[0,3,91]  R2[0,91]  1
     camion_n_en_comuna_c_dia_d[0,3,91]  R5[0,3,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,91]  R7[3,91]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,91]  R7[3,91]  -400
     camion_n_en_comuna_c_dia_d[0,3,91]  R9[3,91]  1
     camion_n_en_comuna_c_dia_d[0,3,92]  R2[0,92]  1
     camion_n_en_comuna_c_dia_d[0,3,92]  R5[0,3,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,92]  R7[3,92]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,92]  R7[3,92]  -400
     camion_n_en_comuna_c_dia_d[0,3,92]  R9[3,92]  1
     camion_n_en_comuna_c_dia_d[0,3,93]  R2[0,93]  1
     camion_n_en_comuna_c_dia_d[0,3,93]  R5[0,3,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,93]  R7[3,93]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,93]  R7[3,93]  -400
     camion_n_en_comuna_c_dia_d[0,3,93]  R9[3,93]  1
     camion_n_en_comuna_c_dia_d[0,3,94]  R2[0,94]  1
     camion_n_en_comuna_c_dia_d[0,3,94]  R5[0,3,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,94]  R7[3,94]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,94]  R7[3,94]  -400
     camion_n_en_comuna_c_dia_d[0,3,94]  R9[3,94]  1
     camion_n_en_comuna_c_dia_d[0,3,95]  R2[0,95]  1
     camion_n_en_comuna_c_dia_d[0,3,95]  R5[0,3,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,95]  R7[3,95]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,95]  R7[3,95]  -400
     camion_n_en_comuna_c_dia_d[0,3,95]  R9[3,95]  1
     camion_n_en_comuna_c_dia_d[0,3,96]  R2[0,96]  1
     camion_n_en_comuna_c_dia_d[0,3,96]  R5[0,3,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,96]  R7[3,96]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,96]  R7[3,96]  -400
     camion_n_en_comuna_c_dia_d[0,3,96]  R9[3,96]  1
     camion_n_en_comuna_c_dia_d[0,3,97]  R2[0,97]  1
     camion_n_en_comuna_c_dia_d[0,3,97]  R5[0,3,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,97]  R7[3,97]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,97]  R7[3,97]  -400
     camion_n_en_comuna_c_dia_d[0,3,97]  R9[3,97]  1
     camion_n_en_comuna_c_dia_d[0,3,98]  R2[0,98]  1
     camion_n_en_comuna_c_dia_d[0,3,98]  R5[0,3,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,98]  R7[3,98]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,98]  R7[3,98]  -400
     camion_n_en_comuna_c_dia_d[0,3,98]  R9[3,98]  1
     camion_n_en_comuna_c_dia_d[0,3,99]  R2[0,99]  1
     camion_n_en_comuna_c_dia_d[0,3,99]  R5[0,3,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[0,3,99]  R7[3,99]  -1000
+    camion_n_en_comuna_c_dia_d[0,3,99]  R7[3,99]  -400
     camion_n_en_comuna_c_dia_d[0,3,99]  R9[3,99]  1
     camion_n_en_comuna_c_dia_d[1,0,0]  R2[1,0]   1
     camion_n_en_comuna_c_dia_d[1,0,0]  R5[1,0,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,0]  R7[0,0]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,0]  R7[0,0]   -400
     camion_n_en_comuna_c_dia_d[1,0,0]  R9[0,0]   1
     camion_n_en_comuna_c_dia_d[1,0,1]  R2[1,1]   1
     camion_n_en_comuna_c_dia_d[1,0,1]  R5[1,0,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,1]  R7[0,1]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,1]  R7[0,1]   -400
     camion_n_en_comuna_c_dia_d[1,0,1]  R9[0,1]   1
     camion_n_en_comuna_c_dia_d[1,0,2]  R2[1,2]   1
     camion_n_en_comuna_c_dia_d[1,0,2]  R5[1,0,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,2]  R7[0,2]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,2]  R7[0,2]   -400
     camion_n_en_comuna_c_dia_d[1,0,2]  R9[0,2]   1
     camion_n_en_comuna_c_dia_d[1,0,3]  R2[1,3]   1
     camion_n_en_comuna_c_dia_d[1,0,3]  R5[1,0,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,3]  R7[0,3]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,3]  R7[0,3]   -400
     camion_n_en_comuna_c_dia_d[1,0,3]  R9[0,3]   1
     camion_n_en_comuna_c_dia_d[1,0,4]  R2[1,4]   1
     camion_n_en_comuna_c_dia_d[1,0,4]  R5[1,0,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,4]  R7[0,4]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,4]  R7[0,4]   -400
     camion_n_en_comuna_c_dia_d[1,0,4]  R9[0,4]   1
     camion_n_en_comuna_c_dia_d[1,0,5]  R2[1,5]   1
     camion_n_en_comuna_c_dia_d[1,0,5]  R5[1,0,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,5]  R7[0,5]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,5]  R7[0,5]   -400
     camion_n_en_comuna_c_dia_d[1,0,5]  R9[0,5]   1
     camion_n_en_comuna_c_dia_d[1,0,6]  R2[1,6]   1
     camion_n_en_comuna_c_dia_d[1,0,6]  R5[1,0,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,6]  R7[0,6]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,6]  R7[0,6]   -400
     camion_n_en_comuna_c_dia_d[1,0,6]  R9[0,6]   1
     camion_n_en_comuna_c_dia_d[1,0,7]  R2[1,7]   1
     camion_n_en_comuna_c_dia_d[1,0,7]  R5[1,0,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,7]  R7[0,7]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,7]  R7[0,7]   -400
     camion_n_en_comuna_c_dia_d[1,0,7]  R9[0,7]   1
     camion_n_en_comuna_c_dia_d[1,0,8]  R2[1,8]   1
     camion_n_en_comuna_c_dia_d[1,0,8]  R5[1,0,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,8]  R7[0,8]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,8]  R7[0,8]   -400
     camion_n_en_comuna_c_dia_d[1,0,8]  R9[0,8]   1
     camion_n_en_comuna_c_dia_d[1,0,9]  R2[1,9]   1
     camion_n_en_comuna_c_dia_d[1,0,9]  R5[1,0,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,9]  R7[0,9]   -1000
+    camion_n_en_comuna_c_dia_d[1,0,9]  R7[0,9]   -400
     camion_n_en_comuna_c_dia_d[1,0,9]  R9[0,9]   1
     camion_n_en_comuna_c_dia_d[1,0,10]  R2[1,10]  1
     camion_n_en_comuna_c_dia_d[1,0,10]  R5[1,0,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,10]  R7[0,10]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,10]  R7[0,10]  -400
     camion_n_en_comuna_c_dia_d[1,0,10]  R9[0,10]  1
     camion_n_en_comuna_c_dia_d[1,0,11]  R2[1,11]  1
     camion_n_en_comuna_c_dia_d[1,0,11]  R5[1,0,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,11]  R7[0,11]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,11]  R7[0,11]  -400
     camion_n_en_comuna_c_dia_d[1,0,11]  R9[0,11]  1
     camion_n_en_comuna_c_dia_d[1,0,12]  R2[1,12]  1
     camion_n_en_comuna_c_dia_d[1,0,12]  R5[1,0,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,12]  R7[0,12]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,12]  R7[0,12]  -400
     camion_n_en_comuna_c_dia_d[1,0,12]  R9[0,12]  1
     camion_n_en_comuna_c_dia_d[1,0,13]  R2[1,13]  1
     camion_n_en_comuna_c_dia_d[1,0,13]  R5[1,0,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,13]  R7[0,13]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,13]  R7[0,13]  -400
     camion_n_en_comuna_c_dia_d[1,0,13]  R9[0,13]  1
     camion_n_en_comuna_c_dia_d[1,0,14]  R2[1,14]  1
     camion_n_en_comuna_c_dia_d[1,0,14]  R5[1,0,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,14]  R7[0,14]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,14]  R7[0,14]  -400
     camion_n_en_comuna_c_dia_d[1,0,14]  R9[0,14]  1
     camion_n_en_comuna_c_dia_d[1,0,15]  R2[1,15]  1
     camion_n_en_comuna_c_dia_d[1,0,15]  R5[1,0,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,15]  R7[0,15]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,15]  R7[0,15]  -400
     camion_n_en_comuna_c_dia_d[1,0,15]  R9[0,15]  1
     camion_n_en_comuna_c_dia_d[1,0,16]  R2[1,16]  1
     camion_n_en_comuna_c_dia_d[1,0,16]  R5[1,0,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,16]  R7[0,16]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,16]  R7[0,16]  -400
     camion_n_en_comuna_c_dia_d[1,0,16]  R9[0,16]  1
     camion_n_en_comuna_c_dia_d[1,0,17]  R2[1,17]  1
     camion_n_en_comuna_c_dia_d[1,0,17]  R5[1,0,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,17]  R7[0,17]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,17]  R7[0,17]  -400
     camion_n_en_comuna_c_dia_d[1,0,17]  R9[0,17]  1
     camion_n_en_comuna_c_dia_d[1,0,18]  R2[1,18]  1
     camion_n_en_comuna_c_dia_d[1,0,18]  R5[1,0,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,18]  R7[0,18]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,18]  R7[0,18]  -400
     camion_n_en_comuna_c_dia_d[1,0,18]  R9[0,18]  1
     camion_n_en_comuna_c_dia_d[1,0,19]  R2[1,19]  1
     camion_n_en_comuna_c_dia_d[1,0,19]  R5[1,0,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,19]  R7[0,19]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,19]  R7[0,19]  -400
     camion_n_en_comuna_c_dia_d[1,0,19]  R9[0,19]  1
     camion_n_en_comuna_c_dia_d[1,0,20]  R2[1,20]  1
     camion_n_en_comuna_c_dia_d[1,0,20]  R5[1,0,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,20]  R7[0,20]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,20]  R7[0,20]  -400
     camion_n_en_comuna_c_dia_d[1,0,20]  R9[0,20]  1
     camion_n_en_comuna_c_dia_d[1,0,21]  R2[1,21]  1
     camion_n_en_comuna_c_dia_d[1,0,21]  R5[1,0,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,21]  R7[0,21]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,21]  R7[0,21]  -400
     camion_n_en_comuna_c_dia_d[1,0,21]  R9[0,21]  1
     camion_n_en_comuna_c_dia_d[1,0,22]  R2[1,22]  1
     camion_n_en_comuna_c_dia_d[1,0,22]  R5[1,0,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,22]  R7[0,22]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,22]  R7[0,22]  -400
     camion_n_en_comuna_c_dia_d[1,0,22]  R9[0,22]  1
     camion_n_en_comuna_c_dia_d[1,0,23]  R2[1,23]  1
     camion_n_en_comuna_c_dia_d[1,0,23]  R5[1,0,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,23]  R7[0,23]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,23]  R7[0,23]  -400
     camion_n_en_comuna_c_dia_d[1,0,23]  R9[0,23]  1
     camion_n_en_comuna_c_dia_d[1,0,24]  R2[1,24]  1
     camion_n_en_comuna_c_dia_d[1,0,24]  R5[1,0,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,24]  R7[0,24]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,24]  R7[0,24]  -400
     camion_n_en_comuna_c_dia_d[1,0,24]  R9[0,24]  1
     camion_n_en_comuna_c_dia_d[1,0,25]  R2[1,25]  1
     camion_n_en_comuna_c_dia_d[1,0,25]  R5[1,0,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,25]  R7[0,25]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,25]  R7[0,25]  -400
     camion_n_en_comuna_c_dia_d[1,0,25]  R9[0,25]  1
     camion_n_en_comuna_c_dia_d[1,0,26]  R2[1,26]  1
     camion_n_en_comuna_c_dia_d[1,0,26]  R5[1,0,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,26]  R7[0,26]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,26]  R7[0,26]  -400
     camion_n_en_comuna_c_dia_d[1,0,26]  R9[0,26]  1
     camion_n_en_comuna_c_dia_d[1,0,27]  R2[1,27]  1
     camion_n_en_comuna_c_dia_d[1,0,27]  R5[1,0,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,27]  R7[0,27]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,27]  R7[0,27]  -400
     camion_n_en_comuna_c_dia_d[1,0,27]  R9[0,27]  1
     camion_n_en_comuna_c_dia_d[1,0,28]  R2[1,28]  1
     camion_n_en_comuna_c_dia_d[1,0,28]  R5[1,0,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,28]  R7[0,28]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,28]  R7[0,28]  -400
     camion_n_en_comuna_c_dia_d[1,0,28]  R9[0,28]  1
     camion_n_en_comuna_c_dia_d[1,0,29]  R2[1,29]  1
     camion_n_en_comuna_c_dia_d[1,0,29]  R5[1,0,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,29]  R7[0,29]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,29]  R7[0,29]  -400
     camion_n_en_comuna_c_dia_d[1,0,29]  R9[0,29]  1
     camion_n_en_comuna_c_dia_d[1,0,30]  R2[1,30]  1
     camion_n_en_comuna_c_dia_d[1,0,30]  R5[1,0,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,30]  R7[0,30]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,30]  R7[0,30]  -400
     camion_n_en_comuna_c_dia_d[1,0,30]  R9[0,30]  1
     camion_n_en_comuna_c_dia_d[1,0,31]  R2[1,31]  1
     camion_n_en_comuna_c_dia_d[1,0,31]  R5[1,0,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,31]  R7[0,31]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,31]  R7[0,31]  -400
     camion_n_en_comuna_c_dia_d[1,0,31]  R9[0,31]  1
     camion_n_en_comuna_c_dia_d[1,0,32]  R2[1,32]  1
     camion_n_en_comuna_c_dia_d[1,0,32]  R5[1,0,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,32]  R7[0,32]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,32]  R7[0,32]  -400
     camion_n_en_comuna_c_dia_d[1,0,32]  R9[0,32]  1
     camion_n_en_comuna_c_dia_d[1,0,33]  R2[1,33]  1
     camion_n_en_comuna_c_dia_d[1,0,33]  R5[1,0,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,33]  R7[0,33]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,33]  R7[0,33]  -400
     camion_n_en_comuna_c_dia_d[1,0,33]  R9[0,33]  1
     camion_n_en_comuna_c_dia_d[1,0,34]  R2[1,34]  1
     camion_n_en_comuna_c_dia_d[1,0,34]  R5[1,0,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,34]  R7[0,34]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,34]  R7[0,34]  -400
     camion_n_en_comuna_c_dia_d[1,0,34]  R9[0,34]  1
     camion_n_en_comuna_c_dia_d[1,0,35]  R2[1,35]  1
     camion_n_en_comuna_c_dia_d[1,0,35]  R5[1,0,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,35]  R7[0,35]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,35]  R7[0,35]  -400
     camion_n_en_comuna_c_dia_d[1,0,35]  R9[0,35]  1
     camion_n_en_comuna_c_dia_d[1,0,36]  R2[1,36]  1
     camion_n_en_comuna_c_dia_d[1,0,36]  R5[1,0,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,36]  R7[0,36]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,36]  R7[0,36]  -400
     camion_n_en_comuna_c_dia_d[1,0,36]  R9[0,36]  1
     camion_n_en_comuna_c_dia_d[1,0,37]  R2[1,37]  1
     camion_n_en_comuna_c_dia_d[1,0,37]  R5[1,0,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,37]  R7[0,37]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,37]  R7[0,37]  -400
     camion_n_en_comuna_c_dia_d[1,0,37]  R9[0,37]  1
     camion_n_en_comuna_c_dia_d[1,0,38]  R2[1,38]  1
     camion_n_en_comuna_c_dia_d[1,0,38]  R5[1,0,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,38]  R7[0,38]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,38]  R7[0,38]  -400
     camion_n_en_comuna_c_dia_d[1,0,38]  R9[0,38]  1
     camion_n_en_comuna_c_dia_d[1,0,39]  R2[1,39]  1
     camion_n_en_comuna_c_dia_d[1,0,39]  R5[1,0,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,39]  R7[0,39]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,39]  R7[0,39]  -400
     camion_n_en_comuna_c_dia_d[1,0,39]  R9[0,39]  1
     camion_n_en_comuna_c_dia_d[1,0,40]  R2[1,40]  1
     camion_n_en_comuna_c_dia_d[1,0,40]  R5[1,0,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,40]  R7[0,40]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,40]  R7[0,40]  -400
     camion_n_en_comuna_c_dia_d[1,0,40]  R9[0,40]  1
     camion_n_en_comuna_c_dia_d[1,0,41]  R2[1,41]  1
     camion_n_en_comuna_c_dia_d[1,0,41]  R5[1,0,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,41]  R7[0,41]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,41]  R7[0,41]  -400
     camion_n_en_comuna_c_dia_d[1,0,41]  R9[0,41]  1
     camion_n_en_comuna_c_dia_d[1,0,42]  R2[1,42]  1
     camion_n_en_comuna_c_dia_d[1,0,42]  R5[1,0,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,42]  R7[0,42]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,42]  R7[0,42]  -400
     camion_n_en_comuna_c_dia_d[1,0,42]  R9[0,42]  1
     camion_n_en_comuna_c_dia_d[1,0,43]  R2[1,43]  1
     camion_n_en_comuna_c_dia_d[1,0,43]  R5[1,0,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,43]  R7[0,43]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,43]  R7[0,43]  -400
     camion_n_en_comuna_c_dia_d[1,0,43]  R9[0,43]  1
     camion_n_en_comuna_c_dia_d[1,0,44]  R2[1,44]  1
     camion_n_en_comuna_c_dia_d[1,0,44]  R5[1,0,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,44]  R7[0,44]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,44]  R7[0,44]  -400
     camion_n_en_comuna_c_dia_d[1,0,44]  R9[0,44]  1
     camion_n_en_comuna_c_dia_d[1,0,45]  R2[1,45]  1
     camion_n_en_comuna_c_dia_d[1,0,45]  R5[1,0,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,45]  R7[0,45]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,45]  R7[0,45]  -400
     camion_n_en_comuna_c_dia_d[1,0,45]  R9[0,45]  1
     camion_n_en_comuna_c_dia_d[1,0,46]  R2[1,46]  1
     camion_n_en_comuna_c_dia_d[1,0,46]  R5[1,0,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,46]  R7[0,46]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,46]  R7[0,46]  -400
     camion_n_en_comuna_c_dia_d[1,0,46]  R9[0,46]  1
     camion_n_en_comuna_c_dia_d[1,0,47]  R2[1,47]  1
     camion_n_en_comuna_c_dia_d[1,0,47]  R5[1,0,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,47]  R7[0,47]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,47]  R7[0,47]  -400
     camion_n_en_comuna_c_dia_d[1,0,47]  R9[0,47]  1
     camion_n_en_comuna_c_dia_d[1,0,48]  R2[1,48]  1
     camion_n_en_comuna_c_dia_d[1,0,48]  R5[1,0,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,48]  R7[0,48]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,48]  R7[0,48]  -400
     camion_n_en_comuna_c_dia_d[1,0,48]  R9[0,48]  1
     camion_n_en_comuna_c_dia_d[1,0,49]  R2[1,49]  1
     camion_n_en_comuna_c_dia_d[1,0,49]  R5[1,0,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,49]  R7[0,49]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,49]  R7[0,49]  -400
     camion_n_en_comuna_c_dia_d[1,0,49]  R9[0,49]  1
     camion_n_en_comuna_c_dia_d[1,0,50]  R2[1,50]  1
     camion_n_en_comuna_c_dia_d[1,0,50]  R5[1,0,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,50]  R7[0,50]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,50]  R7[0,50]  -400
     camion_n_en_comuna_c_dia_d[1,0,50]  R9[0,50]  1
     camion_n_en_comuna_c_dia_d[1,0,51]  R2[1,51]  1
     camion_n_en_comuna_c_dia_d[1,0,51]  R5[1,0,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,51]  R7[0,51]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,51]  R7[0,51]  -400
     camion_n_en_comuna_c_dia_d[1,0,51]  R9[0,51]  1
     camion_n_en_comuna_c_dia_d[1,0,52]  R2[1,52]  1
     camion_n_en_comuna_c_dia_d[1,0,52]  R5[1,0,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,52]  R7[0,52]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,52]  R7[0,52]  -400
     camion_n_en_comuna_c_dia_d[1,0,52]  R9[0,52]  1
     camion_n_en_comuna_c_dia_d[1,0,53]  R2[1,53]  1
     camion_n_en_comuna_c_dia_d[1,0,53]  R5[1,0,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,53]  R7[0,53]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,53]  R7[0,53]  -400
     camion_n_en_comuna_c_dia_d[1,0,53]  R9[0,53]  1
     camion_n_en_comuna_c_dia_d[1,0,54]  R2[1,54]  1
     camion_n_en_comuna_c_dia_d[1,0,54]  R5[1,0,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,54]  R7[0,54]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,54]  R7[0,54]  -400
     camion_n_en_comuna_c_dia_d[1,0,54]  R9[0,54]  1
     camion_n_en_comuna_c_dia_d[1,0,55]  R2[1,55]  1
     camion_n_en_comuna_c_dia_d[1,0,55]  R5[1,0,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,55]  R7[0,55]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,55]  R7[0,55]  -400
     camion_n_en_comuna_c_dia_d[1,0,55]  R9[0,55]  1
     camion_n_en_comuna_c_dia_d[1,0,56]  R2[1,56]  1
     camion_n_en_comuna_c_dia_d[1,0,56]  R5[1,0,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,56]  R7[0,56]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,56]  R7[0,56]  -400
     camion_n_en_comuna_c_dia_d[1,0,56]  R9[0,56]  1
     camion_n_en_comuna_c_dia_d[1,0,57]  R2[1,57]  1
     camion_n_en_comuna_c_dia_d[1,0,57]  R5[1,0,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,57]  R7[0,57]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,57]  R7[0,57]  -400
     camion_n_en_comuna_c_dia_d[1,0,57]  R9[0,57]  1
     camion_n_en_comuna_c_dia_d[1,0,58]  R2[1,58]  1
     camion_n_en_comuna_c_dia_d[1,0,58]  R5[1,0,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,58]  R7[0,58]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,58]  R7[0,58]  -400
     camion_n_en_comuna_c_dia_d[1,0,58]  R9[0,58]  1
     camion_n_en_comuna_c_dia_d[1,0,59]  R2[1,59]  1
     camion_n_en_comuna_c_dia_d[1,0,59]  R5[1,0,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,59]  R7[0,59]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,59]  R7[0,59]  -400
     camion_n_en_comuna_c_dia_d[1,0,59]  R9[0,59]  1
     camion_n_en_comuna_c_dia_d[1,0,60]  R2[1,60]  1
     camion_n_en_comuna_c_dia_d[1,0,60]  R5[1,0,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,60]  R7[0,60]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,60]  R7[0,60]  -400
     camion_n_en_comuna_c_dia_d[1,0,60]  R9[0,60]  1
     camion_n_en_comuna_c_dia_d[1,0,61]  R2[1,61]  1
     camion_n_en_comuna_c_dia_d[1,0,61]  R5[1,0,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,61]  R7[0,61]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,61]  R7[0,61]  -400
     camion_n_en_comuna_c_dia_d[1,0,61]  R9[0,61]  1
     camion_n_en_comuna_c_dia_d[1,0,62]  R2[1,62]  1
     camion_n_en_comuna_c_dia_d[1,0,62]  R5[1,0,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,62]  R7[0,62]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,62]  R7[0,62]  -400
     camion_n_en_comuna_c_dia_d[1,0,62]  R9[0,62]  1
     camion_n_en_comuna_c_dia_d[1,0,63]  R2[1,63]  1
     camion_n_en_comuna_c_dia_d[1,0,63]  R5[1,0,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,63]  R7[0,63]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,63]  R7[0,63]  -400
     camion_n_en_comuna_c_dia_d[1,0,63]  R9[0,63]  1
     camion_n_en_comuna_c_dia_d[1,0,64]  R2[1,64]  1
     camion_n_en_comuna_c_dia_d[1,0,64]  R5[1,0,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,64]  R7[0,64]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,64]  R7[0,64]  -400
     camion_n_en_comuna_c_dia_d[1,0,64]  R9[0,64]  1
     camion_n_en_comuna_c_dia_d[1,0,65]  R2[1,65]  1
     camion_n_en_comuna_c_dia_d[1,0,65]  R5[1,0,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,65]  R7[0,65]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,65]  R7[0,65]  -400
     camion_n_en_comuna_c_dia_d[1,0,65]  R9[0,65]  1
     camion_n_en_comuna_c_dia_d[1,0,66]  R2[1,66]  1
     camion_n_en_comuna_c_dia_d[1,0,66]  R5[1,0,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,66]  R7[0,66]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,66]  R7[0,66]  -400
     camion_n_en_comuna_c_dia_d[1,0,66]  R9[0,66]  1
     camion_n_en_comuna_c_dia_d[1,0,67]  R2[1,67]  1
     camion_n_en_comuna_c_dia_d[1,0,67]  R5[1,0,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,67]  R7[0,67]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,67]  R7[0,67]  -400
     camion_n_en_comuna_c_dia_d[1,0,67]  R9[0,67]  1
     camion_n_en_comuna_c_dia_d[1,0,68]  R2[1,68]  1
     camion_n_en_comuna_c_dia_d[1,0,68]  R5[1,0,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,68]  R7[0,68]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,68]  R7[0,68]  -400
     camion_n_en_comuna_c_dia_d[1,0,68]  R9[0,68]  1
     camion_n_en_comuna_c_dia_d[1,0,69]  R2[1,69]  1
     camion_n_en_comuna_c_dia_d[1,0,69]  R5[1,0,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,69]  R7[0,69]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,69]  R7[0,69]  -400
     camion_n_en_comuna_c_dia_d[1,0,69]  R9[0,69]  1
     camion_n_en_comuna_c_dia_d[1,0,70]  R2[1,70]  1
     camion_n_en_comuna_c_dia_d[1,0,70]  R5[1,0,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,70]  R7[0,70]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,70]  R7[0,70]  -400
     camion_n_en_comuna_c_dia_d[1,0,70]  R9[0,70]  1
     camion_n_en_comuna_c_dia_d[1,0,71]  R2[1,71]  1
     camion_n_en_comuna_c_dia_d[1,0,71]  R5[1,0,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,71]  R7[0,71]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,71]  R7[0,71]  -400
     camion_n_en_comuna_c_dia_d[1,0,71]  R9[0,71]  1
     camion_n_en_comuna_c_dia_d[1,0,72]  R2[1,72]  1
     camion_n_en_comuna_c_dia_d[1,0,72]  R5[1,0,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,72]  R7[0,72]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,72]  R7[0,72]  -400
     camion_n_en_comuna_c_dia_d[1,0,72]  R9[0,72]  1
     camion_n_en_comuna_c_dia_d[1,0,73]  R2[1,73]  1
     camion_n_en_comuna_c_dia_d[1,0,73]  R5[1,0,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,73]  R7[0,73]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,73]  R7[0,73]  -400
     camion_n_en_comuna_c_dia_d[1,0,73]  R9[0,73]  1
     camion_n_en_comuna_c_dia_d[1,0,74]  R2[1,74]  1
     camion_n_en_comuna_c_dia_d[1,0,74]  R5[1,0,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,74]  R7[0,74]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,74]  R7[0,74]  -400
     camion_n_en_comuna_c_dia_d[1,0,74]  R9[0,74]  1
     camion_n_en_comuna_c_dia_d[1,0,75]  R2[1,75]  1
     camion_n_en_comuna_c_dia_d[1,0,75]  R5[1,0,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,75]  R7[0,75]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,75]  R7[0,75]  -400
     camion_n_en_comuna_c_dia_d[1,0,75]  R9[0,75]  1
     camion_n_en_comuna_c_dia_d[1,0,76]  R2[1,76]  1
     camion_n_en_comuna_c_dia_d[1,0,76]  R5[1,0,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,76]  R7[0,76]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,76]  R7[0,76]  -400
     camion_n_en_comuna_c_dia_d[1,0,76]  R9[0,76]  1
     camion_n_en_comuna_c_dia_d[1,0,77]  R2[1,77]  1
     camion_n_en_comuna_c_dia_d[1,0,77]  R5[1,0,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,77]  R7[0,77]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,77]  R7[0,77]  -400
     camion_n_en_comuna_c_dia_d[1,0,77]  R9[0,77]  1
     camion_n_en_comuna_c_dia_d[1,0,78]  R2[1,78]  1
     camion_n_en_comuna_c_dia_d[1,0,78]  R5[1,0,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,78]  R7[0,78]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,78]  R7[0,78]  -400
     camion_n_en_comuna_c_dia_d[1,0,78]  R9[0,78]  1
     camion_n_en_comuna_c_dia_d[1,0,79]  R2[1,79]  1
     camion_n_en_comuna_c_dia_d[1,0,79]  R5[1,0,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,79]  R7[0,79]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,79]  R7[0,79]  -400
     camion_n_en_comuna_c_dia_d[1,0,79]  R9[0,79]  1
     camion_n_en_comuna_c_dia_d[1,0,80]  R2[1,80]  1
     camion_n_en_comuna_c_dia_d[1,0,80]  R5[1,0,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,80]  R7[0,80]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,80]  R7[0,80]  -400
     camion_n_en_comuna_c_dia_d[1,0,80]  R9[0,80]  1
     camion_n_en_comuna_c_dia_d[1,0,81]  R2[1,81]  1
     camion_n_en_comuna_c_dia_d[1,0,81]  R5[1,0,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,81]  R7[0,81]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,81]  R7[0,81]  -400
     camion_n_en_comuna_c_dia_d[1,0,81]  R9[0,81]  1
     camion_n_en_comuna_c_dia_d[1,0,82]  R2[1,82]  1
     camion_n_en_comuna_c_dia_d[1,0,82]  R5[1,0,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,82]  R7[0,82]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,82]  R7[0,82]  -400
     camion_n_en_comuna_c_dia_d[1,0,82]  R9[0,82]  1
     camion_n_en_comuna_c_dia_d[1,0,83]  R2[1,83]  1
     camion_n_en_comuna_c_dia_d[1,0,83]  R5[1,0,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,83]  R7[0,83]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,83]  R7[0,83]  -400
     camion_n_en_comuna_c_dia_d[1,0,83]  R9[0,83]  1
     camion_n_en_comuna_c_dia_d[1,0,84]  R2[1,84]  1
     camion_n_en_comuna_c_dia_d[1,0,84]  R5[1,0,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,84]  R7[0,84]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,84]  R7[0,84]  -400
     camion_n_en_comuna_c_dia_d[1,0,84]  R9[0,84]  1
     camion_n_en_comuna_c_dia_d[1,0,85]  R2[1,85]  1
     camion_n_en_comuna_c_dia_d[1,0,85]  R5[1,0,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,85]  R7[0,85]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,85]  R7[0,85]  -400
     camion_n_en_comuna_c_dia_d[1,0,85]  R9[0,85]  1
     camion_n_en_comuna_c_dia_d[1,0,86]  R2[1,86]  1
     camion_n_en_comuna_c_dia_d[1,0,86]  R5[1,0,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,86]  R7[0,86]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,86]  R7[0,86]  -400
     camion_n_en_comuna_c_dia_d[1,0,86]  R9[0,86]  1
     camion_n_en_comuna_c_dia_d[1,0,87]  R2[1,87]  1
     camion_n_en_comuna_c_dia_d[1,0,87]  R5[1,0,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,87]  R7[0,87]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,87]  R7[0,87]  -400
     camion_n_en_comuna_c_dia_d[1,0,87]  R9[0,87]  1
     camion_n_en_comuna_c_dia_d[1,0,88]  R2[1,88]  1
     camion_n_en_comuna_c_dia_d[1,0,88]  R5[1,0,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,88]  R7[0,88]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,88]  R7[0,88]  -400
     camion_n_en_comuna_c_dia_d[1,0,88]  R9[0,88]  1
     camion_n_en_comuna_c_dia_d[1,0,89]  R2[1,89]  1
     camion_n_en_comuna_c_dia_d[1,0,89]  R5[1,0,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,89]  R7[0,89]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,89]  R7[0,89]  -400
     camion_n_en_comuna_c_dia_d[1,0,89]  R9[0,89]  1
     camion_n_en_comuna_c_dia_d[1,0,90]  R2[1,90]  1
     camion_n_en_comuna_c_dia_d[1,0,90]  R5[1,0,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,90]  R7[0,90]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,90]  R7[0,90]  -400
     camion_n_en_comuna_c_dia_d[1,0,90]  R9[0,90]  1
     camion_n_en_comuna_c_dia_d[1,0,91]  R2[1,91]  1
     camion_n_en_comuna_c_dia_d[1,0,91]  R5[1,0,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,91]  R7[0,91]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,91]  R7[0,91]  -400
     camion_n_en_comuna_c_dia_d[1,0,91]  R9[0,91]  1
     camion_n_en_comuna_c_dia_d[1,0,92]  R2[1,92]  1
     camion_n_en_comuna_c_dia_d[1,0,92]  R5[1,0,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,92]  R7[0,92]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,92]  R7[0,92]  -400
     camion_n_en_comuna_c_dia_d[1,0,92]  R9[0,92]  1
     camion_n_en_comuna_c_dia_d[1,0,93]  R2[1,93]  1
     camion_n_en_comuna_c_dia_d[1,0,93]  R5[1,0,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,93]  R7[0,93]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,93]  R7[0,93]  -400
     camion_n_en_comuna_c_dia_d[1,0,93]  R9[0,93]  1
     camion_n_en_comuna_c_dia_d[1,0,94]  R2[1,94]  1
     camion_n_en_comuna_c_dia_d[1,0,94]  R5[1,0,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,94]  R7[0,94]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,94]  R7[0,94]  -400
     camion_n_en_comuna_c_dia_d[1,0,94]  R9[0,94]  1
     camion_n_en_comuna_c_dia_d[1,0,95]  R2[1,95]  1
     camion_n_en_comuna_c_dia_d[1,0,95]  R5[1,0,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,95]  R7[0,95]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,95]  R7[0,95]  -400
     camion_n_en_comuna_c_dia_d[1,0,95]  R9[0,95]  1
     camion_n_en_comuna_c_dia_d[1,0,96]  R2[1,96]  1
     camion_n_en_comuna_c_dia_d[1,0,96]  R5[1,0,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,96]  R7[0,96]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,96]  R7[0,96]  -400
     camion_n_en_comuna_c_dia_d[1,0,96]  R9[0,96]  1
     camion_n_en_comuna_c_dia_d[1,0,97]  R2[1,97]  1
     camion_n_en_comuna_c_dia_d[1,0,97]  R5[1,0,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,97]  R7[0,97]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,97]  R7[0,97]  -400
     camion_n_en_comuna_c_dia_d[1,0,97]  R9[0,97]  1
     camion_n_en_comuna_c_dia_d[1,0,98]  R2[1,98]  1
     camion_n_en_comuna_c_dia_d[1,0,98]  R5[1,0,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,98]  R7[0,98]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,98]  R7[0,98]  -400
     camion_n_en_comuna_c_dia_d[1,0,98]  R9[0,98]  1
     camion_n_en_comuna_c_dia_d[1,0,99]  R2[1,99]  1
     camion_n_en_comuna_c_dia_d[1,0,99]  R5[1,0,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,0,99]  R7[0,99]  -1000
+    camion_n_en_comuna_c_dia_d[1,0,99]  R7[0,99]  -400
     camion_n_en_comuna_c_dia_d[1,0,99]  R9[0,99]  1
     camion_n_en_comuna_c_dia_d[1,1,0]  R2[1,0]   1
     camion_n_en_comuna_c_dia_d[1,1,0]  R5[1,1,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,0]  R7[1,0]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,0]  R7[1,0]   -400
     camion_n_en_comuna_c_dia_d[1,1,0]  R9[1,0]   1
     camion_n_en_comuna_c_dia_d[1,1,1]  R2[1,1]   1
     camion_n_en_comuna_c_dia_d[1,1,1]  R5[1,1,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,1]  R7[1,1]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,1]  R7[1,1]   -400
     camion_n_en_comuna_c_dia_d[1,1,1]  R9[1,1]   1
     camion_n_en_comuna_c_dia_d[1,1,2]  R2[1,2]   1
     camion_n_en_comuna_c_dia_d[1,1,2]  R5[1,1,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,2]  R7[1,2]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,2]  R7[1,2]   -400
     camion_n_en_comuna_c_dia_d[1,1,2]  R9[1,2]   1
     camion_n_en_comuna_c_dia_d[1,1,3]  R2[1,3]   1
     camion_n_en_comuna_c_dia_d[1,1,3]  R5[1,1,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,3]  R7[1,3]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,3]  R7[1,3]   -400
     camion_n_en_comuna_c_dia_d[1,1,3]  R9[1,3]   1
     camion_n_en_comuna_c_dia_d[1,1,4]  R2[1,4]   1
     camion_n_en_comuna_c_dia_d[1,1,4]  R5[1,1,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,4]  R7[1,4]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,4]  R7[1,4]   -400
     camion_n_en_comuna_c_dia_d[1,1,4]  R9[1,4]   1
     camion_n_en_comuna_c_dia_d[1,1,5]  R2[1,5]   1
     camion_n_en_comuna_c_dia_d[1,1,5]  R5[1,1,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,5]  R7[1,5]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,5]  R7[1,5]   -400
     camion_n_en_comuna_c_dia_d[1,1,5]  R9[1,5]   1
     camion_n_en_comuna_c_dia_d[1,1,6]  R2[1,6]   1
     camion_n_en_comuna_c_dia_d[1,1,6]  R5[1,1,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,6]  R7[1,6]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,6]  R7[1,6]   -400
     camion_n_en_comuna_c_dia_d[1,1,6]  R9[1,6]   1
     camion_n_en_comuna_c_dia_d[1,1,7]  R2[1,7]   1
     camion_n_en_comuna_c_dia_d[1,1,7]  R5[1,1,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,7]  R7[1,7]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,7]  R7[1,7]   -400
     camion_n_en_comuna_c_dia_d[1,1,7]  R9[1,7]   1
     camion_n_en_comuna_c_dia_d[1,1,8]  R2[1,8]   1
     camion_n_en_comuna_c_dia_d[1,1,8]  R5[1,1,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,8]  R7[1,8]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,8]  R7[1,8]   -400
     camion_n_en_comuna_c_dia_d[1,1,8]  R9[1,8]   1
     camion_n_en_comuna_c_dia_d[1,1,9]  R2[1,9]   1
     camion_n_en_comuna_c_dia_d[1,1,9]  R5[1,1,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,9]  R7[1,9]   -1000
+    camion_n_en_comuna_c_dia_d[1,1,9]  R7[1,9]   -400
     camion_n_en_comuna_c_dia_d[1,1,9]  R9[1,9]   1
     camion_n_en_comuna_c_dia_d[1,1,10]  R2[1,10]  1
     camion_n_en_comuna_c_dia_d[1,1,10]  R5[1,1,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,10]  R7[1,10]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,10]  R7[1,10]  -400
     camion_n_en_comuna_c_dia_d[1,1,10]  R9[1,10]  1
     camion_n_en_comuna_c_dia_d[1,1,11]  R2[1,11]  1
     camion_n_en_comuna_c_dia_d[1,1,11]  R5[1,1,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,11]  R7[1,11]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,11]  R7[1,11]  -400
     camion_n_en_comuna_c_dia_d[1,1,11]  R9[1,11]  1
     camion_n_en_comuna_c_dia_d[1,1,12]  R2[1,12]  1
     camion_n_en_comuna_c_dia_d[1,1,12]  R5[1,1,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,12]  R7[1,12]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,12]  R7[1,12]  -400
     camion_n_en_comuna_c_dia_d[1,1,12]  R9[1,12]  1
     camion_n_en_comuna_c_dia_d[1,1,13]  R2[1,13]  1
     camion_n_en_comuna_c_dia_d[1,1,13]  R5[1,1,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,13]  R7[1,13]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,13]  R7[1,13]  -400
     camion_n_en_comuna_c_dia_d[1,1,13]  R9[1,13]  1
     camion_n_en_comuna_c_dia_d[1,1,14]  R2[1,14]  1
     camion_n_en_comuna_c_dia_d[1,1,14]  R5[1,1,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,14]  R7[1,14]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,14]  R7[1,14]  -400
     camion_n_en_comuna_c_dia_d[1,1,14]  R9[1,14]  1
     camion_n_en_comuna_c_dia_d[1,1,15]  R2[1,15]  1
     camion_n_en_comuna_c_dia_d[1,1,15]  R5[1,1,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,15]  R7[1,15]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,15]  R7[1,15]  -400
     camion_n_en_comuna_c_dia_d[1,1,15]  R9[1,15]  1
     camion_n_en_comuna_c_dia_d[1,1,16]  R2[1,16]  1
     camion_n_en_comuna_c_dia_d[1,1,16]  R5[1,1,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,16]  R7[1,16]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,16]  R7[1,16]  -400
     camion_n_en_comuna_c_dia_d[1,1,16]  R9[1,16]  1
     camion_n_en_comuna_c_dia_d[1,1,17]  R2[1,17]  1
     camion_n_en_comuna_c_dia_d[1,1,17]  R5[1,1,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,17]  R7[1,17]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,17]  R7[1,17]  -400
     camion_n_en_comuna_c_dia_d[1,1,17]  R9[1,17]  1
     camion_n_en_comuna_c_dia_d[1,1,18]  R2[1,18]  1
     camion_n_en_comuna_c_dia_d[1,1,18]  R5[1,1,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,18]  R7[1,18]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,18]  R7[1,18]  -400
     camion_n_en_comuna_c_dia_d[1,1,18]  R9[1,18]  1
     camion_n_en_comuna_c_dia_d[1,1,19]  R2[1,19]  1
     camion_n_en_comuna_c_dia_d[1,1,19]  R5[1,1,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,19]  R7[1,19]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,19]  R7[1,19]  -400
     camion_n_en_comuna_c_dia_d[1,1,19]  R9[1,19]  1
     camion_n_en_comuna_c_dia_d[1,1,20]  R2[1,20]  1
     camion_n_en_comuna_c_dia_d[1,1,20]  R5[1,1,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,20]  R7[1,20]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,20]  R7[1,20]  -400
     camion_n_en_comuna_c_dia_d[1,1,20]  R9[1,20]  1
     camion_n_en_comuna_c_dia_d[1,1,21]  R2[1,21]  1
     camion_n_en_comuna_c_dia_d[1,1,21]  R5[1,1,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,21]  R7[1,21]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,21]  R7[1,21]  -400
     camion_n_en_comuna_c_dia_d[1,1,21]  R9[1,21]  1
     camion_n_en_comuna_c_dia_d[1,1,22]  R2[1,22]  1
     camion_n_en_comuna_c_dia_d[1,1,22]  R5[1,1,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,22]  R7[1,22]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,22]  R7[1,22]  -400
     camion_n_en_comuna_c_dia_d[1,1,22]  R9[1,22]  1
     camion_n_en_comuna_c_dia_d[1,1,23]  R2[1,23]  1
     camion_n_en_comuna_c_dia_d[1,1,23]  R5[1,1,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,23]  R7[1,23]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,23]  R7[1,23]  -400
     camion_n_en_comuna_c_dia_d[1,1,23]  R9[1,23]  1
     camion_n_en_comuna_c_dia_d[1,1,24]  R2[1,24]  1
     camion_n_en_comuna_c_dia_d[1,1,24]  R5[1,1,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,24]  R7[1,24]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,24]  R7[1,24]  -400
     camion_n_en_comuna_c_dia_d[1,1,24]  R9[1,24]  1
     camion_n_en_comuna_c_dia_d[1,1,25]  R2[1,25]  1
     camion_n_en_comuna_c_dia_d[1,1,25]  R5[1,1,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,25]  R7[1,25]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,25]  R7[1,25]  -400
     camion_n_en_comuna_c_dia_d[1,1,25]  R9[1,25]  1
     camion_n_en_comuna_c_dia_d[1,1,26]  R2[1,26]  1
     camion_n_en_comuna_c_dia_d[1,1,26]  R5[1,1,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,26]  R7[1,26]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,26]  R7[1,26]  -400
     camion_n_en_comuna_c_dia_d[1,1,26]  R9[1,26]  1
     camion_n_en_comuna_c_dia_d[1,1,27]  R2[1,27]  1
     camion_n_en_comuna_c_dia_d[1,1,27]  R5[1,1,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,27]  R7[1,27]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,27]  R7[1,27]  -400
     camion_n_en_comuna_c_dia_d[1,1,27]  R9[1,27]  1
     camion_n_en_comuna_c_dia_d[1,1,28]  R2[1,28]  1
     camion_n_en_comuna_c_dia_d[1,1,28]  R5[1,1,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,28]  R7[1,28]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,28]  R7[1,28]  -400
     camion_n_en_comuna_c_dia_d[1,1,28]  R9[1,28]  1
     camion_n_en_comuna_c_dia_d[1,1,29]  R2[1,29]  1
     camion_n_en_comuna_c_dia_d[1,1,29]  R5[1,1,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,29]  R7[1,29]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,29]  R7[1,29]  -400
     camion_n_en_comuna_c_dia_d[1,1,29]  R9[1,29]  1
     camion_n_en_comuna_c_dia_d[1,1,30]  R2[1,30]  1
     camion_n_en_comuna_c_dia_d[1,1,30]  R5[1,1,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,30]  R7[1,30]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,30]  R7[1,30]  -400
     camion_n_en_comuna_c_dia_d[1,1,30]  R9[1,30]  1
     camion_n_en_comuna_c_dia_d[1,1,31]  R2[1,31]  1
     camion_n_en_comuna_c_dia_d[1,1,31]  R5[1,1,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,31]  R7[1,31]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,31]  R7[1,31]  -400
     camion_n_en_comuna_c_dia_d[1,1,31]  R9[1,31]  1
     camion_n_en_comuna_c_dia_d[1,1,32]  R2[1,32]  1
     camion_n_en_comuna_c_dia_d[1,1,32]  R5[1,1,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,32]  R7[1,32]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,32]  R7[1,32]  -400
     camion_n_en_comuna_c_dia_d[1,1,32]  R9[1,32]  1
     camion_n_en_comuna_c_dia_d[1,1,33]  R2[1,33]  1
     camion_n_en_comuna_c_dia_d[1,1,33]  R5[1,1,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,33]  R7[1,33]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,33]  R7[1,33]  -400
     camion_n_en_comuna_c_dia_d[1,1,33]  R9[1,33]  1
     camion_n_en_comuna_c_dia_d[1,1,34]  R2[1,34]  1
     camion_n_en_comuna_c_dia_d[1,1,34]  R5[1,1,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,34]  R7[1,34]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,34]  R7[1,34]  -400
     camion_n_en_comuna_c_dia_d[1,1,34]  R9[1,34]  1
     camion_n_en_comuna_c_dia_d[1,1,35]  R2[1,35]  1
     camion_n_en_comuna_c_dia_d[1,1,35]  R5[1,1,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,35]  R7[1,35]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,35]  R7[1,35]  -400
     camion_n_en_comuna_c_dia_d[1,1,35]  R9[1,35]  1
     camion_n_en_comuna_c_dia_d[1,1,36]  R2[1,36]  1
     camion_n_en_comuna_c_dia_d[1,1,36]  R5[1,1,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,36]  R7[1,36]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,36]  R7[1,36]  -400
     camion_n_en_comuna_c_dia_d[1,1,36]  R9[1,36]  1
     camion_n_en_comuna_c_dia_d[1,1,37]  R2[1,37]  1
     camion_n_en_comuna_c_dia_d[1,1,37]  R5[1,1,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,37]  R7[1,37]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,37]  R7[1,37]  -400
     camion_n_en_comuna_c_dia_d[1,1,37]  R9[1,37]  1
     camion_n_en_comuna_c_dia_d[1,1,38]  R2[1,38]  1
     camion_n_en_comuna_c_dia_d[1,1,38]  R5[1,1,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,38]  R7[1,38]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,38]  R7[1,38]  -400
     camion_n_en_comuna_c_dia_d[1,1,38]  R9[1,38]  1
     camion_n_en_comuna_c_dia_d[1,1,39]  R2[1,39]  1
     camion_n_en_comuna_c_dia_d[1,1,39]  R5[1,1,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,39]  R7[1,39]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,39]  R7[1,39]  -400
     camion_n_en_comuna_c_dia_d[1,1,39]  R9[1,39]  1
     camion_n_en_comuna_c_dia_d[1,1,40]  R2[1,40]  1
     camion_n_en_comuna_c_dia_d[1,1,40]  R5[1,1,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,40]  R7[1,40]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,40]  R7[1,40]  -400
     camion_n_en_comuna_c_dia_d[1,1,40]  R9[1,40]  1
     camion_n_en_comuna_c_dia_d[1,1,41]  R2[1,41]  1
     camion_n_en_comuna_c_dia_d[1,1,41]  R5[1,1,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,41]  R7[1,41]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,41]  R7[1,41]  -400
     camion_n_en_comuna_c_dia_d[1,1,41]  R9[1,41]  1
     camion_n_en_comuna_c_dia_d[1,1,42]  R2[1,42]  1
     camion_n_en_comuna_c_dia_d[1,1,42]  R5[1,1,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,42]  R7[1,42]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,42]  R7[1,42]  -400
     camion_n_en_comuna_c_dia_d[1,1,42]  R9[1,42]  1
     camion_n_en_comuna_c_dia_d[1,1,43]  R2[1,43]  1
     camion_n_en_comuna_c_dia_d[1,1,43]  R5[1,1,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,43]  R7[1,43]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,43]  R7[1,43]  -400
     camion_n_en_comuna_c_dia_d[1,1,43]  R9[1,43]  1
     camion_n_en_comuna_c_dia_d[1,1,44]  R2[1,44]  1
     camion_n_en_comuna_c_dia_d[1,1,44]  R5[1,1,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,44]  R7[1,44]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,44]  R7[1,44]  -400
     camion_n_en_comuna_c_dia_d[1,1,44]  R9[1,44]  1
     camion_n_en_comuna_c_dia_d[1,1,45]  R2[1,45]  1
     camion_n_en_comuna_c_dia_d[1,1,45]  R5[1,1,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,45]  R7[1,45]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,45]  R7[1,45]  -400
     camion_n_en_comuna_c_dia_d[1,1,45]  R9[1,45]  1
     camion_n_en_comuna_c_dia_d[1,1,46]  R2[1,46]  1
     camion_n_en_comuna_c_dia_d[1,1,46]  R5[1,1,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,46]  R7[1,46]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,46]  R7[1,46]  -400
     camion_n_en_comuna_c_dia_d[1,1,46]  R9[1,46]  1
     camion_n_en_comuna_c_dia_d[1,1,47]  R2[1,47]  1
     camion_n_en_comuna_c_dia_d[1,1,47]  R5[1,1,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,47]  R7[1,47]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,47]  R7[1,47]  -400
     camion_n_en_comuna_c_dia_d[1,1,47]  R9[1,47]  1
     camion_n_en_comuna_c_dia_d[1,1,48]  R2[1,48]  1
     camion_n_en_comuna_c_dia_d[1,1,48]  R5[1,1,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,48]  R7[1,48]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,48]  R7[1,48]  -400
     camion_n_en_comuna_c_dia_d[1,1,48]  R9[1,48]  1
     camion_n_en_comuna_c_dia_d[1,1,49]  R2[1,49]  1
     camion_n_en_comuna_c_dia_d[1,1,49]  R5[1,1,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,49]  R7[1,49]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,49]  R7[1,49]  -400
     camion_n_en_comuna_c_dia_d[1,1,49]  R9[1,49]  1
     camion_n_en_comuna_c_dia_d[1,1,50]  R2[1,50]  1
     camion_n_en_comuna_c_dia_d[1,1,50]  R5[1,1,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,50]  R7[1,50]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,50]  R7[1,50]  -400
     camion_n_en_comuna_c_dia_d[1,1,50]  R9[1,50]  1
     camion_n_en_comuna_c_dia_d[1,1,51]  R2[1,51]  1
     camion_n_en_comuna_c_dia_d[1,1,51]  R5[1,1,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,51]  R7[1,51]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,51]  R7[1,51]  -400
     camion_n_en_comuna_c_dia_d[1,1,51]  R9[1,51]  1
     camion_n_en_comuna_c_dia_d[1,1,52]  R2[1,52]  1
     camion_n_en_comuna_c_dia_d[1,1,52]  R5[1,1,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,52]  R7[1,52]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,52]  R7[1,52]  -400
     camion_n_en_comuna_c_dia_d[1,1,52]  R9[1,52]  1
     camion_n_en_comuna_c_dia_d[1,1,53]  R2[1,53]  1
     camion_n_en_comuna_c_dia_d[1,1,53]  R5[1,1,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,53]  R7[1,53]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,53]  R7[1,53]  -400
     camion_n_en_comuna_c_dia_d[1,1,53]  R9[1,53]  1
     camion_n_en_comuna_c_dia_d[1,1,54]  R2[1,54]  1
     camion_n_en_comuna_c_dia_d[1,1,54]  R5[1,1,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,54]  R7[1,54]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,54]  R7[1,54]  -400
     camion_n_en_comuna_c_dia_d[1,1,54]  R9[1,54]  1
     camion_n_en_comuna_c_dia_d[1,1,55]  R2[1,55]  1
     camion_n_en_comuna_c_dia_d[1,1,55]  R5[1,1,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,55]  R7[1,55]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,55]  R7[1,55]  -400
     camion_n_en_comuna_c_dia_d[1,1,55]  R9[1,55]  1
     camion_n_en_comuna_c_dia_d[1,1,56]  R2[1,56]  1
     camion_n_en_comuna_c_dia_d[1,1,56]  R5[1,1,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,56]  R7[1,56]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,56]  R7[1,56]  -400
     camion_n_en_comuna_c_dia_d[1,1,56]  R9[1,56]  1
     camion_n_en_comuna_c_dia_d[1,1,57]  R2[1,57]  1
     camion_n_en_comuna_c_dia_d[1,1,57]  R5[1,1,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,57]  R7[1,57]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,57]  R7[1,57]  -400
     camion_n_en_comuna_c_dia_d[1,1,57]  R9[1,57]  1
     camion_n_en_comuna_c_dia_d[1,1,58]  R2[1,58]  1
     camion_n_en_comuna_c_dia_d[1,1,58]  R5[1,1,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,58]  R7[1,58]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,58]  R7[1,58]  -400
     camion_n_en_comuna_c_dia_d[1,1,58]  R9[1,58]  1
     camion_n_en_comuna_c_dia_d[1,1,59]  R2[1,59]  1
     camion_n_en_comuna_c_dia_d[1,1,59]  R5[1,1,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,59]  R7[1,59]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,59]  R7[1,59]  -400
     camion_n_en_comuna_c_dia_d[1,1,59]  R9[1,59]  1
     camion_n_en_comuna_c_dia_d[1,1,60]  R2[1,60]  1
     camion_n_en_comuna_c_dia_d[1,1,60]  R5[1,1,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,60]  R7[1,60]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,60]  R7[1,60]  -400
     camion_n_en_comuna_c_dia_d[1,1,60]  R9[1,60]  1
     camion_n_en_comuna_c_dia_d[1,1,61]  R2[1,61]  1
     camion_n_en_comuna_c_dia_d[1,1,61]  R5[1,1,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,61]  R7[1,61]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,61]  R7[1,61]  -400
     camion_n_en_comuna_c_dia_d[1,1,61]  R9[1,61]  1
     camion_n_en_comuna_c_dia_d[1,1,62]  R2[1,62]  1
     camion_n_en_comuna_c_dia_d[1,1,62]  R5[1,1,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,62]  R7[1,62]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,62]  R7[1,62]  -400
     camion_n_en_comuna_c_dia_d[1,1,62]  R9[1,62]  1
     camion_n_en_comuna_c_dia_d[1,1,63]  R2[1,63]  1
     camion_n_en_comuna_c_dia_d[1,1,63]  R5[1,1,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,63]  R7[1,63]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,63]  R7[1,63]  -400
     camion_n_en_comuna_c_dia_d[1,1,63]  R9[1,63]  1
     camion_n_en_comuna_c_dia_d[1,1,64]  R2[1,64]  1
     camion_n_en_comuna_c_dia_d[1,1,64]  R5[1,1,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,64]  R7[1,64]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,64]  R7[1,64]  -400
     camion_n_en_comuna_c_dia_d[1,1,64]  R9[1,64]  1
     camion_n_en_comuna_c_dia_d[1,1,65]  R2[1,65]  1
     camion_n_en_comuna_c_dia_d[1,1,65]  R5[1,1,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,65]  R7[1,65]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,65]  R7[1,65]  -400
     camion_n_en_comuna_c_dia_d[1,1,65]  R9[1,65]  1
     camion_n_en_comuna_c_dia_d[1,1,66]  R2[1,66]  1
     camion_n_en_comuna_c_dia_d[1,1,66]  R5[1,1,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,66]  R7[1,66]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,66]  R7[1,66]  -400
     camion_n_en_comuna_c_dia_d[1,1,66]  R9[1,66]  1
     camion_n_en_comuna_c_dia_d[1,1,67]  R2[1,67]  1
     camion_n_en_comuna_c_dia_d[1,1,67]  R5[1,1,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,67]  R7[1,67]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,67]  R7[1,67]  -400
     camion_n_en_comuna_c_dia_d[1,1,67]  R9[1,67]  1
     camion_n_en_comuna_c_dia_d[1,1,68]  R2[1,68]  1
     camion_n_en_comuna_c_dia_d[1,1,68]  R5[1,1,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,68]  R7[1,68]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,68]  R7[1,68]  -400
     camion_n_en_comuna_c_dia_d[1,1,68]  R9[1,68]  1
     camion_n_en_comuna_c_dia_d[1,1,69]  R2[1,69]  1
     camion_n_en_comuna_c_dia_d[1,1,69]  R5[1,1,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,69]  R7[1,69]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,69]  R7[1,69]  -400
     camion_n_en_comuna_c_dia_d[1,1,69]  R9[1,69]  1
     camion_n_en_comuna_c_dia_d[1,1,70]  R2[1,70]  1
     camion_n_en_comuna_c_dia_d[1,1,70]  R5[1,1,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,70]  R7[1,70]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,70]  R7[1,70]  -400
     camion_n_en_comuna_c_dia_d[1,1,70]  R9[1,70]  1
     camion_n_en_comuna_c_dia_d[1,1,71]  R2[1,71]  1
     camion_n_en_comuna_c_dia_d[1,1,71]  R5[1,1,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,71]  R7[1,71]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,71]  R7[1,71]  -400
     camion_n_en_comuna_c_dia_d[1,1,71]  R9[1,71]  1
     camion_n_en_comuna_c_dia_d[1,1,72]  R2[1,72]  1
     camion_n_en_comuna_c_dia_d[1,1,72]  R5[1,1,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,72]  R7[1,72]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,72]  R7[1,72]  -400
     camion_n_en_comuna_c_dia_d[1,1,72]  R9[1,72]  1
     camion_n_en_comuna_c_dia_d[1,1,73]  R2[1,73]  1
     camion_n_en_comuna_c_dia_d[1,1,73]  R5[1,1,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,73]  R7[1,73]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,73]  R7[1,73]  -400
     camion_n_en_comuna_c_dia_d[1,1,73]  R9[1,73]  1
     camion_n_en_comuna_c_dia_d[1,1,74]  R2[1,74]  1
     camion_n_en_comuna_c_dia_d[1,1,74]  R5[1,1,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,74]  R7[1,74]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,74]  R7[1,74]  -400
     camion_n_en_comuna_c_dia_d[1,1,74]  R9[1,74]  1
     camion_n_en_comuna_c_dia_d[1,1,75]  R2[1,75]  1
     camion_n_en_comuna_c_dia_d[1,1,75]  R5[1,1,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,75]  R7[1,75]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,75]  R7[1,75]  -400
     camion_n_en_comuna_c_dia_d[1,1,75]  R9[1,75]  1
     camion_n_en_comuna_c_dia_d[1,1,76]  R2[1,76]  1
     camion_n_en_comuna_c_dia_d[1,1,76]  R5[1,1,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,76]  R7[1,76]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,76]  R7[1,76]  -400
     camion_n_en_comuna_c_dia_d[1,1,76]  R9[1,76]  1
     camion_n_en_comuna_c_dia_d[1,1,77]  R2[1,77]  1
     camion_n_en_comuna_c_dia_d[1,1,77]  R5[1,1,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,77]  R7[1,77]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,77]  R7[1,77]  -400
     camion_n_en_comuna_c_dia_d[1,1,77]  R9[1,77]  1
     camion_n_en_comuna_c_dia_d[1,1,78]  R2[1,78]  1
     camion_n_en_comuna_c_dia_d[1,1,78]  R5[1,1,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,78]  R7[1,78]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,78]  R7[1,78]  -400
     camion_n_en_comuna_c_dia_d[1,1,78]  R9[1,78]  1
     camion_n_en_comuna_c_dia_d[1,1,79]  R2[1,79]  1
     camion_n_en_comuna_c_dia_d[1,1,79]  R5[1,1,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,79]  R7[1,79]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,79]  R7[1,79]  -400
     camion_n_en_comuna_c_dia_d[1,1,79]  R9[1,79]  1
     camion_n_en_comuna_c_dia_d[1,1,80]  R2[1,80]  1
     camion_n_en_comuna_c_dia_d[1,1,80]  R5[1,1,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,80]  R7[1,80]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,80]  R7[1,80]  -400
     camion_n_en_comuna_c_dia_d[1,1,80]  R9[1,80]  1
     camion_n_en_comuna_c_dia_d[1,1,81]  R2[1,81]  1
     camion_n_en_comuna_c_dia_d[1,1,81]  R5[1,1,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,81]  R7[1,81]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,81]  R7[1,81]  -400
     camion_n_en_comuna_c_dia_d[1,1,81]  R9[1,81]  1
     camion_n_en_comuna_c_dia_d[1,1,82]  R2[1,82]  1
     camion_n_en_comuna_c_dia_d[1,1,82]  R5[1,1,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,82]  R7[1,82]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,82]  R7[1,82]  -400
     camion_n_en_comuna_c_dia_d[1,1,82]  R9[1,82]  1
     camion_n_en_comuna_c_dia_d[1,1,83]  R2[1,83]  1
     camion_n_en_comuna_c_dia_d[1,1,83]  R5[1,1,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,83]  R7[1,83]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,83]  R7[1,83]  -400
     camion_n_en_comuna_c_dia_d[1,1,83]  R9[1,83]  1
     camion_n_en_comuna_c_dia_d[1,1,84]  R2[1,84]  1
     camion_n_en_comuna_c_dia_d[1,1,84]  R5[1,1,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,84]  R7[1,84]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,84]  R7[1,84]  -400
     camion_n_en_comuna_c_dia_d[1,1,84]  R9[1,84]  1
     camion_n_en_comuna_c_dia_d[1,1,85]  R2[1,85]  1
     camion_n_en_comuna_c_dia_d[1,1,85]  R5[1,1,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,85]  R7[1,85]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,85]  R7[1,85]  -400
     camion_n_en_comuna_c_dia_d[1,1,85]  R9[1,85]  1
     camion_n_en_comuna_c_dia_d[1,1,86]  R2[1,86]  1
     camion_n_en_comuna_c_dia_d[1,1,86]  R5[1,1,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,86]  R7[1,86]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,86]  R7[1,86]  -400
     camion_n_en_comuna_c_dia_d[1,1,86]  R9[1,86]  1
     camion_n_en_comuna_c_dia_d[1,1,87]  R2[1,87]  1
     camion_n_en_comuna_c_dia_d[1,1,87]  R5[1,1,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,87]  R7[1,87]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,87]  R7[1,87]  -400
     camion_n_en_comuna_c_dia_d[1,1,87]  R9[1,87]  1
     camion_n_en_comuna_c_dia_d[1,1,88]  R2[1,88]  1
     camion_n_en_comuna_c_dia_d[1,1,88]  R5[1,1,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,88]  R7[1,88]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,88]  R7[1,88]  -400
     camion_n_en_comuna_c_dia_d[1,1,88]  R9[1,88]  1
     camion_n_en_comuna_c_dia_d[1,1,89]  R2[1,89]  1
     camion_n_en_comuna_c_dia_d[1,1,89]  R5[1,1,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,89]  R7[1,89]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,89]  R7[1,89]  -400
     camion_n_en_comuna_c_dia_d[1,1,89]  R9[1,89]  1
     camion_n_en_comuna_c_dia_d[1,1,90]  R2[1,90]  1
     camion_n_en_comuna_c_dia_d[1,1,90]  R5[1,1,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,90]  R7[1,90]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,90]  R7[1,90]  -400
     camion_n_en_comuna_c_dia_d[1,1,90]  R9[1,90]  1
     camion_n_en_comuna_c_dia_d[1,1,91]  R2[1,91]  1
     camion_n_en_comuna_c_dia_d[1,1,91]  R5[1,1,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,91]  R7[1,91]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,91]  R7[1,91]  -400
     camion_n_en_comuna_c_dia_d[1,1,91]  R9[1,91]  1
     camion_n_en_comuna_c_dia_d[1,1,92]  R2[1,92]  1
     camion_n_en_comuna_c_dia_d[1,1,92]  R5[1,1,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,92]  R7[1,92]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,92]  R7[1,92]  -400
     camion_n_en_comuna_c_dia_d[1,1,92]  R9[1,92]  1
     camion_n_en_comuna_c_dia_d[1,1,93]  R2[1,93]  1
     camion_n_en_comuna_c_dia_d[1,1,93]  R5[1,1,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,93]  R7[1,93]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,93]  R7[1,93]  -400
     camion_n_en_comuna_c_dia_d[1,1,93]  R9[1,93]  1
     camion_n_en_comuna_c_dia_d[1,1,94]  R2[1,94]  1
     camion_n_en_comuna_c_dia_d[1,1,94]  R5[1,1,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,94]  R7[1,94]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,94]  R7[1,94]  -400
     camion_n_en_comuna_c_dia_d[1,1,94]  R9[1,94]  1
     camion_n_en_comuna_c_dia_d[1,1,95]  R2[1,95]  1
     camion_n_en_comuna_c_dia_d[1,1,95]  R5[1,1,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,95]  R7[1,95]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,95]  R7[1,95]  -400
     camion_n_en_comuna_c_dia_d[1,1,95]  R9[1,95]  1
     camion_n_en_comuna_c_dia_d[1,1,96]  R2[1,96]  1
     camion_n_en_comuna_c_dia_d[1,1,96]  R5[1,1,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,96]  R7[1,96]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,96]  R7[1,96]  -400
     camion_n_en_comuna_c_dia_d[1,1,96]  R9[1,96]  1
     camion_n_en_comuna_c_dia_d[1,1,97]  R2[1,97]  1
     camion_n_en_comuna_c_dia_d[1,1,97]  R5[1,1,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,97]  R7[1,97]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,97]  R7[1,97]  -400
     camion_n_en_comuna_c_dia_d[1,1,97]  R9[1,97]  1
     camion_n_en_comuna_c_dia_d[1,1,98]  R2[1,98]  1
     camion_n_en_comuna_c_dia_d[1,1,98]  R5[1,1,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,98]  R7[1,98]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,98]  R7[1,98]  -400
     camion_n_en_comuna_c_dia_d[1,1,98]  R9[1,98]  1
     camion_n_en_comuna_c_dia_d[1,1,99]  R2[1,99]  1
     camion_n_en_comuna_c_dia_d[1,1,99]  R5[1,1,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,1,99]  R7[1,99]  -1000
+    camion_n_en_comuna_c_dia_d[1,1,99]  R7[1,99]  -400
     camion_n_en_comuna_c_dia_d[1,1,99]  R9[1,99]  1
     camion_n_en_comuna_c_dia_d[1,2,0]  R2[1,0]   1
     camion_n_en_comuna_c_dia_d[1,2,0]  R5[1,2,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,0]  R7[2,0]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,0]  R7[2,0]   -400
     camion_n_en_comuna_c_dia_d[1,2,0]  R9[2,0]   1
     camion_n_en_comuna_c_dia_d[1,2,1]  R2[1,1]   1
     camion_n_en_comuna_c_dia_d[1,2,1]  R5[1,2,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,1]  R7[2,1]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,1]  R7[2,1]   -400
     camion_n_en_comuna_c_dia_d[1,2,1]  R9[2,1]   1
     camion_n_en_comuna_c_dia_d[1,2,2]  R2[1,2]   1
     camion_n_en_comuna_c_dia_d[1,2,2]  R5[1,2,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,2]  R7[2,2]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,2]  R7[2,2]   -400
     camion_n_en_comuna_c_dia_d[1,2,2]  R9[2,2]   1
     camion_n_en_comuna_c_dia_d[1,2,3]  R2[1,3]   1
     camion_n_en_comuna_c_dia_d[1,2,3]  R5[1,2,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,3]  R7[2,3]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,3]  R7[2,3]   -400
     camion_n_en_comuna_c_dia_d[1,2,3]  R9[2,3]   1
     camion_n_en_comuna_c_dia_d[1,2,4]  R2[1,4]   1
     camion_n_en_comuna_c_dia_d[1,2,4]  R5[1,2,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,4]  R7[2,4]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,4]  R7[2,4]   -400
     camion_n_en_comuna_c_dia_d[1,2,4]  R9[2,4]   1
     camion_n_en_comuna_c_dia_d[1,2,5]  R2[1,5]   1
     camion_n_en_comuna_c_dia_d[1,2,5]  R5[1,2,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,5]  R7[2,5]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,5]  R7[2,5]   -400
     camion_n_en_comuna_c_dia_d[1,2,5]  R9[2,5]   1
     camion_n_en_comuna_c_dia_d[1,2,6]  R2[1,6]   1
     camion_n_en_comuna_c_dia_d[1,2,6]  R5[1,2,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,6]  R7[2,6]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,6]  R7[2,6]   -400
     camion_n_en_comuna_c_dia_d[1,2,6]  R9[2,6]   1
     camion_n_en_comuna_c_dia_d[1,2,7]  R2[1,7]   1
     camion_n_en_comuna_c_dia_d[1,2,7]  R5[1,2,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,7]  R7[2,7]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,7]  R7[2,7]   -400
     camion_n_en_comuna_c_dia_d[1,2,7]  R9[2,7]   1
     camion_n_en_comuna_c_dia_d[1,2,8]  R2[1,8]   1
     camion_n_en_comuna_c_dia_d[1,2,8]  R5[1,2,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,8]  R7[2,8]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,8]  R7[2,8]   -400
     camion_n_en_comuna_c_dia_d[1,2,8]  R9[2,8]   1
     camion_n_en_comuna_c_dia_d[1,2,9]  R2[1,9]   1
     camion_n_en_comuna_c_dia_d[1,2,9]  R5[1,2,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,9]  R7[2,9]   -1000
+    camion_n_en_comuna_c_dia_d[1,2,9]  R7[2,9]   -400
     camion_n_en_comuna_c_dia_d[1,2,9]  R9[2,9]   1
     camion_n_en_comuna_c_dia_d[1,2,10]  R2[1,10]  1
     camion_n_en_comuna_c_dia_d[1,2,10]  R5[1,2,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,10]  R7[2,10]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,10]  R7[2,10]  -400
     camion_n_en_comuna_c_dia_d[1,2,10]  R9[2,10]  1
     camion_n_en_comuna_c_dia_d[1,2,11]  R2[1,11]  1
     camion_n_en_comuna_c_dia_d[1,2,11]  R5[1,2,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,11]  R7[2,11]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,11]  R7[2,11]  -400
     camion_n_en_comuna_c_dia_d[1,2,11]  R9[2,11]  1
     camion_n_en_comuna_c_dia_d[1,2,12]  R2[1,12]  1
     camion_n_en_comuna_c_dia_d[1,2,12]  R5[1,2,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,12]  R7[2,12]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,12]  R7[2,12]  -400
     camion_n_en_comuna_c_dia_d[1,2,12]  R9[2,12]  1
     camion_n_en_comuna_c_dia_d[1,2,13]  R2[1,13]  1
     camion_n_en_comuna_c_dia_d[1,2,13]  R5[1,2,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,13]  R7[2,13]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,13]  R7[2,13]  -400
     camion_n_en_comuna_c_dia_d[1,2,13]  R9[2,13]  1
     camion_n_en_comuna_c_dia_d[1,2,14]  R2[1,14]  1
     camion_n_en_comuna_c_dia_d[1,2,14]  R5[1,2,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,14]  R7[2,14]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,14]  R7[2,14]  -400
     camion_n_en_comuna_c_dia_d[1,2,14]  R9[2,14]  1
     camion_n_en_comuna_c_dia_d[1,2,15]  R2[1,15]  1
     camion_n_en_comuna_c_dia_d[1,2,15]  R5[1,2,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,15]  R7[2,15]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,15]  R7[2,15]  -400
     camion_n_en_comuna_c_dia_d[1,2,15]  R9[2,15]  1
     camion_n_en_comuna_c_dia_d[1,2,16]  R2[1,16]  1
     camion_n_en_comuna_c_dia_d[1,2,16]  R5[1,2,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,16]  R7[2,16]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,16]  R7[2,16]  -400
     camion_n_en_comuna_c_dia_d[1,2,16]  R9[2,16]  1
     camion_n_en_comuna_c_dia_d[1,2,17]  R2[1,17]  1
     camion_n_en_comuna_c_dia_d[1,2,17]  R5[1,2,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,17]  R7[2,17]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,17]  R7[2,17]  -400
     camion_n_en_comuna_c_dia_d[1,2,17]  R9[2,17]  1
     camion_n_en_comuna_c_dia_d[1,2,18]  R2[1,18]  1
     camion_n_en_comuna_c_dia_d[1,2,18]  R5[1,2,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,18]  R7[2,18]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,18]  R7[2,18]  -400
     camion_n_en_comuna_c_dia_d[1,2,18]  R9[2,18]  1
     camion_n_en_comuna_c_dia_d[1,2,19]  R2[1,19]  1
     camion_n_en_comuna_c_dia_d[1,2,19]  R5[1,2,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,19]  R7[2,19]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,19]  R7[2,19]  -400
     camion_n_en_comuna_c_dia_d[1,2,19]  R9[2,19]  1
     camion_n_en_comuna_c_dia_d[1,2,20]  R2[1,20]  1
     camion_n_en_comuna_c_dia_d[1,2,20]  R5[1,2,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,20]  R7[2,20]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,20]  R7[2,20]  -400
     camion_n_en_comuna_c_dia_d[1,2,20]  R9[2,20]  1
     camion_n_en_comuna_c_dia_d[1,2,21]  R2[1,21]  1
     camion_n_en_comuna_c_dia_d[1,2,21]  R5[1,2,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,21]  R7[2,21]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,21]  R7[2,21]  -400
     camion_n_en_comuna_c_dia_d[1,2,21]  R9[2,21]  1
     camion_n_en_comuna_c_dia_d[1,2,22]  R2[1,22]  1
     camion_n_en_comuna_c_dia_d[1,2,22]  R5[1,2,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,22]  R7[2,22]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,22]  R7[2,22]  -400
     camion_n_en_comuna_c_dia_d[1,2,22]  R9[2,22]  1
     camion_n_en_comuna_c_dia_d[1,2,23]  R2[1,23]  1
     camion_n_en_comuna_c_dia_d[1,2,23]  R5[1,2,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,23]  R7[2,23]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,23]  R7[2,23]  -400
     camion_n_en_comuna_c_dia_d[1,2,23]  R9[2,23]  1
     camion_n_en_comuna_c_dia_d[1,2,24]  R2[1,24]  1
     camion_n_en_comuna_c_dia_d[1,2,24]  R5[1,2,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,24]  R7[2,24]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,24]  R7[2,24]  -400
     camion_n_en_comuna_c_dia_d[1,2,24]  R9[2,24]  1
     camion_n_en_comuna_c_dia_d[1,2,25]  R2[1,25]  1
     camion_n_en_comuna_c_dia_d[1,2,25]  R5[1,2,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,25]  R7[2,25]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,25]  R7[2,25]  -400
     camion_n_en_comuna_c_dia_d[1,2,25]  R9[2,25]  1
     camion_n_en_comuna_c_dia_d[1,2,26]  R2[1,26]  1
     camion_n_en_comuna_c_dia_d[1,2,26]  R5[1,2,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,26]  R7[2,26]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,26]  R7[2,26]  -400
     camion_n_en_comuna_c_dia_d[1,2,26]  R9[2,26]  1
     camion_n_en_comuna_c_dia_d[1,2,27]  R2[1,27]  1
     camion_n_en_comuna_c_dia_d[1,2,27]  R5[1,2,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,27]  R7[2,27]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,27]  R7[2,27]  -400
     camion_n_en_comuna_c_dia_d[1,2,27]  R9[2,27]  1
     camion_n_en_comuna_c_dia_d[1,2,28]  R2[1,28]  1
     camion_n_en_comuna_c_dia_d[1,2,28]  R5[1,2,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,28]  R7[2,28]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,28]  R7[2,28]  -400
     camion_n_en_comuna_c_dia_d[1,2,28]  R9[2,28]  1
     camion_n_en_comuna_c_dia_d[1,2,29]  R2[1,29]  1
     camion_n_en_comuna_c_dia_d[1,2,29]  R5[1,2,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,29]  R7[2,29]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,29]  R7[2,29]  -400
     camion_n_en_comuna_c_dia_d[1,2,29]  R9[2,29]  1
     camion_n_en_comuna_c_dia_d[1,2,30]  R2[1,30]  1
     camion_n_en_comuna_c_dia_d[1,2,30]  R5[1,2,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,30]  R7[2,30]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,30]  R7[2,30]  -400
     camion_n_en_comuna_c_dia_d[1,2,30]  R9[2,30]  1
     camion_n_en_comuna_c_dia_d[1,2,31]  R2[1,31]  1
     camion_n_en_comuna_c_dia_d[1,2,31]  R5[1,2,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,31]  R7[2,31]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,31]  R7[2,31]  -400
     camion_n_en_comuna_c_dia_d[1,2,31]  R9[2,31]  1
     camion_n_en_comuna_c_dia_d[1,2,32]  R2[1,32]  1
     camion_n_en_comuna_c_dia_d[1,2,32]  R5[1,2,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,32]  R7[2,32]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,32]  R7[2,32]  -400
     camion_n_en_comuna_c_dia_d[1,2,32]  R9[2,32]  1
     camion_n_en_comuna_c_dia_d[1,2,33]  R2[1,33]  1
     camion_n_en_comuna_c_dia_d[1,2,33]  R5[1,2,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,33]  R7[2,33]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,33]  R7[2,33]  -400
     camion_n_en_comuna_c_dia_d[1,2,33]  R9[2,33]  1
     camion_n_en_comuna_c_dia_d[1,2,34]  R2[1,34]  1
     camion_n_en_comuna_c_dia_d[1,2,34]  R5[1,2,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,34]  R7[2,34]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,34]  R7[2,34]  -400
     camion_n_en_comuna_c_dia_d[1,2,34]  R9[2,34]  1
     camion_n_en_comuna_c_dia_d[1,2,35]  R2[1,35]  1
     camion_n_en_comuna_c_dia_d[1,2,35]  R5[1,2,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,35]  R7[2,35]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,35]  R7[2,35]  -400
     camion_n_en_comuna_c_dia_d[1,2,35]  R9[2,35]  1
     camion_n_en_comuna_c_dia_d[1,2,36]  R2[1,36]  1
     camion_n_en_comuna_c_dia_d[1,2,36]  R5[1,2,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,36]  R7[2,36]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,36]  R7[2,36]  -400
     camion_n_en_comuna_c_dia_d[1,2,36]  R9[2,36]  1
     camion_n_en_comuna_c_dia_d[1,2,37]  R2[1,37]  1
     camion_n_en_comuna_c_dia_d[1,2,37]  R5[1,2,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,37]  R7[2,37]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,37]  R7[2,37]  -400
     camion_n_en_comuna_c_dia_d[1,2,37]  R9[2,37]  1
     camion_n_en_comuna_c_dia_d[1,2,38]  R2[1,38]  1
     camion_n_en_comuna_c_dia_d[1,2,38]  R5[1,2,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,38]  R7[2,38]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,38]  R7[2,38]  -400
     camion_n_en_comuna_c_dia_d[1,2,38]  R9[2,38]  1
     camion_n_en_comuna_c_dia_d[1,2,39]  R2[1,39]  1
     camion_n_en_comuna_c_dia_d[1,2,39]  R5[1,2,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,39]  R7[2,39]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,39]  R7[2,39]  -400
     camion_n_en_comuna_c_dia_d[1,2,39]  R9[2,39]  1
     camion_n_en_comuna_c_dia_d[1,2,40]  R2[1,40]  1
     camion_n_en_comuna_c_dia_d[1,2,40]  R5[1,2,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,40]  R7[2,40]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,40]  R7[2,40]  -400
     camion_n_en_comuna_c_dia_d[1,2,40]  R9[2,40]  1
     camion_n_en_comuna_c_dia_d[1,2,41]  R2[1,41]  1
     camion_n_en_comuna_c_dia_d[1,2,41]  R5[1,2,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,41]  R7[2,41]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,41]  R7[2,41]  -400
     camion_n_en_comuna_c_dia_d[1,2,41]  R9[2,41]  1
     camion_n_en_comuna_c_dia_d[1,2,42]  R2[1,42]  1
     camion_n_en_comuna_c_dia_d[1,2,42]  R5[1,2,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,42]  R7[2,42]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,42]  R7[2,42]  -400
     camion_n_en_comuna_c_dia_d[1,2,42]  R9[2,42]  1
     camion_n_en_comuna_c_dia_d[1,2,43]  R2[1,43]  1
     camion_n_en_comuna_c_dia_d[1,2,43]  R5[1,2,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,43]  R7[2,43]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,43]  R7[2,43]  -400
     camion_n_en_comuna_c_dia_d[1,2,43]  R9[2,43]  1
     camion_n_en_comuna_c_dia_d[1,2,44]  R2[1,44]  1
     camion_n_en_comuna_c_dia_d[1,2,44]  R5[1,2,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,44]  R7[2,44]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,44]  R7[2,44]  -400
     camion_n_en_comuna_c_dia_d[1,2,44]  R9[2,44]  1
     camion_n_en_comuna_c_dia_d[1,2,45]  R2[1,45]  1
     camion_n_en_comuna_c_dia_d[1,2,45]  R5[1,2,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,45]  R7[2,45]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,45]  R7[2,45]  -400
     camion_n_en_comuna_c_dia_d[1,2,45]  R9[2,45]  1
     camion_n_en_comuna_c_dia_d[1,2,46]  R2[1,46]  1
     camion_n_en_comuna_c_dia_d[1,2,46]  R5[1,2,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,46]  R7[2,46]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,46]  R7[2,46]  -400
     camion_n_en_comuna_c_dia_d[1,2,46]  R9[2,46]  1
     camion_n_en_comuna_c_dia_d[1,2,47]  R2[1,47]  1
     camion_n_en_comuna_c_dia_d[1,2,47]  R5[1,2,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,47]  R7[2,47]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,47]  R7[2,47]  -400
     camion_n_en_comuna_c_dia_d[1,2,47]  R9[2,47]  1
     camion_n_en_comuna_c_dia_d[1,2,48]  R2[1,48]  1
     camion_n_en_comuna_c_dia_d[1,2,48]  R5[1,2,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,48]  R7[2,48]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,48]  R7[2,48]  -400
     camion_n_en_comuna_c_dia_d[1,2,48]  R9[2,48]  1
     camion_n_en_comuna_c_dia_d[1,2,49]  R2[1,49]  1
     camion_n_en_comuna_c_dia_d[1,2,49]  R5[1,2,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,49]  R7[2,49]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,49]  R7[2,49]  -400
     camion_n_en_comuna_c_dia_d[1,2,49]  R9[2,49]  1
     camion_n_en_comuna_c_dia_d[1,2,50]  R2[1,50]  1
     camion_n_en_comuna_c_dia_d[1,2,50]  R5[1,2,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,50]  R7[2,50]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,50]  R7[2,50]  -400
     camion_n_en_comuna_c_dia_d[1,2,50]  R9[2,50]  1
     camion_n_en_comuna_c_dia_d[1,2,51]  R2[1,51]  1
     camion_n_en_comuna_c_dia_d[1,2,51]  R5[1,2,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,51]  R7[2,51]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,51]  R7[2,51]  -400
     camion_n_en_comuna_c_dia_d[1,2,51]  R9[2,51]  1
     camion_n_en_comuna_c_dia_d[1,2,52]  R2[1,52]  1
     camion_n_en_comuna_c_dia_d[1,2,52]  R5[1,2,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,52]  R7[2,52]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,52]  R7[2,52]  -400
     camion_n_en_comuna_c_dia_d[1,2,52]  R9[2,52]  1
     camion_n_en_comuna_c_dia_d[1,2,53]  R2[1,53]  1
     camion_n_en_comuna_c_dia_d[1,2,53]  R5[1,2,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,53]  R7[2,53]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,53]  R7[2,53]  -400
     camion_n_en_comuna_c_dia_d[1,2,53]  R9[2,53]  1
     camion_n_en_comuna_c_dia_d[1,2,54]  R2[1,54]  1
     camion_n_en_comuna_c_dia_d[1,2,54]  R5[1,2,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,54]  R7[2,54]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,54]  R7[2,54]  -400
     camion_n_en_comuna_c_dia_d[1,2,54]  R9[2,54]  1
     camion_n_en_comuna_c_dia_d[1,2,55]  R2[1,55]  1
     camion_n_en_comuna_c_dia_d[1,2,55]  R5[1,2,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,55]  R7[2,55]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,55]  R7[2,55]  -400
     camion_n_en_comuna_c_dia_d[1,2,55]  R9[2,55]  1
     camion_n_en_comuna_c_dia_d[1,2,56]  R2[1,56]  1
     camion_n_en_comuna_c_dia_d[1,2,56]  R5[1,2,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,56]  R7[2,56]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,56]  R7[2,56]  -400
     camion_n_en_comuna_c_dia_d[1,2,56]  R9[2,56]  1
     camion_n_en_comuna_c_dia_d[1,2,57]  R2[1,57]  1
     camion_n_en_comuna_c_dia_d[1,2,57]  R5[1,2,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,57]  R7[2,57]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,57]  R7[2,57]  -400
     camion_n_en_comuna_c_dia_d[1,2,57]  R9[2,57]  1
     camion_n_en_comuna_c_dia_d[1,2,58]  R2[1,58]  1
     camion_n_en_comuna_c_dia_d[1,2,58]  R5[1,2,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,58]  R7[2,58]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,58]  R7[2,58]  -400
     camion_n_en_comuna_c_dia_d[1,2,58]  R9[2,58]  1
     camion_n_en_comuna_c_dia_d[1,2,59]  R2[1,59]  1
     camion_n_en_comuna_c_dia_d[1,2,59]  R5[1,2,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,59]  R7[2,59]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,59]  R7[2,59]  -400
     camion_n_en_comuna_c_dia_d[1,2,59]  R9[2,59]  1
     camion_n_en_comuna_c_dia_d[1,2,60]  R2[1,60]  1
     camion_n_en_comuna_c_dia_d[1,2,60]  R5[1,2,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,60]  R7[2,60]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,60]  R7[2,60]  -400
     camion_n_en_comuna_c_dia_d[1,2,60]  R9[2,60]  1
     camion_n_en_comuna_c_dia_d[1,2,61]  R2[1,61]  1
     camion_n_en_comuna_c_dia_d[1,2,61]  R5[1,2,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,61]  R7[2,61]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,61]  R7[2,61]  -400
     camion_n_en_comuna_c_dia_d[1,2,61]  R9[2,61]  1
     camion_n_en_comuna_c_dia_d[1,2,62]  R2[1,62]  1
     camion_n_en_comuna_c_dia_d[1,2,62]  R5[1,2,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,62]  R7[2,62]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,62]  R7[2,62]  -400
     camion_n_en_comuna_c_dia_d[1,2,62]  R9[2,62]  1
     camion_n_en_comuna_c_dia_d[1,2,63]  R2[1,63]  1
     camion_n_en_comuna_c_dia_d[1,2,63]  R5[1,2,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,63]  R7[2,63]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,63]  R7[2,63]  -400
     camion_n_en_comuna_c_dia_d[1,2,63]  R9[2,63]  1
     camion_n_en_comuna_c_dia_d[1,2,64]  R2[1,64]  1
     camion_n_en_comuna_c_dia_d[1,2,64]  R5[1,2,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,64]  R7[2,64]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,64]  R7[2,64]  -400
     camion_n_en_comuna_c_dia_d[1,2,64]  R9[2,64]  1
     camion_n_en_comuna_c_dia_d[1,2,65]  R2[1,65]  1
     camion_n_en_comuna_c_dia_d[1,2,65]  R5[1,2,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,65]  R7[2,65]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,65]  R7[2,65]  -400
     camion_n_en_comuna_c_dia_d[1,2,65]  R9[2,65]  1
     camion_n_en_comuna_c_dia_d[1,2,66]  R2[1,66]  1
     camion_n_en_comuna_c_dia_d[1,2,66]  R5[1,2,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,66]  R7[2,66]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,66]  R7[2,66]  -400
     camion_n_en_comuna_c_dia_d[1,2,66]  R9[2,66]  1
     camion_n_en_comuna_c_dia_d[1,2,67]  R2[1,67]  1
     camion_n_en_comuna_c_dia_d[1,2,67]  R5[1,2,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,67]  R7[2,67]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,67]  R7[2,67]  -400
     camion_n_en_comuna_c_dia_d[1,2,67]  R9[2,67]  1
     camion_n_en_comuna_c_dia_d[1,2,68]  R2[1,68]  1
     camion_n_en_comuna_c_dia_d[1,2,68]  R5[1,2,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,68]  R7[2,68]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,68]  R7[2,68]  -400
     camion_n_en_comuna_c_dia_d[1,2,68]  R9[2,68]  1
     camion_n_en_comuna_c_dia_d[1,2,69]  R2[1,69]  1
     camion_n_en_comuna_c_dia_d[1,2,69]  R5[1,2,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,69]  R7[2,69]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,69]  R7[2,69]  -400
     camion_n_en_comuna_c_dia_d[1,2,69]  R9[2,69]  1
     camion_n_en_comuna_c_dia_d[1,2,70]  R2[1,70]  1
     camion_n_en_comuna_c_dia_d[1,2,70]  R5[1,2,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,70]  R7[2,70]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,70]  R7[2,70]  -400
     camion_n_en_comuna_c_dia_d[1,2,70]  R9[2,70]  1
     camion_n_en_comuna_c_dia_d[1,2,71]  R2[1,71]  1
     camion_n_en_comuna_c_dia_d[1,2,71]  R5[1,2,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,71]  R7[2,71]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,71]  R7[2,71]  -400
     camion_n_en_comuna_c_dia_d[1,2,71]  R9[2,71]  1
     camion_n_en_comuna_c_dia_d[1,2,72]  R2[1,72]  1
     camion_n_en_comuna_c_dia_d[1,2,72]  R5[1,2,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,72]  R7[2,72]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,72]  R7[2,72]  -400
     camion_n_en_comuna_c_dia_d[1,2,72]  R9[2,72]  1
     camion_n_en_comuna_c_dia_d[1,2,73]  R2[1,73]  1
     camion_n_en_comuna_c_dia_d[1,2,73]  R5[1,2,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,73]  R7[2,73]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,73]  R7[2,73]  -400
     camion_n_en_comuna_c_dia_d[1,2,73]  R9[2,73]  1
     camion_n_en_comuna_c_dia_d[1,2,74]  R2[1,74]  1
     camion_n_en_comuna_c_dia_d[1,2,74]  R5[1,2,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,74]  R7[2,74]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,74]  R7[2,74]  -400
     camion_n_en_comuna_c_dia_d[1,2,74]  R9[2,74]  1
     camion_n_en_comuna_c_dia_d[1,2,75]  R2[1,75]  1
     camion_n_en_comuna_c_dia_d[1,2,75]  R5[1,2,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,75]  R7[2,75]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,75]  R7[2,75]  -400
     camion_n_en_comuna_c_dia_d[1,2,75]  R9[2,75]  1
     camion_n_en_comuna_c_dia_d[1,2,76]  R2[1,76]  1
     camion_n_en_comuna_c_dia_d[1,2,76]  R5[1,2,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,76]  R7[2,76]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,76]  R7[2,76]  -400
     camion_n_en_comuna_c_dia_d[1,2,76]  R9[2,76]  1
     camion_n_en_comuna_c_dia_d[1,2,77]  R2[1,77]  1
     camion_n_en_comuna_c_dia_d[1,2,77]  R5[1,2,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,77]  R7[2,77]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,77]  R7[2,77]  -400
     camion_n_en_comuna_c_dia_d[1,2,77]  R9[2,77]  1
     camion_n_en_comuna_c_dia_d[1,2,78]  R2[1,78]  1
     camion_n_en_comuna_c_dia_d[1,2,78]  R5[1,2,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,78]  R7[2,78]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,78]  R7[2,78]  -400
     camion_n_en_comuna_c_dia_d[1,2,78]  R9[2,78]  1
     camion_n_en_comuna_c_dia_d[1,2,79]  R2[1,79]  1
     camion_n_en_comuna_c_dia_d[1,2,79]  R5[1,2,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,79]  R7[2,79]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,79]  R7[2,79]  -400
     camion_n_en_comuna_c_dia_d[1,2,79]  R9[2,79]  1
     camion_n_en_comuna_c_dia_d[1,2,80]  R2[1,80]  1
     camion_n_en_comuna_c_dia_d[1,2,80]  R5[1,2,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,80]  R7[2,80]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,80]  R7[2,80]  -400
     camion_n_en_comuna_c_dia_d[1,2,80]  R9[2,80]  1
     camion_n_en_comuna_c_dia_d[1,2,81]  R2[1,81]  1
     camion_n_en_comuna_c_dia_d[1,2,81]  R5[1,2,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,81]  R7[2,81]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,81]  R7[2,81]  -400
     camion_n_en_comuna_c_dia_d[1,2,81]  R9[2,81]  1
     camion_n_en_comuna_c_dia_d[1,2,82]  R2[1,82]  1
     camion_n_en_comuna_c_dia_d[1,2,82]  R5[1,2,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,82]  R7[2,82]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,82]  R7[2,82]  -400
     camion_n_en_comuna_c_dia_d[1,2,82]  R9[2,82]  1
     camion_n_en_comuna_c_dia_d[1,2,83]  R2[1,83]  1
     camion_n_en_comuna_c_dia_d[1,2,83]  R5[1,2,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,83]  R7[2,83]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,83]  R7[2,83]  -400
     camion_n_en_comuna_c_dia_d[1,2,83]  R9[2,83]  1
     camion_n_en_comuna_c_dia_d[1,2,84]  R2[1,84]  1
     camion_n_en_comuna_c_dia_d[1,2,84]  R5[1,2,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,84]  R7[2,84]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,84]  R7[2,84]  -400
     camion_n_en_comuna_c_dia_d[1,2,84]  R9[2,84]  1
     camion_n_en_comuna_c_dia_d[1,2,85]  R2[1,85]  1
     camion_n_en_comuna_c_dia_d[1,2,85]  R5[1,2,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,85]  R7[2,85]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,85]  R7[2,85]  -400
     camion_n_en_comuna_c_dia_d[1,2,85]  R9[2,85]  1
     camion_n_en_comuna_c_dia_d[1,2,86]  R2[1,86]  1
     camion_n_en_comuna_c_dia_d[1,2,86]  R5[1,2,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,86]  R7[2,86]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,86]  R7[2,86]  -400
     camion_n_en_comuna_c_dia_d[1,2,86]  R9[2,86]  1
     camion_n_en_comuna_c_dia_d[1,2,87]  R2[1,87]  1
     camion_n_en_comuna_c_dia_d[1,2,87]  R5[1,2,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,87]  R7[2,87]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,87]  R7[2,87]  -400
     camion_n_en_comuna_c_dia_d[1,2,87]  R9[2,87]  1
     camion_n_en_comuna_c_dia_d[1,2,88]  R2[1,88]  1
     camion_n_en_comuna_c_dia_d[1,2,88]  R5[1,2,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,88]  R7[2,88]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,88]  R7[2,88]  -400
     camion_n_en_comuna_c_dia_d[1,2,88]  R9[2,88]  1
     camion_n_en_comuna_c_dia_d[1,2,89]  R2[1,89]  1
     camion_n_en_comuna_c_dia_d[1,2,89]  R5[1,2,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,89]  R7[2,89]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,89]  R7[2,89]  -400
     camion_n_en_comuna_c_dia_d[1,2,89]  R9[2,89]  1
     camion_n_en_comuna_c_dia_d[1,2,90]  R2[1,90]  1
     camion_n_en_comuna_c_dia_d[1,2,90]  R5[1,2,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,90]  R7[2,90]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,90]  R7[2,90]  -400
     camion_n_en_comuna_c_dia_d[1,2,90]  R9[2,90]  1
     camion_n_en_comuna_c_dia_d[1,2,91]  R2[1,91]  1
     camion_n_en_comuna_c_dia_d[1,2,91]  R5[1,2,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,91]  R7[2,91]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,91]  R7[2,91]  -400
     camion_n_en_comuna_c_dia_d[1,2,91]  R9[2,91]  1
     camion_n_en_comuna_c_dia_d[1,2,92]  R2[1,92]  1
     camion_n_en_comuna_c_dia_d[1,2,92]  R5[1,2,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,92]  R7[2,92]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,92]  R7[2,92]  -400
     camion_n_en_comuna_c_dia_d[1,2,92]  R9[2,92]  1
     camion_n_en_comuna_c_dia_d[1,2,93]  R2[1,93]  1
     camion_n_en_comuna_c_dia_d[1,2,93]  R5[1,2,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,93]  R7[2,93]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,93]  R7[2,93]  -400
     camion_n_en_comuna_c_dia_d[1,2,93]  R9[2,93]  1
     camion_n_en_comuna_c_dia_d[1,2,94]  R2[1,94]  1
     camion_n_en_comuna_c_dia_d[1,2,94]  R5[1,2,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,94]  R7[2,94]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,94]  R7[2,94]  -400
     camion_n_en_comuna_c_dia_d[1,2,94]  R9[2,94]  1
     camion_n_en_comuna_c_dia_d[1,2,95]  R2[1,95]  1
     camion_n_en_comuna_c_dia_d[1,2,95]  R5[1,2,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,95]  R7[2,95]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,95]  R7[2,95]  -400
     camion_n_en_comuna_c_dia_d[1,2,95]  R9[2,95]  1
     camion_n_en_comuna_c_dia_d[1,2,96]  R2[1,96]  1
     camion_n_en_comuna_c_dia_d[1,2,96]  R5[1,2,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,96]  R7[2,96]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,96]  R7[2,96]  -400
     camion_n_en_comuna_c_dia_d[1,2,96]  R9[2,96]  1
     camion_n_en_comuna_c_dia_d[1,2,97]  R2[1,97]  1
     camion_n_en_comuna_c_dia_d[1,2,97]  R5[1,2,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,97]  R7[2,97]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,97]  R7[2,97]  -400
     camion_n_en_comuna_c_dia_d[1,2,97]  R9[2,97]  1
     camion_n_en_comuna_c_dia_d[1,2,98]  R2[1,98]  1
     camion_n_en_comuna_c_dia_d[1,2,98]  R5[1,2,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,98]  R7[2,98]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,98]  R7[2,98]  -400
     camion_n_en_comuna_c_dia_d[1,2,98]  R9[2,98]  1
     camion_n_en_comuna_c_dia_d[1,2,99]  R2[1,99]  1
     camion_n_en_comuna_c_dia_d[1,2,99]  R5[1,2,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,2,99]  R7[2,99]  -1000
+    camion_n_en_comuna_c_dia_d[1,2,99]  R7[2,99]  -400
     camion_n_en_comuna_c_dia_d[1,2,99]  R9[2,99]  1
     camion_n_en_comuna_c_dia_d[1,3,0]  R2[1,0]   1
     camion_n_en_comuna_c_dia_d[1,3,0]  R5[1,3,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,0]  R7[3,0]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,0]  R7[3,0]   -400
     camion_n_en_comuna_c_dia_d[1,3,0]  R9[3,0]   1
     camion_n_en_comuna_c_dia_d[1,3,1]  R2[1,1]   1
     camion_n_en_comuna_c_dia_d[1,3,1]  R5[1,3,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,1]  R7[3,1]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,1]  R7[3,1]   -400
     camion_n_en_comuna_c_dia_d[1,3,1]  R9[3,1]   1
     camion_n_en_comuna_c_dia_d[1,3,2]  R2[1,2]   1
     camion_n_en_comuna_c_dia_d[1,3,2]  R5[1,3,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,2]  R7[3,2]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,2]  R7[3,2]   -400
     camion_n_en_comuna_c_dia_d[1,3,2]  R9[3,2]   1
     camion_n_en_comuna_c_dia_d[1,3,3]  R2[1,3]   1
     camion_n_en_comuna_c_dia_d[1,3,3]  R5[1,3,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,3]  R7[3,3]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,3]  R7[3,3]   -400
     camion_n_en_comuna_c_dia_d[1,3,3]  R9[3,3]   1
     camion_n_en_comuna_c_dia_d[1,3,4]  R2[1,4]   1
     camion_n_en_comuna_c_dia_d[1,3,4]  R5[1,3,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,4]  R7[3,4]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,4]  R7[3,4]   -400
     camion_n_en_comuna_c_dia_d[1,3,4]  R9[3,4]   1
     camion_n_en_comuna_c_dia_d[1,3,5]  R2[1,5]   1
     camion_n_en_comuna_c_dia_d[1,3,5]  R5[1,3,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,5]  R7[3,5]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,5]  R7[3,5]   -400
     camion_n_en_comuna_c_dia_d[1,3,5]  R9[3,5]   1
     camion_n_en_comuna_c_dia_d[1,3,6]  R2[1,6]   1
     camion_n_en_comuna_c_dia_d[1,3,6]  R5[1,3,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,6]  R7[3,6]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,6]  R7[3,6]   -400
     camion_n_en_comuna_c_dia_d[1,3,6]  R9[3,6]   1
     camion_n_en_comuna_c_dia_d[1,3,7]  R2[1,7]   1
     camion_n_en_comuna_c_dia_d[1,3,7]  R5[1,3,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,7]  R7[3,7]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,7]  R7[3,7]   -400
     camion_n_en_comuna_c_dia_d[1,3,7]  R9[3,7]   1
     camion_n_en_comuna_c_dia_d[1,3,8]  R2[1,8]   1
     camion_n_en_comuna_c_dia_d[1,3,8]  R5[1,3,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,8]  R7[3,8]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,8]  R7[3,8]   -400
     camion_n_en_comuna_c_dia_d[1,3,8]  R9[3,8]   1
     camion_n_en_comuna_c_dia_d[1,3,9]  R2[1,9]   1
     camion_n_en_comuna_c_dia_d[1,3,9]  R5[1,3,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,9]  R7[3,9]   -1000
+    camion_n_en_comuna_c_dia_d[1,3,9]  R7[3,9]   -400
     camion_n_en_comuna_c_dia_d[1,3,9]  R9[3,9]   1
     camion_n_en_comuna_c_dia_d[1,3,10]  R2[1,10]  1
     camion_n_en_comuna_c_dia_d[1,3,10]  R5[1,3,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,10]  R7[3,10]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,10]  R7[3,10]  -400
     camion_n_en_comuna_c_dia_d[1,3,10]  R9[3,10]  1
     camion_n_en_comuna_c_dia_d[1,3,11]  R2[1,11]  1
     camion_n_en_comuna_c_dia_d[1,3,11]  R5[1,3,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,11]  R7[3,11]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,11]  R7[3,11]  -400
     camion_n_en_comuna_c_dia_d[1,3,11]  R9[3,11]  1
     camion_n_en_comuna_c_dia_d[1,3,12]  R2[1,12]  1
     camion_n_en_comuna_c_dia_d[1,3,12]  R5[1,3,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,12]  R7[3,12]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,12]  R7[3,12]  -400
     camion_n_en_comuna_c_dia_d[1,3,12]  R9[3,12]  1
     camion_n_en_comuna_c_dia_d[1,3,13]  R2[1,13]  1
     camion_n_en_comuna_c_dia_d[1,3,13]  R5[1,3,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,13]  R7[3,13]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,13]  R7[3,13]  -400
     camion_n_en_comuna_c_dia_d[1,3,13]  R9[3,13]  1
     camion_n_en_comuna_c_dia_d[1,3,14]  R2[1,14]  1
     camion_n_en_comuna_c_dia_d[1,3,14]  R5[1,3,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,14]  R7[3,14]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,14]  R7[3,14]  -400
     camion_n_en_comuna_c_dia_d[1,3,14]  R9[3,14]  1
     camion_n_en_comuna_c_dia_d[1,3,15]  R2[1,15]  1
     camion_n_en_comuna_c_dia_d[1,3,15]  R5[1,3,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,15]  R7[3,15]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,15]  R7[3,15]  -400
     camion_n_en_comuna_c_dia_d[1,3,15]  R9[3,15]  1
     camion_n_en_comuna_c_dia_d[1,3,16]  R2[1,16]  1
     camion_n_en_comuna_c_dia_d[1,3,16]  R5[1,3,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,16]  R7[3,16]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,16]  R7[3,16]  -400
     camion_n_en_comuna_c_dia_d[1,3,16]  R9[3,16]  1
     camion_n_en_comuna_c_dia_d[1,3,17]  R2[1,17]  1
     camion_n_en_comuna_c_dia_d[1,3,17]  R5[1,3,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,17]  R7[3,17]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,17]  R7[3,17]  -400
     camion_n_en_comuna_c_dia_d[1,3,17]  R9[3,17]  1
     camion_n_en_comuna_c_dia_d[1,3,18]  R2[1,18]  1
     camion_n_en_comuna_c_dia_d[1,3,18]  R5[1,3,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,18]  R7[3,18]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,18]  R7[3,18]  -400
     camion_n_en_comuna_c_dia_d[1,3,18]  R9[3,18]  1
     camion_n_en_comuna_c_dia_d[1,3,19]  R2[1,19]  1
     camion_n_en_comuna_c_dia_d[1,3,19]  R5[1,3,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,19]  R7[3,19]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,19]  R7[3,19]  -400
     camion_n_en_comuna_c_dia_d[1,3,19]  R9[3,19]  1
     camion_n_en_comuna_c_dia_d[1,3,20]  R2[1,20]  1
     camion_n_en_comuna_c_dia_d[1,3,20]  R5[1,3,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,20]  R7[3,20]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,20]  R7[3,20]  -400
     camion_n_en_comuna_c_dia_d[1,3,20]  R9[3,20]  1
     camion_n_en_comuna_c_dia_d[1,3,21]  R2[1,21]  1
     camion_n_en_comuna_c_dia_d[1,3,21]  R5[1,3,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,21]  R7[3,21]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,21]  R7[3,21]  -400
     camion_n_en_comuna_c_dia_d[1,3,21]  R9[3,21]  1
     camion_n_en_comuna_c_dia_d[1,3,22]  R2[1,22]  1
     camion_n_en_comuna_c_dia_d[1,3,22]  R5[1,3,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,22]  R7[3,22]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,22]  R7[3,22]  -400
     camion_n_en_comuna_c_dia_d[1,3,22]  R9[3,22]  1
     camion_n_en_comuna_c_dia_d[1,3,23]  R2[1,23]  1
     camion_n_en_comuna_c_dia_d[1,3,23]  R5[1,3,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,23]  R7[3,23]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,23]  R7[3,23]  -400
     camion_n_en_comuna_c_dia_d[1,3,23]  R9[3,23]  1
     camion_n_en_comuna_c_dia_d[1,3,24]  R2[1,24]  1
     camion_n_en_comuna_c_dia_d[1,3,24]  R5[1,3,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,24]  R7[3,24]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,24]  R7[3,24]  -400
     camion_n_en_comuna_c_dia_d[1,3,24]  R9[3,24]  1
     camion_n_en_comuna_c_dia_d[1,3,25]  R2[1,25]  1
     camion_n_en_comuna_c_dia_d[1,3,25]  R5[1,3,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,25]  R7[3,25]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,25]  R7[3,25]  -400
     camion_n_en_comuna_c_dia_d[1,3,25]  R9[3,25]  1
     camion_n_en_comuna_c_dia_d[1,3,26]  R2[1,26]  1
     camion_n_en_comuna_c_dia_d[1,3,26]  R5[1,3,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,26]  R7[3,26]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,26]  R7[3,26]  -400
     camion_n_en_comuna_c_dia_d[1,3,26]  R9[3,26]  1
     camion_n_en_comuna_c_dia_d[1,3,27]  R2[1,27]  1
     camion_n_en_comuna_c_dia_d[1,3,27]  R5[1,3,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,27]  R7[3,27]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,27]  R7[3,27]  -400
     camion_n_en_comuna_c_dia_d[1,3,27]  R9[3,27]  1
     camion_n_en_comuna_c_dia_d[1,3,28]  R2[1,28]  1
     camion_n_en_comuna_c_dia_d[1,3,28]  R5[1,3,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,28]  R7[3,28]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,28]  R7[3,28]  -400
     camion_n_en_comuna_c_dia_d[1,3,28]  R9[3,28]  1
     camion_n_en_comuna_c_dia_d[1,3,29]  R2[1,29]  1
     camion_n_en_comuna_c_dia_d[1,3,29]  R5[1,3,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,29]  R7[3,29]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,29]  R7[3,29]  -400
     camion_n_en_comuna_c_dia_d[1,3,29]  R9[3,29]  1
     camion_n_en_comuna_c_dia_d[1,3,30]  R2[1,30]  1
     camion_n_en_comuna_c_dia_d[1,3,30]  R5[1,3,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,30]  R7[3,30]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,30]  R7[3,30]  -400
     camion_n_en_comuna_c_dia_d[1,3,30]  R9[3,30]  1
     camion_n_en_comuna_c_dia_d[1,3,31]  R2[1,31]  1
     camion_n_en_comuna_c_dia_d[1,3,31]  R5[1,3,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,31]  R7[3,31]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,31]  R7[3,31]  -400
     camion_n_en_comuna_c_dia_d[1,3,31]  R9[3,31]  1
     camion_n_en_comuna_c_dia_d[1,3,32]  R2[1,32]  1
     camion_n_en_comuna_c_dia_d[1,3,32]  R5[1,3,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,32]  R7[3,32]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,32]  R7[3,32]  -400
     camion_n_en_comuna_c_dia_d[1,3,32]  R9[3,32]  1
     camion_n_en_comuna_c_dia_d[1,3,33]  R2[1,33]  1
     camion_n_en_comuna_c_dia_d[1,3,33]  R5[1,3,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,33]  R7[3,33]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,33]  R7[3,33]  -400
     camion_n_en_comuna_c_dia_d[1,3,33]  R9[3,33]  1
     camion_n_en_comuna_c_dia_d[1,3,34]  R2[1,34]  1
     camion_n_en_comuna_c_dia_d[1,3,34]  R5[1,3,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,34]  R7[3,34]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,34]  R7[3,34]  -400
     camion_n_en_comuna_c_dia_d[1,3,34]  R9[3,34]  1
     camion_n_en_comuna_c_dia_d[1,3,35]  R2[1,35]  1
     camion_n_en_comuna_c_dia_d[1,3,35]  R5[1,3,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,35]  R7[3,35]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,35]  R7[3,35]  -400
     camion_n_en_comuna_c_dia_d[1,3,35]  R9[3,35]  1
     camion_n_en_comuna_c_dia_d[1,3,36]  R2[1,36]  1
     camion_n_en_comuna_c_dia_d[1,3,36]  R5[1,3,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,36]  R7[3,36]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,36]  R7[3,36]  -400
     camion_n_en_comuna_c_dia_d[1,3,36]  R9[3,36]  1
     camion_n_en_comuna_c_dia_d[1,3,37]  R2[1,37]  1
     camion_n_en_comuna_c_dia_d[1,3,37]  R5[1,3,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,37]  R7[3,37]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,37]  R7[3,37]  -400
     camion_n_en_comuna_c_dia_d[1,3,37]  R9[3,37]  1
     camion_n_en_comuna_c_dia_d[1,3,38]  R2[1,38]  1
     camion_n_en_comuna_c_dia_d[1,3,38]  R5[1,3,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,38]  R7[3,38]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,38]  R7[3,38]  -400
     camion_n_en_comuna_c_dia_d[1,3,38]  R9[3,38]  1
     camion_n_en_comuna_c_dia_d[1,3,39]  R2[1,39]  1
     camion_n_en_comuna_c_dia_d[1,3,39]  R5[1,3,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,39]  R7[3,39]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,39]  R7[3,39]  -400
     camion_n_en_comuna_c_dia_d[1,3,39]  R9[3,39]  1
     camion_n_en_comuna_c_dia_d[1,3,40]  R2[1,40]  1
     camion_n_en_comuna_c_dia_d[1,3,40]  R5[1,3,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,40]  R7[3,40]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,40]  R7[3,40]  -400
     camion_n_en_comuna_c_dia_d[1,3,40]  R9[3,40]  1
     camion_n_en_comuna_c_dia_d[1,3,41]  R2[1,41]  1
     camion_n_en_comuna_c_dia_d[1,3,41]  R5[1,3,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,41]  R7[3,41]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,41]  R7[3,41]  -400
     camion_n_en_comuna_c_dia_d[1,3,41]  R9[3,41]  1
     camion_n_en_comuna_c_dia_d[1,3,42]  R2[1,42]  1
     camion_n_en_comuna_c_dia_d[1,3,42]  R5[1,3,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,42]  R7[3,42]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,42]  R7[3,42]  -400
     camion_n_en_comuna_c_dia_d[1,3,42]  R9[3,42]  1
     camion_n_en_comuna_c_dia_d[1,3,43]  R2[1,43]  1
     camion_n_en_comuna_c_dia_d[1,3,43]  R5[1,3,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,43]  R7[3,43]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,43]  R7[3,43]  -400
     camion_n_en_comuna_c_dia_d[1,3,43]  R9[3,43]  1
     camion_n_en_comuna_c_dia_d[1,3,44]  R2[1,44]  1
     camion_n_en_comuna_c_dia_d[1,3,44]  R5[1,3,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,44]  R7[3,44]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,44]  R7[3,44]  -400
     camion_n_en_comuna_c_dia_d[1,3,44]  R9[3,44]  1
     camion_n_en_comuna_c_dia_d[1,3,45]  R2[1,45]  1
     camion_n_en_comuna_c_dia_d[1,3,45]  R5[1,3,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,45]  R7[3,45]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,45]  R7[3,45]  -400
     camion_n_en_comuna_c_dia_d[1,3,45]  R9[3,45]  1
     camion_n_en_comuna_c_dia_d[1,3,46]  R2[1,46]  1
     camion_n_en_comuna_c_dia_d[1,3,46]  R5[1,3,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,46]  R7[3,46]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,46]  R7[3,46]  -400
     camion_n_en_comuna_c_dia_d[1,3,46]  R9[3,46]  1
     camion_n_en_comuna_c_dia_d[1,3,47]  R2[1,47]  1
     camion_n_en_comuna_c_dia_d[1,3,47]  R5[1,3,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,47]  R7[3,47]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,47]  R7[3,47]  -400
     camion_n_en_comuna_c_dia_d[1,3,47]  R9[3,47]  1
     camion_n_en_comuna_c_dia_d[1,3,48]  R2[1,48]  1
     camion_n_en_comuna_c_dia_d[1,3,48]  R5[1,3,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,48]  R7[3,48]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,48]  R7[3,48]  -400
     camion_n_en_comuna_c_dia_d[1,3,48]  R9[3,48]  1
     camion_n_en_comuna_c_dia_d[1,3,49]  R2[1,49]  1
     camion_n_en_comuna_c_dia_d[1,3,49]  R5[1,3,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,49]  R7[3,49]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,49]  R7[3,49]  -400
     camion_n_en_comuna_c_dia_d[1,3,49]  R9[3,49]  1
     camion_n_en_comuna_c_dia_d[1,3,50]  R2[1,50]  1
     camion_n_en_comuna_c_dia_d[1,3,50]  R5[1,3,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,50]  R7[3,50]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,50]  R7[3,50]  -400
     camion_n_en_comuna_c_dia_d[1,3,50]  R9[3,50]  1
     camion_n_en_comuna_c_dia_d[1,3,51]  R2[1,51]  1
     camion_n_en_comuna_c_dia_d[1,3,51]  R5[1,3,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,51]  R7[3,51]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,51]  R7[3,51]  -400
     camion_n_en_comuna_c_dia_d[1,3,51]  R9[3,51]  1
     camion_n_en_comuna_c_dia_d[1,3,52]  R2[1,52]  1
     camion_n_en_comuna_c_dia_d[1,3,52]  R5[1,3,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,52]  R7[3,52]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,52]  R7[3,52]  -400
     camion_n_en_comuna_c_dia_d[1,3,52]  R9[3,52]  1
     camion_n_en_comuna_c_dia_d[1,3,53]  R2[1,53]  1
     camion_n_en_comuna_c_dia_d[1,3,53]  R5[1,3,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,53]  R7[3,53]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,53]  R7[3,53]  -400
     camion_n_en_comuna_c_dia_d[1,3,53]  R9[3,53]  1
     camion_n_en_comuna_c_dia_d[1,3,54]  R2[1,54]  1
     camion_n_en_comuna_c_dia_d[1,3,54]  R5[1,3,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,54]  R7[3,54]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,54]  R7[3,54]  -400
     camion_n_en_comuna_c_dia_d[1,3,54]  R9[3,54]  1
     camion_n_en_comuna_c_dia_d[1,3,55]  R2[1,55]  1
     camion_n_en_comuna_c_dia_d[1,3,55]  R5[1,3,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,55]  R7[3,55]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,55]  R7[3,55]  -400
     camion_n_en_comuna_c_dia_d[1,3,55]  R9[3,55]  1
     camion_n_en_comuna_c_dia_d[1,3,56]  R2[1,56]  1
     camion_n_en_comuna_c_dia_d[1,3,56]  R5[1,3,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,56]  R7[3,56]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,56]  R7[3,56]  -400
     camion_n_en_comuna_c_dia_d[1,3,56]  R9[3,56]  1
     camion_n_en_comuna_c_dia_d[1,3,57]  R2[1,57]  1
     camion_n_en_comuna_c_dia_d[1,3,57]  R5[1,3,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,57]  R7[3,57]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,57]  R7[3,57]  -400
     camion_n_en_comuna_c_dia_d[1,3,57]  R9[3,57]  1
     camion_n_en_comuna_c_dia_d[1,3,58]  R2[1,58]  1
     camion_n_en_comuna_c_dia_d[1,3,58]  R5[1,3,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,58]  R7[3,58]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,58]  R7[3,58]  -400
     camion_n_en_comuna_c_dia_d[1,3,58]  R9[3,58]  1
     camion_n_en_comuna_c_dia_d[1,3,59]  R2[1,59]  1
     camion_n_en_comuna_c_dia_d[1,3,59]  R5[1,3,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,59]  R7[3,59]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,59]  R7[3,59]  -400
     camion_n_en_comuna_c_dia_d[1,3,59]  R9[3,59]  1
     camion_n_en_comuna_c_dia_d[1,3,60]  R2[1,60]  1
     camion_n_en_comuna_c_dia_d[1,3,60]  R5[1,3,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,60]  R7[3,60]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,60]  R7[3,60]  -400
     camion_n_en_comuna_c_dia_d[1,3,60]  R9[3,60]  1
     camion_n_en_comuna_c_dia_d[1,3,61]  R2[1,61]  1
     camion_n_en_comuna_c_dia_d[1,3,61]  R5[1,3,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,61]  R7[3,61]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,61]  R7[3,61]  -400
     camion_n_en_comuna_c_dia_d[1,3,61]  R9[3,61]  1
     camion_n_en_comuna_c_dia_d[1,3,62]  R2[1,62]  1
     camion_n_en_comuna_c_dia_d[1,3,62]  R5[1,3,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,62]  R7[3,62]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,62]  R7[3,62]  -400
     camion_n_en_comuna_c_dia_d[1,3,62]  R9[3,62]  1
     camion_n_en_comuna_c_dia_d[1,3,63]  R2[1,63]  1
     camion_n_en_comuna_c_dia_d[1,3,63]  R5[1,3,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,63]  R7[3,63]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,63]  R7[3,63]  -400
     camion_n_en_comuna_c_dia_d[1,3,63]  R9[3,63]  1
     camion_n_en_comuna_c_dia_d[1,3,64]  R2[1,64]  1
     camion_n_en_comuna_c_dia_d[1,3,64]  R5[1,3,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,64]  R7[3,64]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,64]  R7[3,64]  -400
     camion_n_en_comuna_c_dia_d[1,3,64]  R9[3,64]  1
     camion_n_en_comuna_c_dia_d[1,3,65]  R2[1,65]  1
     camion_n_en_comuna_c_dia_d[1,3,65]  R5[1,3,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,65]  R7[3,65]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,65]  R7[3,65]  -400
     camion_n_en_comuna_c_dia_d[1,3,65]  R9[3,65]  1
     camion_n_en_comuna_c_dia_d[1,3,66]  R2[1,66]  1
     camion_n_en_comuna_c_dia_d[1,3,66]  R5[1,3,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,66]  R7[3,66]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,66]  R7[3,66]  -400
     camion_n_en_comuna_c_dia_d[1,3,66]  R9[3,66]  1
     camion_n_en_comuna_c_dia_d[1,3,67]  R2[1,67]  1
     camion_n_en_comuna_c_dia_d[1,3,67]  R5[1,3,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,67]  R7[3,67]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,67]  R7[3,67]  -400
     camion_n_en_comuna_c_dia_d[1,3,67]  R9[3,67]  1
     camion_n_en_comuna_c_dia_d[1,3,68]  R2[1,68]  1
     camion_n_en_comuna_c_dia_d[1,3,68]  R5[1,3,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,68]  R7[3,68]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,68]  R7[3,68]  -400
     camion_n_en_comuna_c_dia_d[1,3,68]  R9[3,68]  1
     camion_n_en_comuna_c_dia_d[1,3,69]  R2[1,69]  1
     camion_n_en_comuna_c_dia_d[1,3,69]  R5[1,3,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,69]  R7[3,69]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,69]  R7[3,69]  -400
     camion_n_en_comuna_c_dia_d[1,3,69]  R9[3,69]  1
     camion_n_en_comuna_c_dia_d[1,3,70]  R2[1,70]  1
     camion_n_en_comuna_c_dia_d[1,3,70]  R5[1,3,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,70]  R7[3,70]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,70]  R7[3,70]  -400
     camion_n_en_comuna_c_dia_d[1,3,70]  R9[3,70]  1
     camion_n_en_comuna_c_dia_d[1,3,71]  R2[1,71]  1
     camion_n_en_comuna_c_dia_d[1,3,71]  R5[1,3,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,71]  R7[3,71]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,71]  R7[3,71]  -400
     camion_n_en_comuna_c_dia_d[1,3,71]  R9[3,71]  1
     camion_n_en_comuna_c_dia_d[1,3,72]  R2[1,72]  1
     camion_n_en_comuna_c_dia_d[1,3,72]  R5[1,3,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,72]  R7[3,72]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,72]  R7[3,72]  -400
     camion_n_en_comuna_c_dia_d[1,3,72]  R9[3,72]  1
     camion_n_en_comuna_c_dia_d[1,3,73]  R2[1,73]  1
     camion_n_en_comuna_c_dia_d[1,3,73]  R5[1,3,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,73]  R7[3,73]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,73]  R7[3,73]  -400
     camion_n_en_comuna_c_dia_d[1,3,73]  R9[3,73]  1
     camion_n_en_comuna_c_dia_d[1,3,74]  R2[1,74]  1
     camion_n_en_comuna_c_dia_d[1,3,74]  R5[1,3,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,74]  R7[3,74]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,74]  R7[3,74]  -400
     camion_n_en_comuna_c_dia_d[1,3,74]  R9[3,74]  1
     camion_n_en_comuna_c_dia_d[1,3,75]  R2[1,75]  1
     camion_n_en_comuna_c_dia_d[1,3,75]  R5[1,3,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,75]  R7[3,75]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,75]  R7[3,75]  -400
     camion_n_en_comuna_c_dia_d[1,3,75]  R9[3,75]  1
     camion_n_en_comuna_c_dia_d[1,3,76]  R2[1,76]  1
     camion_n_en_comuna_c_dia_d[1,3,76]  R5[1,3,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,76]  R7[3,76]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,76]  R7[3,76]  -400
     camion_n_en_comuna_c_dia_d[1,3,76]  R9[3,76]  1
     camion_n_en_comuna_c_dia_d[1,3,77]  R2[1,77]  1
     camion_n_en_comuna_c_dia_d[1,3,77]  R5[1,3,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,77]  R7[3,77]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,77]  R7[3,77]  -400
     camion_n_en_comuna_c_dia_d[1,3,77]  R9[3,77]  1
     camion_n_en_comuna_c_dia_d[1,3,78]  R2[1,78]  1
     camion_n_en_comuna_c_dia_d[1,3,78]  R5[1,3,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,78]  R7[3,78]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,78]  R7[3,78]  -400
     camion_n_en_comuna_c_dia_d[1,3,78]  R9[3,78]  1
     camion_n_en_comuna_c_dia_d[1,3,79]  R2[1,79]  1
     camion_n_en_comuna_c_dia_d[1,3,79]  R5[1,3,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,79]  R7[3,79]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,79]  R7[3,79]  -400
     camion_n_en_comuna_c_dia_d[1,3,79]  R9[3,79]  1
     camion_n_en_comuna_c_dia_d[1,3,80]  R2[1,80]  1
     camion_n_en_comuna_c_dia_d[1,3,80]  R5[1,3,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,80]  R7[3,80]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,80]  R7[3,80]  -400
     camion_n_en_comuna_c_dia_d[1,3,80]  R9[3,80]  1
     camion_n_en_comuna_c_dia_d[1,3,81]  R2[1,81]  1
     camion_n_en_comuna_c_dia_d[1,3,81]  R5[1,3,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,81]  R7[3,81]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,81]  R7[3,81]  -400
     camion_n_en_comuna_c_dia_d[1,3,81]  R9[3,81]  1
     camion_n_en_comuna_c_dia_d[1,3,82]  R2[1,82]  1
     camion_n_en_comuna_c_dia_d[1,3,82]  R5[1,3,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,82]  R7[3,82]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,82]  R7[3,82]  -400
     camion_n_en_comuna_c_dia_d[1,3,82]  R9[3,82]  1
     camion_n_en_comuna_c_dia_d[1,3,83]  R2[1,83]  1
     camion_n_en_comuna_c_dia_d[1,3,83]  R5[1,3,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,83]  R7[3,83]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,83]  R7[3,83]  -400
     camion_n_en_comuna_c_dia_d[1,3,83]  R9[3,83]  1
     camion_n_en_comuna_c_dia_d[1,3,84]  R2[1,84]  1
     camion_n_en_comuna_c_dia_d[1,3,84]  R5[1,3,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,84]  R7[3,84]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,84]  R7[3,84]  -400
     camion_n_en_comuna_c_dia_d[1,3,84]  R9[3,84]  1
     camion_n_en_comuna_c_dia_d[1,3,85]  R2[1,85]  1
     camion_n_en_comuna_c_dia_d[1,3,85]  R5[1,3,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,85]  R7[3,85]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,85]  R7[3,85]  -400
     camion_n_en_comuna_c_dia_d[1,3,85]  R9[3,85]  1
     camion_n_en_comuna_c_dia_d[1,3,86]  R2[1,86]  1
     camion_n_en_comuna_c_dia_d[1,3,86]  R5[1,3,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,86]  R7[3,86]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,86]  R7[3,86]  -400
     camion_n_en_comuna_c_dia_d[1,3,86]  R9[3,86]  1
     camion_n_en_comuna_c_dia_d[1,3,87]  R2[1,87]  1
     camion_n_en_comuna_c_dia_d[1,3,87]  R5[1,3,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,87]  R7[3,87]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,87]  R7[3,87]  -400
     camion_n_en_comuna_c_dia_d[1,3,87]  R9[3,87]  1
     camion_n_en_comuna_c_dia_d[1,3,88]  R2[1,88]  1
     camion_n_en_comuna_c_dia_d[1,3,88]  R5[1,3,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,88]  R7[3,88]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,88]  R7[3,88]  -400
     camion_n_en_comuna_c_dia_d[1,3,88]  R9[3,88]  1
     camion_n_en_comuna_c_dia_d[1,3,89]  R2[1,89]  1
     camion_n_en_comuna_c_dia_d[1,3,89]  R5[1,3,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,89]  R7[3,89]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,89]  R7[3,89]  -400
     camion_n_en_comuna_c_dia_d[1,3,89]  R9[3,89]  1
     camion_n_en_comuna_c_dia_d[1,3,90]  R2[1,90]  1
     camion_n_en_comuna_c_dia_d[1,3,90]  R5[1,3,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,90]  R7[3,90]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,90]  R7[3,90]  -400
     camion_n_en_comuna_c_dia_d[1,3,90]  R9[3,90]  1
     camion_n_en_comuna_c_dia_d[1,3,91]  R2[1,91]  1
     camion_n_en_comuna_c_dia_d[1,3,91]  R5[1,3,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,91]  R7[3,91]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,91]  R7[3,91]  -400
     camion_n_en_comuna_c_dia_d[1,3,91]  R9[3,91]  1
     camion_n_en_comuna_c_dia_d[1,3,92]  R2[1,92]  1
     camion_n_en_comuna_c_dia_d[1,3,92]  R5[1,3,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,92]  R7[3,92]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,92]  R7[3,92]  -400
     camion_n_en_comuna_c_dia_d[1,3,92]  R9[3,92]  1
     camion_n_en_comuna_c_dia_d[1,3,93]  R2[1,93]  1
     camion_n_en_comuna_c_dia_d[1,3,93]  R5[1,3,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,93]  R7[3,93]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,93]  R7[3,93]  -400
     camion_n_en_comuna_c_dia_d[1,3,93]  R9[3,93]  1
     camion_n_en_comuna_c_dia_d[1,3,94]  R2[1,94]  1
     camion_n_en_comuna_c_dia_d[1,3,94]  R5[1,3,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,94]  R7[3,94]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,94]  R7[3,94]  -400
     camion_n_en_comuna_c_dia_d[1,3,94]  R9[3,94]  1
     camion_n_en_comuna_c_dia_d[1,3,95]  R2[1,95]  1
     camion_n_en_comuna_c_dia_d[1,3,95]  R5[1,3,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,95]  R7[3,95]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,95]  R7[3,95]  -400
     camion_n_en_comuna_c_dia_d[1,3,95]  R9[3,95]  1
     camion_n_en_comuna_c_dia_d[1,3,96]  R2[1,96]  1
     camion_n_en_comuna_c_dia_d[1,3,96]  R5[1,3,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,96]  R7[3,96]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,96]  R7[3,96]  -400
     camion_n_en_comuna_c_dia_d[1,3,96]  R9[3,96]  1
     camion_n_en_comuna_c_dia_d[1,3,97]  R2[1,97]  1
     camion_n_en_comuna_c_dia_d[1,3,97]  R5[1,3,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,97]  R7[3,97]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,97]  R7[3,97]  -400
     camion_n_en_comuna_c_dia_d[1,3,97]  R9[3,97]  1
     camion_n_en_comuna_c_dia_d[1,3,98]  R2[1,98]  1
     camion_n_en_comuna_c_dia_d[1,3,98]  R5[1,3,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,98]  R7[3,98]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,98]  R7[3,98]  -400
     camion_n_en_comuna_c_dia_d[1,3,98]  R9[3,98]  1
     camion_n_en_comuna_c_dia_d[1,3,99]  R2[1,99]  1
     camion_n_en_comuna_c_dia_d[1,3,99]  R5[1,3,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[1,3,99]  R7[3,99]  -1000
+    camion_n_en_comuna_c_dia_d[1,3,99]  R7[3,99]  -400
     camion_n_en_comuna_c_dia_d[1,3,99]  R9[3,99]  1
     camion_n_en_comuna_c_dia_d[2,0,0]  R2[2,0]   1
     camion_n_en_comuna_c_dia_d[2,0,0]  R5[2,0,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,0]  R7[0,0]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,0]  R7[0,0]   -400
     camion_n_en_comuna_c_dia_d[2,0,0]  R9[0,0]   1
     camion_n_en_comuna_c_dia_d[2,0,1]  R2[2,1]   1
     camion_n_en_comuna_c_dia_d[2,0,1]  R5[2,0,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,1]  R7[0,1]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,1]  R7[0,1]   -400
     camion_n_en_comuna_c_dia_d[2,0,1]  R9[0,1]   1
     camion_n_en_comuna_c_dia_d[2,0,2]  R2[2,2]   1
     camion_n_en_comuna_c_dia_d[2,0,2]  R5[2,0,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,2]  R7[0,2]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,2]  R7[0,2]   -400
     camion_n_en_comuna_c_dia_d[2,0,2]  R9[0,2]   1
     camion_n_en_comuna_c_dia_d[2,0,3]  R2[2,3]   1
     camion_n_en_comuna_c_dia_d[2,0,3]  R5[2,0,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,3]  R7[0,3]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,3]  R7[0,3]   -400
     camion_n_en_comuna_c_dia_d[2,0,3]  R9[0,3]   1
     camion_n_en_comuna_c_dia_d[2,0,4]  R2[2,4]   1
     camion_n_en_comuna_c_dia_d[2,0,4]  R5[2,0,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,4]  R7[0,4]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,4]  R7[0,4]   -400
     camion_n_en_comuna_c_dia_d[2,0,4]  R9[0,4]   1
     camion_n_en_comuna_c_dia_d[2,0,5]  R2[2,5]   1
     camion_n_en_comuna_c_dia_d[2,0,5]  R5[2,0,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,5]  R7[0,5]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,5]  R7[0,5]   -400
     camion_n_en_comuna_c_dia_d[2,0,5]  R9[0,5]   1
     camion_n_en_comuna_c_dia_d[2,0,6]  R2[2,6]   1
     camion_n_en_comuna_c_dia_d[2,0,6]  R5[2,0,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,6]  R7[0,6]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,6]  R7[0,6]   -400
     camion_n_en_comuna_c_dia_d[2,0,6]  R9[0,6]   1
     camion_n_en_comuna_c_dia_d[2,0,7]  R2[2,7]   1
     camion_n_en_comuna_c_dia_d[2,0,7]  R5[2,0,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,7]  R7[0,7]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,7]  R7[0,7]   -400
     camion_n_en_comuna_c_dia_d[2,0,7]  R9[0,7]   1
     camion_n_en_comuna_c_dia_d[2,0,8]  R2[2,8]   1
     camion_n_en_comuna_c_dia_d[2,0,8]  R5[2,0,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,8]  R7[0,8]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,8]  R7[0,8]   -400
     camion_n_en_comuna_c_dia_d[2,0,8]  R9[0,8]   1
     camion_n_en_comuna_c_dia_d[2,0,9]  R2[2,9]   1
     camion_n_en_comuna_c_dia_d[2,0,9]  R5[2,0,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,9]  R7[0,9]   -1000
+    camion_n_en_comuna_c_dia_d[2,0,9]  R7[0,9]   -400
     camion_n_en_comuna_c_dia_d[2,0,9]  R9[0,9]   1
     camion_n_en_comuna_c_dia_d[2,0,10]  R2[2,10]  1
     camion_n_en_comuna_c_dia_d[2,0,10]  R5[2,0,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,10]  R7[0,10]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,10]  R7[0,10]  -400
     camion_n_en_comuna_c_dia_d[2,0,10]  R9[0,10]  1
     camion_n_en_comuna_c_dia_d[2,0,11]  R2[2,11]  1
     camion_n_en_comuna_c_dia_d[2,0,11]  R5[2,0,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,11]  R7[0,11]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,11]  R7[0,11]  -400
     camion_n_en_comuna_c_dia_d[2,0,11]  R9[0,11]  1
     camion_n_en_comuna_c_dia_d[2,0,12]  R2[2,12]  1
     camion_n_en_comuna_c_dia_d[2,0,12]  R5[2,0,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,12]  R7[0,12]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,12]  R7[0,12]  -400
     camion_n_en_comuna_c_dia_d[2,0,12]  R9[0,12]  1
     camion_n_en_comuna_c_dia_d[2,0,13]  R2[2,13]  1
     camion_n_en_comuna_c_dia_d[2,0,13]  R5[2,0,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,13]  R7[0,13]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,13]  R7[0,13]  -400
     camion_n_en_comuna_c_dia_d[2,0,13]  R9[0,13]  1
     camion_n_en_comuna_c_dia_d[2,0,14]  R2[2,14]  1
     camion_n_en_comuna_c_dia_d[2,0,14]  R5[2,0,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,14]  R7[0,14]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,14]  R7[0,14]  -400
     camion_n_en_comuna_c_dia_d[2,0,14]  R9[0,14]  1
     camion_n_en_comuna_c_dia_d[2,0,15]  R2[2,15]  1
     camion_n_en_comuna_c_dia_d[2,0,15]  R5[2,0,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,15]  R7[0,15]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,15]  R7[0,15]  -400
     camion_n_en_comuna_c_dia_d[2,0,15]  R9[0,15]  1
     camion_n_en_comuna_c_dia_d[2,0,16]  R2[2,16]  1
     camion_n_en_comuna_c_dia_d[2,0,16]  R5[2,0,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,16]  R7[0,16]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,16]  R7[0,16]  -400
     camion_n_en_comuna_c_dia_d[2,0,16]  R9[0,16]  1
     camion_n_en_comuna_c_dia_d[2,0,17]  R2[2,17]  1
     camion_n_en_comuna_c_dia_d[2,0,17]  R5[2,0,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,17]  R7[0,17]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,17]  R7[0,17]  -400
     camion_n_en_comuna_c_dia_d[2,0,17]  R9[0,17]  1
     camion_n_en_comuna_c_dia_d[2,0,18]  R2[2,18]  1
     camion_n_en_comuna_c_dia_d[2,0,18]  R5[2,0,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,18]  R7[0,18]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,18]  R7[0,18]  -400
     camion_n_en_comuna_c_dia_d[2,0,18]  R9[0,18]  1
     camion_n_en_comuna_c_dia_d[2,0,19]  R2[2,19]  1
     camion_n_en_comuna_c_dia_d[2,0,19]  R5[2,0,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,19]  R7[0,19]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,19]  R7[0,19]  -400
     camion_n_en_comuna_c_dia_d[2,0,19]  R9[0,19]  1
     camion_n_en_comuna_c_dia_d[2,0,20]  R2[2,20]  1
     camion_n_en_comuna_c_dia_d[2,0,20]  R5[2,0,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,20]  R7[0,20]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,20]  R7[0,20]  -400
     camion_n_en_comuna_c_dia_d[2,0,20]  R9[0,20]  1
     camion_n_en_comuna_c_dia_d[2,0,21]  R2[2,21]  1
     camion_n_en_comuna_c_dia_d[2,0,21]  R5[2,0,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,21]  R7[0,21]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,21]  R7[0,21]  -400
     camion_n_en_comuna_c_dia_d[2,0,21]  R9[0,21]  1
     camion_n_en_comuna_c_dia_d[2,0,22]  R2[2,22]  1
     camion_n_en_comuna_c_dia_d[2,0,22]  R5[2,0,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,22]  R7[0,22]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,22]  R7[0,22]  -400
     camion_n_en_comuna_c_dia_d[2,0,22]  R9[0,22]  1
     camion_n_en_comuna_c_dia_d[2,0,23]  R2[2,23]  1
     camion_n_en_comuna_c_dia_d[2,0,23]  R5[2,0,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,23]  R7[0,23]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,23]  R7[0,23]  -400
     camion_n_en_comuna_c_dia_d[2,0,23]  R9[0,23]  1
     camion_n_en_comuna_c_dia_d[2,0,24]  R2[2,24]  1
     camion_n_en_comuna_c_dia_d[2,0,24]  R5[2,0,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,24]  R7[0,24]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,24]  R7[0,24]  -400
     camion_n_en_comuna_c_dia_d[2,0,24]  R9[0,24]  1
     camion_n_en_comuna_c_dia_d[2,0,25]  R2[2,25]  1
     camion_n_en_comuna_c_dia_d[2,0,25]  R5[2,0,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,25]  R7[0,25]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,25]  R7[0,25]  -400
     camion_n_en_comuna_c_dia_d[2,0,25]  R9[0,25]  1
     camion_n_en_comuna_c_dia_d[2,0,26]  R2[2,26]  1
     camion_n_en_comuna_c_dia_d[2,0,26]  R5[2,0,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,26]  R7[0,26]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,26]  R7[0,26]  -400
     camion_n_en_comuna_c_dia_d[2,0,26]  R9[0,26]  1
     camion_n_en_comuna_c_dia_d[2,0,27]  R2[2,27]  1
     camion_n_en_comuna_c_dia_d[2,0,27]  R5[2,0,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,27]  R7[0,27]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,27]  R7[0,27]  -400
     camion_n_en_comuna_c_dia_d[2,0,27]  R9[0,27]  1
     camion_n_en_comuna_c_dia_d[2,0,28]  R2[2,28]  1
     camion_n_en_comuna_c_dia_d[2,0,28]  R5[2,0,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,28]  R7[0,28]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,28]  R7[0,28]  -400
     camion_n_en_comuna_c_dia_d[2,0,28]  R9[0,28]  1
     camion_n_en_comuna_c_dia_d[2,0,29]  R2[2,29]  1
     camion_n_en_comuna_c_dia_d[2,0,29]  R5[2,0,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,29]  R7[0,29]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,29]  R7[0,29]  -400
     camion_n_en_comuna_c_dia_d[2,0,29]  R9[0,29]  1
     camion_n_en_comuna_c_dia_d[2,0,30]  R2[2,30]  1
     camion_n_en_comuna_c_dia_d[2,0,30]  R5[2,0,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,30]  R7[0,30]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,30]  R7[0,30]  -400
     camion_n_en_comuna_c_dia_d[2,0,30]  R9[0,30]  1
     camion_n_en_comuna_c_dia_d[2,0,31]  R2[2,31]  1
     camion_n_en_comuna_c_dia_d[2,0,31]  R5[2,0,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,31]  R7[0,31]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,31]  R7[0,31]  -400
     camion_n_en_comuna_c_dia_d[2,0,31]  R9[0,31]  1
     camion_n_en_comuna_c_dia_d[2,0,32]  R2[2,32]  1
     camion_n_en_comuna_c_dia_d[2,0,32]  R5[2,0,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,32]  R7[0,32]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,32]  R7[0,32]  -400
     camion_n_en_comuna_c_dia_d[2,0,32]  R9[0,32]  1
     camion_n_en_comuna_c_dia_d[2,0,33]  R2[2,33]  1
     camion_n_en_comuna_c_dia_d[2,0,33]  R5[2,0,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,33]  R7[0,33]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,33]  R7[0,33]  -400
     camion_n_en_comuna_c_dia_d[2,0,33]  R9[0,33]  1
     camion_n_en_comuna_c_dia_d[2,0,34]  R2[2,34]  1
     camion_n_en_comuna_c_dia_d[2,0,34]  R5[2,0,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,34]  R7[0,34]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,34]  R7[0,34]  -400
     camion_n_en_comuna_c_dia_d[2,0,34]  R9[0,34]  1
     camion_n_en_comuna_c_dia_d[2,0,35]  R2[2,35]  1
     camion_n_en_comuna_c_dia_d[2,0,35]  R5[2,0,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,35]  R7[0,35]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,35]  R7[0,35]  -400
     camion_n_en_comuna_c_dia_d[2,0,35]  R9[0,35]  1
     camion_n_en_comuna_c_dia_d[2,0,36]  R2[2,36]  1
     camion_n_en_comuna_c_dia_d[2,0,36]  R5[2,0,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,36]  R7[0,36]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,36]  R7[0,36]  -400
     camion_n_en_comuna_c_dia_d[2,0,36]  R9[0,36]  1
     camion_n_en_comuna_c_dia_d[2,0,37]  R2[2,37]  1
     camion_n_en_comuna_c_dia_d[2,0,37]  R5[2,0,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,37]  R7[0,37]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,37]  R7[0,37]  -400
     camion_n_en_comuna_c_dia_d[2,0,37]  R9[0,37]  1
     camion_n_en_comuna_c_dia_d[2,0,38]  R2[2,38]  1
     camion_n_en_comuna_c_dia_d[2,0,38]  R5[2,0,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,38]  R7[0,38]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,38]  R7[0,38]  -400
     camion_n_en_comuna_c_dia_d[2,0,38]  R9[0,38]  1
     camion_n_en_comuna_c_dia_d[2,0,39]  R2[2,39]  1
     camion_n_en_comuna_c_dia_d[2,0,39]  R5[2,0,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,39]  R7[0,39]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,39]  R7[0,39]  -400
     camion_n_en_comuna_c_dia_d[2,0,39]  R9[0,39]  1
     camion_n_en_comuna_c_dia_d[2,0,40]  R2[2,40]  1
     camion_n_en_comuna_c_dia_d[2,0,40]  R5[2,0,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,40]  R7[0,40]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,40]  R7[0,40]  -400
     camion_n_en_comuna_c_dia_d[2,0,40]  R9[0,40]  1
     camion_n_en_comuna_c_dia_d[2,0,41]  R2[2,41]  1
     camion_n_en_comuna_c_dia_d[2,0,41]  R5[2,0,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,41]  R7[0,41]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,41]  R7[0,41]  -400
     camion_n_en_comuna_c_dia_d[2,0,41]  R9[0,41]  1
     camion_n_en_comuna_c_dia_d[2,0,42]  R2[2,42]  1
     camion_n_en_comuna_c_dia_d[2,0,42]  R5[2,0,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,42]  R7[0,42]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,42]  R7[0,42]  -400
     camion_n_en_comuna_c_dia_d[2,0,42]  R9[0,42]  1
     camion_n_en_comuna_c_dia_d[2,0,43]  R2[2,43]  1
     camion_n_en_comuna_c_dia_d[2,0,43]  R5[2,0,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,43]  R7[0,43]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,43]  R7[0,43]  -400
     camion_n_en_comuna_c_dia_d[2,0,43]  R9[0,43]  1
     camion_n_en_comuna_c_dia_d[2,0,44]  R2[2,44]  1
     camion_n_en_comuna_c_dia_d[2,0,44]  R5[2,0,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,44]  R7[0,44]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,44]  R7[0,44]  -400
     camion_n_en_comuna_c_dia_d[2,0,44]  R9[0,44]  1
     camion_n_en_comuna_c_dia_d[2,0,45]  R2[2,45]  1
     camion_n_en_comuna_c_dia_d[2,0,45]  R5[2,0,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,45]  R7[0,45]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,45]  R7[0,45]  -400
     camion_n_en_comuna_c_dia_d[2,0,45]  R9[0,45]  1
     camion_n_en_comuna_c_dia_d[2,0,46]  R2[2,46]  1
     camion_n_en_comuna_c_dia_d[2,0,46]  R5[2,0,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,46]  R7[0,46]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,46]  R7[0,46]  -400
     camion_n_en_comuna_c_dia_d[2,0,46]  R9[0,46]  1
     camion_n_en_comuna_c_dia_d[2,0,47]  R2[2,47]  1
     camion_n_en_comuna_c_dia_d[2,0,47]  R5[2,0,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,47]  R7[0,47]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,47]  R7[0,47]  -400
     camion_n_en_comuna_c_dia_d[2,0,47]  R9[0,47]  1
     camion_n_en_comuna_c_dia_d[2,0,48]  R2[2,48]  1
     camion_n_en_comuna_c_dia_d[2,0,48]  R5[2,0,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,48]  R7[0,48]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,48]  R7[0,48]  -400
     camion_n_en_comuna_c_dia_d[2,0,48]  R9[0,48]  1
     camion_n_en_comuna_c_dia_d[2,0,49]  R2[2,49]  1
     camion_n_en_comuna_c_dia_d[2,0,49]  R5[2,0,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,49]  R7[0,49]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,49]  R7[0,49]  -400
     camion_n_en_comuna_c_dia_d[2,0,49]  R9[0,49]  1
     camion_n_en_comuna_c_dia_d[2,0,50]  R2[2,50]  1
     camion_n_en_comuna_c_dia_d[2,0,50]  R5[2,0,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,50]  R7[0,50]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,50]  R7[0,50]  -400
     camion_n_en_comuna_c_dia_d[2,0,50]  R9[0,50]  1
     camion_n_en_comuna_c_dia_d[2,0,51]  R2[2,51]  1
     camion_n_en_comuna_c_dia_d[2,0,51]  R5[2,0,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,51]  R7[0,51]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,51]  R7[0,51]  -400
     camion_n_en_comuna_c_dia_d[2,0,51]  R9[0,51]  1
     camion_n_en_comuna_c_dia_d[2,0,52]  R2[2,52]  1
     camion_n_en_comuna_c_dia_d[2,0,52]  R5[2,0,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,52]  R7[0,52]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,52]  R7[0,52]  -400
     camion_n_en_comuna_c_dia_d[2,0,52]  R9[0,52]  1
     camion_n_en_comuna_c_dia_d[2,0,53]  R2[2,53]  1
     camion_n_en_comuna_c_dia_d[2,0,53]  R5[2,0,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,53]  R7[0,53]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,53]  R7[0,53]  -400
     camion_n_en_comuna_c_dia_d[2,0,53]  R9[0,53]  1
     camion_n_en_comuna_c_dia_d[2,0,54]  R2[2,54]  1
     camion_n_en_comuna_c_dia_d[2,0,54]  R5[2,0,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,54]  R7[0,54]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,54]  R7[0,54]  -400
     camion_n_en_comuna_c_dia_d[2,0,54]  R9[0,54]  1
     camion_n_en_comuna_c_dia_d[2,0,55]  R2[2,55]  1
     camion_n_en_comuna_c_dia_d[2,0,55]  R5[2,0,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,55]  R7[0,55]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,55]  R7[0,55]  -400
     camion_n_en_comuna_c_dia_d[2,0,55]  R9[0,55]  1
     camion_n_en_comuna_c_dia_d[2,0,56]  R2[2,56]  1
     camion_n_en_comuna_c_dia_d[2,0,56]  R5[2,0,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,56]  R7[0,56]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,56]  R7[0,56]  -400
     camion_n_en_comuna_c_dia_d[2,0,56]  R9[0,56]  1
     camion_n_en_comuna_c_dia_d[2,0,57]  R2[2,57]  1
     camion_n_en_comuna_c_dia_d[2,0,57]  R5[2,0,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,57]  R7[0,57]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,57]  R7[0,57]  -400
     camion_n_en_comuna_c_dia_d[2,0,57]  R9[0,57]  1
     camion_n_en_comuna_c_dia_d[2,0,58]  R2[2,58]  1
     camion_n_en_comuna_c_dia_d[2,0,58]  R5[2,0,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,58]  R7[0,58]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,58]  R7[0,58]  -400
     camion_n_en_comuna_c_dia_d[2,0,58]  R9[0,58]  1
     camion_n_en_comuna_c_dia_d[2,0,59]  R2[2,59]  1
     camion_n_en_comuna_c_dia_d[2,0,59]  R5[2,0,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,59]  R7[0,59]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,59]  R7[0,59]  -400
     camion_n_en_comuna_c_dia_d[2,0,59]  R9[0,59]  1
     camion_n_en_comuna_c_dia_d[2,0,60]  R2[2,60]  1
     camion_n_en_comuna_c_dia_d[2,0,60]  R5[2,0,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,60]  R7[0,60]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,60]  R7[0,60]  -400
     camion_n_en_comuna_c_dia_d[2,0,60]  R9[0,60]  1
     camion_n_en_comuna_c_dia_d[2,0,61]  R2[2,61]  1
     camion_n_en_comuna_c_dia_d[2,0,61]  R5[2,0,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,61]  R7[0,61]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,61]  R7[0,61]  -400
     camion_n_en_comuna_c_dia_d[2,0,61]  R9[0,61]  1
     camion_n_en_comuna_c_dia_d[2,0,62]  R2[2,62]  1
     camion_n_en_comuna_c_dia_d[2,0,62]  R5[2,0,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,62]  R7[0,62]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,62]  R7[0,62]  -400
     camion_n_en_comuna_c_dia_d[2,0,62]  R9[0,62]  1
     camion_n_en_comuna_c_dia_d[2,0,63]  R2[2,63]  1
     camion_n_en_comuna_c_dia_d[2,0,63]  R5[2,0,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,63]  R7[0,63]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,63]  R7[0,63]  -400
     camion_n_en_comuna_c_dia_d[2,0,63]  R9[0,63]  1
     camion_n_en_comuna_c_dia_d[2,0,64]  R2[2,64]  1
     camion_n_en_comuna_c_dia_d[2,0,64]  R5[2,0,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,64]  R7[0,64]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,64]  R7[0,64]  -400
     camion_n_en_comuna_c_dia_d[2,0,64]  R9[0,64]  1
     camion_n_en_comuna_c_dia_d[2,0,65]  R2[2,65]  1
     camion_n_en_comuna_c_dia_d[2,0,65]  R5[2,0,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,65]  R7[0,65]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,65]  R7[0,65]  -400
     camion_n_en_comuna_c_dia_d[2,0,65]  R9[0,65]  1
     camion_n_en_comuna_c_dia_d[2,0,66]  R2[2,66]  1
     camion_n_en_comuna_c_dia_d[2,0,66]  R5[2,0,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,66]  R7[0,66]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,66]  R7[0,66]  -400
     camion_n_en_comuna_c_dia_d[2,0,66]  R9[0,66]  1
     camion_n_en_comuna_c_dia_d[2,0,67]  R2[2,67]  1
     camion_n_en_comuna_c_dia_d[2,0,67]  R5[2,0,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,67]  R7[0,67]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,67]  R7[0,67]  -400
     camion_n_en_comuna_c_dia_d[2,0,67]  R9[0,67]  1
     camion_n_en_comuna_c_dia_d[2,0,68]  R2[2,68]  1
     camion_n_en_comuna_c_dia_d[2,0,68]  R5[2,0,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,68]  R7[0,68]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,68]  R7[0,68]  -400
     camion_n_en_comuna_c_dia_d[2,0,68]  R9[0,68]  1
     camion_n_en_comuna_c_dia_d[2,0,69]  R2[2,69]  1
     camion_n_en_comuna_c_dia_d[2,0,69]  R5[2,0,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,69]  R7[0,69]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,69]  R7[0,69]  -400
     camion_n_en_comuna_c_dia_d[2,0,69]  R9[0,69]  1
     camion_n_en_comuna_c_dia_d[2,0,70]  R2[2,70]  1
     camion_n_en_comuna_c_dia_d[2,0,70]  R5[2,0,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,70]  R7[0,70]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,70]  R7[0,70]  -400
     camion_n_en_comuna_c_dia_d[2,0,70]  R9[0,70]  1
     camion_n_en_comuna_c_dia_d[2,0,71]  R2[2,71]  1
     camion_n_en_comuna_c_dia_d[2,0,71]  R5[2,0,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,71]  R7[0,71]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,71]  R7[0,71]  -400
     camion_n_en_comuna_c_dia_d[2,0,71]  R9[0,71]  1
     camion_n_en_comuna_c_dia_d[2,0,72]  R2[2,72]  1
     camion_n_en_comuna_c_dia_d[2,0,72]  R5[2,0,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,72]  R7[0,72]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,72]  R7[0,72]  -400
     camion_n_en_comuna_c_dia_d[2,0,72]  R9[0,72]  1
     camion_n_en_comuna_c_dia_d[2,0,73]  R2[2,73]  1
     camion_n_en_comuna_c_dia_d[2,0,73]  R5[2,0,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,73]  R7[0,73]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,73]  R7[0,73]  -400
     camion_n_en_comuna_c_dia_d[2,0,73]  R9[0,73]  1
     camion_n_en_comuna_c_dia_d[2,0,74]  R2[2,74]  1
     camion_n_en_comuna_c_dia_d[2,0,74]  R5[2,0,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,74]  R7[0,74]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,74]  R7[0,74]  -400
     camion_n_en_comuna_c_dia_d[2,0,74]  R9[0,74]  1
     camion_n_en_comuna_c_dia_d[2,0,75]  R2[2,75]  1
     camion_n_en_comuna_c_dia_d[2,0,75]  R5[2,0,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,75]  R7[0,75]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,75]  R7[0,75]  -400
     camion_n_en_comuna_c_dia_d[2,0,75]  R9[0,75]  1
     camion_n_en_comuna_c_dia_d[2,0,76]  R2[2,76]  1
     camion_n_en_comuna_c_dia_d[2,0,76]  R5[2,0,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,76]  R7[0,76]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,76]  R7[0,76]  -400
     camion_n_en_comuna_c_dia_d[2,0,76]  R9[0,76]  1
     camion_n_en_comuna_c_dia_d[2,0,77]  R2[2,77]  1
     camion_n_en_comuna_c_dia_d[2,0,77]  R5[2,0,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,77]  R7[0,77]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,77]  R7[0,77]  -400
     camion_n_en_comuna_c_dia_d[2,0,77]  R9[0,77]  1
     camion_n_en_comuna_c_dia_d[2,0,78]  R2[2,78]  1
     camion_n_en_comuna_c_dia_d[2,0,78]  R5[2,0,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,78]  R7[0,78]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,78]  R7[0,78]  -400
     camion_n_en_comuna_c_dia_d[2,0,78]  R9[0,78]  1
     camion_n_en_comuna_c_dia_d[2,0,79]  R2[2,79]  1
     camion_n_en_comuna_c_dia_d[2,0,79]  R5[2,0,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,79]  R7[0,79]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,79]  R7[0,79]  -400
     camion_n_en_comuna_c_dia_d[2,0,79]  R9[0,79]  1
     camion_n_en_comuna_c_dia_d[2,0,80]  R2[2,80]  1
     camion_n_en_comuna_c_dia_d[2,0,80]  R5[2,0,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,80]  R7[0,80]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,80]  R7[0,80]  -400
     camion_n_en_comuna_c_dia_d[2,0,80]  R9[0,80]  1
     camion_n_en_comuna_c_dia_d[2,0,81]  R2[2,81]  1
     camion_n_en_comuna_c_dia_d[2,0,81]  R5[2,0,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,81]  R7[0,81]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,81]  R7[0,81]  -400
     camion_n_en_comuna_c_dia_d[2,0,81]  R9[0,81]  1
     camion_n_en_comuna_c_dia_d[2,0,82]  R2[2,82]  1
     camion_n_en_comuna_c_dia_d[2,0,82]  R5[2,0,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,82]  R7[0,82]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,82]  R7[0,82]  -400
     camion_n_en_comuna_c_dia_d[2,0,82]  R9[0,82]  1
     camion_n_en_comuna_c_dia_d[2,0,83]  R2[2,83]  1
     camion_n_en_comuna_c_dia_d[2,0,83]  R5[2,0,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,83]  R7[0,83]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,83]  R7[0,83]  -400
     camion_n_en_comuna_c_dia_d[2,0,83]  R9[0,83]  1
     camion_n_en_comuna_c_dia_d[2,0,84]  R2[2,84]  1
     camion_n_en_comuna_c_dia_d[2,0,84]  R5[2,0,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,84]  R7[0,84]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,84]  R7[0,84]  -400
     camion_n_en_comuna_c_dia_d[2,0,84]  R9[0,84]  1
     camion_n_en_comuna_c_dia_d[2,0,85]  R2[2,85]  1
     camion_n_en_comuna_c_dia_d[2,0,85]  R5[2,0,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,85]  R7[0,85]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,85]  R7[0,85]  -400
     camion_n_en_comuna_c_dia_d[2,0,85]  R9[0,85]  1
     camion_n_en_comuna_c_dia_d[2,0,86]  R2[2,86]  1
     camion_n_en_comuna_c_dia_d[2,0,86]  R5[2,0,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,86]  R7[0,86]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,86]  R7[0,86]  -400
     camion_n_en_comuna_c_dia_d[2,0,86]  R9[0,86]  1
     camion_n_en_comuna_c_dia_d[2,0,87]  R2[2,87]  1
     camion_n_en_comuna_c_dia_d[2,0,87]  R5[2,0,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,87]  R7[0,87]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,87]  R7[0,87]  -400
     camion_n_en_comuna_c_dia_d[2,0,87]  R9[0,87]  1
     camion_n_en_comuna_c_dia_d[2,0,88]  R2[2,88]  1
     camion_n_en_comuna_c_dia_d[2,0,88]  R5[2,0,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,88]  R7[0,88]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,88]  R7[0,88]  -400
     camion_n_en_comuna_c_dia_d[2,0,88]  R9[0,88]  1
     camion_n_en_comuna_c_dia_d[2,0,89]  R2[2,89]  1
     camion_n_en_comuna_c_dia_d[2,0,89]  R5[2,0,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,89]  R7[0,89]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,89]  R7[0,89]  -400
     camion_n_en_comuna_c_dia_d[2,0,89]  R9[0,89]  1
     camion_n_en_comuna_c_dia_d[2,0,90]  R2[2,90]  1
     camion_n_en_comuna_c_dia_d[2,0,90]  R5[2,0,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,90]  R7[0,90]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,90]  R7[0,90]  -400
     camion_n_en_comuna_c_dia_d[2,0,90]  R9[0,90]  1
     camion_n_en_comuna_c_dia_d[2,0,91]  R2[2,91]  1
     camion_n_en_comuna_c_dia_d[2,0,91]  R5[2,0,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,91]  R7[0,91]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,91]  R7[0,91]  -400
     camion_n_en_comuna_c_dia_d[2,0,91]  R9[0,91]  1
     camion_n_en_comuna_c_dia_d[2,0,92]  R2[2,92]  1
     camion_n_en_comuna_c_dia_d[2,0,92]  R5[2,0,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,92]  R7[0,92]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,92]  R7[0,92]  -400
     camion_n_en_comuna_c_dia_d[2,0,92]  R9[0,92]  1
     camion_n_en_comuna_c_dia_d[2,0,93]  R2[2,93]  1
     camion_n_en_comuna_c_dia_d[2,0,93]  R5[2,0,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,93]  R7[0,93]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,93]  R7[0,93]  -400
     camion_n_en_comuna_c_dia_d[2,0,93]  R9[0,93]  1
     camion_n_en_comuna_c_dia_d[2,0,94]  R2[2,94]  1
     camion_n_en_comuna_c_dia_d[2,0,94]  R5[2,0,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,94]  R7[0,94]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,94]  R7[0,94]  -400
     camion_n_en_comuna_c_dia_d[2,0,94]  R9[0,94]  1
     camion_n_en_comuna_c_dia_d[2,0,95]  R2[2,95]  1
     camion_n_en_comuna_c_dia_d[2,0,95]  R5[2,0,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,95]  R7[0,95]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,95]  R7[0,95]  -400
     camion_n_en_comuna_c_dia_d[2,0,95]  R9[0,95]  1
     camion_n_en_comuna_c_dia_d[2,0,96]  R2[2,96]  1
     camion_n_en_comuna_c_dia_d[2,0,96]  R5[2,0,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,96]  R7[0,96]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,96]  R7[0,96]  -400
     camion_n_en_comuna_c_dia_d[2,0,96]  R9[0,96]  1
     camion_n_en_comuna_c_dia_d[2,0,97]  R2[2,97]  1
     camion_n_en_comuna_c_dia_d[2,0,97]  R5[2,0,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,97]  R7[0,97]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,97]  R7[0,97]  -400
     camion_n_en_comuna_c_dia_d[2,0,97]  R9[0,97]  1
     camion_n_en_comuna_c_dia_d[2,0,98]  R2[2,98]  1
     camion_n_en_comuna_c_dia_d[2,0,98]  R5[2,0,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,98]  R7[0,98]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,98]  R7[0,98]  -400
     camion_n_en_comuna_c_dia_d[2,0,98]  R9[0,98]  1
     camion_n_en_comuna_c_dia_d[2,0,99]  R2[2,99]  1
     camion_n_en_comuna_c_dia_d[2,0,99]  R5[2,0,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,0,99]  R7[0,99]  -1000
+    camion_n_en_comuna_c_dia_d[2,0,99]  R7[0,99]  -400
     camion_n_en_comuna_c_dia_d[2,0,99]  R9[0,99]  1
     camion_n_en_comuna_c_dia_d[2,1,0]  R2[2,0]   1
     camion_n_en_comuna_c_dia_d[2,1,0]  R5[2,1,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,0]  R7[1,0]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,0]  R7[1,0]   -400
     camion_n_en_comuna_c_dia_d[2,1,0]  R9[1,0]   1
     camion_n_en_comuna_c_dia_d[2,1,1]  R2[2,1]   1
     camion_n_en_comuna_c_dia_d[2,1,1]  R5[2,1,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,1]  R7[1,1]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,1]  R7[1,1]   -400
     camion_n_en_comuna_c_dia_d[2,1,1]  R9[1,1]   1
     camion_n_en_comuna_c_dia_d[2,1,2]  R2[2,2]   1
     camion_n_en_comuna_c_dia_d[2,1,2]  R5[2,1,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,2]  R7[1,2]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,2]  R7[1,2]   -400
     camion_n_en_comuna_c_dia_d[2,1,2]  R9[1,2]   1
     camion_n_en_comuna_c_dia_d[2,1,3]  R2[2,3]   1
     camion_n_en_comuna_c_dia_d[2,1,3]  R5[2,1,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,3]  R7[1,3]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,3]  R7[1,3]   -400
     camion_n_en_comuna_c_dia_d[2,1,3]  R9[1,3]   1
     camion_n_en_comuna_c_dia_d[2,1,4]  R2[2,4]   1
     camion_n_en_comuna_c_dia_d[2,1,4]  R5[2,1,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,4]  R7[1,4]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,4]  R7[1,4]   -400
     camion_n_en_comuna_c_dia_d[2,1,4]  R9[1,4]   1
     camion_n_en_comuna_c_dia_d[2,1,5]  R2[2,5]   1
     camion_n_en_comuna_c_dia_d[2,1,5]  R5[2,1,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,5]  R7[1,5]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,5]  R7[1,5]   -400
     camion_n_en_comuna_c_dia_d[2,1,5]  R9[1,5]   1
     camion_n_en_comuna_c_dia_d[2,1,6]  R2[2,6]   1
     camion_n_en_comuna_c_dia_d[2,1,6]  R5[2,1,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,6]  R7[1,6]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,6]  R7[1,6]   -400
     camion_n_en_comuna_c_dia_d[2,1,6]  R9[1,6]   1
     camion_n_en_comuna_c_dia_d[2,1,7]  R2[2,7]   1
     camion_n_en_comuna_c_dia_d[2,1,7]  R5[2,1,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,7]  R7[1,7]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,7]  R7[1,7]   -400
     camion_n_en_comuna_c_dia_d[2,1,7]  R9[1,7]   1
     camion_n_en_comuna_c_dia_d[2,1,8]  R2[2,8]   1
     camion_n_en_comuna_c_dia_d[2,1,8]  R5[2,1,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,8]  R7[1,8]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,8]  R7[1,8]   -400
     camion_n_en_comuna_c_dia_d[2,1,8]  R9[1,8]   1
     camion_n_en_comuna_c_dia_d[2,1,9]  R2[2,9]   1
     camion_n_en_comuna_c_dia_d[2,1,9]  R5[2,1,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,9]  R7[1,9]   -1000
+    camion_n_en_comuna_c_dia_d[2,1,9]  R7[1,9]   -400
     camion_n_en_comuna_c_dia_d[2,1,9]  R9[1,9]   1
     camion_n_en_comuna_c_dia_d[2,1,10]  R2[2,10]  1
     camion_n_en_comuna_c_dia_d[2,1,10]  R5[2,1,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,10]  R7[1,10]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,10]  R7[1,10]  -400
     camion_n_en_comuna_c_dia_d[2,1,10]  R9[1,10]  1
     camion_n_en_comuna_c_dia_d[2,1,11]  R2[2,11]  1
     camion_n_en_comuna_c_dia_d[2,1,11]  R5[2,1,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,11]  R7[1,11]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,11]  R7[1,11]  -400
     camion_n_en_comuna_c_dia_d[2,1,11]  R9[1,11]  1
     camion_n_en_comuna_c_dia_d[2,1,12]  R2[2,12]  1
     camion_n_en_comuna_c_dia_d[2,1,12]  R5[2,1,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,12]  R7[1,12]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,12]  R7[1,12]  -400
     camion_n_en_comuna_c_dia_d[2,1,12]  R9[1,12]  1
     camion_n_en_comuna_c_dia_d[2,1,13]  R2[2,13]  1
     camion_n_en_comuna_c_dia_d[2,1,13]  R5[2,1,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,13]  R7[1,13]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,13]  R7[1,13]  -400
     camion_n_en_comuna_c_dia_d[2,1,13]  R9[1,13]  1
     camion_n_en_comuna_c_dia_d[2,1,14]  R2[2,14]  1
     camion_n_en_comuna_c_dia_d[2,1,14]  R5[2,1,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,14]  R7[1,14]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,14]  R7[1,14]  -400
     camion_n_en_comuna_c_dia_d[2,1,14]  R9[1,14]  1
     camion_n_en_comuna_c_dia_d[2,1,15]  R2[2,15]  1
     camion_n_en_comuna_c_dia_d[2,1,15]  R5[2,1,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,15]  R7[1,15]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,15]  R7[1,15]  -400
     camion_n_en_comuna_c_dia_d[2,1,15]  R9[1,15]  1
     camion_n_en_comuna_c_dia_d[2,1,16]  R2[2,16]  1
     camion_n_en_comuna_c_dia_d[2,1,16]  R5[2,1,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,16]  R7[1,16]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,16]  R7[1,16]  -400
     camion_n_en_comuna_c_dia_d[2,1,16]  R9[1,16]  1
     camion_n_en_comuna_c_dia_d[2,1,17]  R2[2,17]  1
     camion_n_en_comuna_c_dia_d[2,1,17]  R5[2,1,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,17]  R7[1,17]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,17]  R7[1,17]  -400
     camion_n_en_comuna_c_dia_d[2,1,17]  R9[1,17]  1
     camion_n_en_comuna_c_dia_d[2,1,18]  R2[2,18]  1
     camion_n_en_comuna_c_dia_d[2,1,18]  R5[2,1,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,18]  R7[1,18]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,18]  R7[1,18]  -400
     camion_n_en_comuna_c_dia_d[2,1,18]  R9[1,18]  1
     camion_n_en_comuna_c_dia_d[2,1,19]  R2[2,19]  1
     camion_n_en_comuna_c_dia_d[2,1,19]  R5[2,1,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,19]  R7[1,19]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,19]  R7[1,19]  -400
     camion_n_en_comuna_c_dia_d[2,1,19]  R9[1,19]  1
     camion_n_en_comuna_c_dia_d[2,1,20]  R2[2,20]  1
     camion_n_en_comuna_c_dia_d[2,1,20]  R5[2,1,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,20]  R7[1,20]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,20]  R7[1,20]  -400
     camion_n_en_comuna_c_dia_d[2,1,20]  R9[1,20]  1
     camion_n_en_comuna_c_dia_d[2,1,21]  R2[2,21]  1
     camion_n_en_comuna_c_dia_d[2,1,21]  R5[2,1,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,21]  R7[1,21]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,21]  R7[1,21]  -400
     camion_n_en_comuna_c_dia_d[2,1,21]  R9[1,21]  1
     camion_n_en_comuna_c_dia_d[2,1,22]  R2[2,22]  1
     camion_n_en_comuna_c_dia_d[2,1,22]  R5[2,1,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,22]  R7[1,22]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,22]  R7[1,22]  -400
     camion_n_en_comuna_c_dia_d[2,1,22]  R9[1,22]  1
     camion_n_en_comuna_c_dia_d[2,1,23]  R2[2,23]  1
     camion_n_en_comuna_c_dia_d[2,1,23]  R5[2,1,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,23]  R7[1,23]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,23]  R7[1,23]  -400
     camion_n_en_comuna_c_dia_d[2,1,23]  R9[1,23]  1
     camion_n_en_comuna_c_dia_d[2,1,24]  R2[2,24]  1
     camion_n_en_comuna_c_dia_d[2,1,24]  R5[2,1,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,24]  R7[1,24]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,24]  R7[1,24]  -400
     camion_n_en_comuna_c_dia_d[2,1,24]  R9[1,24]  1
     camion_n_en_comuna_c_dia_d[2,1,25]  R2[2,25]  1
     camion_n_en_comuna_c_dia_d[2,1,25]  R5[2,1,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,25]  R7[1,25]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,25]  R7[1,25]  -400
     camion_n_en_comuna_c_dia_d[2,1,25]  R9[1,25]  1
     camion_n_en_comuna_c_dia_d[2,1,26]  R2[2,26]  1
     camion_n_en_comuna_c_dia_d[2,1,26]  R5[2,1,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,26]  R7[1,26]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,26]  R7[1,26]  -400
     camion_n_en_comuna_c_dia_d[2,1,26]  R9[1,26]  1
     camion_n_en_comuna_c_dia_d[2,1,27]  R2[2,27]  1
     camion_n_en_comuna_c_dia_d[2,1,27]  R5[2,1,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,27]  R7[1,27]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,27]  R7[1,27]  -400
     camion_n_en_comuna_c_dia_d[2,1,27]  R9[1,27]  1
     camion_n_en_comuna_c_dia_d[2,1,28]  R2[2,28]  1
     camion_n_en_comuna_c_dia_d[2,1,28]  R5[2,1,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,28]  R7[1,28]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,28]  R7[1,28]  -400
     camion_n_en_comuna_c_dia_d[2,1,28]  R9[1,28]  1
     camion_n_en_comuna_c_dia_d[2,1,29]  R2[2,29]  1
     camion_n_en_comuna_c_dia_d[2,1,29]  R5[2,1,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,29]  R7[1,29]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,29]  R7[1,29]  -400
     camion_n_en_comuna_c_dia_d[2,1,29]  R9[1,29]  1
     camion_n_en_comuna_c_dia_d[2,1,30]  R2[2,30]  1
     camion_n_en_comuna_c_dia_d[2,1,30]  R5[2,1,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,30]  R7[1,30]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,30]  R7[1,30]  -400
     camion_n_en_comuna_c_dia_d[2,1,30]  R9[1,30]  1
     camion_n_en_comuna_c_dia_d[2,1,31]  R2[2,31]  1
     camion_n_en_comuna_c_dia_d[2,1,31]  R5[2,1,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,31]  R7[1,31]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,31]  R7[1,31]  -400
     camion_n_en_comuna_c_dia_d[2,1,31]  R9[1,31]  1
     camion_n_en_comuna_c_dia_d[2,1,32]  R2[2,32]  1
     camion_n_en_comuna_c_dia_d[2,1,32]  R5[2,1,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,32]  R7[1,32]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,32]  R7[1,32]  -400
     camion_n_en_comuna_c_dia_d[2,1,32]  R9[1,32]  1
     camion_n_en_comuna_c_dia_d[2,1,33]  R2[2,33]  1
     camion_n_en_comuna_c_dia_d[2,1,33]  R5[2,1,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,33]  R7[1,33]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,33]  R7[1,33]  -400
     camion_n_en_comuna_c_dia_d[2,1,33]  R9[1,33]  1
     camion_n_en_comuna_c_dia_d[2,1,34]  R2[2,34]  1
     camion_n_en_comuna_c_dia_d[2,1,34]  R5[2,1,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,34]  R7[1,34]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,34]  R7[1,34]  -400
     camion_n_en_comuna_c_dia_d[2,1,34]  R9[1,34]  1
     camion_n_en_comuna_c_dia_d[2,1,35]  R2[2,35]  1
     camion_n_en_comuna_c_dia_d[2,1,35]  R5[2,1,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,35]  R7[1,35]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,35]  R7[1,35]  -400
     camion_n_en_comuna_c_dia_d[2,1,35]  R9[1,35]  1
     camion_n_en_comuna_c_dia_d[2,1,36]  R2[2,36]  1
     camion_n_en_comuna_c_dia_d[2,1,36]  R5[2,1,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,36]  R7[1,36]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,36]  R7[1,36]  -400
     camion_n_en_comuna_c_dia_d[2,1,36]  R9[1,36]  1
     camion_n_en_comuna_c_dia_d[2,1,37]  R2[2,37]  1
     camion_n_en_comuna_c_dia_d[2,1,37]  R5[2,1,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,37]  R7[1,37]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,37]  R7[1,37]  -400
     camion_n_en_comuna_c_dia_d[2,1,37]  R9[1,37]  1
     camion_n_en_comuna_c_dia_d[2,1,38]  R2[2,38]  1
     camion_n_en_comuna_c_dia_d[2,1,38]  R5[2,1,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,38]  R7[1,38]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,38]  R7[1,38]  -400
     camion_n_en_comuna_c_dia_d[2,1,38]  R9[1,38]  1
     camion_n_en_comuna_c_dia_d[2,1,39]  R2[2,39]  1
     camion_n_en_comuna_c_dia_d[2,1,39]  R5[2,1,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,39]  R7[1,39]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,39]  R7[1,39]  -400
     camion_n_en_comuna_c_dia_d[2,1,39]  R9[1,39]  1
     camion_n_en_comuna_c_dia_d[2,1,40]  R2[2,40]  1
     camion_n_en_comuna_c_dia_d[2,1,40]  R5[2,1,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,40]  R7[1,40]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,40]  R7[1,40]  -400
     camion_n_en_comuna_c_dia_d[2,1,40]  R9[1,40]  1
     camion_n_en_comuna_c_dia_d[2,1,41]  R2[2,41]  1
     camion_n_en_comuna_c_dia_d[2,1,41]  R5[2,1,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,41]  R7[1,41]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,41]  R7[1,41]  -400
     camion_n_en_comuna_c_dia_d[2,1,41]  R9[1,41]  1
     camion_n_en_comuna_c_dia_d[2,1,42]  R2[2,42]  1
     camion_n_en_comuna_c_dia_d[2,1,42]  R5[2,1,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,42]  R7[1,42]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,42]  R7[1,42]  -400
     camion_n_en_comuna_c_dia_d[2,1,42]  R9[1,42]  1
     camion_n_en_comuna_c_dia_d[2,1,43]  R2[2,43]  1
     camion_n_en_comuna_c_dia_d[2,1,43]  R5[2,1,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,43]  R7[1,43]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,43]  R7[1,43]  -400
     camion_n_en_comuna_c_dia_d[2,1,43]  R9[1,43]  1
     camion_n_en_comuna_c_dia_d[2,1,44]  R2[2,44]  1
     camion_n_en_comuna_c_dia_d[2,1,44]  R5[2,1,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,44]  R7[1,44]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,44]  R7[1,44]  -400
     camion_n_en_comuna_c_dia_d[2,1,44]  R9[1,44]  1
     camion_n_en_comuna_c_dia_d[2,1,45]  R2[2,45]  1
     camion_n_en_comuna_c_dia_d[2,1,45]  R5[2,1,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,45]  R7[1,45]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,45]  R7[1,45]  -400
     camion_n_en_comuna_c_dia_d[2,1,45]  R9[1,45]  1
     camion_n_en_comuna_c_dia_d[2,1,46]  R2[2,46]  1
     camion_n_en_comuna_c_dia_d[2,1,46]  R5[2,1,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,46]  R7[1,46]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,46]  R7[1,46]  -400
     camion_n_en_comuna_c_dia_d[2,1,46]  R9[1,46]  1
     camion_n_en_comuna_c_dia_d[2,1,47]  R2[2,47]  1
     camion_n_en_comuna_c_dia_d[2,1,47]  R5[2,1,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,47]  R7[1,47]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,47]  R7[1,47]  -400
     camion_n_en_comuna_c_dia_d[2,1,47]  R9[1,47]  1
     camion_n_en_comuna_c_dia_d[2,1,48]  R2[2,48]  1
     camion_n_en_comuna_c_dia_d[2,1,48]  R5[2,1,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,48]  R7[1,48]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,48]  R7[1,48]  -400
     camion_n_en_comuna_c_dia_d[2,1,48]  R9[1,48]  1
     camion_n_en_comuna_c_dia_d[2,1,49]  R2[2,49]  1
     camion_n_en_comuna_c_dia_d[2,1,49]  R5[2,1,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,49]  R7[1,49]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,49]  R7[1,49]  -400
     camion_n_en_comuna_c_dia_d[2,1,49]  R9[1,49]  1
     camion_n_en_comuna_c_dia_d[2,1,50]  R2[2,50]  1
     camion_n_en_comuna_c_dia_d[2,1,50]  R5[2,1,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,50]  R7[1,50]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,50]  R7[1,50]  -400
     camion_n_en_comuna_c_dia_d[2,1,50]  R9[1,50]  1
     camion_n_en_comuna_c_dia_d[2,1,51]  R2[2,51]  1
     camion_n_en_comuna_c_dia_d[2,1,51]  R5[2,1,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,51]  R7[1,51]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,51]  R7[1,51]  -400
     camion_n_en_comuna_c_dia_d[2,1,51]  R9[1,51]  1
     camion_n_en_comuna_c_dia_d[2,1,52]  R2[2,52]  1
     camion_n_en_comuna_c_dia_d[2,1,52]  R5[2,1,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,52]  R7[1,52]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,52]  R7[1,52]  -400
     camion_n_en_comuna_c_dia_d[2,1,52]  R9[1,52]  1
     camion_n_en_comuna_c_dia_d[2,1,53]  R2[2,53]  1
     camion_n_en_comuna_c_dia_d[2,1,53]  R5[2,1,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,53]  R7[1,53]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,53]  R7[1,53]  -400
     camion_n_en_comuna_c_dia_d[2,1,53]  R9[1,53]  1
     camion_n_en_comuna_c_dia_d[2,1,54]  R2[2,54]  1
     camion_n_en_comuna_c_dia_d[2,1,54]  R5[2,1,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,54]  R7[1,54]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,54]  R7[1,54]  -400
     camion_n_en_comuna_c_dia_d[2,1,54]  R9[1,54]  1
     camion_n_en_comuna_c_dia_d[2,1,55]  R2[2,55]  1
     camion_n_en_comuna_c_dia_d[2,1,55]  R5[2,1,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,55]  R7[1,55]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,55]  R7[1,55]  -400
     camion_n_en_comuna_c_dia_d[2,1,55]  R9[1,55]  1
     camion_n_en_comuna_c_dia_d[2,1,56]  R2[2,56]  1
     camion_n_en_comuna_c_dia_d[2,1,56]  R5[2,1,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,56]  R7[1,56]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,56]  R7[1,56]  -400
     camion_n_en_comuna_c_dia_d[2,1,56]  R9[1,56]  1
     camion_n_en_comuna_c_dia_d[2,1,57]  R2[2,57]  1
     camion_n_en_comuna_c_dia_d[2,1,57]  R5[2,1,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,57]  R7[1,57]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,57]  R7[1,57]  -400
     camion_n_en_comuna_c_dia_d[2,1,57]  R9[1,57]  1
     camion_n_en_comuna_c_dia_d[2,1,58]  R2[2,58]  1
     camion_n_en_comuna_c_dia_d[2,1,58]  R5[2,1,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,58]  R7[1,58]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,58]  R7[1,58]  -400
     camion_n_en_comuna_c_dia_d[2,1,58]  R9[1,58]  1
     camion_n_en_comuna_c_dia_d[2,1,59]  R2[2,59]  1
     camion_n_en_comuna_c_dia_d[2,1,59]  R5[2,1,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,59]  R7[1,59]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,59]  R7[1,59]  -400
     camion_n_en_comuna_c_dia_d[2,1,59]  R9[1,59]  1
     camion_n_en_comuna_c_dia_d[2,1,60]  R2[2,60]  1
     camion_n_en_comuna_c_dia_d[2,1,60]  R5[2,1,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,60]  R7[1,60]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,60]  R7[1,60]  -400
     camion_n_en_comuna_c_dia_d[2,1,60]  R9[1,60]  1
     camion_n_en_comuna_c_dia_d[2,1,61]  R2[2,61]  1
     camion_n_en_comuna_c_dia_d[2,1,61]  R5[2,1,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,61]  R7[1,61]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,61]  R7[1,61]  -400
     camion_n_en_comuna_c_dia_d[2,1,61]  R9[1,61]  1
     camion_n_en_comuna_c_dia_d[2,1,62]  R2[2,62]  1
     camion_n_en_comuna_c_dia_d[2,1,62]  R5[2,1,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,62]  R7[1,62]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,62]  R7[1,62]  -400
     camion_n_en_comuna_c_dia_d[2,1,62]  R9[1,62]  1
     camion_n_en_comuna_c_dia_d[2,1,63]  R2[2,63]  1
     camion_n_en_comuna_c_dia_d[2,1,63]  R5[2,1,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,63]  R7[1,63]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,63]  R7[1,63]  -400
     camion_n_en_comuna_c_dia_d[2,1,63]  R9[1,63]  1
     camion_n_en_comuna_c_dia_d[2,1,64]  R2[2,64]  1
     camion_n_en_comuna_c_dia_d[2,1,64]  R5[2,1,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,64]  R7[1,64]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,64]  R7[1,64]  -400
     camion_n_en_comuna_c_dia_d[2,1,64]  R9[1,64]  1
     camion_n_en_comuna_c_dia_d[2,1,65]  R2[2,65]  1
     camion_n_en_comuna_c_dia_d[2,1,65]  R5[2,1,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,65]  R7[1,65]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,65]  R7[1,65]  -400
     camion_n_en_comuna_c_dia_d[2,1,65]  R9[1,65]  1
     camion_n_en_comuna_c_dia_d[2,1,66]  R2[2,66]  1
     camion_n_en_comuna_c_dia_d[2,1,66]  R5[2,1,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,66]  R7[1,66]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,66]  R7[1,66]  -400
     camion_n_en_comuna_c_dia_d[2,1,66]  R9[1,66]  1
     camion_n_en_comuna_c_dia_d[2,1,67]  R2[2,67]  1
     camion_n_en_comuna_c_dia_d[2,1,67]  R5[2,1,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,67]  R7[1,67]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,67]  R7[1,67]  -400
     camion_n_en_comuna_c_dia_d[2,1,67]  R9[1,67]  1
     camion_n_en_comuna_c_dia_d[2,1,68]  R2[2,68]  1
     camion_n_en_comuna_c_dia_d[2,1,68]  R5[2,1,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,68]  R7[1,68]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,68]  R7[1,68]  -400
     camion_n_en_comuna_c_dia_d[2,1,68]  R9[1,68]  1
     camion_n_en_comuna_c_dia_d[2,1,69]  R2[2,69]  1
     camion_n_en_comuna_c_dia_d[2,1,69]  R5[2,1,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,69]  R7[1,69]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,69]  R7[1,69]  -400
     camion_n_en_comuna_c_dia_d[2,1,69]  R9[1,69]  1
     camion_n_en_comuna_c_dia_d[2,1,70]  R2[2,70]  1
     camion_n_en_comuna_c_dia_d[2,1,70]  R5[2,1,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,70]  R7[1,70]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,70]  R7[1,70]  -400
     camion_n_en_comuna_c_dia_d[2,1,70]  R9[1,70]  1
     camion_n_en_comuna_c_dia_d[2,1,71]  R2[2,71]  1
     camion_n_en_comuna_c_dia_d[2,1,71]  R5[2,1,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,71]  R7[1,71]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,71]  R7[1,71]  -400
     camion_n_en_comuna_c_dia_d[2,1,71]  R9[1,71]  1
     camion_n_en_comuna_c_dia_d[2,1,72]  R2[2,72]  1
     camion_n_en_comuna_c_dia_d[2,1,72]  R5[2,1,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,72]  R7[1,72]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,72]  R7[1,72]  -400
     camion_n_en_comuna_c_dia_d[2,1,72]  R9[1,72]  1
     camion_n_en_comuna_c_dia_d[2,1,73]  R2[2,73]  1
     camion_n_en_comuna_c_dia_d[2,1,73]  R5[2,1,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,73]  R7[1,73]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,73]  R7[1,73]  -400
     camion_n_en_comuna_c_dia_d[2,1,73]  R9[1,73]  1
     camion_n_en_comuna_c_dia_d[2,1,74]  R2[2,74]  1
     camion_n_en_comuna_c_dia_d[2,1,74]  R5[2,1,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,74]  R7[1,74]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,74]  R7[1,74]  -400
     camion_n_en_comuna_c_dia_d[2,1,74]  R9[1,74]  1
     camion_n_en_comuna_c_dia_d[2,1,75]  R2[2,75]  1
     camion_n_en_comuna_c_dia_d[2,1,75]  R5[2,1,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,75]  R7[1,75]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,75]  R7[1,75]  -400
     camion_n_en_comuna_c_dia_d[2,1,75]  R9[1,75]  1
     camion_n_en_comuna_c_dia_d[2,1,76]  R2[2,76]  1
     camion_n_en_comuna_c_dia_d[2,1,76]  R5[2,1,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,76]  R7[1,76]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,76]  R7[1,76]  -400
     camion_n_en_comuna_c_dia_d[2,1,76]  R9[1,76]  1
     camion_n_en_comuna_c_dia_d[2,1,77]  R2[2,77]  1
     camion_n_en_comuna_c_dia_d[2,1,77]  R5[2,1,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,77]  R7[1,77]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,77]  R7[1,77]  -400
     camion_n_en_comuna_c_dia_d[2,1,77]  R9[1,77]  1
     camion_n_en_comuna_c_dia_d[2,1,78]  R2[2,78]  1
     camion_n_en_comuna_c_dia_d[2,1,78]  R5[2,1,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,78]  R7[1,78]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,78]  R7[1,78]  -400
     camion_n_en_comuna_c_dia_d[2,1,78]  R9[1,78]  1
     camion_n_en_comuna_c_dia_d[2,1,79]  R2[2,79]  1
     camion_n_en_comuna_c_dia_d[2,1,79]  R5[2,1,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,79]  R7[1,79]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,79]  R7[1,79]  -400
     camion_n_en_comuna_c_dia_d[2,1,79]  R9[1,79]  1
     camion_n_en_comuna_c_dia_d[2,1,80]  R2[2,80]  1
     camion_n_en_comuna_c_dia_d[2,1,80]  R5[2,1,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,80]  R7[1,80]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,80]  R7[1,80]  -400
     camion_n_en_comuna_c_dia_d[2,1,80]  R9[1,80]  1
     camion_n_en_comuna_c_dia_d[2,1,81]  R2[2,81]  1
     camion_n_en_comuna_c_dia_d[2,1,81]  R5[2,1,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,81]  R7[1,81]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,81]  R7[1,81]  -400
     camion_n_en_comuna_c_dia_d[2,1,81]  R9[1,81]  1
     camion_n_en_comuna_c_dia_d[2,1,82]  R2[2,82]  1
     camion_n_en_comuna_c_dia_d[2,1,82]  R5[2,1,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,82]  R7[1,82]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,82]  R7[1,82]  -400
     camion_n_en_comuna_c_dia_d[2,1,82]  R9[1,82]  1
     camion_n_en_comuna_c_dia_d[2,1,83]  R2[2,83]  1
     camion_n_en_comuna_c_dia_d[2,1,83]  R5[2,1,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,83]  R7[1,83]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,83]  R7[1,83]  -400
     camion_n_en_comuna_c_dia_d[2,1,83]  R9[1,83]  1
     camion_n_en_comuna_c_dia_d[2,1,84]  R2[2,84]  1
     camion_n_en_comuna_c_dia_d[2,1,84]  R5[2,1,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,84]  R7[1,84]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,84]  R7[1,84]  -400
     camion_n_en_comuna_c_dia_d[2,1,84]  R9[1,84]  1
     camion_n_en_comuna_c_dia_d[2,1,85]  R2[2,85]  1
     camion_n_en_comuna_c_dia_d[2,1,85]  R5[2,1,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,85]  R7[1,85]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,85]  R7[1,85]  -400
     camion_n_en_comuna_c_dia_d[2,1,85]  R9[1,85]  1
     camion_n_en_comuna_c_dia_d[2,1,86]  R2[2,86]  1
     camion_n_en_comuna_c_dia_d[2,1,86]  R5[2,1,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,86]  R7[1,86]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,86]  R7[1,86]  -400
     camion_n_en_comuna_c_dia_d[2,1,86]  R9[1,86]  1
     camion_n_en_comuna_c_dia_d[2,1,87]  R2[2,87]  1
     camion_n_en_comuna_c_dia_d[2,1,87]  R5[2,1,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,87]  R7[1,87]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,87]  R7[1,87]  -400
     camion_n_en_comuna_c_dia_d[2,1,87]  R9[1,87]  1
     camion_n_en_comuna_c_dia_d[2,1,88]  R2[2,88]  1
     camion_n_en_comuna_c_dia_d[2,1,88]  R5[2,1,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,88]  R7[1,88]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,88]  R7[1,88]  -400
     camion_n_en_comuna_c_dia_d[2,1,88]  R9[1,88]  1
     camion_n_en_comuna_c_dia_d[2,1,89]  R2[2,89]  1
     camion_n_en_comuna_c_dia_d[2,1,89]  R5[2,1,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,89]  R7[1,89]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,89]  R7[1,89]  -400
     camion_n_en_comuna_c_dia_d[2,1,89]  R9[1,89]  1
     camion_n_en_comuna_c_dia_d[2,1,90]  R2[2,90]  1
     camion_n_en_comuna_c_dia_d[2,1,90]  R5[2,1,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,90]  R7[1,90]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,90]  R7[1,90]  -400
     camion_n_en_comuna_c_dia_d[2,1,90]  R9[1,90]  1
     camion_n_en_comuna_c_dia_d[2,1,91]  R2[2,91]  1
     camion_n_en_comuna_c_dia_d[2,1,91]  R5[2,1,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,91]  R7[1,91]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,91]  R7[1,91]  -400
     camion_n_en_comuna_c_dia_d[2,1,91]  R9[1,91]  1
     camion_n_en_comuna_c_dia_d[2,1,92]  R2[2,92]  1
     camion_n_en_comuna_c_dia_d[2,1,92]  R5[2,1,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,92]  R7[1,92]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,92]  R7[1,92]  -400
     camion_n_en_comuna_c_dia_d[2,1,92]  R9[1,92]  1
     camion_n_en_comuna_c_dia_d[2,1,93]  R2[2,93]  1
     camion_n_en_comuna_c_dia_d[2,1,93]  R5[2,1,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,93]  R7[1,93]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,93]  R7[1,93]  -400
     camion_n_en_comuna_c_dia_d[2,1,93]  R9[1,93]  1
     camion_n_en_comuna_c_dia_d[2,1,94]  R2[2,94]  1
     camion_n_en_comuna_c_dia_d[2,1,94]  R5[2,1,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,94]  R7[1,94]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,94]  R7[1,94]  -400
     camion_n_en_comuna_c_dia_d[2,1,94]  R9[1,94]  1
     camion_n_en_comuna_c_dia_d[2,1,95]  R2[2,95]  1
     camion_n_en_comuna_c_dia_d[2,1,95]  R5[2,1,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,95]  R7[1,95]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,95]  R7[1,95]  -400
     camion_n_en_comuna_c_dia_d[2,1,95]  R9[1,95]  1
     camion_n_en_comuna_c_dia_d[2,1,96]  R2[2,96]  1
     camion_n_en_comuna_c_dia_d[2,1,96]  R5[2,1,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,96]  R7[1,96]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,96]  R7[1,96]  -400
     camion_n_en_comuna_c_dia_d[2,1,96]  R9[1,96]  1
     camion_n_en_comuna_c_dia_d[2,1,97]  R2[2,97]  1
     camion_n_en_comuna_c_dia_d[2,1,97]  R5[2,1,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,97]  R7[1,97]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,97]  R7[1,97]  -400
     camion_n_en_comuna_c_dia_d[2,1,97]  R9[1,97]  1
     camion_n_en_comuna_c_dia_d[2,1,98]  R2[2,98]  1
     camion_n_en_comuna_c_dia_d[2,1,98]  R5[2,1,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,98]  R7[1,98]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,98]  R7[1,98]  -400
     camion_n_en_comuna_c_dia_d[2,1,98]  R9[1,98]  1
     camion_n_en_comuna_c_dia_d[2,1,99]  R2[2,99]  1
     camion_n_en_comuna_c_dia_d[2,1,99]  R5[2,1,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,1,99]  R7[1,99]  -1000
+    camion_n_en_comuna_c_dia_d[2,1,99]  R7[1,99]  -400
     camion_n_en_comuna_c_dia_d[2,1,99]  R9[1,99]  1
     camion_n_en_comuna_c_dia_d[2,2,0]  R2[2,0]   1
     camion_n_en_comuna_c_dia_d[2,2,0]  R5[2,2,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,0]  R7[2,0]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,0]  R7[2,0]   -400
     camion_n_en_comuna_c_dia_d[2,2,0]  R9[2,0]   1
     camion_n_en_comuna_c_dia_d[2,2,1]  R2[2,1]   1
     camion_n_en_comuna_c_dia_d[2,2,1]  R5[2,2,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,1]  R7[2,1]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,1]  R7[2,1]   -400
     camion_n_en_comuna_c_dia_d[2,2,1]  R9[2,1]   1
     camion_n_en_comuna_c_dia_d[2,2,2]  R2[2,2]   1
     camion_n_en_comuna_c_dia_d[2,2,2]  R5[2,2,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,2]  R7[2,2]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,2]  R7[2,2]   -400
     camion_n_en_comuna_c_dia_d[2,2,2]  R9[2,2]   1
     camion_n_en_comuna_c_dia_d[2,2,3]  R2[2,3]   1
     camion_n_en_comuna_c_dia_d[2,2,3]  R5[2,2,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,3]  R7[2,3]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,3]  R7[2,3]   -400
     camion_n_en_comuna_c_dia_d[2,2,3]  R9[2,3]   1
     camion_n_en_comuna_c_dia_d[2,2,4]  R2[2,4]   1
     camion_n_en_comuna_c_dia_d[2,2,4]  R5[2,2,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,4]  R7[2,4]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,4]  R7[2,4]   -400
     camion_n_en_comuna_c_dia_d[2,2,4]  R9[2,4]   1
     camion_n_en_comuna_c_dia_d[2,2,5]  R2[2,5]   1
     camion_n_en_comuna_c_dia_d[2,2,5]  R5[2,2,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,5]  R7[2,5]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,5]  R7[2,5]   -400
     camion_n_en_comuna_c_dia_d[2,2,5]  R9[2,5]   1
     camion_n_en_comuna_c_dia_d[2,2,6]  R2[2,6]   1
     camion_n_en_comuna_c_dia_d[2,2,6]  R5[2,2,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,6]  R7[2,6]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,6]  R7[2,6]   -400
     camion_n_en_comuna_c_dia_d[2,2,6]  R9[2,6]   1
     camion_n_en_comuna_c_dia_d[2,2,7]  R2[2,7]   1
     camion_n_en_comuna_c_dia_d[2,2,7]  R5[2,2,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,7]  R7[2,7]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,7]  R7[2,7]   -400
     camion_n_en_comuna_c_dia_d[2,2,7]  R9[2,7]   1
     camion_n_en_comuna_c_dia_d[2,2,8]  R2[2,8]   1
     camion_n_en_comuna_c_dia_d[2,2,8]  R5[2,2,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,8]  R7[2,8]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,8]  R7[2,8]   -400
     camion_n_en_comuna_c_dia_d[2,2,8]  R9[2,8]   1
     camion_n_en_comuna_c_dia_d[2,2,9]  R2[2,9]   1
     camion_n_en_comuna_c_dia_d[2,2,9]  R5[2,2,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,9]  R7[2,9]   -1000
+    camion_n_en_comuna_c_dia_d[2,2,9]  R7[2,9]   -400
     camion_n_en_comuna_c_dia_d[2,2,9]  R9[2,9]   1
     camion_n_en_comuna_c_dia_d[2,2,10]  R2[2,10]  1
     camion_n_en_comuna_c_dia_d[2,2,10]  R5[2,2,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,10]  R7[2,10]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,10]  R7[2,10]  -400
     camion_n_en_comuna_c_dia_d[2,2,10]  R9[2,10]  1
     camion_n_en_comuna_c_dia_d[2,2,11]  R2[2,11]  1
     camion_n_en_comuna_c_dia_d[2,2,11]  R5[2,2,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,11]  R7[2,11]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,11]  R7[2,11]  -400
     camion_n_en_comuna_c_dia_d[2,2,11]  R9[2,11]  1
     camion_n_en_comuna_c_dia_d[2,2,12]  R2[2,12]  1
     camion_n_en_comuna_c_dia_d[2,2,12]  R5[2,2,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,12]  R7[2,12]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,12]  R7[2,12]  -400
     camion_n_en_comuna_c_dia_d[2,2,12]  R9[2,12]  1
     camion_n_en_comuna_c_dia_d[2,2,13]  R2[2,13]  1
     camion_n_en_comuna_c_dia_d[2,2,13]  R5[2,2,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,13]  R7[2,13]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,13]  R7[2,13]  -400
     camion_n_en_comuna_c_dia_d[2,2,13]  R9[2,13]  1
     camion_n_en_comuna_c_dia_d[2,2,14]  R2[2,14]  1
     camion_n_en_comuna_c_dia_d[2,2,14]  R5[2,2,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,14]  R7[2,14]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,14]  R7[2,14]  -400
     camion_n_en_comuna_c_dia_d[2,2,14]  R9[2,14]  1
     camion_n_en_comuna_c_dia_d[2,2,15]  R2[2,15]  1
     camion_n_en_comuna_c_dia_d[2,2,15]  R5[2,2,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,15]  R7[2,15]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,15]  R7[2,15]  -400
     camion_n_en_comuna_c_dia_d[2,2,15]  R9[2,15]  1
     camion_n_en_comuna_c_dia_d[2,2,16]  R2[2,16]  1
     camion_n_en_comuna_c_dia_d[2,2,16]  R5[2,2,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,16]  R7[2,16]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,16]  R7[2,16]  -400
     camion_n_en_comuna_c_dia_d[2,2,16]  R9[2,16]  1
     camion_n_en_comuna_c_dia_d[2,2,17]  R2[2,17]  1
     camion_n_en_comuna_c_dia_d[2,2,17]  R5[2,2,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,17]  R7[2,17]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,17]  R7[2,17]  -400
     camion_n_en_comuna_c_dia_d[2,2,17]  R9[2,17]  1
     camion_n_en_comuna_c_dia_d[2,2,18]  R2[2,18]  1
     camion_n_en_comuna_c_dia_d[2,2,18]  R5[2,2,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,18]  R7[2,18]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,18]  R7[2,18]  -400
     camion_n_en_comuna_c_dia_d[2,2,18]  R9[2,18]  1
     camion_n_en_comuna_c_dia_d[2,2,19]  R2[2,19]  1
     camion_n_en_comuna_c_dia_d[2,2,19]  R5[2,2,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,19]  R7[2,19]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,19]  R7[2,19]  -400
     camion_n_en_comuna_c_dia_d[2,2,19]  R9[2,19]  1
     camion_n_en_comuna_c_dia_d[2,2,20]  R2[2,20]  1
     camion_n_en_comuna_c_dia_d[2,2,20]  R5[2,2,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,20]  R7[2,20]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,20]  R7[2,20]  -400
     camion_n_en_comuna_c_dia_d[2,2,20]  R9[2,20]  1
     camion_n_en_comuna_c_dia_d[2,2,21]  R2[2,21]  1
     camion_n_en_comuna_c_dia_d[2,2,21]  R5[2,2,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,21]  R7[2,21]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,21]  R7[2,21]  -400
     camion_n_en_comuna_c_dia_d[2,2,21]  R9[2,21]  1
     camion_n_en_comuna_c_dia_d[2,2,22]  R2[2,22]  1
     camion_n_en_comuna_c_dia_d[2,2,22]  R5[2,2,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,22]  R7[2,22]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,22]  R7[2,22]  -400
     camion_n_en_comuna_c_dia_d[2,2,22]  R9[2,22]  1
     camion_n_en_comuna_c_dia_d[2,2,23]  R2[2,23]  1
     camion_n_en_comuna_c_dia_d[2,2,23]  R5[2,2,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,23]  R7[2,23]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,23]  R7[2,23]  -400
     camion_n_en_comuna_c_dia_d[2,2,23]  R9[2,23]  1
     camion_n_en_comuna_c_dia_d[2,2,24]  R2[2,24]  1
     camion_n_en_comuna_c_dia_d[2,2,24]  R5[2,2,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,24]  R7[2,24]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,24]  R7[2,24]  -400
     camion_n_en_comuna_c_dia_d[2,2,24]  R9[2,24]  1
     camion_n_en_comuna_c_dia_d[2,2,25]  R2[2,25]  1
     camion_n_en_comuna_c_dia_d[2,2,25]  R5[2,2,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,25]  R7[2,25]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,25]  R7[2,25]  -400
     camion_n_en_comuna_c_dia_d[2,2,25]  R9[2,25]  1
     camion_n_en_comuna_c_dia_d[2,2,26]  R2[2,26]  1
     camion_n_en_comuna_c_dia_d[2,2,26]  R5[2,2,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,26]  R7[2,26]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,26]  R7[2,26]  -400
     camion_n_en_comuna_c_dia_d[2,2,26]  R9[2,26]  1
     camion_n_en_comuna_c_dia_d[2,2,27]  R2[2,27]  1
     camion_n_en_comuna_c_dia_d[2,2,27]  R5[2,2,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,27]  R7[2,27]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,27]  R7[2,27]  -400
     camion_n_en_comuna_c_dia_d[2,2,27]  R9[2,27]  1
     camion_n_en_comuna_c_dia_d[2,2,28]  R2[2,28]  1
     camion_n_en_comuna_c_dia_d[2,2,28]  R5[2,2,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,28]  R7[2,28]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,28]  R7[2,28]  -400
     camion_n_en_comuna_c_dia_d[2,2,28]  R9[2,28]  1
     camion_n_en_comuna_c_dia_d[2,2,29]  R2[2,29]  1
     camion_n_en_comuna_c_dia_d[2,2,29]  R5[2,2,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,29]  R7[2,29]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,29]  R7[2,29]  -400
     camion_n_en_comuna_c_dia_d[2,2,29]  R9[2,29]  1
     camion_n_en_comuna_c_dia_d[2,2,30]  R2[2,30]  1
     camion_n_en_comuna_c_dia_d[2,2,30]  R5[2,2,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,30]  R7[2,30]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,30]  R7[2,30]  -400
     camion_n_en_comuna_c_dia_d[2,2,30]  R9[2,30]  1
     camion_n_en_comuna_c_dia_d[2,2,31]  R2[2,31]  1
     camion_n_en_comuna_c_dia_d[2,2,31]  R5[2,2,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,31]  R7[2,31]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,31]  R7[2,31]  -400
     camion_n_en_comuna_c_dia_d[2,2,31]  R9[2,31]  1
     camion_n_en_comuna_c_dia_d[2,2,32]  R2[2,32]  1
     camion_n_en_comuna_c_dia_d[2,2,32]  R5[2,2,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,32]  R7[2,32]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,32]  R7[2,32]  -400
     camion_n_en_comuna_c_dia_d[2,2,32]  R9[2,32]  1
     camion_n_en_comuna_c_dia_d[2,2,33]  R2[2,33]  1
     camion_n_en_comuna_c_dia_d[2,2,33]  R5[2,2,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,33]  R7[2,33]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,33]  R7[2,33]  -400
     camion_n_en_comuna_c_dia_d[2,2,33]  R9[2,33]  1
     camion_n_en_comuna_c_dia_d[2,2,34]  R2[2,34]  1
     camion_n_en_comuna_c_dia_d[2,2,34]  R5[2,2,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,34]  R7[2,34]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,34]  R7[2,34]  -400
     camion_n_en_comuna_c_dia_d[2,2,34]  R9[2,34]  1
     camion_n_en_comuna_c_dia_d[2,2,35]  R2[2,35]  1
     camion_n_en_comuna_c_dia_d[2,2,35]  R5[2,2,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,35]  R7[2,35]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,35]  R7[2,35]  -400
     camion_n_en_comuna_c_dia_d[2,2,35]  R9[2,35]  1
     camion_n_en_comuna_c_dia_d[2,2,36]  R2[2,36]  1
     camion_n_en_comuna_c_dia_d[2,2,36]  R5[2,2,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,36]  R7[2,36]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,36]  R7[2,36]  -400
     camion_n_en_comuna_c_dia_d[2,2,36]  R9[2,36]  1
     camion_n_en_comuna_c_dia_d[2,2,37]  R2[2,37]  1
     camion_n_en_comuna_c_dia_d[2,2,37]  R5[2,2,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,37]  R7[2,37]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,37]  R7[2,37]  -400
     camion_n_en_comuna_c_dia_d[2,2,37]  R9[2,37]  1
     camion_n_en_comuna_c_dia_d[2,2,38]  R2[2,38]  1
     camion_n_en_comuna_c_dia_d[2,2,38]  R5[2,2,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,38]  R7[2,38]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,38]  R7[2,38]  -400
     camion_n_en_comuna_c_dia_d[2,2,38]  R9[2,38]  1
     camion_n_en_comuna_c_dia_d[2,2,39]  R2[2,39]  1
     camion_n_en_comuna_c_dia_d[2,2,39]  R5[2,2,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,39]  R7[2,39]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,39]  R7[2,39]  -400
     camion_n_en_comuna_c_dia_d[2,2,39]  R9[2,39]  1
     camion_n_en_comuna_c_dia_d[2,2,40]  R2[2,40]  1
     camion_n_en_comuna_c_dia_d[2,2,40]  R5[2,2,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,40]  R7[2,40]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,40]  R7[2,40]  -400
     camion_n_en_comuna_c_dia_d[2,2,40]  R9[2,40]  1
     camion_n_en_comuna_c_dia_d[2,2,41]  R2[2,41]  1
     camion_n_en_comuna_c_dia_d[2,2,41]  R5[2,2,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,41]  R7[2,41]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,41]  R7[2,41]  -400
     camion_n_en_comuna_c_dia_d[2,2,41]  R9[2,41]  1
     camion_n_en_comuna_c_dia_d[2,2,42]  R2[2,42]  1
     camion_n_en_comuna_c_dia_d[2,2,42]  R5[2,2,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,42]  R7[2,42]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,42]  R7[2,42]  -400
     camion_n_en_comuna_c_dia_d[2,2,42]  R9[2,42]  1
     camion_n_en_comuna_c_dia_d[2,2,43]  R2[2,43]  1
     camion_n_en_comuna_c_dia_d[2,2,43]  R5[2,2,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,43]  R7[2,43]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,43]  R7[2,43]  -400
     camion_n_en_comuna_c_dia_d[2,2,43]  R9[2,43]  1
     camion_n_en_comuna_c_dia_d[2,2,44]  R2[2,44]  1
     camion_n_en_comuna_c_dia_d[2,2,44]  R5[2,2,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,44]  R7[2,44]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,44]  R7[2,44]  -400
     camion_n_en_comuna_c_dia_d[2,2,44]  R9[2,44]  1
     camion_n_en_comuna_c_dia_d[2,2,45]  R2[2,45]  1
     camion_n_en_comuna_c_dia_d[2,2,45]  R5[2,2,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,45]  R7[2,45]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,45]  R7[2,45]  -400
     camion_n_en_comuna_c_dia_d[2,2,45]  R9[2,45]  1
     camion_n_en_comuna_c_dia_d[2,2,46]  R2[2,46]  1
     camion_n_en_comuna_c_dia_d[2,2,46]  R5[2,2,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,46]  R7[2,46]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,46]  R7[2,46]  -400
     camion_n_en_comuna_c_dia_d[2,2,46]  R9[2,46]  1
     camion_n_en_comuna_c_dia_d[2,2,47]  R2[2,47]  1
     camion_n_en_comuna_c_dia_d[2,2,47]  R5[2,2,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,47]  R7[2,47]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,47]  R7[2,47]  -400
     camion_n_en_comuna_c_dia_d[2,2,47]  R9[2,47]  1
     camion_n_en_comuna_c_dia_d[2,2,48]  R2[2,48]  1
     camion_n_en_comuna_c_dia_d[2,2,48]  R5[2,2,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,48]  R7[2,48]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,48]  R7[2,48]  -400
     camion_n_en_comuna_c_dia_d[2,2,48]  R9[2,48]  1
     camion_n_en_comuna_c_dia_d[2,2,49]  R2[2,49]  1
     camion_n_en_comuna_c_dia_d[2,2,49]  R5[2,2,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,49]  R7[2,49]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,49]  R7[2,49]  -400
     camion_n_en_comuna_c_dia_d[2,2,49]  R9[2,49]  1
     camion_n_en_comuna_c_dia_d[2,2,50]  R2[2,50]  1
     camion_n_en_comuna_c_dia_d[2,2,50]  R5[2,2,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,50]  R7[2,50]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,50]  R7[2,50]  -400
     camion_n_en_comuna_c_dia_d[2,2,50]  R9[2,50]  1
     camion_n_en_comuna_c_dia_d[2,2,51]  R2[2,51]  1
     camion_n_en_comuna_c_dia_d[2,2,51]  R5[2,2,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,51]  R7[2,51]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,51]  R7[2,51]  -400
     camion_n_en_comuna_c_dia_d[2,2,51]  R9[2,51]  1
     camion_n_en_comuna_c_dia_d[2,2,52]  R2[2,52]  1
     camion_n_en_comuna_c_dia_d[2,2,52]  R5[2,2,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,52]  R7[2,52]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,52]  R7[2,52]  -400
     camion_n_en_comuna_c_dia_d[2,2,52]  R9[2,52]  1
     camion_n_en_comuna_c_dia_d[2,2,53]  R2[2,53]  1
     camion_n_en_comuna_c_dia_d[2,2,53]  R5[2,2,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,53]  R7[2,53]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,53]  R7[2,53]  -400
     camion_n_en_comuna_c_dia_d[2,2,53]  R9[2,53]  1
     camion_n_en_comuna_c_dia_d[2,2,54]  R2[2,54]  1
     camion_n_en_comuna_c_dia_d[2,2,54]  R5[2,2,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,54]  R7[2,54]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,54]  R7[2,54]  -400
     camion_n_en_comuna_c_dia_d[2,2,54]  R9[2,54]  1
     camion_n_en_comuna_c_dia_d[2,2,55]  R2[2,55]  1
     camion_n_en_comuna_c_dia_d[2,2,55]  R5[2,2,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,55]  R7[2,55]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,55]  R7[2,55]  -400
     camion_n_en_comuna_c_dia_d[2,2,55]  R9[2,55]  1
     camion_n_en_comuna_c_dia_d[2,2,56]  R2[2,56]  1
     camion_n_en_comuna_c_dia_d[2,2,56]  R5[2,2,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,56]  R7[2,56]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,56]  R7[2,56]  -400
     camion_n_en_comuna_c_dia_d[2,2,56]  R9[2,56]  1
     camion_n_en_comuna_c_dia_d[2,2,57]  R2[2,57]  1
     camion_n_en_comuna_c_dia_d[2,2,57]  R5[2,2,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,57]  R7[2,57]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,57]  R7[2,57]  -400
     camion_n_en_comuna_c_dia_d[2,2,57]  R9[2,57]  1
     camion_n_en_comuna_c_dia_d[2,2,58]  R2[2,58]  1
     camion_n_en_comuna_c_dia_d[2,2,58]  R5[2,2,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,58]  R7[2,58]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,58]  R7[2,58]  -400
     camion_n_en_comuna_c_dia_d[2,2,58]  R9[2,58]  1
     camion_n_en_comuna_c_dia_d[2,2,59]  R2[2,59]  1
     camion_n_en_comuna_c_dia_d[2,2,59]  R5[2,2,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,59]  R7[2,59]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,59]  R7[2,59]  -400
     camion_n_en_comuna_c_dia_d[2,2,59]  R9[2,59]  1
     camion_n_en_comuna_c_dia_d[2,2,60]  R2[2,60]  1
     camion_n_en_comuna_c_dia_d[2,2,60]  R5[2,2,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,60]  R7[2,60]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,60]  R7[2,60]  -400
     camion_n_en_comuna_c_dia_d[2,2,60]  R9[2,60]  1
     camion_n_en_comuna_c_dia_d[2,2,61]  R2[2,61]  1
     camion_n_en_comuna_c_dia_d[2,2,61]  R5[2,2,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,61]  R7[2,61]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,61]  R7[2,61]  -400
     camion_n_en_comuna_c_dia_d[2,2,61]  R9[2,61]  1
     camion_n_en_comuna_c_dia_d[2,2,62]  R2[2,62]  1
     camion_n_en_comuna_c_dia_d[2,2,62]  R5[2,2,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,62]  R7[2,62]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,62]  R7[2,62]  -400
     camion_n_en_comuna_c_dia_d[2,2,62]  R9[2,62]  1
     camion_n_en_comuna_c_dia_d[2,2,63]  R2[2,63]  1
     camion_n_en_comuna_c_dia_d[2,2,63]  R5[2,2,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,63]  R7[2,63]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,63]  R7[2,63]  -400
     camion_n_en_comuna_c_dia_d[2,2,63]  R9[2,63]  1
     camion_n_en_comuna_c_dia_d[2,2,64]  R2[2,64]  1
     camion_n_en_comuna_c_dia_d[2,2,64]  R5[2,2,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,64]  R7[2,64]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,64]  R7[2,64]  -400
     camion_n_en_comuna_c_dia_d[2,2,64]  R9[2,64]  1
     camion_n_en_comuna_c_dia_d[2,2,65]  R2[2,65]  1
     camion_n_en_comuna_c_dia_d[2,2,65]  R5[2,2,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,65]  R7[2,65]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,65]  R7[2,65]  -400
     camion_n_en_comuna_c_dia_d[2,2,65]  R9[2,65]  1
     camion_n_en_comuna_c_dia_d[2,2,66]  R2[2,66]  1
     camion_n_en_comuna_c_dia_d[2,2,66]  R5[2,2,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,66]  R7[2,66]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,66]  R7[2,66]  -400
     camion_n_en_comuna_c_dia_d[2,2,66]  R9[2,66]  1
     camion_n_en_comuna_c_dia_d[2,2,67]  R2[2,67]  1
     camion_n_en_comuna_c_dia_d[2,2,67]  R5[2,2,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,67]  R7[2,67]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,67]  R7[2,67]  -400
     camion_n_en_comuna_c_dia_d[2,2,67]  R9[2,67]  1
     camion_n_en_comuna_c_dia_d[2,2,68]  R2[2,68]  1
     camion_n_en_comuna_c_dia_d[2,2,68]  R5[2,2,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,68]  R7[2,68]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,68]  R7[2,68]  -400
     camion_n_en_comuna_c_dia_d[2,2,68]  R9[2,68]  1
     camion_n_en_comuna_c_dia_d[2,2,69]  R2[2,69]  1
     camion_n_en_comuna_c_dia_d[2,2,69]  R5[2,2,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,69]  R7[2,69]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,69]  R7[2,69]  -400
     camion_n_en_comuna_c_dia_d[2,2,69]  R9[2,69]  1
     camion_n_en_comuna_c_dia_d[2,2,70]  R2[2,70]  1
     camion_n_en_comuna_c_dia_d[2,2,70]  R5[2,2,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,70]  R7[2,70]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,70]  R7[2,70]  -400
     camion_n_en_comuna_c_dia_d[2,2,70]  R9[2,70]  1
     camion_n_en_comuna_c_dia_d[2,2,71]  R2[2,71]  1
     camion_n_en_comuna_c_dia_d[2,2,71]  R5[2,2,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,71]  R7[2,71]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,71]  R7[2,71]  -400
     camion_n_en_comuna_c_dia_d[2,2,71]  R9[2,71]  1
     camion_n_en_comuna_c_dia_d[2,2,72]  R2[2,72]  1
     camion_n_en_comuna_c_dia_d[2,2,72]  R5[2,2,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,72]  R7[2,72]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,72]  R7[2,72]  -400
     camion_n_en_comuna_c_dia_d[2,2,72]  R9[2,72]  1
     camion_n_en_comuna_c_dia_d[2,2,73]  R2[2,73]  1
     camion_n_en_comuna_c_dia_d[2,2,73]  R5[2,2,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,73]  R7[2,73]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,73]  R7[2,73]  -400
     camion_n_en_comuna_c_dia_d[2,2,73]  R9[2,73]  1
     camion_n_en_comuna_c_dia_d[2,2,74]  R2[2,74]  1
     camion_n_en_comuna_c_dia_d[2,2,74]  R5[2,2,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,74]  R7[2,74]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,74]  R7[2,74]  -400
     camion_n_en_comuna_c_dia_d[2,2,74]  R9[2,74]  1
     camion_n_en_comuna_c_dia_d[2,2,75]  R2[2,75]  1
     camion_n_en_comuna_c_dia_d[2,2,75]  R5[2,2,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,75]  R7[2,75]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,75]  R7[2,75]  -400
     camion_n_en_comuna_c_dia_d[2,2,75]  R9[2,75]  1
     camion_n_en_comuna_c_dia_d[2,2,76]  R2[2,76]  1
     camion_n_en_comuna_c_dia_d[2,2,76]  R5[2,2,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,76]  R7[2,76]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,76]  R7[2,76]  -400
     camion_n_en_comuna_c_dia_d[2,2,76]  R9[2,76]  1
     camion_n_en_comuna_c_dia_d[2,2,77]  R2[2,77]  1
     camion_n_en_comuna_c_dia_d[2,2,77]  R5[2,2,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,77]  R7[2,77]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,77]  R7[2,77]  -400
     camion_n_en_comuna_c_dia_d[2,2,77]  R9[2,77]  1
     camion_n_en_comuna_c_dia_d[2,2,78]  R2[2,78]  1
     camion_n_en_comuna_c_dia_d[2,2,78]  R5[2,2,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,78]  R7[2,78]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,78]  R7[2,78]  -400
     camion_n_en_comuna_c_dia_d[2,2,78]  R9[2,78]  1
     camion_n_en_comuna_c_dia_d[2,2,79]  R2[2,79]  1
     camion_n_en_comuna_c_dia_d[2,2,79]  R5[2,2,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,79]  R7[2,79]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,79]  R7[2,79]  -400
     camion_n_en_comuna_c_dia_d[2,2,79]  R9[2,79]  1
     camion_n_en_comuna_c_dia_d[2,2,80]  R2[2,80]  1
     camion_n_en_comuna_c_dia_d[2,2,80]  R5[2,2,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,80]  R7[2,80]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,80]  R7[2,80]  -400
     camion_n_en_comuna_c_dia_d[2,2,80]  R9[2,80]  1
     camion_n_en_comuna_c_dia_d[2,2,81]  R2[2,81]  1
     camion_n_en_comuna_c_dia_d[2,2,81]  R5[2,2,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,81]  R7[2,81]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,81]  R7[2,81]  -400
     camion_n_en_comuna_c_dia_d[2,2,81]  R9[2,81]  1
     camion_n_en_comuna_c_dia_d[2,2,82]  R2[2,82]  1
     camion_n_en_comuna_c_dia_d[2,2,82]  R5[2,2,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,82]  R7[2,82]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,82]  R7[2,82]  -400
     camion_n_en_comuna_c_dia_d[2,2,82]  R9[2,82]  1
     camion_n_en_comuna_c_dia_d[2,2,83]  R2[2,83]  1
     camion_n_en_comuna_c_dia_d[2,2,83]  R5[2,2,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,83]  R7[2,83]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,83]  R7[2,83]  -400
     camion_n_en_comuna_c_dia_d[2,2,83]  R9[2,83]  1
     camion_n_en_comuna_c_dia_d[2,2,84]  R2[2,84]  1
     camion_n_en_comuna_c_dia_d[2,2,84]  R5[2,2,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,84]  R7[2,84]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,84]  R7[2,84]  -400
     camion_n_en_comuna_c_dia_d[2,2,84]  R9[2,84]  1
     camion_n_en_comuna_c_dia_d[2,2,85]  R2[2,85]  1
     camion_n_en_comuna_c_dia_d[2,2,85]  R5[2,2,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,85]  R7[2,85]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,85]  R7[2,85]  -400
     camion_n_en_comuna_c_dia_d[2,2,85]  R9[2,85]  1
     camion_n_en_comuna_c_dia_d[2,2,86]  R2[2,86]  1
     camion_n_en_comuna_c_dia_d[2,2,86]  R5[2,2,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,86]  R7[2,86]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,86]  R7[2,86]  -400
     camion_n_en_comuna_c_dia_d[2,2,86]  R9[2,86]  1
     camion_n_en_comuna_c_dia_d[2,2,87]  R2[2,87]  1
     camion_n_en_comuna_c_dia_d[2,2,87]  R5[2,2,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,87]  R7[2,87]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,87]  R7[2,87]  -400
     camion_n_en_comuna_c_dia_d[2,2,87]  R9[2,87]  1
     camion_n_en_comuna_c_dia_d[2,2,88]  R2[2,88]  1
     camion_n_en_comuna_c_dia_d[2,2,88]  R5[2,2,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,88]  R7[2,88]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,88]  R7[2,88]  -400
     camion_n_en_comuna_c_dia_d[2,2,88]  R9[2,88]  1
     camion_n_en_comuna_c_dia_d[2,2,89]  R2[2,89]  1
     camion_n_en_comuna_c_dia_d[2,2,89]  R5[2,2,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,89]  R7[2,89]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,89]  R7[2,89]  -400
     camion_n_en_comuna_c_dia_d[2,2,89]  R9[2,89]  1
     camion_n_en_comuna_c_dia_d[2,2,90]  R2[2,90]  1
     camion_n_en_comuna_c_dia_d[2,2,90]  R5[2,2,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,90]  R7[2,90]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,90]  R7[2,90]  -400
     camion_n_en_comuna_c_dia_d[2,2,90]  R9[2,90]  1
     camion_n_en_comuna_c_dia_d[2,2,91]  R2[2,91]  1
     camion_n_en_comuna_c_dia_d[2,2,91]  R5[2,2,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,91]  R7[2,91]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,91]  R7[2,91]  -400
     camion_n_en_comuna_c_dia_d[2,2,91]  R9[2,91]  1
     camion_n_en_comuna_c_dia_d[2,2,92]  R2[2,92]  1
     camion_n_en_comuna_c_dia_d[2,2,92]  R5[2,2,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,92]  R7[2,92]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,92]  R7[2,92]  -400
     camion_n_en_comuna_c_dia_d[2,2,92]  R9[2,92]  1
     camion_n_en_comuna_c_dia_d[2,2,93]  R2[2,93]  1
     camion_n_en_comuna_c_dia_d[2,2,93]  R5[2,2,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,93]  R7[2,93]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,93]  R7[2,93]  -400
     camion_n_en_comuna_c_dia_d[2,2,93]  R9[2,93]  1
     camion_n_en_comuna_c_dia_d[2,2,94]  R2[2,94]  1
     camion_n_en_comuna_c_dia_d[2,2,94]  R5[2,2,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,94]  R7[2,94]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,94]  R7[2,94]  -400
     camion_n_en_comuna_c_dia_d[2,2,94]  R9[2,94]  1
     camion_n_en_comuna_c_dia_d[2,2,95]  R2[2,95]  1
     camion_n_en_comuna_c_dia_d[2,2,95]  R5[2,2,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,95]  R7[2,95]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,95]  R7[2,95]  -400
     camion_n_en_comuna_c_dia_d[2,2,95]  R9[2,95]  1
     camion_n_en_comuna_c_dia_d[2,2,96]  R2[2,96]  1
     camion_n_en_comuna_c_dia_d[2,2,96]  R5[2,2,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,96]  R7[2,96]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,96]  R7[2,96]  -400
     camion_n_en_comuna_c_dia_d[2,2,96]  R9[2,96]  1
     camion_n_en_comuna_c_dia_d[2,2,97]  R2[2,97]  1
     camion_n_en_comuna_c_dia_d[2,2,97]  R5[2,2,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,97]  R7[2,97]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,97]  R7[2,97]  -400
     camion_n_en_comuna_c_dia_d[2,2,97]  R9[2,97]  1
     camion_n_en_comuna_c_dia_d[2,2,98]  R2[2,98]  1
     camion_n_en_comuna_c_dia_d[2,2,98]  R5[2,2,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,98]  R7[2,98]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,98]  R7[2,98]  -400
     camion_n_en_comuna_c_dia_d[2,2,98]  R9[2,98]  1
     camion_n_en_comuna_c_dia_d[2,2,99]  R2[2,99]  1
     camion_n_en_comuna_c_dia_d[2,2,99]  R5[2,2,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,2,99]  R7[2,99]  -1000
+    camion_n_en_comuna_c_dia_d[2,2,99]  R7[2,99]  -400
     camion_n_en_comuna_c_dia_d[2,2,99]  R9[2,99]  1
     camion_n_en_comuna_c_dia_d[2,3,0]  R2[2,0]   1
     camion_n_en_comuna_c_dia_d[2,3,0]  R5[2,3,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,0]  R7[3,0]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,0]  R7[3,0]   -400
     camion_n_en_comuna_c_dia_d[2,3,0]  R9[3,0]   1
     camion_n_en_comuna_c_dia_d[2,3,1]  R2[2,1]   1
     camion_n_en_comuna_c_dia_d[2,3,1]  R5[2,3,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,1]  R7[3,1]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,1]  R7[3,1]   -400
     camion_n_en_comuna_c_dia_d[2,3,1]  R9[3,1]   1
     camion_n_en_comuna_c_dia_d[2,3,2]  R2[2,2]   1
     camion_n_en_comuna_c_dia_d[2,3,2]  R5[2,3,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,2]  R7[3,2]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,2]  R7[3,2]   -400
     camion_n_en_comuna_c_dia_d[2,3,2]  R9[3,2]   1
     camion_n_en_comuna_c_dia_d[2,3,3]  R2[2,3]   1
     camion_n_en_comuna_c_dia_d[2,3,3]  R5[2,3,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,3]  R7[3,3]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,3]  R7[3,3]   -400
     camion_n_en_comuna_c_dia_d[2,3,3]  R9[3,3]   1
     camion_n_en_comuna_c_dia_d[2,3,4]  R2[2,4]   1
     camion_n_en_comuna_c_dia_d[2,3,4]  R5[2,3,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,4]  R7[3,4]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,4]  R7[3,4]   -400
     camion_n_en_comuna_c_dia_d[2,3,4]  R9[3,4]   1
     camion_n_en_comuna_c_dia_d[2,3,5]  R2[2,5]   1
     camion_n_en_comuna_c_dia_d[2,3,5]  R5[2,3,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,5]  R7[3,5]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,5]  R7[3,5]   -400
     camion_n_en_comuna_c_dia_d[2,3,5]  R9[3,5]   1
     camion_n_en_comuna_c_dia_d[2,3,6]  R2[2,6]   1
     camion_n_en_comuna_c_dia_d[2,3,6]  R5[2,3,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,6]  R7[3,6]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,6]  R7[3,6]   -400
     camion_n_en_comuna_c_dia_d[2,3,6]  R9[3,6]   1
     camion_n_en_comuna_c_dia_d[2,3,7]  R2[2,7]   1
     camion_n_en_comuna_c_dia_d[2,3,7]  R5[2,3,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,7]  R7[3,7]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,7]  R7[3,7]   -400
     camion_n_en_comuna_c_dia_d[2,3,7]  R9[3,7]   1
     camion_n_en_comuna_c_dia_d[2,3,8]  R2[2,8]   1
     camion_n_en_comuna_c_dia_d[2,3,8]  R5[2,3,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,8]  R7[3,8]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,8]  R7[3,8]   -400
     camion_n_en_comuna_c_dia_d[2,3,8]  R9[3,8]   1
     camion_n_en_comuna_c_dia_d[2,3,9]  R2[2,9]   1
     camion_n_en_comuna_c_dia_d[2,3,9]  R5[2,3,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,9]  R7[3,9]   -1000
+    camion_n_en_comuna_c_dia_d[2,3,9]  R7[3,9]   -400
     camion_n_en_comuna_c_dia_d[2,3,9]  R9[3,9]   1
     camion_n_en_comuna_c_dia_d[2,3,10]  R2[2,10]  1
     camion_n_en_comuna_c_dia_d[2,3,10]  R5[2,3,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,10]  R7[3,10]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,10]  R7[3,10]  -400
     camion_n_en_comuna_c_dia_d[2,3,10]  R9[3,10]  1
     camion_n_en_comuna_c_dia_d[2,3,11]  R2[2,11]  1
     camion_n_en_comuna_c_dia_d[2,3,11]  R5[2,3,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,11]  R7[3,11]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,11]  R7[3,11]  -400
     camion_n_en_comuna_c_dia_d[2,3,11]  R9[3,11]  1
     camion_n_en_comuna_c_dia_d[2,3,12]  R2[2,12]  1
     camion_n_en_comuna_c_dia_d[2,3,12]  R5[2,3,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,12]  R7[3,12]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,12]  R7[3,12]  -400
     camion_n_en_comuna_c_dia_d[2,3,12]  R9[3,12]  1
     camion_n_en_comuna_c_dia_d[2,3,13]  R2[2,13]  1
     camion_n_en_comuna_c_dia_d[2,3,13]  R5[2,3,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,13]  R7[3,13]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,13]  R7[3,13]  -400
     camion_n_en_comuna_c_dia_d[2,3,13]  R9[3,13]  1
     camion_n_en_comuna_c_dia_d[2,3,14]  R2[2,14]  1
     camion_n_en_comuna_c_dia_d[2,3,14]  R5[2,3,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,14]  R7[3,14]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,14]  R7[3,14]  -400
     camion_n_en_comuna_c_dia_d[2,3,14]  R9[3,14]  1
     camion_n_en_comuna_c_dia_d[2,3,15]  R2[2,15]  1
     camion_n_en_comuna_c_dia_d[2,3,15]  R5[2,3,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,15]  R7[3,15]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,15]  R7[3,15]  -400
     camion_n_en_comuna_c_dia_d[2,3,15]  R9[3,15]  1
     camion_n_en_comuna_c_dia_d[2,3,16]  R2[2,16]  1
     camion_n_en_comuna_c_dia_d[2,3,16]  R5[2,3,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,16]  R7[3,16]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,16]  R7[3,16]  -400
     camion_n_en_comuna_c_dia_d[2,3,16]  R9[3,16]  1
     camion_n_en_comuna_c_dia_d[2,3,17]  R2[2,17]  1
     camion_n_en_comuna_c_dia_d[2,3,17]  R5[2,3,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,17]  R7[3,17]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,17]  R7[3,17]  -400
     camion_n_en_comuna_c_dia_d[2,3,17]  R9[3,17]  1
     camion_n_en_comuna_c_dia_d[2,3,18]  R2[2,18]  1
     camion_n_en_comuna_c_dia_d[2,3,18]  R5[2,3,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,18]  R7[3,18]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,18]  R7[3,18]  -400
     camion_n_en_comuna_c_dia_d[2,3,18]  R9[3,18]  1
     camion_n_en_comuna_c_dia_d[2,3,19]  R2[2,19]  1
     camion_n_en_comuna_c_dia_d[2,3,19]  R5[2,3,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,19]  R7[3,19]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,19]  R7[3,19]  -400
     camion_n_en_comuna_c_dia_d[2,3,19]  R9[3,19]  1
     camion_n_en_comuna_c_dia_d[2,3,20]  R2[2,20]  1
     camion_n_en_comuna_c_dia_d[2,3,20]  R5[2,3,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,20]  R7[3,20]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,20]  R7[3,20]  -400
     camion_n_en_comuna_c_dia_d[2,3,20]  R9[3,20]  1
     camion_n_en_comuna_c_dia_d[2,3,21]  R2[2,21]  1
     camion_n_en_comuna_c_dia_d[2,3,21]  R5[2,3,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,21]  R7[3,21]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,21]  R7[3,21]  -400
     camion_n_en_comuna_c_dia_d[2,3,21]  R9[3,21]  1
     camion_n_en_comuna_c_dia_d[2,3,22]  R2[2,22]  1
     camion_n_en_comuna_c_dia_d[2,3,22]  R5[2,3,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,22]  R7[3,22]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,22]  R7[3,22]  -400
     camion_n_en_comuna_c_dia_d[2,3,22]  R9[3,22]  1
     camion_n_en_comuna_c_dia_d[2,3,23]  R2[2,23]  1
     camion_n_en_comuna_c_dia_d[2,3,23]  R5[2,3,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,23]  R7[3,23]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,23]  R7[3,23]  -400
     camion_n_en_comuna_c_dia_d[2,3,23]  R9[3,23]  1
     camion_n_en_comuna_c_dia_d[2,3,24]  R2[2,24]  1
     camion_n_en_comuna_c_dia_d[2,3,24]  R5[2,3,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,24]  R7[3,24]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,24]  R7[3,24]  -400
     camion_n_en_comuna_c_dia_d[2,3,24]  R9[3,24]  1
     camion_n_en_comuna_c_dia_d[2,3,25]  R2[2,25]  1
     camion_n_en_comuna_c_dia_d[2,3,25]  R5[2,3,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,25]  R7[3,25]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,25]  R7[3,25]  -400
     camion_n_en_comuna_c_dia_d[2,3,25]  R9[3,25]  1
     camion_n_en_comuna_c_dia_d[2,3,26]  R2[2,26]  1
     camion_n_en_comuna_c_dia_d[2,3,26]  R5[2,3,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,26]  R7[3,26]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,26]  R7[3,26]  -400
     camion_n_en_comuna_c_dia_d[2,3,26]  R9[3,26]  1
     camion_n_en_comuna_c_dia_d[2,3,27]  R2[2,27]  1
     camion_n_en_comuna_c_dia_d[2,3,27]  R5[2,3,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,27]  R7[3,27]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,27]  R7[3,27]  -400
     camion_n_en_comuna_c_dia_d[2,3,27]  R9[3,27]  1
     camion_n_en_comuna_c_dia_d[2,3,28]  R2[2,28]  1
     camion_n_en_comuna_c_dia_d[2,3,28]  R5[2,3,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,28]  R7[3,28]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,28]  R7[3,28]  -400
     camion_n_en_comuna_c_dia_d[2,3,28]  R9[3,28]  1
     camion_n_en_comuna_c_dia_d[2,3,29]  R2[2,29]  1
     camion_n_en_comuna_c_dia_d[2,3,29]  R5[2,3,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,29]  R7[3,29]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,29]  R7[3,29]  -400
     camion_n_en_comuna_c_dia_d[2,3,29]  R9[3,29]  1
     camion_n_en_comuna_c_dia_d[2,3,30]  R2[2,30]  1
     camion_n_en_comuna_c_dia_d[2,3,30]  R5[2,3,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,30]  R7[3,30]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,30]  R7[3,30]  -400
     camion_n_en_comuna_c_dia_d[2,3,30]  R9[3,30]  1
     camion_n_en_comuna_c_dia_d[2,3,31]  R2[2,31]  1
     camion_n_en_comuna_c_dia_d[2,3,31]  R5[2,3,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,31]  R7[3,31]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,31]  R7[3,31]  -400
     camion_n_en_comuna_c_dia_d[2,3,31]  R9[3,31]  1
     camion_n_en_comuna_c_dia_d[2,3,32]  R2[2,32]  1
     camion_n_en_comuna_c_dia_d[2,3,32]  R5[2,3,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,32]  R7[3,32]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,32]  R7[3,32]  -400
     camion_n_en_comuna_c_dia_d[2,3,32]  R9[3,32]  1
     camion_n_en_comuna_c_dia_d[2,3,33]  R2[2,33]  1
     camion_n_en_comuna_c_dia_d[2,3,33]  R5[2,3,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,33]  R7[3,33]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,33]  R7[3,33]  -400
     camion_n_en_comuna_c_dia_d[2,3,33]  R9[3,33]  1
     camion_n_en_comuna_c_dia_d[2,3,34]  R2[2,34]  1
     camion_n_en_comuna_c_dia_d[2,3,34]  R5[2,3,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,34]  R7[3,34]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,34]  R7[3,34]  -400
     camion_n_en_comuna_c_dia_d[2,3,34]  R9[3,34]  1
     camion_n_en_comuna_c_dia_d[2,3,35]  R2[2,35]  1
     camion_n_en_comuna_c_dia_d[2,3,35]  R5[2,3,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,35]  R7[3,35]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,35]  R7[3,35]  -400
     camion_n_en_comuna_c_dia_d[2,3,35]  R9[3,35]  1
     camion_n_en_comuna_c_dia_d[2,3,36]  R2[2,36]  1
     camion_n_en_comuna_c_dia_d[2,3,36]  R5[2,3,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,36]  R7[3,36]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,36]  R7[3,36]  -400
     camion_n_en_comuna_c_dia_d[2,3,36]  R9[3,36]  1
     camion_n_en_comuna_c_dia_d[2,3,37]  R2[2,37]  1
     camion_n_en_comuna_c_dia_d[2,3,37]  R5[2,3,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,37]  R7[3,37]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,37]  R7[3,37]  -400
     camion_n_en_comuna_c_dia_d[2,3,37]  R9[3,37]  1
     camion_n_en_comuna_c_dia_d[2,3,38]  R2[2,38]  1
     camion_n_en_comuna_c_dia_d[2,3,38]  R5[2,3,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,38]  R7[3,38]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,38]  R7[3,38]  -400
     camion_n_en_comuna_c_dia_d[2,3,38]  R9[3,38]  1
     camion_n_en_comuna_c_dia_d[2,3,39]  R2[2,39]  1
     camion_n_en_comuna_c_dia_d[2,3,39]  R5[2,3,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,39]  R7[3,39]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,39]  R7[3,39]  -400
     camion_n_en_comuna_c_dia_d[2,3,39]  R9[3,39]  1
     camion_n_en_comuna_c_dia_d[2,3,40]  R2[2,40]  1
     camion_n_en_comuna_c_dia_d[2,3,40]  R5[2,3,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,40]  R7[3,40]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,40]  R7[3,40]  -400
     camion_n_en_comuna_c_dia_d[2,3,40]  R9[3,40]  1
     camion_n_en_comuna_c_dia_d[2,3,41]  R2[2,41]  1
     camion_n_en_comuna_c_dia_d[2,3,41]  R5[2,3,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,41]  R7[3,41]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,41]  R7[3,41]  -400
     camion_n_en_comuna_c_dia_d[2,3,41]  R9[3,41]  1
     camion_n_en_comuna_c_dia_d[2,3,42]  R2[2,42]  1
     camion_n_en_comuna_c_dia_d[2,3,42]  R5[2,3,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,42]  R7[3,42]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,42]  R7[3,42]  -400
     camion_n_en_comuna_c_dia_d[2,3,42]  R9[3,42]  1
     camion_n_en_comuna_c_dia_d[2,3,43]  R2[2,43]  1
     camion_n_en_comuna_c_dia_d[2,3,43]  R5[2,3,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,43]  R7[3,43]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,43]  R7[3,43]  -400
     camion_n_en_comuna_c_dia_d[2,3,43]  R9[3,43]  1
     camion_n_en_comuna_c_dia_d[2,3,44]  R2[2,44]  1
     camion_n_en_comuna_c_dia_d[2,3,44]  R5[2,3,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,44]  R7[3,44]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,44]  R7[3,44]  -400
     camion_n_en_comuna_c_dia_d[2,3,44]  R9[3,44]  1
     camion_n_en_comuna_c_dia_d[2,3,45]  R2[2,45]  1
     camion_n_en_comuna_c_dia_d[2,3,45]  R5[2,3,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,45]  R7[3,45]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,45]  R7[3,45]  -400
     camion_n_en_comuna_c_dia_d[2,3,45]  R9[3,45]  1
     camion_n_en_comuna_c_dia_d[2,3,46]  R2[2,46]  1
     camion_n_en_comuna_c_dia_d[2,3,46]  R5[2,3,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,46]  R7[3,46]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,46]  R7[3,46]  -400
     camion_n_en_comuna_c_dia_d[2,3,46]  R9[3,46]  1
     camion_n_en_comuna_c_dia_d[2,3,47]  R2[2,47]  1
     camion_n_en_comuna_c_dia_d[2,3,47]  R5[2,3,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,47]  R7[3,47]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,47]  R7[3,47]  -400
     camion_n_en_comuna_c_dia_d[2,3,47]  R9[3,47]  1
     camion_n_en_comuna_c_dia_d[2,3,48]  R2[2,48]  1
     camion_n_en_comuna_c_dia_d[2,3,48]  R5[2,3,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,48]  R7[3,48]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,48]  R7[3,48]  -400
     camion_n_en_comuna_c_dia_d[2,3,48]  R9[3,48]  1
     camion_n_en_comuna_c_dia_d[2,3,49]  R2[2,49]  1
     camion_n_en_comuna_c_dia_d[2,3,49]  R5[2,3,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,49]  R7[3,49]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,49]  R7[3,49]  -400
     camion_n_en_comuna_c_dia_d[2,3,49]  R9[3,49]  1
     camion_n_en_comuna_c_dia_d[2,3,50]  R2[2,50]  1
     camion_n_en_comuna_c_dia_d[2,3,50]  R5[2,3,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,50]  R7[3,50]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,50]  R7[3,50]  -400
     camion_n_en_comuna_c_dia_d[2,3,50]  R9[3,50]  1
     camion_n_en_comuna_c_dia_d[2,3,51]  R2[2,51]  1
     camion_n_en_comuna_c_dia_d[2,3,51]  R5[2,3,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,51]  R7[3,51]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,51]  R7[3,51]  -400
     camion_n_en_comuna_c_dia_d[2,3,51]  R9[3,51]  1
     camion_n_en_comuna_c_dia_d[2,3,52]  R2[2,52]  1
     camion_n_en_comuna_c_dia_d[2,3,52]  R5[2,3,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,52]  R7[3,52]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,52]  R7[3,52]  -400
     camion_n_en_comuna_c_dia_d[2,3,52]  R9[3,52]  1
     camion_n_en_comuna_c_dia_d[2,3,53]  R2[2,53]  1
     camion_n_en_comuna_c_dia_d[2,3,53]  R5[2,3,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,53]  R7[3,53]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,53]  R7[3,53]  -400
     camion_n_en_comuna_c_dia_d[2,3,53]  R9[3,53]  1
     camion_n_en_comuna_c_dia_d[2,3,54]  R2[2,54]  1
     camion_n_en_comuna_c_dia_d[2,3,54]  R5[2,3,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,54]  R7[3,54]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,54]  R7[3,54]  -400
     camion_n_en_comuna_c_dia_d[2,3,54]  R9[3,54]  1
     camion_n_en_comuna_c_dia_d[2,3,55]  R2[2,55]  1
     camion_n_en_comuna_c_dia_d[2,3,55]  R5[2,3,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,55]  R7[3,55]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,55]  R7[3,55]  -400
     camion_n_en_comuna_c_dia_d[2,3,55]  R9[3,55]  1
     camion_n_en_comuna_c_dia_d[2,3,56]  R2[2,56]  1
     camion_n_en_comuna_c_dia_d[2,3,56]  R5[2,3,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,56]  R7[3,56]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,56]  R7[3,56]  -400
     camion_n_en_comuna_c_dia_d[2,3,56]  R9[3,56]  1
     camion_n_en_comuna_c_dia_d[2,3,57]  R2[2,57]  1
     camion_n_en_comuna_c_dia_d[2,3,57]  R5[2,3,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,57]  R7[3,57]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,57]  R7[3,57]  -400
     camion_n_en_comuna_c_dia_d[2,3,57]  R9[3,57]  1
     camion_n_en_comuna_c_dia_d[2,3,58]  R2[2,58]  1
     camion_n_en_comuna_c_dia_d[2,3,58]  R5[2,3,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,58]  R7[3,58]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,58]  R7[3,58]  -400
     camion_n_en_comuna_c_dia_d[2,3,58]  R9[3,58]  1
     camion_n_en_comuna_c_dia_d[2,3,59]  R2[2,59]  1
     camion_n_en_comuna_c_dia_d[2,3,59]  R5[2,3,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,59]  R7[3,59]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,59]  R7[3,59]  -400
     camion_n_en_comuna_c_dia_d[2,3,59]  R9[3,59]  1
     camion_n_en_comuna_c_dia_d[2,3,60]  R2[2,60]  1
     camion_n_en_comuna_c_dia_d[2,3,60]  R5[2,3,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,60]  R7[3,60]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,60]  R7[3,60]  -400
     camion_n_en_comuna_c_dia_d[2,3,60]  R9[3,60]  1
     camion_n_en_comuna_c_dia_d[2,3,61]  R2[2,61]  1
     camion_n_en_comuna_c_dia_d[2,3,61]  R5[2,3,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,61]  R7[3,61]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,61]  R7[3,61]  -400
     camion_n_en_comuna_c_dia_d[2,3,61]  R9[3,61]  1
     camion_n_en_comuna_c_dia_d[2,3,62]  R2[2,62]  1
     camion_n_en_comuna_c_dia_d[2,3,62]  R5[2,3,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,62]  R7[3,62]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,62]  R7[3,62]  -400
     camion_n_en_comuna_c_dia_d[2,3,62]  R9[3,62]  1
     camion_n_en_comuna_c_dia_d[2,3,63]  R2[2,63]  1
     camion_n_en_comuna_c_dia_d[2,3,63]  R5[2,3,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,63]  R7[3,63]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,63]  R7[3,63]  -400
     camion_n_en_comuna_c_dia_d[2,3,63]  R9[3,63]  1
     camion_n_en_comuna_c_dia_d[2,3,64]  R2[2,64]  1
     camion_n_en_comuna_c_dia_d[2,3,64]  R5[2,3,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,64]  R7[3,64]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,64]  R7[3,64]  -400
     camion_n_en_comuna_c_dia_d[2,3,64]  R9[3,64]  1
     camion_n_en_comuna_c_dia_d[2,3,65]  R2[2,65]  1
     camion_n_en_comuna_c_dia_d[2,3,65]  R5[2,3,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,65]  R7[3,65]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,65]  R7[3,65]  -400
     camion_n_en_comuna_c_dia_d[2,3,65]  R9[3,65]  1
     camion_n_en_comuna_c_dia_d[2,3,66]  R2[2,66]  1
     camion_n_en_comuna_c_dia_d[2,3,66]  R5[2,3,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,66]  R7[3,66]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,66]  R7[3,66]  -400
     camion_n_en_comuna_c_dia_d[2,3,66]  R9[3,66]  1
     camion_n_en_comuna_c_dia_d[2,3,67]  R2[2,67]  1
     camion_n_en_comuna_c_dia_d[2,3,67]  R5[2,3,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,67]  R7[3,67]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,67]  R7[3,67]  -400
     camion_n_en_comuna_c_dia_d[2,3,67]  R9[3,67]  1
     camion_n_en_comuna_c_dia_d[2,3,68]  R2[2,68]  1
     camion_n_en_comuna_c_dia_d[2,3,68]  R5[2,3,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,68]  R7[3,68]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,68]  R7[3,68]  -400
     camion_n_en_comuna_c_dia_d[2,3,68]  R9[3,68]  1
     camion_n_en_comuna_c_dia_d[2,3,69]  R2[2,69]  1
     camion_n_en_comuna_c_dia_d[2,3,69]  R5[2,3,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,69]  R7[3,69]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,69]  R7[3,69]  -400
     camion_n_en_comuna_c_dia_d[2,3,69]  R9[3,69]  1
     camion_n_en_comuna_c_dia_d[2,3,70]  R2[2,70]  1
     camion_n_en_comuna_c_dia_d[2,3,70]  R5[2,3,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,70]  R7[3,70]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,70]  R7[3,70]  -400
     camion_n_en_comuna_c_dia_d[2,3,70]  R9[3,70]  1
     camion_n_en_comuna_c_dia_d[2,3,71]  R2[2,71]  1
     camion_n_en_comuna_c_dia_d[2,3,71]  R5[2,3,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,71]  R7[3,71]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,71]  R7[3,71]  -400
     camion_n_en_comuna_c_dia_d[2,3,71]  R9[3,71]  1
     camion_n_en_comuna_c_dia_d[2,3,72]  R2[2,72]  1
     camion_n_en_comuna_c_dia_d[2,3,72]  R5[2,3,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,72]  R7[3,72]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,72]  R7[3,72]  -400
     camion_n_en_comuna_c_dia_d[2,3,72]  R9[3,72]  1
     camion_n_en_comuna_c_dia_d[2,3,73]  R2[2,73]  1
     camion_n_en_comuna_c_dia_d[2,3,73]  R5[2,3,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,73]  R7[3,73]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,73]  R7[3,73]  -400
     camion_n_en_comuna_c_dia_d[2,3,73]  R9[3,73]  1
     camion_n_en_comuna_c_dia_d[2,3,74]  R2[2,74]  1
     camion_n_en_comuna_c_dia_d[2,3,74]  R5[2,3,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,74]  R7[3,74]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,74]  R7[3,74]  -400
     camion_n_en_comuna_c_dia_d[2,3,74]  R9[3,74]  1
     camion_n_en_comuna_c_dia_d[2,3,75]  R2[2,75]  1
     camion_n_en_comuna_c_dia_d[2,3,75]  R5[2,3,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,75]  R7[3,75]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,75]  R7[3,75]  -400
     camion_n_en_comuna_c_dia_d[2,3,75]  R9[3,75]  1
     camion_n_en_comuna_c_dia_d[2,3,76]  R2[2,76]  1
     camion_n_en_comuna_c_dia_d[2,3,76]  R5[2,3,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,76]  R7[3,76]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,76]  R7[3,76]  -400
     camion_n_en_comuna_c_dia_d[2,3,76]  R9[3,76]  1
     camion_n_en_comuna_c_dia_d[2,3,77]  R2[2,77]  1
     camion_n_en_comuna_c_dia_d[2,3,77]  R5[2,3,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,77]  R7[3,77]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,77]  R7[3,77]  -400
     camion_n_en_comuna_c_dia_d[2,3,77]  R9[3,77]  1
     camion_n_en_comuna_c_dia_d[2,3,78]  R2[2,78]  1
     camion_n_en_comuna_c_dia_d[2,3,78]  R5[2,3,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,78]  R7[3,78]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,78]  R7[3,78]  -400
     camion_n_en_comuna_c_dia_d[2,3,78]  R9[3,78]  1
     camion_n_en_comuna_c_dia_d[2,3,79]  R2[2,79]  1
     camion_n_en_comuna_c_dia_d[2,3,79]  R5[2,3,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,79]  R7[3,79]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,79]  R7[3,79]  -400
     camion_n_en_comuna_c_dia_d[2,3,79]  R9[3,79]  1
     camion_n_en_comuna_c_dia_d[2,3,80]  R2[2,80]  1
     camion_n_en_comuna_c_dia_d[2,3,80]  R5[2,3,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,80]  R7[3,80]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,80]  R7[3,80]  -400
     camion_n_en_comuna_c_dia_d[2,3,80]  R9[3,80]  1
     camion_n_en_comuna_c_dia_d[2,3,81]  R2[2,81]  1
     camion_n_en_comuna_c_dia_d[2,3,81]  R5[2,3,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,81]  R7[3,81]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,81]  R7[3,81]  -400
     camion_n_en_comuna_c_dia_d[2,3,81]  R9[3,81]  1
     camion_n_en_comuna_c_dia_d[2,3,82]  R2[2,82]  1
     camion_n_en_comuna_c_dia_d[2,3,82]  R5[2,3,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,82]  R7[3,82]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,82]  R7[3,82]  -400
     camion_n_en_comuna_c_dia_d[2,3,82]  R9[3,82]  1
     camion_n_en_comuna_c_dia_d[2,3,83]  R2[2,83]  1
     camion_n_en_comuna_c_dia_d[2,3,83]  R5[2,3,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,83]  R7[3,83]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,83]  R7[3,83]  -400
     camion_n_en_comuna_c_dia_d[2,3,83]  R9[3,83]  1
     camion_n_en_comuna_c_dia_d[2,3,84]  R2[2,84]  1
     camion_n_en_comuna_c_dia_d[2,3,84]  R5[2,3,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,84]  R7[3,84]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,84]  R7[3,84]  -400
     camion_n_en_comuna_c_dia_d[2,3,84]  R9[3,84]  1
     camion_n_en_comuna_c_dia_d[2,3,85]  R2[2,85]  1
     camion_n_en_comuna_c_dia_d[2,3,85]  R5[2,3,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,85]  R7[3,85]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,85]  R7[3,85]  -400
     camion_n_en_comuna_c_dia_d[2,3,85]  R9[3,85]  1
     camion_n_en_comuna_c_dia_d[2,3,86]  R2[2,86]  1
     camion_n_en_comuna_c_dia_d[2,3,86]  R5[2,3,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,86]  R7[3,86]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,86]  R7[3,86]  -400
     camion_n_en_comuna_c_dia_d[2,3,86]  R9[3,86]  1
     camion_n_en_comuna_c_dia_d[2,3,87]  R2[2,87]  1
     camion_n_en_comuna_c_dia_d[2,3,87]  R5[2,3,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,87]  R7[3,87]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,87]  R7[3,87]  -400
     camion_n_en_comuna_c_dia_d[2,3,87]  R9[3,87]  1
     camion_n_en_comuna_c_dia_d[2,3,88]  R2[2,88]  1
     camion_n_en_comuna_c_dia_d[2,3,88]  R5[2,3,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,88]  R7[3,88]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,88]  R7[3,88]  -400
     camion_n_en_comuna_c_dia_d[2,3,88]  R9[3,88]  1
     camion_n_en_comuna_c_dia_d[2,3,89]  R2[2,89]  1
     camion_n_en_comuna_c_dia_d[2,3,89]  R5[2,3,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,89]  R7[3,89]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,89]  R7[3,89]  -400
     camion_n_en_comuna_c_dia_d[2,3,89]  R9[3,89]  1
     camion_n_en_comuna_c_dia_d[2,3,90]  R2[2,90]  1
     camion_n_en_comuna_c_dia_d[2,3,90]  R5[2,3,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,90]  R7[3,90]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,90]  R7[3,90]  -400
     camion_n_en_comuna_c_dia_d[2,3,90]  R9[3,90]  1
     camion_n_en_comuna_c_dia_d[2,3,91]  R2[2,91]  1
     camion_n_en_comuna_c_dia_d[2,3,91]  R5[2,3,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,91]  R7[3,91]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,91]  R7[3,91]  -400
     camion_n_en_comuna_c_dia_d[2,3,91]  R9[3,91]  1
     camion_n_en_comuna_c_dia_d[2,3,92]  R2[2,92]  1
     camion_n_en_comuna_c_dia_d[2,3,92]  R5[2,3,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,92]  R7[3,92]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,92]  R7[3,92]  -400
     camion_n_en_comuna_c_dia_d[2,3,92]  R9[3,92]  1
     camion_n_en_comuna_c_dia_d[2,3,93]  R2[2,93]  1
     camion_n_en_comuna_c_dia_d[2,3,93]  R5[2,3,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,93]  R7[3,93]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,93]  R7[3,93]  -400
     camion_n_en_comuna_c_dia_d[2,3,93]  R9[3,93]  1
     camion_n_en_comuna_c_dia_d[2,3,94]  R2[2,94]  1
     camion_n_en_comuna_c_dia_d[2,3,94]  R5[2,3,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,94]  R7[3,94]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,94]  R7[3,94]  -400
     camion_n_en_comuna_c_dia_d[2,3,94]  R9[3,94]  1
     camion_n_en_comuna_c_dia_d[2,3,95]  R2[2,95]  1
     camion_n_en_comuna_c_dia_d[2,3,95]  R5[2,3,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,95]  R7[3,95]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,95]  R7[3,95]  -400
     camion_n_en_comuna_c_dia_d[2,3,95]  R9[3,95]  1
     camion_n_en_comuna_c_dia_d[2,3,96]  R2[2,96]  1
     camion_n_en_comuna_c_dia_d[2,3,96]  R5[2,3,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,96]  R7[3,96]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,96]  R7[3,96]  -400
     camion_n_en_comuna_c_dia_d[2,3,96]  R9[3,96]  1
     camion_n_en_comuna_c_dia_d[2,3,97]  R2[2,97]  1
     camion_n_en_comuna_c_dia_d[2,3,97]  R5[2,3,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,97]  R7[3,97]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,97]  R7[3,97]  -400
     camion_n_en_comuna_c_dia_d[2,3,97]  R9[3,97]  1
     camion_n_en_comuna_c_dia_d[2,3,98]  R2[2,98]  1
     camion_n_en_comuna_c_dia_d[2,3,98]  R5[2,3,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,98]  R7[3,98]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,98]  R7[3,98]  -400
     camion_n_en_comuna_c_dia_d[2,3,98]  R9[3,98]  1
     camion_n_en_comuna_c_dia_d[2,3,99]  R2[2,99]  1
     camion_n_en_comuna_c_dia_d[2,3,99]  R5[2,3,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[2,3,99]  R7[3,99]  -1000
+    camion_n_en_comuna_c_dia_d[2,3,99]  R7[3,99]  -400
     camion_n_en_comuna_c_dia_d[2,3,99]  R9[3,99]  1
     camion_n_en_comuna_c_dia_d[3,0,0]  R2[3,0]   1
     camion_n_en_comuna_c_dia_d[3,0,0]  R5[3,0,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,0]  R7[0,0]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,0]  R7[0,0]   -400
     camion_n_en_comuna_c_dia_d[3,0,0]  R9[0,0]   1
     camion_n_en_comuna_c_dia_d[3,0,1]  R2[3,1]   1
     camion_n_en_comuna_c_dia_d[3,0,1]  R5[3,0,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,1]  R7[0,1]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,1]  R7[0,1]   -400
     camion_n_en_comuna_c_dia_d[3,0,1]  R9[0,1]   1
     camion_n_en_comuna_c_dia_d[3,0,2]  R2[3,2]   1
     camion_n_en_comuna_c_dia_d[3,0,2]  R5[3,0,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,2]  R7[0,2]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,2]  R7[0,2]   -400
     camion_n_en_comuna_c_dia_d[3,0,2]  R9[0,2]   1
     camion_n_en_comuna_c_dia_d[3,0,3]  R2[3,3]   1
     camion_n_en_comuna_c_dia_d[3,0,3]  R5[3,0,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,3]  R7[0,3]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,3]  R7[0,3]   -400
     camion_n_en_comuna_c_dia_d[3,0,3]  R9[0,3]   1
     camion_n_en_comuna_c_dia_d[3,0,4]  R2[3,4]   1
     camion_n_en_comuna_c_dia_d[3,0,4]  R5[3,0,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,4]  R7[0,4]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,4]  R7[0,4]   -400
     camion_n_en_comuna_c_dia_d[3,0,4]  R9[0,4]   1
     camion_n_en_comuna_c_dia_d[3,0,5]  R2[3,5]   1
     camion_n_en_comuna_c_dia_d[3,0,5]  R5[3,0,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,5]  R7[0,5]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,5]  R7[0,5]   -400
     camion_n_en_comuna_c_dia_d[3,0,5]  R9[0,5]   1
     camion_n_en_comuna_c_dia_d[3,0,6]  R2[3,6]   1
     camion_n_en_comuna_c_dia_d[3,0,6]  R5[3,0,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,6]  R7[0,6]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,6]  R7[0,6]   -400
     camion_n_en_comuna_c_dia_d[3,0,6]  R9[0,6]   1
     camion_n_en_comuna_c_dia_d[3,0,7]  R2[3,7]   1
     camion_n_en_comuna_c_dia_d[3,0,7]  R5[3,0,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,7]  R7[0,7]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,7]  R7[0,7]   -400
     camion_n_en_comuna_c_dia_d[3,0,7]  R9[0,7]   1
     camion_n_en_comuna_c_dia_d[3,0,8]  R2[3,8]   1
     camion_n_en_comuna_c_dia_d[3,0,8]  R5[3,0,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,8]  R7[0,8]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,8]  R7[0,8]   -400
     camion_n_en_comuna_c_dia_d[3,0,8]  R9[0,8]   1
     camion_n_en_comuna_c_dia_d[3,0,9]  R2[3,9]   1
     camion_n_en_comuna_c_dia_d[3,0,9]  R5[3,0,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,9]  R7[0,9]   -1000
+    camion_n_en_comuna_c_dia_d[3,0,9]  R7[0,9]   -400
     camion_n_en_comuna_c_dia_d[3,0,9]  R9[0,9]   1
     camion_n_en_comuna_c_dia_d[3,0,10]  R2[3,10]  1
     camion_n_en_comuna_c_dia_d[3,0,10]  R5[3,0,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,10]  R7[0,10]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,10]  R7[0,10]  -400
     camion_n_en_comuna_c_dia_d[3,0,10]  R9[0,10]  1
     camion_n_en_comuna_c_dia_d[3,0,11]  R2[3,11]  1
     camion_n_en_comuna_c_dia_d[3,0,11]  R5[3,0,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,11]  R7[0,11]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,11]  R7[0,11]  -400
     camion_n_en_comuna_c_dia_d[3,0,11]  R9[0,11]  1
     camion_n_en_comuna_c_dia_d[3,0,12]  R2[3,12]  1
     camion_n_en_comuna_c_dia_d[3,0,12]  R5[3,0,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,12]  R7[0,12]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,12]  R7[0,12]  -400
     camion_n_en_comuna_c_dia_d[3,0,12]  R9[0,12]  1
     camion_n_en_comuna_c_dia_d[3,0,13]  R2[3,13]  1
     camion_n_en_comuna_c_dia_d[3,0,13]  R5[3,0,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,13]  R7[0,13]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,13]  R7[0,13]  -400
     camion_n_en_comuna_c_dia_d[3,0,13]  R9[0,13]  1
     camion_n_en_comuna_c_dia_d[3,0,14]  R2[3,14]  1
     camion_n_en_comuna_c_dia_d[3,0,14]  R5[3,0,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,14]  R7[0,14]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,14]  R7[0,14]  -400
     camion_n_en_comuna_c_dia_d[3,0,14]  R9[0,14]  1
     camion_n_en_comuna_c_dia_d[3,0,15]  R2[3,15]  1
     camion_n_en_comuna_c_dia_d[3,0,15]  R5[3,0,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,15]  R7[0,15]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,15]  R7[0,15]  -400
     camion_n_en_comuna_c_dia_d[3,0,15]  R9[0,15]  1
     camion_n_en_comuna_c_dia_d[3,0,16]  R2[3,16]  1
     camion_n_en_comuna_c_dia_d[3,0,16]  R5[3,0,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,16]  R7[0,16]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,16]  R7[0,16]  -400
     camion_n_en_comuna_c_dia_d[3,0,16]  R9[0,16]  1
     camion_n_en_comuna_c_dia_d[3,0,17]  R2[3,17]  1
     camion_n_en_comuna_c_dia_d[3,0,17]  R5[3,0,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,17]  R7[0,17]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,17]  R7[0,17]  -400
     camion_n_en_comuna_c_dia_d[3,0,17]  R9[0,17]  1
     camion_n_en_comuna_c_dia_d[3,0,18]  R2[3,18]  1
     camion_n_en_comuna_c_dia_d[3,0,18]  R5[3,0,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,18]  R7[0,18]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,18]  R7[0,18]  -400
     camion_n_en_comuna_c_dia_d[3,0,18]  R9[0,18]  1
     camion_n_en_comuna_c_dia_d[3,0,19]  R2[3,19]  1
     camion_n_en_comuna_c_dia_d[3,0,19]  R5[3,0,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,19]  R7[0,19]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,19]  R7[0,19]  -400
     camion_n_en_comuna_c_dia_d[3,0,19]  R9[0,19]  1
     camion_n_en_comuna_c_dia_d[3,0,20]  R2[3,20]  1
     camion_n_en_comuna_c_dia_d[3,0,20]  R5[3,0,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,20]  R7[0,20]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,20]  R7[0,20]  -400
     camion_n_en_comuna_c_dia_d[3,0,20]  R9[0,20]  1
     camion_n_en_comuna_c_dia_d[3,0,21]  R2[3,21]  1
     camion_n_en_comuna_c_dia_d[3,0,21]  R5[3,0,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,21]  R7[0,21]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,21]  R7[0,21]  -400
     camion_n_en_comuna_c_dia_d[3,0,21]  R9[0,21]  1
     camion_n_en_comuna_c_dia_d[3,0,22]  R2[3,22]  1
     camion_n_en_comuna_c_dia_d[3,0,22]  R5[3,0,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,22]  R7[0,22]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,22]  R7[0,22]  -400
     camion_n_en_comuna_c_dia_d[3,0,22]  R9[0,22]  1
     camion_n_en_comuna_c_dia_d[3,0,23]  R2[3,23]  1
     camion_n_en_comuna_c_dia_d[3,0,23]  R5[3,0,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,23]  R7[0,23]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,23]  R7[0,23]  -400
     camion_n_en_comuna_c_dia_d[3,0,23]  R9[0,23]  1
     camion_n_en_comuna_c_dia_d[3,0,24]  R2[3,24]  1
     camion_n_en_comuna_c_dia_d[3,0,24]  R5[3,0,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,24]  R7[0,24]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,24]  R7[0,24]  -400
     camion_n_en_comuna_c_dia_d[3,0,24]  R9[0,24]  1
     camion_n_en_comuna_c_dia_d[3,0,25]  R2[3,25]  1
     camion_n_en_comuna_c_dia_d[3,0,25]  R5[3,0,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,25]  R7[0,25]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,25]  R7[0,25]  -400
     camion_n_en_comuna_c_dia_d[3,0,25]  R9[0,25]  1
     camion_n_en_comuna_c_dia_d[3,0,26]  R2[3,26]  1
     camion_n_en_comuna_c_dia_d[3,0,26]  R5[3,0,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,26]  R7[0,26]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,26]  R7[0,26]  -400
     camion_n_en_comuna_c_dia_d[3,0,26]  R9[0,26]  1
     camion_n_en_comuna_c_dia_d[3,0,27]  R2[3,27]  1
     camion_n_en_comuna_c_dia_d[3,0,27]  R5[3,0,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,27]  R7[0,27]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,27]  R7[0,27]  -400
     camion_n_en_comuna_c_dia_d[3,0,27]  R9[0,27]  1
     camion_n_en_comuna_c_dia_d[3,0,28]  R2[3,28]  1
     camion_n_en_comuna_c_dia_d[3,0,28]  R5[3,0,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,28]  R7[0,28]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,28]  R7[0,28]  -400
     camion_n_en_comuna_c_dia_d[3,0,28]  R9[0,28]  1
     camion_n_en_comuna_c_dia_d[3,0,29]  R2[3,29]  1
     camion_n_en_comuna_c_dia_d[3,0,29]  R5[3,0,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,29]  R7[0,29]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,29]  R7[0,29]  -400
     camion_n_en_comuna_c_dia_d[3,0,29]  R9[0,29]  1
     camion_n_en_comuna_c_dia_d[3,0,30]  R2[3,30]  1
     camion_n_en_comuna_c_dia_d[3,0,30]  R5[3,0,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,30]  R7[0,30]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,30]  R7[0,30]  -400
     camion_n_en_comuna_c_dia_d[3,0,30]  R9[0,30]  1
     camion_n_en_comuna_c_dia_d[3,0,31]  R2[3,31]  1
     camion_n_en_comuna_c_dia_d[3,0,31]  R5[3,0,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,31]  R7[0,31]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,31]  R7[0,31]  -400
     camion_n_en_comuna_c_dia_d[3,0,31]  R9[0,31]  1
     camion_n_en_comuna_c_dia_d[3,0,32]  R2[3,32]  1
     camion_n_en_comuna_c_dia_d[3,0,32]  R5[3,0,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,32]  R7[0,32]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,32]  R7[0,32]  -400
     camion_n_en_comuna_c_dia_d[3,0,32]  R9[0,32]  1
     camion_n_en_comuna_c_dia_d[3,0,33]  R2[3,33]  1
     camion_n_en_comuna_c_dia_d[3,0,33]  R5[3,0,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,33]  R7[0,33]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,33]  R7[0,33]  -400
     camion_n_en_comuna_c_dia_d[3,0,33]  R9[0,33]  1
     camion_n_en_comuna_c_dia_d[3,0,34]  R2[3,34]  1
     camion_n_en_comuna_c_dia_d[3,0,34]  R5[3,0,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,34]  R7[0,34]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,34]  R7[0,34]  -400
     camion_n_en_comuna_c_dia_d[3,0,34]  R9[0,34]  1
     camion_n_en_comuna_c_dia_d[3,0,35]  R2[3,35]  1
     camion_n_en_comuna_c_dia_d[3,0,35]  R5[3,0,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,35]  R7[0,35]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,35]  R7[0,35]  -400
     camion_n_en_comuna_c_dia_d[3,0,35]  R9[0,35]  1
     camion_n_en_comuna_c_dia_d[3,0,36]  R2[3,36]  1
     camion_n_en_comuna_c_dia_d[3,0,36]  R5[3,0,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,36]  R7[0,36]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,36]  R7[0,36]  -400
     camion_n_en_comuna_c_dia_d[3,0,36]  R9[0,36]  1
     camion_n_en_comuna_c_dia_d[3,0,37]  R2[3,37]  1
     camion_n_en_comuna_c_dia_d[3,0,37]  R5[3,0,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,37]  R7[0,37]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,37]  R7[0,37]  -400
     camion_n_en_comuna_c_dia_d[3,0,37]  R9[0,37]  1
     camion_n_en_comuna_c_dia_d[3,0,38]  R2[3,38]  1
     camion_n_en_comuna_c_dia_d[3,0,38]  R5[3,0,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,38]  R7[0,38]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,38]  R7[0,38]  -400
     camion_n_en_comuna_c_dia_d[3,0,38]  R9[0,38]  1
     camion_n_en_comuna_c_dia_d[3,0,39]  R2[3,39]  1
     camion_n_en_comuna_c_dia_d[3,0,39]  R5[3,0,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,39]  R7[0,39]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,39]  R7[0,39]  -400
     camion_n_en_comuna_c_dia_d[3,0,39]  R9[0,39]  1
     camion_n_en_comuna_c_dia_d[3,0,40]  R2[3,40]  1
     camion_n_en_comuna_c_dia_d[3,0,40]  R5[3,0,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,40]  R7[0,40]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,40]  R7[0,40]  -400
     camion_n_en_comuna_c_dia_d[3,0,40]  R9[0,40]  1
     camion_n_en_comuna_c_dia_d[3,0,41]  R2[3,41]  1
     camion_n_en_comuna_c_dia_d[3,0,41]  R5[3,0,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,41]  R7[0,41]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,41]  R7[0,41]  -400
     camion_n_en_comuna_c_dia_d[3,0,41]  R9[0,41]  1
     camion_n_en_comuna_c_dia_d[3,0,42]  R2[3,42]  1
     camion_n_en_comuna_c_dia_d[3,0,42]  R5[3,0,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,42]  R7[0,42]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,42]  R7[0,42]  -400
     camion_n_en_comuna_c_dia_d[3,0,42]  R9[0,42]  1
     camion_n_en_comuna_c_dia_d[3,0,43]  R2[3,43]  1
     camion_n_en_comuna_c_dia_d[3,0,43]  R5[3,0,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,43]  R7[0,43]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,43]  R7[0,43]  -400
     camion_n_en_comuna_c_dia_d[3,0,43]  R9[0,43]  1
     camion_n_en_comuna_c_dia_d[3,0,44]  R2[3,44]  1
     camion_n_en_comuna_c_dia_d[3,0,44]  R5[3,0,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,44]  R7[0,44]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,44]  R7[0,44]  -400
     camion_n_en_comuna_c_dia_d[3,0,44]  R9[0,44]  1
     camion_n_en_comuna_c_dia_d[3,0,45]  R2[3,45]  1
     camion_n_en_comuna_c_dia_d[3,0,45]  R5[3,0,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,45]  R7[0,45]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,45]  R7[0,45]  -400
     camion_n_en_comuna_c_dia_d[3,0,45]  R9[0,45]  1
     camion_n_en_comuna_c_dia_d[3,0,46]  R2[3,46]  1
     camion_n_en_comuna_c_dia_d[3,0,46]  R5[3,0,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,46]  R7[0,46]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,46]  R7[0,46]  -400
     camion_n_en_comuna_c_dia_d[3,0,46]  R9[0,46]  1
     camion_n_en_comuna_c_dia_d[3,0,47]  R2[3,47]  1
     camion_n_en_comuna_c_dia_d[3,0,47]  R5[3,0,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,47]  R7[0,47]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,47]  R7[0,47]  -400
     camion_n_en_comuna_c_dia_d[3,0,47]  R9[0,47]  1
     camion_n_en_comuna_c_dia_d[3,0,48]  R2[3,48]  1
     camion_n_en_comuna_c_dia_d[3,0,48]  R5[3,0,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,48]  R7[0,48]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,48]  R7[0,48]  -400
     camion_n_en_comuna_c_dia_d[3,0,48]  R9[0,48]  1
     camion_n_en_comuna_c_dia_d[3,0,49]  R2[3,49]  1
     camion_n_en_comuna_c_dia_d[3,0,49]  R5[3,0,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,49]  R7[0,49]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,49]  R7[0,49]  -400
     camion_n_en_comuna_c_dia_d[3,0,49]  R9[0,49]  1
     camion_n_en_comuna_c_dia_d[3,0,50]  R2[3,50]  1
     camion_n_en_comuna_c_dia_d[3,0,50]  R5[3,0,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,50]  R7[0,50]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,50]  R7[0,50]  -400
     camion_n_en_comuna_c_dia_d[3,0,50]  R9[0,50]  1
     camion_n_en_comuna_c_dia_d[3,0,51]  R2[3,51]  1
     camion_n_en_comuna_c_dia_d[3,0,51]  R5[3,0,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,51]  R7[0,51]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,51]  R7[0,51]  -400
     camion_n_en_comuna_c_dia_d[3,0,51]  R9[0,51]  1
     camion_n_en_comuna_c_dia_d[3,0,52]  R2[3,52]  1
     camion_n_en_comuna_c_dia_d[3,0,52]  R5[3,0,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,52]  R7[0,52]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,52]  R7[0,52]  -400
     camion_n_en_comuna_c_dia_d[3,0,52]  R9[0,52]  1
     camion_n_en_comuna_c_dia_d[3,0,53]  R2[3,53]  1
     camion_n_en_comuna_c_dia_d[3,0,53]  R5[3,0,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,53]  R7[0,53]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,53]  R7[0,53]  -400
     camion_n_en_comuna_c_dia_d[3,0,53]  R9[0,53]  1
     camion_n_en_comuna_c_dia_d[3,0,54]  R2[3,54]  1
     camion_n_en_comuna_c_dia_d[3,0,54]  R5[3,0,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,54]  R7[0,54]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,54]  R7[0,54]  -400
     camion_n_en_comuna_c_dia_d[3,0,54]  R9[0,54]  1
     camion_n_en_comuna_c_dia_d[3,0,55]  R2[3,55]  1
     camion_n_en_comuna_c_dia_d[3,0,55]  R5[3,0,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,55]  R7[0,55]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,55]  R7[0,55]  -400
     camion_n_en_comuna_c_dia_d[3,0,55]  R9[0,55]  1
     camion_n_en_comuna_c_dia_d[3,0,56]  R2[3,56]  1
     camion_n_en_comuna_c_dia_d[3,0,56]  R5[3,0,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,56]  R7[0,56]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,56]  R7[0,56]  -400
     camion_n_en_comuna_c_dia_d[3,0,56]  R9[0,56]  1
     camion_n_en_comuna_c_dia_d[3,0,57]  R2[3,57]  1
     camion_n_en_comuna_c_dia_d[3,0,57]  R5[3,0,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,57]  R7[0,57]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,57]  R7[0,57]  -400
     camion_n_en_comuna_c_dia_d[3,0,57]  R9[0,57]  1
     camion_n_en_comuna_c_dia_d[3,0,58]  R2[3,58]  1
     camion_n_en_comuna_c_dia_d[3,0,58]  R5[3,0,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,58]  R7[0,58]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,58]  R7[0,58]  -400
     camion_n_en_comuna_c_dia_d[3,0,58]  R9[0,58]  1
     camion_n_en_comuna_c_dia_d[3,0,59]  R2[3,59]  1
     camion_n_en_comuna_c_dia_d[3,0,59]  R5[3,0,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,59]  R7[0,59]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,59]  R7[0,59]  -400
     camion_n_en_comuna_c_dia_d[3,0,59]  R9[0,59]  1
     camion_n_en_comuna_c_dia_d[3,0,60]  R2[3,60]  1
     camion_n_en_comuna_c_dia_d[3,0,60]  R5[3,0,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,60]  R7[0,60]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,60]  R7[0,60]  -400
     camion_n_en_comuna_c_dia_d[3,0,60]  R9[0,60]  1
     camion_n_en_comuna_c_dia_d[3,0,61]  R2[3,61]  1
     camion_n_en_comuna_c_dia_d[3,0,61]  R5[3,0,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,61]  R7[0,61]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,61]  R7[0,61]  -400
     camion_n_en_comuna_c_dia_d[3,0,61]  R9[0,61]  1
     camion_n_en_comuna_c_dia_d[3,0,62]  R2[3,62]  1
     camion_n_en_comuna_c_dia_d[3,0,62]  R5[3,0,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,62]  R7[0,62]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,62]  R7[0,62]  -400
     camion_n_en_comuna_c_dia_d[3,0,62]  R9[0,62]  1
     camion_n_en_comuna_c_dia_d[3,0,63]  R2[3,63]  1
     camion_n_en_comuna_c_dia_d[3,0,63]  R5[3,0,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,63]  R7[0,63]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,63]  R7[0,63]  -400
     camion_n_en_comuna_c_dia_d[3,0,63]  R9[0,63]  1
     camion_n_en_comuna_c_dia_d[3,0,64]  R2[3,64]  1
     camion_n_en_comuna_c_dia_d[3,0,64]  R5[3,0,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,64]  R7[0,64]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,64]  R7[0,64]  -400
     camion_n_en_comuna_c_dia_d[3,0,64]  R9[0,64]  1
     camion_n_en_comuna_c_dia_d[3,0,65]  R2[3,65]  1
     camion_n_en_comuna_c_dia_d[3,0,65]  R5[3,0,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,65]  R7[0,65]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,65]  R7[0,65]  -400
     camion_n_en_comuna_c_dia_d[3,0,65]  R9[0,65]  1
     camion_n_en_comuna_c_dia_d[3,0,66]  R2[3,66]  1
     camion_n_en_comuna_c_dia_d[3,0,66]  R5[3,0,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,66]  R7[0,66]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,66]  R7[0,66]  -400
     camion_n_en_comuna_c_dia_d[3,0,66]  R9[0,66]  1
     camion_n_en_comuna_c_dia_d[3,0,67]  R2[3,67]  1
     camion_n_en_comuna_c_dia_d[3,0,67]  R5[3,0,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,67]  R7[0,67]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,67]  R7[0,67]  -400
     camion_n_en_comuna_c_dia_d[3,0,67]  R9[0,67]  1
     camion_n_en_comuna_c_dia_d[3,0,68]  R2[3,68]  1
     camion_n_en_comuna_c_dia_d[3,0,68]  R5[3,0,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,68]  R7[0,68]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,68]  R7[0,68]  -400
     camion_n_en_comuna_c_dia_d[3,0,68]  R9[0,68]  1
     camion_n_en_comuna_c_dia_d[3,0,69]  R2[3,69]  1
     camion_n_en_comuna_c_dia_d[3,0,69]  R5[3,0,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,69]  R7[0,69]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,69]  R7[0,69]  -400
     camion_n_en_comuna_c_dia_d[3,0,69]  R9[0,69]  1
     camion_n_en_comuna_c_dia_d[3,0,70]  R2[3,70]  1
     camion_n_en_comuna_c_dia_d[3,0,70]  R5[3,0,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,70]  R7[0,70]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,70]  R7[0,70]  -400
     camion_n_en_comuna_c_dia_d[3,0,70]  R9[0,70]  1
     camion_n_en_comuna_c_dia_d[3,0,71]  R2[3,71]  1
     camion_n_en_comuna_c_dia_d[3,0,71]  R5[3,0,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,71]  R7[0,71]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,71]  R7[0,71]  -400
     camion_n_en_comuna_c_dia_d[3,0,71]  R9[0,71]  1
     camion_n_en_comuna_c_dia_d[3,0,72]  R2[3,72]  1
     camion_n_en_comuna_c_dia_d[3,0,72]  R5[3,0,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,72]  R7[0,72]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,72]  R7[0,72]  -400
     camion_n_en_comuna_c_dia_d[3,0,72]  R9[0,72]  1
     camion_n_en_comuna_c_dia_d[3,0,73]  R2[3,73]  1
     camion_n_en_comuna_c_dia_d[3,0,73]  R5[3,0,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,73]  R7[0,73]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,73]  R7[0,73]  -400
     camion_n_en_comuna_c_dia_d[3,0,73]  R9[0,73]  1
     camion_n_en_comuna_c_dia_d[3,0,74]  R2[3,74]  1
     camion_n_en_comuna_c_dia_d[3,0,74]  R5[3,0,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,74]  R7[0,74]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,74]  R7[0,74]  -400
     camion_n_en_comuna_c_dia_d[3,0,74]  R9[0,74]  1
     camion_n_en_comuna_c_dia_d[3,0,75]  R2[3,75]  1
     camion_n_en_comuna_c_dia_d[3,0,75]  R5[3,0,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,75]  R7[0,75]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,75]  R7[0,75]  -400
     camion_n_en_comuna_c_dia_d[3,0,75]  R9[0,75]  1
     camion_n_en_comuna_c_dia_d[3,0,76]  R2[3,76]  1
     camion_n_en_comuna_c_dia_d[3,0,76]  R5[3,0,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,76]  R7[0,76]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,76]  R7[0,76]  -400
     camion_n_en_comuna_c_dia_d[3,0,76]  R9[0,76]  1
     camion_n_en_comuna_c_dia_d[3,0,77]  R2[3,77]  1
     camion_n_en_comuna_c_dia_d[3,0,77]  R5[3,0,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,77]  R7[0,77]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,77]  R7[0,77]  -400
     camion_n_en_comuna_c_dia_d[3,0,77]  R9[0,77]  1
     camion_n_en_comuna_c_dia_d[3,0,78]  R2[3,78]  1
     camion_n_en_comuna_c_dia_d[3,0,78]  R5[3,0,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,78]  R7[0,78]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,78]  R7[0,78]  -400
     camion_n_en_comuna_c_dia_d[3,0,78]  R9[0,78]  1
     camion_n_en_comuna_c_dia_d[3,0,79]  R2[3,79]  1
     camion_n_en_comuna_c_dia_d[3,0,79]  R5[3,0,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,79]  R7[0,79]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,79]  R7[0,79]  -400
     camion_n_en_comuna_c_dia_d[3,0,79]  R9[0,79]  1
     camion_n_en_comuna_c_dia_d[3,0,80]  R2[3,80]  1
     camion_n_en_comuna_c_dia_d[3,0,80]  R5[3,0,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,80]  R7[0,80]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,80]  R7[0,80]  -400
     camion_n_en_comuna_c_dia_d[3,0,80]  R9[0,80]  1
     camion_n_en_comuna_c_dia_d[3,0,81]  R2[3,81]  1
     camion_n_en_comuna_c_dia_d[3,0,81]  R5[3,0,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,81]  R7[0,81]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,81]  R7[0,81]  -400
     camion_n_en_comuna_c_dia_d[3,0,81]  R9[0,81]  1
     camion_n_en_comuna_c_dia_d[3,0,82]  R2[3,82]  1
     camion_n_en_comuna_c_dia_d[3,0,82]  R5[3,0,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,82]  R7[0,82]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,82]  R7[0,82]  -400
     camion_n_en_comuna_c_dia_d[3,0,82]  R9[0,82]  1
     camion_n_en_comuna_c_dia_d[3,0,83]  R2[3,83]  1
     camion_n_en_comuna_c_dia_d[3,0,83]  R5[3,0,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,83]  R7[0,83]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,83]  R7[0,83]  -400
     camion_n_en_comuna_c_dia_d[3,0,83]  R9[0,83]  1
     camion_n_en_comuna_c_dia_d[3,0,84]  R2[3,84]  1
     camion_n_en_comuna_c_dia_d[3,0,84]  R5[3,0,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,84]  R7[0,84]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,84]  R7[0,84]  -400
     camion_n_en_comuna_c_dia_d[3,0,84]  R9[0,84]  1
     camion_n_en_comuna_c_dia_d[3,0,85]  R2[3,85]  1
     camion_n_en_comuna_c_dia_d[3,0,85]  R5[3,0,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,85]  R7[0,85]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,85]  R7[0,85]  -400
     camion_n_en_comuna_c_dia_d[3,0,85]  R9[0,85]  1
     camion_n_en_comuna_c_dia_d[3,0,86]  R2[3,86]  1
     camion_n_en_comuna_c_dia_d[3,0,86]  R5[3,0,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,86]  R7[0,86]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,86]  R7[0,86]  -400
     camion_n_en_comuna_c_dia_d[3,0,86]  R9[0,86]  1
     camion_n_en_comuna_c_dia_d[3,0,87]  R2[3,87]  1
     camion_n_en_comuna_c_dia_d[3,0,87]  R5[3,0,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,87]  R7[0,87]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,87]  R7[0,87]  -400
     camion_n_en_comuna_c_dia_d[3,0,87]  R9[0,87]  1
     camion_n_en_comuna_c_dia_d[3,0,88]  R2[3,88]  1
     camion_n_en_comuna_c_dia_d[3,0,88]  R5[3,0,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,88]  R7[0,88]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,88]  R7[0,88]  -400
     camion_n_en_comuna_c_dia_d[3,0,88]  R9[0,88]  1
     camion_n_en_comuna_c_dia_d[3,0,89]  R2[3,89]  1
     camion_n_en_comuna_c_dia_d[3,0,89]  R5[3,0,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,89]  R7[0,89]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,89]  R7[0,89]  -400
     camion_n_en_comuna_c_dia_d[3,0,89]  R9[0,89]  1
     camion_n_en_comuna_c_dia_d[3,0,90]  R2[3,90]  1
     camion_n_en_comuna_c_dia_d[3,0,90]  R5[3,0,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,90]  R7[0,90]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,90]  R7[0,90]  -400
     camion_n_en_comuna_c_dia_d[3,0,90]  R9[0,90]  1
     camion_n_en_comuna_c_dia_d[3,0,91]  R2[3,91]  1
     camion_n_en_comuna_c_dia_d[3,0,91]  R5[3,0,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,91]  R7[0,91]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,91]  R7[0,91]  -400
     camion_n_en_comuna_c_dia_d[3,0,91]  R9[0,91]  1
     camion_n_en_comuna_c_dia_d[3,0,92]  R2[3,92]  1
     camion_n_en_comuna_c_dia_d[3,0,92]  R5[3,0,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,92]  R7[0,92]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,92]  R7[0,92]  -400
     camion_n_en_comuna_c_dia_d[3,0,92]  R9[0,92]  1
     camion_n_en_comuna_c_dia_d[3,0,93]  R2[3,93]  1
     camion_n_en_comuna_c_dia_d[3,0,93]  R5[3,0,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,93]  R7[0,93]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,93]  R7[0,93]  -400
     camion_n_en_comuna_c_dia_d[3,0,93]  R9[0,93]  1
     camion_n_en_comuna_c_dia_d[3,0,94]  R2[3,94]  1
     camion_n_en_comuna_c_dia_d[3,0,94]  R5[3,0,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,94]  R7[0,94]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,94]  R7[0,94]  -400
     camion_n_en_comuna_c_dia_d[3,0,94]  R9[0,94]  1
     camion_n_en_comuna_c_dia_d[3,0,95]  R2[3,95]  1
     camion_n_en_comuna_c_dia_d[3,0,95]  R5[3,0,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,95]  R7[0,95]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,95]  R7[0,95]  -400
     camion_n_en_comuna_c_dia_d[3,0,95]  R9[0,95]  1
     camion_n_en_comuna_c_dia_d[3,0,96]  R2[3,96]  1
     camion_n_en_comuna_c_dia_d[3,0,96]  R5[3,0,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,96]  R7[0,96]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,96]  R7[0,96]  -400
     camion_n_en_comuna_c_dia_d[3,0,96]  R9[0,96]  1
     camion_n_en_comuna_c_dia_d[3,0,97]  R2[3,97]  1
     camion_n_en_comuna_c_dia_d[3,0,97]  R5[3,0,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,97]  R7[0,97]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,97]  R7[0,97]  -400
     camion_n_en_comuna_c_dia_d[3,0,97]  R9[0,97]  1
     camion_n_en_comuna_c_dia_d[3,0,98]  R2[3,98]  1
     camion_n_en_comuna_c_dia_d[3,0,98]  R5[3,0,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,98]  R7[0,98]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,98]  R7[0,98]  -400
     camion_n_en_comuna_c_dia_d[3,0,98]  R9[0,98]  1
     camion_n_en_comuna_c_dia_d[3,0,99]  R2[3,99]  1
     camion_n_en_comuna_c_dia_d[3,0,99]  R5[3,0,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,0,99]  R7[0,99]  -1000
+    camion_n_en_comuna_c_dia_d[3,0,99]  R7[0,99]  -400
     camion_n_en_comuna_c_dia_d[3,0,99]  R9[0,99]  1
     camion_n_en_comuna_c_dia_d[3,1,0]  R2[3,0]   1
     camion_n_en_comuna_c_dia_d[3,1,0]  R5[3,1,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,0]  R7[1,0]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,0]  R7[1,0]   -400
     camion_n_en_comuna_c_dia_d[3,1,0]  R9[1,0]   1
     camion_n_en_comuna_c_dia_d[3,1,1]  R2[3,1]   1
     camion_n_en_comuna_c_dia_d[3,1,1]  R5[3,1,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,1]  R7[1,1]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,1]  R7[1,1]   -400
     camion_n_en_comuna_c_dia_d[3,1,1]  R9[1,1]   1
     camion_n_en_comuna_c_dia_d[3,1,2]  R2[3,2]   1
     camion_n_en_comuna_c_dia_d[3,1,2]  R5[3,1,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,2]  R7[1,2]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,2]  R7[1,2]   -400
     camion_n_en_comuna_c_dia_d[3,1,2]  R9[1,2]   1
     camion_n_en_comuna_c_dia_d[3,1,3]  R2[3,3]   1
     camion_n_en_comuna_c_dia_d[3,1,3]  R5[3,1,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,3]  R7[1,3]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,3]  R7[1,3]   -400
     camion_n_en_comuna_c_dia_d[3,1,3]  R9[1,3]   1
     camion_n_en_comuna_c_dia_d[3,1,4]  R2[3,4]   1
     camion_n_en_comuna_c_dia_d[3,1,4]  R5[3,1,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,4]  R7[1,4]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,4]  R7[1,4]   -400
     camion_n_en_comuna_c_dia_d[3,1,4]  R9[1,4]   1
     camion_n_en_comuna_c_dia_d[3,1,5]  R2[3,5]   1
     camion_n_en_comuna_c_dia_d[3,1,5]  R5[3,1,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,5]  R7[1,5]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,5]  R7[1,5]   -400
     camion_n_en_comuna_c_dia_d[3,1,5]  R9[1,5]   1
     camion_n_en_comuna_c_dia_d[3,1,6]  R2[3,6]   1
     camion_n_en_comuna_c_dia_d[3,1,6]  R5[3,1,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,6]  R7[1,6]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,6]  R7[1,6]   -400
     camion_n_en_comuna_c_dia_d[3,1,6]  R9[1,6]   1
     camion_n_en_comuna_c_dia_d[3,1,7]  R2[3,7]   1
     camion_n_en_comuna_c_dia_d[3,1,7]  R5[3,1,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,7]  R7[1,7]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,7]  R7[1,7]   -400
     camion_n_en_comuna_c_dia_d[3,1,7]  R9[1,7]   1
     camion_n_en_comuna_c_dia_d[3,1,8]  R2[3,8]   1
     camion_n_en_comuna_c_dia_d[3,1,8]  R5[3,1,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,8]  R7[1,8]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,8]  R7[1,8]   -400
     camion_n_en_comuna_c_dia_d[3,1,8]  R9[1,8]   1
     camion_n_en_comuna_c_dia_d[3,1,9]  R2[3,9]   1
     camion_n_en_comuna_c_dia_d[3,1,9]  R5[3,1,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,9]  R7[1,9]   -1000
+    camion_n_en_comuna_c_dia_d[3,1,9]  R7[1,9]   -400
     camion_n_en_comuna_c_dia_d[3,1,9]  R9[1,9]   1
     camion_n_en_comuna_c_dia_d[3,1,10]  R2[3,10]  1
     camion_n_en_comuna_c_dia_d[3,1,10]  R5[3,1,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,10]  R7[1,10]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,10]  R7[1,10]  -400
     camion_n_en_comuna_c_dia_d[3,1,10]  R9[1,10]  1
     camion_n_en_comuna_c_dia_d[3,1,11]  R2[3,11]  1
     camion_n_en_comuna_c_dia_d[3,1,11]  R5[3,1,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,11]  R7[1,11]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,11]  R7[1,11]  -400
     camion_n_en_comuna_c_dia_d[3,1,11]  R9[1,11]  1
     camion_n_en_comuna_c_dia_d[3,1,12]  R2[3,12]  1
     camion_n_en_comuna_c_dia_d[3,1,12]  R5[3,1,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,12]  R7[1,12]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,12]  R7[1,12]  -400
     camion_n_en_comuna_c_dia_d[3,1,12]  R9[1,12]  1
     camion_n_en_comuna_c_dia_d[3,1,13]  R2[3,13]  1
     camion_n_en_comuna_c_dia_d[3,1,13]  R5[3,1,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,13]  R7[1,13]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,13]  R7[1,13]  -400
     camion_n_en_comuna_c_dia_d[3,1,13]  R9[1,13]  1
     camion_n_en_comuna_c_dia_d[3,1,14]  R2[3,14]  1
     camion_n_en_comuna_c_dia_d[3,1,14]  R5[3,1,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,14]  R7[1,14]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,14]  R7[1,14]  -400
     camion_n_en_comuna_c_dia_d[3,1,14]  R9[1,14]  1
     camion_n_en_comuna_c_dia_d[3,1,15]  R2[3,15]  1
     camion_n_en_comuna_c_dia_d[3,1,15]  R5[3,1,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,15]  R7[1,15]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,15]  R7[1,15]  -400
     camion_n_en_comuna_c_dia_d[3,1,15]  R9[1,15]  1
     camion_n_en_comuna_c_dia_d[3,1,16]  R2[3,16]  1
     camion_n_en_comuna_c_dia_d[3,1,16]  R5[3,1,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,16]  R7[1,16]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,16]  R7[1,16]  -400
     camion_n_en_comuna_c_dia_d[3,1,16]  R9[1,16]  1
     camion_n_en_comuna_c_dia_d[3,1,17]  R2[3,17]  1
     camion_n_en_comuna_c_dia_d[3,1,17]  R5[3,1,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,17]  R7[1,17]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,17]  R7[1,17]  -400
     camion_n_en_comuna_c_dia_d[3,1,17]  R9[1,17]  1
     camion_n_en_comuna_c_dia_d[3,1,18]  R2[3,18]  1
     camion_n_en_comuna_c_dia_d[3,1,18]  R5[3,1,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,18]  R7[1,18]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,18]  R7[1,18]  -400
     camion_n_en_comuna_c_dia_d[3,1,18]  R9[1,18]  1
     camion_n_en_comuna_c_dia_d[3,1,19]  R2[3,19]  1
     camion_n_en_comuna_c_dia_d[3,1,19]  R5[3,1,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,19]  R7[1,19]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,19]  R7[1,19]  -400
     camion_n_en_comuna_c_dia_d[3,1,19]  R9[1,19]  1
     camion_n_en_comuna_c_dia_d[3,1,20]  R2[3,20]  1
     camion_n_en_comuna_c_dia_d[3,1,20]  R5[3,1,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,20]  R7[1,20]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,20]  R7[1,20]  -400
     camion_n_en_comuna_c_dia_d[3,1,20]  R9[1,20]  1
     camion_n_en_comuna_c_dia_d[3,1,21]  R2[3,21]  1
     camion_n_en_comuna_c_dia_d[3,1,21]  R5[3,1,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,21]  R7[1,21]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,21]  R7[1,21]  -400
     camion_n_en_comuna_c_dia_d[3,1,21]  R9[1,21]  1
     camion_n_en_comuna_c_dia_d[3,1,22]  R2[3,22]  1
     camion_n_en_comuna_c_dia_d[3,1,22]  R5[3,1,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,22]  R7[1,22]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,22]  R7[1,22]  -400
     camion_n_en_comuna_c_dia_d[3,1,22]  R9[1,22]  1
     camion_n_en_comuna_c_dia_d[3,1,23]  R2[3,23]  1
     camion_n_en_comuna_c_dia_d[3,1,23]  R5[3,1,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,23]  R7[1,23]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,23]  R7[1,23]  -400
     camion_n_en_comuna_c_dia_d[3,1,23]  R9[1,23]  1
     camion_n_en_comuna_c_dia_d[3,1,24]  R2[3,24]  1
     camion_n_en_comuna_c_dia_d[3,1,24]  R5[3,1,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,24]  R7[1,24]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,24]  R7[1,24]  -400
     camion_n_en_comuna_c_dia_d[3,1,24]  R9[1,24]  1
     camion_n_en_comuna_c_dia_d[3,1,25]  R2[3,25]  1
     camion_n_en_comuna_c_dia_d[3,1,25]  R5[3,1,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,25]  R7[1,25]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,25]  R7[1,25]  -400
     camion_n_en_comuna_c_dia_d[3,1,25]  R9[1,25]  1
     camion_n_en_comuna_c_dia_d[3,1,26]  R2[3,26]  1
     camion_n_en_comuna_c_dia_d[3,1,26]  R5[3,1,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,26]  R7[1,26]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,26]  R7[1,26]  -400
     camion_n_en_comuna_c_dia_d[3,1,26]  R9[1,26]  1
     camion_n_en_comuna_c_dia_d[3,1,27]  R2[3,27]  1
     camion_n_en_comuna_c_dia_d[3,1,27]  R5[3,1,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,27]  R7[1,27]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,27]  R7[1,27]  -400
     camion_n_en_comuna_c_dia_d[3,1,27]  R9[1,27]  1
     camion_n_en_comuna_c_dia_d[3,1,28]  R2[3,28]  1
     camion_n_en_comuna_c_dia_d[3,1,28]  R5[3,1,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,28]  R7[1,28]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,28]  R7[1,28]  -400
     camion_n_en_comuna_c_dia_d[3,1,28]  R9[1,28]  1
     camion_n_en_comuna_c_dia_d[3,1,29]  R2[3,29]  1
     camion_n_en_comuna_c_dia_d[3,1,29]  R5[3,1,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,29]  R7[1,29]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,29]  R7[1,29]  -400
     camion_n_en_comuna_c_dia_d[3,1,29]  R9[1,29]  1
     camion_n_en_comuna_c_dia_d[3,1,30]  R2[3,30]  1
     camion_n_en_comuna_c_dia_d[3,1,30]  R5[3,1,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,30]  R7[1,30]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,30]  R7[1,30]  -400
     camion_n_en_comuna_c_dia_d[3,1,30]  R9[1,30]  1
     camion_n_en_comuna_c_dia_d[3,1,31]  R2[3,31]  1
     camion_n_en_comuna_c_dia_d[3,1,31]  R5[3,1,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,31]  R7[1,31]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,31]  R7[1,31]  -400
     camion_n_en_comuna_c_dia_d[3,1,31]  R9[1,31]  1
     camion_n_en_comuna_c_dia_d[3,1,32]  R2[3,32]  1
     camion_n_en_comuna_c_dia_d[3,1,32]  R5[3,1,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,32]  R7[1,32]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,32]  R7[1,32]  -400
     camion_n_en_comuna_c_dia_d[3,1,32]  R9[1,32]  1
     camion_n_en_comuna_c_dia_d[3,1,33]  R2[3,33]  1
     camion_n_en_comuna_c_dia_d[3,1,33]  R5[3,1,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,33]  R7[1,33]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,33]  R7[1,33]  -400
     camion_n_en_comuna_c_dia_d[3,1,33]  R9[1,33]  1
     camion_n_en_comuna_c_dia_d[3,1,34]  R2[3,34]  1
     camion_n_en_comuna_c_dia_d[3,1,34]  R5[3,1,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,34]  R7[1,34]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,34]  R7[1,34]  -400
     camion_n_en_comuna_c_dia_d[3,1,34]  R9[1,34]  1
     camion_n_en_comuna_c_dia_d[3,1,35]  R2[3,35]  1
     camion_n_en_comuna_c_dia_d[3,1,35]  R5[3,1,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,35]  R7[1,35]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,35]  R7[1,35]  -400
     camion_n_en_comuna_c_dia_d[3,1,35]  R9[1,35]  1
     camion_n_en_comuna_c_dia_d[3,1,36]  R2[3,36]  1
     camion_n_en_comuna_c_dia_d[3,1,36]  R5[3,1,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,36]  R7[1,36]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,36]  R7[1,36]  -400
     camion_n_en_comuna_c_dia_d[3,1,36]  R9[1,36]  1
     camion_n_en_comuna_c_dia_d[3,1,37]  R2[3,37]  1
     camion_n_en_comuna_c_dia_d[3,1,37]  R5[3,1,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,37]  R7[1,37]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,37]  R7[1,37]  -400
     camion_n_en_comuna_c_dia_d[3,1,37]  R9[1,37]  1
     camion_n_en_comuna_c_dia_d[3,1,38]  R2[3,38]  1
     camion_n_en_comuna_c_dia_d[3,1,38]  R5[3,1,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,38]  R7[1,38]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,38]  R7[1,38]  -400
     camion_n_en_comuna_c_dia_d[3,1,38]  R9[1,38]  1
     camion_n_en_comuna_c_dia_d[3,1,39]  R2[3,39]  1
     camion_n_en_comuna_c_dia_d[3,1,39]  R5[3,1,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,39]  R7[1,39]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,39]  R7[1,39]  -400
     camion_n_en_comuna_c_dia_d[3,1,39]  R9[1,39]  1
     camion_n_en_comuna_c_dia_d[3,1,40]  R2[3,40]  1
     camion_n_en_comuna_c_dia_d[3,1,40]  R5[3,1,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,40]  R7[1,40]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,40]  R7[1,40]  -400
     camion_n_en_comuna_c_dia_d[3,1,40]  R9[1,40]  1
     camion_n_en_comuna_c_dia_d[3,1,41]  R2[3,41]  1
     camion_n_en_comuna_c_dia_d[3,1,41]  R5[3,1,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,41]  R7[1,41]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,41]  R7[1,41]  -400
     camion_n_en_comuna_c_dia_d[3,1,41]  R9[1,41]  1
     camion_n_en_comuna_c_dia_d[3,1,42]  R2[3,42]  1
     camion_n_en_comuna_c_dia_d[3,1,42]  R5[3,1,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,42]  R7[1,42]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,42]  R7[1,42]  -400
     camion_n_en_comuna_c_dia_d[3,1,42]  R9[1,42]  1
     camion_n_en_comuna_c_dia_d[3,1,43]  R2[3,43]  1
     camion_n_en_comuna_c_dia_d[3,1,43]  R5[3,1,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,43]  R7[1,43]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,43]  R7[1,43]  -400
     camion_n_en_comuna_c_dia_d[3,1,43]  R9[1,43]  1
     camion_n_en_comuna_c_dia_d[3,1,44]  R2[3,44]  1
     camion_n_en_comuna_c_dia_d[3,1,44]  R5[3,1,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,44]  R7[1,44]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,44]  R7[1,44]  -400
     camion_n_en_comuna_c_dia_d[3,1,44]  R9[1,44]  1
     camion_n_en_comuna_c_dia_d[3,1,45]  R2[3,45]  1
     camion_n_en_comuna_c_dia_d[3,1,45]  R5[3,1,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,45]  R7[1,45]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,45]  R7[1,45]  -400
     camion_n_en_comuna_c_dia_d[3,1,45]  R9[1,45]  1
     camion_n_en_comuna_c_dia_d[3,1,46]  R2[3,46]  1
     camion_n_en_comuna_c_dia_d[3,1,46]  R5[3,1,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,46]  R7[1,46]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,46]  R7[1,46]  -400
     camion_n_en_comuna_c_dia_d[3,1,46]  R9[1,46]  1
     camion_n_en_comuna_c_dia_d[3,1,47]  R2[3,47]  1
     camion_n_en_comuna_c_dia_d[3,1,47]  R5[3,1,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,47]  R7[1,47]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,47]  R7[1,47]  -400
     camion_n_en_comuna_c_dia_d[3,1,47]  R9[1,47]  1
     camion_n_en_comuna_c_dia_d[3,1,48]  R2[3,48]  1
     camion_n_en_comuna_c_dia_d[3,1,48]  R5[3,1,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,48]  R7[1,48]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,48]  R7[1,48]  -400
     camion_n_en_comuna_c_dia_d[3,1,48]  R9[1,48]  1
     camion_n_en_comuna_c_dia_d[3,1,49]  R2[3,49]  1
     camion_n_en_comuna_c_dia_d[3,1,49]  R5[3,1,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,49]  R7[1,49]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,49]  R7[1,49]  -400
     camion_n_en_comuna_c_dia_d[3,1,49]  R9[1,49]  1
     camion_n_en_comuna_c_dia_d[3,1,50]  R2[3,50]  1
     camion_n_en_comuna_c_dia_d[3,1,50]  R5[3,1,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,50]  R7[1,50]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,50]  R7[1,50]  -400
     camion_n_en_comuna_c_dia_d[3,1,50]  R9[1,50]  1
     camion_n_en_comuna_c_dia_d[3,1,51]  R2[3,51]  1
     camion_n_en_comuna_c_dia_d[3,1,51]  R5[3,1,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,51]  R7[1,51]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,51]  R7[1,51]  -400
     camion_n_en_comuna_c_dia_d[3,1,51]  R9[1,51]  1
     camion_n_en_comuna_c_dia_d[3,1,52]  R2[3,52]  1
     camion_n_en_comuna_c_dia_d[3,1,52]  R5[3,1,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,52]  R7[1,52]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,52]  R7[1,52]  -400
     camion_n_en_comuna_c_dia_d[3,1,52]  R9[1,52]  1
     camion_n_en_comuna_c_dia_d[3,1,53]  R2[3,53]  1
     camion_n_en_comuna_c_dia_d[3,1,53]  R5[3,1,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,53]  R7[1,53]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,53]  R7[1,53]  -400
     camion_n_en_comuna_c_dia_d[3,1,53]  R9[1,53]  1
     camion_n_en_comuna_c_dia_d[3,1,54]  R2[3,54]  1
     camion_n_en_comuna_c_dia_d[3,1,54]  R5[3,1,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,54]  R7[1,54]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,54]  R7[1,54]  -400
     camion_n_en_comuna_c_dia_d[3,1,54]  R9[1,54]  1
     camion_n_en_comuna_c_dia_d[3,1,55]  R2[3,55]  1
     camion_n_en_comuna_c_dia_d[3,1,55]  R5[3,1,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,55]  R7[1,55]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,55]  R7[1,55]  -400
     camion_n_en_comuna_c_dia_d[3,1,55]  R9[1,55]  1
     camion_n_en_comuna_c_dia_d[3,1,56]  R2[3,56]  1
     camion_n_en_comuna_c_dia_d[3,1,56]  R5[3,1,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,56]  R7[1,56]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,56]  R7[1,56]  -400
     camion_n_en_comuna_c_dia_d[3,1,56]  R9[1,56]  1
     camion_n_en_comuna_c_dia_d[3,1,57]  R2[3,57]  1
     camion_n_en_comuna_c_dia_d[3,1,57]  R5[3,1,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,57]  R7[1,57]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,57]  R7[1,57]  -400
     camion_n_en_comuna_c_dia_d[3,1,57]  R9[1,57]  1
     camion_n_en_comuna_c_dia_d[3,1,58]  R2[3,58]  1
     camion_n_en_comuna_c_dia_d[3,1,58]  R5[3,1,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,58]  R7[1,58]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,58]  R7[1,58]  -400
     camion_n_en_comuna_c_dia_d[3,1,58]  R9[1,58]  1
     camion_n_en_comuna_c_dia_d[3,1,59]  R2[3,59]  1
     camion_n_en_comuna_c_dia_d[3,1,59]  R5[3,1,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,59]  R7[1,59]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,59]  R7[1,59]  -400
     camion_n_en_comuna_c_dia_d[3,1,59]  R9[1,59]  1
     camion_n_en_comuna_c_dia_d[3,1,60]  R2[3,60]  1
     camion_n_en_comuna_c_dia_d[3,1,60]  R5[3,1,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,60]  R7[1,60]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,60]  R7[1,60]  -400
     camion_n_en_comuna_c_dia_d[3,1,60]  R9[1,60]  1
     camion_n_en_comuna_c_dia_d[3,1,61]  R2[3,61]  1
     camion_n_en_comuna_c_dia_d[3,1,61]  R5[3,1,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,61]  R7[1,61]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,61]  R7[1,61]  -400
     camion_n_en_comuna_c_dia_d[3,1,61]  R9[1,61]  1
     camion_n_en_comuna_c_dia_d[3,1,62]  R2[3,62]  1
     camion_n_en_comuna_c_dia_d[3,1,62]  R5[3,1,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,62]  R7[1,62]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,62]  R7[1,62]  -400
     camion_n_en_comuna_c_dia_d[3,1,62]  R9[1,62]  1
     camion_n_en_comuna_c_dia_d[3,1,63]  R2[3,63]  1
     camion_n_en_comuna_c_dia_d[3,1,63]  R5[3,1,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,63]  R7[1,63]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,63]  R7[1,63]  -400
     camion_n_en_comuna_c_dia_d[3,1,63]  R9[1,63]  1
     camion_n_en_comuna_c_dia_d[3,1,64]  R2[3,64]  1
     camion_n_en_comuna_c_dia_d[3,1,64]  R5[3,1,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,64]  R7[1,64]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,64]  R7[1,64]  -400
     camion_n_en_comuna_c_dia_d[3,1,64]  R9[1,64]  1
     camion_n_en_comuna_c_dia_d[3,1,65]  R2[3,65]  1
     camion_n_en_comuna_c_dia_d[3,1,65]  R5[3,1,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,65]  R7[1,65]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,65]  R7[1,65]  -400
     camion_n_en_comuna_c_dia_d[3,1,65]  R9[1,65]  1
     camion_n_en_comuna_c_dia_d[3,1,66]  R2[3,66]  1
     camion_n_en_comuna_c_dia_d[3,1,66]  R5[3,1,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,66]  R7[1,66]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,66]  R7[1,66]  -400
     camion_n_en_comuna_c_dia_d[3,1,66]  R9[1,66]  1
     camion_n_en_comuna_c_dia_d[3,1,67]  R2[3,67]  1
     camion_n_en_comuna_c_dia_d[3,1,67]  R5[3,1,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,67]  R7[1,67]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,67]  R7[1,67]  -400
     camion_n_en_comuna_c_dia_d[3,1,67]  R9[1,67]  1
     camion_n_en_comuna_c_dia_d[3,1,68]  R2[3,68]  1
     camion_n_en_comuna_c_dia_d[3,1,68]  R5[3,1,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,68]  R7[1,68]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,68]  R7[1,68]  -400
     camion_n_en_comuna_c_dia_d[3,1,68]  R9[1,68]  1
     camion_n_en_comuna_c_dia_d[3,1,69]  R2[3,69]  1
     camion_n_en_comuna_c_dia_d[3,1,69]  R5[3,1,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,69]  R7[1,69]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,69]  R7[1,69]  -400
     camion_n_en_comuna_c_dia_d[3,1,69]  R9[1,69]  1
     camion_n_en_comuna_c_dia_d[3,1,70]  R2[3,70]  1
     camion_n_en_comuna_c_dia_d[3,1,70]  R5[3,1,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,70]  R7[1,70]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,70]  R7[1,70]  -400
     camion_n_en_comuna_c_dia_d[3,1,70]  R9[1,70]  1
     camion_n_en_comuna_c_dia_d[3,1,71]  R2[3,71]  1
     camion_n_en_comuna_c_dia_d[3,1,71]  R5[3,1,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,71]  R7[1,71]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,71]  R7[1,71]  -400
     camion_n_en_comuna_c_dia_d[3,1,71]  R9[1,71]  1
     camion_n_en_comuna_c_dia_d[3,1,72]  R2[3,72]  1
     camion_n_en_comuna_c_dia_d[3,1,72]  R5[3,1,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,72]  R7[1,72]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,72]  R7[1,72]  -400
     camion_n_en_comuna_c_dia_d[3,1,72]  R9[1,72]  1
     camion_n_en_comuna_c_dia_d[3,1,73]  R2[3,73]  1
     camion_n_en_comuna_c_dia_d[3,1,73]  R5[3,1,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,73]  R7[1,73]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,73]  R7[1,73]  -400
     camion_n_en_comuna_c_dia_d[3,1,73]  R9[1,73]  1
     camion_n_en_comuna_c_dia_d[3,1,74]  R2[3,74]  1
     camion_n_en_comuna_c_dia_d[3,1,74]  R5[3,1,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,74]  R7[1,74]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,74]  R7[1,74]  -400
     camion_n_en_comuna_c_dia_d[3,1,74]  R9[1,74]  1
     camion_n_en_comuna_c_dia_d[3,1,75]  R2[3,75]  1
     camion_n_en_comuna_c_dia_d[3,1,75]  R5[3,1,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,75]  R7[1,75]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,75]  R7[1,75]  -400
     camion_n_en_comuna_c_dia_d[3,1,75]  R9[1,75]  1
     camion_n_en_comuna_c_dia_d[3,1,76]  R2[3,76]  1
     camion_n_en_comuna_c_dia_d[3,1,76]  R5[3,1,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,76]  R7[1,76]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,76]  R7[1,76]  -400
     camion_n_en_comuna_c_dia_d[3,1,76]  R9[1,76]  1
     camion_n_en_comuna_c_dia_d[3,1,77]  R2[3,77]  1
     camion_n_en_comuna_c_dia_d[3,1,77]  R5[3,1,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,77]  R7[1,77]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,77]  R7[1,77]  -400
     camion_n_en_comuna_c_dia_d[3,1,77]  R9[1,77]  1
     camion_n_en_comuna_c_dia_d[3,1,78]  R2[3,78]  1
     camion_n_en_comuna_c_dia_d[3,1,78]  R5[3,1,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,78]  R7[1,78]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,78]  R7[1,78]  -400
     camion_n_en_comuna_c_dia_d[3,1,78]  R9[1,78]  1
     camion_n_en_comuna_c_dia_d[3,1,79]  R2[3,79]  1
     camion_n_en_comuna_c_dia_d[3,1,79]  R5[3,1,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,79]  R7[1,79]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,79]  R7[1,79]  -400
     camion_n_en_comuna_c_dia_d[3,1,79]  R9[1,79]  1
     camion_n_en_comuna_c_dia_d[3,1,80]  R2[3,80]  1
     camion_n_en_comuna_c_dia_d[3,1,80]  R5[3,1,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,80]  R7[1,80]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,80]  R7[1,80]  -400
     camion_n_en_comuna_c_dia_d[3,1,80]  R9[1,80]  1
     camion_n_en_comuna_c_dia_d[3,1,81]  R2[3,81]  1
     camion_n_en_comuna_c_dia_d[3,1,81]  R5[3,1,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,81]  R7[1,81]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,81]  R7[1,81]  -400
     camion_n_en_comuna_c_dia_d[3,1,81]  R9[1,81]  1
     camion_n_en_comuna_c_dia_d[3,1,82]  R2[3,82]  1
     camion_n_en_comuna_c_dia_d[3,1,82]  R5[3,1,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,82]  R7[1,82]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,82]  R7[1,82]  -400
     camion_n_en_comuna_c_dia_d[3,1,82]  R9[1,82]  1
     camion_n_en_comuna_c_dia_d[3,1,83]  R2[3,83]  1
     camion_n_en_comuna_c_dia_d[3,1,83]  R5[3,1,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,83]  R7[1,83]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,83]  R7[1,83]  -400
     camion_n_en_comuna_c_dia_d[3,1,83]  R9[1,83]  1
     camion_n_en_comuna_c_dia_d[3,1,84]  R2[3,84]  1
     camion_n_en_comuna_c_dia_d[3,1,84]  R5[3,1,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,84]  R7[1,84]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,84]  R7[1,84]  -400
     camion_n_en_comuna_c_dia_d[3,1,84]  R9[1,84]  1
     camion_n_en_comuna_c_dia_d[3,1,85]  R2[3,85]  1
     camion_n_en_comuna_c_dia_d[3,1,85]  R5[3,1,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,85]  R7[1,85]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,85]  R7[1,85]  -400
     camion_n_en_comuna_c_dia_d[3,1,85]  R9[1,85]  1
     camion_n_en_comuna_c_dia_d[3,1,86]  R2[3,86]  1
     camion_n_en_comuna_c_dia_d[3,1,86]  R5[3,1,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,86]  R7[1,86]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,86]  R7[1,86]  -400
     camion_n_en_comuna_c_dia_d[3,1,86]  R9[1,86]  1
     camion_n_en_comuna_c_dia_d[3,1,87]  R2[3,87]  1
     camion_n_en_comuna_c_dia_d[3,1,87]  R5[3,1,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,87]  R7[1,87]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,87]  R7[1,87]  -400
     camion_n_en_comuna_c_dia_d[3,1,87]  R9[1,87]  1
     camion_n_en_comuna_c_dia_d[3,1,88]  R2[3,88]  1
     camion_n_en_comuna_c_dia_d[3,1,88]  R5[3,1,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,88]  R7[1,88]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,88]  R7[1,88]  -400
     camion_n_en_comuna_c_dia_d[3,1,88]  R9[1,88]  1
     camion_n_en_comuna_c_dia_d[3,1,89]  R2[3,89]  1
     camion_n_en_comuna_c_dia_d[3,1,89]  R5[3,1,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,89]  R7[1,89]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,89]  R7[1,89]  -400
     camion_n_en_comuna_c_dia_d[3,1,89]  R9[1,89]  1
     camion_n_en_comuna_c_dia_d[3,1,90]  R2[3,90]  1
     camion_n_en_comuna_c_dia_d[3,1,90]  R5[3,1,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,90]  R7[1,90]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,90]  R7[1,90]  -400
     camion_n_en_comuna_c_dia_d[3,1,90]  R9[1,90]  1
     camion_n_en_comuna_c_dia_d[3,1,91]  R2[3,91]  1
     camion_n_en_comuna_c_dia_d[3,1,91]  R5[3,1,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,91]  R7[1,91]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,91]  R7[1,91]  -400
     camion_n_en_comuna_c_dia_d[3,1,91]  R9[1,91]  1
     camion_n_en_comuna_c_dia_d[3,1,92]  R2[3,92]  1
     camion_n_en_comuna_c_dia_d[3,1,92]  R5[3,1,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,92]  R7[1,92]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,92]  R7[1,92]  -400
     camion_n_en_comuna_c_dia_d[3,1,92]  R9[1,92]  1
     camion_n_en_comuna_c_dia_d[3,1,93]  R2[3,93]  1
     camion_n_en_comuna_c_dia_d[3,1,93]  R5[3,1,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,93]  R7[1,93]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,93]  R7[1,93]  -400
     camion_n_en_comuna_c_dia_d[3,1,93]  R9[1,93]  1
     camion_n_en_comuna_c_dia_d[3,1,94]  R2[3,94]  1
     camion_n_en_comuna_c_dia_d[3,1,94]  R5[3,1,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,94]  R7[1,94]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,94]  R7[1,94]  -400
     camion_n_en_comuna_c_dia_d[3,1,94]  R9[1,94]  1
     camion_n_en_comuna_c_dia_d[3,1,95]  R2[3,95]  1
     camion_n_en_comuna_c_dia_d[3,1,95]  R5[3,1,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,95]  R7[1,95]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,95]  R7[1,95]  -400
     camion_n_en_comuna_c_dia_d[3,1,95]  R9[1,95]  1
     camion_n_en_comuna_c_dia_d[3,1,96]  R2[3,96]  1
     camion_n_en_comuna_c_dia_d[3,1,96]  R5[3,1,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,96]  R7[1,96]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,96]  R7[1,96]  -400
     camion_n_en_comuna_c_dia_d[3,1,96]  R9[1,96]  1
     camion_n_en_comuna_c_dia_d[3,1,97]  R2[3,97]  1
     camion_n_en_comuna_c_dia_d[3,1,97]  R5[3,1,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,97]  R7[1,97]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,97]  R7[1,97]  -400
     camion_n_en_comuna_c_dia_d[3,1,97]  R9[1,97]  1
     camion_n_en_comuna_c_dia_d[3,1,98]  R2[3,98]  1
     camion_n_en_comuna_c_dia_d[3,1,98]  R5[3,1,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,98]  R7[1,98]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,98]  R7[1,98]  -400
     camion_n_en_comuna_c_dia_d[3,1,98]  R9[1,98]  1
     camion_n_en_comuna_c_dia_d[3,1,99]  R2[3,99]  1
     camion_n_en_comuna_c_dia_d[3,1,99]  R5[3,1,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,1,99]  R7[1,99]  -1000
+    camion_n_en_comuna_c_dia_d[3,1,99]  R7[1,99]  -400
     camion_n_en_comuna_c_dia_d[3,1,99]  R9[1,99]  1
     camion_n_en_comuna_c_dia_d[3,2,0]  R2[3,0]   1
     camion_n_en_comuna_c_dia_d[3,2,0]  R5[3,2,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,0]  R7[2,0]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,0]  R7[2,0]   -400
     camion_n_en_comuna_c_dia_d[3,2,0]  R9[2,0]   1
     camion_n_en_comuna_c_dia_d[3,2,1]  R2[3,1]   1
     camion_n_en_comuna_c_dia_d[3,2,1]  R5[3,2,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,1]  R7[2,1]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,1]  R7[2,1]   -400
     camion_n_en_comuna_c_dia_d[3,2,1]  R9[2,1]   1
     camion_n_en_comuna_c_dia_d[3,2,2]  R2[3,2]   1
     camion_n_en_comuna_c_dia_d[3,2,2]  R5[3,2,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,2]  R7[2,2]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,2]  R7[2,2]   -400
     camion_n_en_comuna_c_dia_d[3,2,2]  R9[2,2]   1
     camion_n_en_comuna_c_dia_d[3,2,3]  R2[3,3]   1
     camion_n_en_comuna_c_dia_d[3,2,3]  R5[3,2,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,3]  R7[2,3]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,3]  R7[2,3]   -400
     camion_n_en_comuna_c_dia_d[3,2,3]  R9[2,3]   1
     camion_n_en_comuna_c_dia_d[3,2,4]  R2[3,4]   1
     camion_n_en_comuna_c_dia_d[3,2,4]  R5[3,2,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,4]  R7[2,4]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,4]  R7[2,4]   -400
     camion_n_en_comuna_c_dia_d[3,2,4]  R9[2,4]   1
     camion_n_en_comuna_c_dia_d[3,2,5]  R2[3,5]   1
     camion_n_en_comuna_c_dia_d[3,2,5]  R5[3,2,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,5]  R7[2,5]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,5]  R7[2,5]   -400
     camion_n_en_comuna_c_dia_d[3,2,5]  R9[2,5]   1
     camion_n_en_comuna_c_dia_d[3,2,6]  R2[3,6]   1
     camion_n_en_comuna_c_dia_d[3,2,6]  R5[3,2,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,6]  R7[2,6]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,6]  R7[2,6]   -400
     camion_n_en_comuna_c_dia_d[3,2,6]  R9[2,6]   1
     camion_n_en_comuna_c_dia_d[3,2,7]  R2[3,7]   1
     camion_n_en_comuna_c_dia_d[3,2,7]  R5[3,2,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,7]  R7[2,7]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,7]  R7[2,7]   -400
     camion_n_en_comuna_c_dia_d[3,2,7]  R9[2,7]   1
     camion_n_en_comuna_c_dia_d[3,2,8]  R2[3,8]   1
     camion_n_en_comuna_c_dia_d[3,2,8]  R5[3,2,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,8]  R7[2,8]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,8]  R7[2,8]   -400
     camion_n_en_comuna_c_dia_d[3,2,8]  R9[2,8]   1
     camion_n_en_comuna_c_dia_d[3,2,9]  R2[3,9]   1
     camion_n_en_comuna_c_dia_d[3,2,9]  R5[3,2,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,9]  R7[2,9]   -1000
+    camion_n_en_comuna_c_dia_d[3,2,9]  R7[2,9]   -400
     camion_n_en_comuna_c_dia_d[3,2,9]  R9[2,9]   1
     camion_n_en_comuna_c_dia_d[3,2,10]  R2[3,10]  1
     camion_n_en_comuna_c_dia_d[3,2,10]  R5[3,2,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,10]  R7[2,10]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,10]  R7[2,10]  -400
     camion_n_en_comuna_c_dia_d[3,2,10]  R9[2,10]  1
     camion_n_en_comuna_c_dia_d[3,2,11]  R2[3,11]  1
     camion_n_en_comuna_c_dia_d[3,2,11]  R5[3,2,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,11]  R7[2,11]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,11]  R7[2,11]  -400
     camion_n_en_comuna_c_dia_d[3,2,11]  R9[2,11]  1
     camion_n_en_comuna_c_dia_d[3,2,12]  R2[3,12]  1
     camion_n_en_comuna_c_dia_d[3,2,12]  R5[3,2,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,12]  R7[2,12]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,12]  R7[2,12]  -400
     camion_n_en_comuna_c_dia_d[3,2,12]  R9[2,12]  1
     camion_n_en_comuna_c_dia_d[3,2,13]  R2[3,13]  1
     camion_n_en_comuna_c_dia_d[3,2,13]  R5[3,2,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,13]  R7[2,13]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,13]  R7[2,13]  -400
     camion_n_en_comuna_c_dia_d[3,2,13]  R9[2,13]  1
     camion_n_en_comuna_c_dia_d[3,2,14]  R2[3,14]  1
     camion_n_en_comuna_c_dia_d[3,2,14]  R5[3,2,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,14]  R7[2,14]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,14]  R7[2,14]  -400
     camion_n_en_comuna_c_dia_d[3,2,14]  R9[2,14]  1
     camion_n_en_comuna_c_dia_d[3,2,15]  R2[3,15]  1
     camion_n_en_comuna_c_dia_d[3,2,15]  R5[3,2,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,15]  R7[2,15]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,15]  R7[2,15]  -400
     camion_n_en_comuna_c_dia_d[3,2,15]  R9[2,15]  1
     camion_n_en_comuna_c_dia_d[3,2,16]  R2[3,16]  1
     camion_n_en_comuna_c_dia_d[3,2,16]  R5[3,2,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,16]  R7[2,16]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,16]  R7[2,16]  -400
     camion_n_en_comuna_c_dia_d[3,2,16]  R9[2,16]  1
     camion_n_en_comuna_c_dia_d[3,2,17]  R2[3,17]  1
     camion_n_en_comuna_c_dia_d[3,2,17]  R5[3,2,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,17]  R7[2,17]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,17]  R7[2,17]  -400
     camion_n_en_comuna_c_dia_d[3,2,17]  R9[2,17]  1
     camion_n_en_comuna_c_dia_d[3,2,18]  R2[3,18]  1
     camion_n_en_comuna_c_dia_d[3,2,18]  R5[3,2,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,18]  R7[2,18]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,18]  R7[2,18]  -400
     camion_n_en_comuna_c_dia_d[3,2,18]  R9[2,18]  1
     camion_n_en_comuna_c_dia_d[3,2,19]  R2[3,19]  1
     camion_n_en_comuna_c_dia_d[3,2,19]  R5[3,2,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,19]  R7[2,19]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,19]  R7[2,19]  -400
     camion_n_en_comuna_c_dia_d[3,2,19]  R9[2,19]  1
     camion_n_en_comuna_c_dia_d[3,2,20]  R2[3,20]  1
     camion_n_en_comuna_c_dia_d[3,2,20]  R5[3,2,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,20]  R7[2,20]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,20]  R7[2,20]  -400
     camion_n_en_comuna_c_dia_d[3,2,20]  R9[2,20]  1
     camion_n_en_comuna_c_dia_d[3,2,21]  R2[3,21]  1
     camion_n_en_comuna_c_dia_d[3,2,21]  R5[3,2,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,21]  R7[2,21]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,21]  R7[2,21]  -400
     camion_n_en_comuna_c_dia_d[3,2,21]  R9[2,21]  1
     camion_n_en_comuna_c_dia_d[3,2,22]  R2[3,22]  1
     camion_n_en_comuna_c_dia_d[3,2,22]  R5[3,2,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,22]  R7[2,22]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,22]  R7[2,22]  -400
     camion_n_en_comuna_c_dia_d[3,2,22]  R9[2,22]  1
     camion_n_en_comuna_c_dia_d[3,2,23]  R2[3,23]  1
     camion_n_en_comuna_c_dia_d[3,2,23]  R5[3,2,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,23]  R7[2,23]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,23]  R7[2,23]  -400
     camion_n_en_comuna_c_dia_d[3,2,23]  R9[2,23]  1
     camion_n_en_comuna_c_dia_d[3,2,24]  R2[3,24]  1
     camion_n_en_comuna_c_dia_d[3,2,24]  R5[3,2,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,24]  R7[2,24]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,24]  R7[2,24]  -400
     camion_n_en_comuna_c_dia_d[3,2,24]  R9[2,24]  1
     camion_n_en_comuna_c_dia_d[3,2,25]  R2[3,25]  1
     camion_n_en_comuna_c_dia_d[3,2,25]  R5[3,2,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,25]  R7[2,25]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,25]  R7[2,25]  -400
     camion_n_en_comuna_c_dia_d[3,2,25]  R9[2,25]  1
     camion_n_en_comuna_c_dia_d[3,2,26]  R2[3,26]  1
     camion_n_en_comuna_c_dia_d[3,2,26]  R5[3,2,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,26]  R7[2,26]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,26]  R7[2,26]  -400
     camion_n_en_comuna_c_dia_d[3,2,26]  R9[2,26]  1
     camion_n_en_comuna_c_dia_d[3,2,27]  R2[3,27]  1
     camion_n_en_comuna_c_dia_d[3,2,27]  R5[3,2,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,27]  R7[2,27]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,27]  R7[2,27]  -400
     camion_n_en_comuna_c_dia_d[3,2,27]  R9[2,27]  1
     camion_n_en_comuna_c_dia_d[3,2,28]  R2[3,28]  1
     camion_n_en_comuna_c_dia_d[3,2,28]  R5[3,2,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,28]  R7[2,28]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,28]  R7[2,28]  -400
     camion_n_en_comuna_c_dia_d[3,2,28]  R9[2,28]  1
     camion_n_en_comuna_c_dia_d[3,2,29]  R2[3,29]  1
     camion_n_en_comuna_c_dia_d[3,2,29]  R5[3,2,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,29]  R7[2,29]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,29]  R7[2,29]  -400
     camion_n_en_comuna_c_dia_d[3,2,29]  R9[2,29]  1
     camion_n_en_comuna_c_dia_d[3,2,30]  R2[3,30]  1
     camion_n_en_comuna_c_dia_d[3,2,30]  R5[3,2,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,30]  R7[2,30]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,30]  R7[2,30]  -400
     camion_n_en_comuna_c_dia_d[3,2,30]  R9[2,30]  1
     camion_n_en_comuna_c_dia_d[3,2,31]  R2[3,31]  1
     camion_n_en_comuna_c_dia_d[3,2,31]  R5[3,2,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,31]  R7[2,31]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,31]  R7[2,31]  -400
     camion_n_en_comuna_c_dia_d[3,2,31]  R9[2,31]  1
     camion_n_en_comuna_c_dia_d[3,2,32]  R2[3,32]  1
     camion_n_en_comuna_c_dia_d[3,2,32]  R5[3,2,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,32]  R7[2,32]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,32]  R7[2,32]  -400
     camion_n_en_comuna_c_dia_d[3,2,32]  R9[2,32]  1
     camion_n_en_comuna_c_dia_d[3,2,33]  R2[3,33]  1
     camion_n_en_comuna_c_dia_d[3,2,33]  R5[3,2,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,33]  R7[2,33]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,33]  R7[2,33]  -400
     camion_n_en_comuna_c_dia_d[3,2,33]  R9[2,33]  1
     camion_n_en_comuna_c_dia_d[3,2,34]  R2[3,34]  1
     camion_n_en_comuna_c_dia_d[3,2,34]  R5[3,2,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,34]  R7[2,34]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,34]  R7[2,34]  -400
     camion_n_en_comuna_c_dia_d[3,2,34]  R9[2,34]  1
     camion_n_en_comuna_c_dia_d[3,2,35]  R2[3,35]  1
     camion_n_en_comuna_c_dia_d[3,2,35]  R5[3,2,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,35]  R7[2,35]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,35]  R7[2,35]  -400
     camion_n_en_comuna_c_dia_d[3,2,35]  R9[2,35]  1
     camion_n_en_comuna_c_dia_d[3,2,36]  R2[3,36]  1
     camion_n_en_comuna_c_dia_d[3,2,36]  R5[3,2,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,36]  R7[2,36]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,36]  R7[2,36]  -400
     camion_n_en_comuna_c_dia_d[3,2,36]  R9[2,36]  1
     camion_n_en_comuna_c_dia_d[3,2,37]  R2[3,37]  1
     camion_n_en_comuna_c_dia_d[3,2,37]  R5[3,2,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,37]  R7[2,37]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,37]  R7[2,37]  -400
     camion_n_en_comuna_c_dia_d[3,2,37]  R9[2,37]  1
     camion_n_en_comuna_c_dia_d[3,2,38]  R2[3,38]  1
     camion_n_en_comuna_c_dia_d[3,2,38]  R5[3,2,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,38]  R7[2,38]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,38]  R7[2,38]  -400
     camion_n_en_comuna_c_dia_d[3,2,38]  R9[2,38]  1
     camion_n_en_comuna_c_dia_d[3,2,39]  R2[3,39]  1
     camion_n_en_comuna_c_dia_d[3,2,39]  R5[3,2,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,39]  R7[2,39]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,39]  R7[2,39]  -400
     camion_n_en_comuna_c_dia_d[3,2,39]  R9[2,39]  1
     camion_n_en_comuna_c_dia_d[3,2,40]  R2[3,40]  1
     camion_n_en_comuna_c_dia_d[3,2,40]  R5[3,2,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,40]  R7[2,40]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,40]  R7[2,40]  -400
     camion_n_en_comuna_c_dia_d[3,2,40]  R9[2,40]  1
     camion_n_en_comuna_c_dia_d[3,2,41]  R2[3,41]  1
     camion_n_en_comuna_c_dia_d[3,2,41]  R5[3,2,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,41]  R7[2,41]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,41]  R7[2,41]  -400
     camion_n_en_comuna_c_dia_d[3,2,41]  R9[2,41]  1
     camion_n_en_comuna_c_dia_d[3,2,42]  R2[3,42]  1
     camion_n_en_comuna_c_dia_d[3,2,42]  R5[3,2,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,42]  R7[2,42]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,42]  R7[2,42]  -400
     camion_n_en_comuna_c_dia_d[3,2,42]  R9[2,42]  1
     camion_n_en_comuna_c_dia_d[3,2,43]  R2[3,43]  1
     camion_n_en_comuna_c_dia_d[3,2,43]  R5[3,2,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,43]  R7[2,43]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,43]  R7[2,43]  -400
     camion_n_en_comuna_c_dia_d[3,2,43]  R9[2,43]  1
     camion_n_en_comuna_c_dia_d[3,2,44]  R2[3,44]  1
     camion_n_en_comuna_c_dia_d[3,2,44]  R5[3,2,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,44]  R7[2,44]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,44]  R7[2,44]  -400
     camion_n_en_comuna_c_dia_d[3,2,44]  R9[2,44]  1
     camion_n_en_comuna_c_dia_d[3,2,45]  R2[3,45]  1
     camion_n_en_comuna_c_dia_d[3,2,45]  R5[3,2,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,45]  R7[2,45]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,45]  R7[2,45]  -400
     camion_n_en_comuna_c_dia_d[3,2,45]  R9[2,45]  1
     camion_n_en_comuna_c_dia_d[3,2,46]  R2[3,46]  1
     camion_n_en_comuna_c_dia_d[3,2,46]  R5[3,2,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,46]  R7[2,46]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,46]  R7[2,46]  -400
     camion_n_en_comuna_c_dia_d[3,2,46]  R9[2,46]  1
     camion_n_en_comuna_c_dia_d[3,2,47]  R2[3,47]  1
     camion_n_en_comuna_c_dia_d[3,2,47]  R5[3,2,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,47]  R7[2,47]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,47]  R7[2,47]  -400
     camion_n_en_comuna_c_dia_d[3,2,47]  R9[2,47]  1
     camion_n_en_comuna_c_dia_d[3,2,48]  R2[3,48]  1
     camion_n_en_comuna_c_dia_d[3,2,48]  R5[3,2,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,48]  R7[2,48]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,48]  R7[2,48]  -400
     camion_n_en_comuna_c_dia_d[3,2,48]  R9[2,48]  1
     camion_n_en_comuna_c_dia_d[3,2,49]  R2[3,49]  1
     camion_n_en_comuna_c_dia_d[3,2,49]  R5[3,2,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,49]  R7[2,49]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,49]  R7[2,49]  -400
     camion_n_en_comuna_c_dia_d[3,2,49]  R9[2,49]  1
     camion_n_en_comuna_c_dia_d[3,2,50]  R2[3,50]  1
     camion_n_en_comuna_c_dia_d[3,2,50]  R5[3,2,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,50]  R7[2,50]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,50]  R7[2,50]  -400
     camion_n_en_comuna_c_dia_d[3,2,50]  R9[2,50]  1
     camion_n_en_comuna_c_dia_d[3,2,51]  R2[3,51]  1
     camion_n_en_comuna_c_dia_d[3,2,51]  R5[3,2,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,51]  R7[2,51]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,51]  R7[2,51]  -400
     camion_n_en_comuna_c_dia_d[3,2,51]  R9[2,51]  1
     camion_n_en_comuna_c_dia_d[3,2,52]  R2[3,52]  1
     camion_n_en_comuna_c_dia_d[3,2,52]  R5[3,2,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,52]  R7[2,52]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,52]  R7[2,52]  -400
     camion_n_en_comuna_c_dia_d[3,2,52]  R9[2,52]  1
     camion_n_en_comuna_c_dia_d[3,2,53]  R2[3,53]  1
     camion_n_en_comuna_c_dia_d[3,2,53]  R5[3,2,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,53]  R7[2,53]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,53]  R7[2,53]  -400
     camion_n_en_comuna_c_dia_d[3,2,53]  R9[2,53]  1
     camion_n_en_comuna_c_dia_d[3,2,54]  R2[3,54]  1
     camion_n_en_comuna_c_dia_d[3,2,54]  R5[3,2,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,54]  R7[2,54]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,54]  R7[2,54]  -400
     camion_n_en_comuna_c_dia_d[3,2,54]  R9[2,54]  1
     camion_n_en_comuna_c_dia_d[3,2,55]  R2[3,55]  1
     camion_n_en_comuna_c_dia_d[3,2,55]  R5[3,2,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,55]  R7[2,55]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,55]  R7[2,55]  -400
     camion_n_en_comuna_c_dia_d[3,2,55]  R9[2,55]  1
     camion_n_en_comuna_c_dia_d[3,2,56]  R2[3,56]  1
     camion_n_en_comuna_c_dia_d[3,2,56]  R5[3,2,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,56]  R7[2,56]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,56]  R7[2,56]  -400
     camion_n_en_comuna_c_dia_d[3,2,56]  R9[2,56]  1
     camion_n_en_comuna_c_dia_d[3,2,57]  R2[3,57]  1
     camion_n_en_comuna_c_dia_d[3,2,57]  R5[3,2,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,57]  R7[2,57]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,57]  R7[2,57]  -400
     camion_n_en_comuna_c_dia_d[3,2,57]  R9[2,57]  1
     camion_n_en_comuna_c_dia_d[3,2,58]  R2[3,58]  1
     camion_n_en_comuna_c_dia_d[3,2,58]  R5[3,2,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,58]  R7[2,58]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,58]  R7[2,58]  -400
     camion_n_en_comuna_c_dia_d[3,2,58]  R9[2,58]  1
     camion_n_en_comuna_c_dia_d[3,2,59]  R2[3,59]  1
     camion_n_en_comuna_c_dia_d[3,2,59]  R5[3,2,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,59]  R7[2,59]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,59]  R7[2,59]  -400
     camion_n_en_comuna_c_dia_d[3,2,59]  R9[2,59]  1
     camion_n_en_comuna_c_dia_d[3,2,60]  R2[3,60]  1
     camion_n_en_comuna_c_dia_d[3,2,60]  R5[3,2,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,60]  R7[2,60]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,60]  R7[2,60]  -400
     camion_n_en_comuna_c_dia_d[3,2,60]  R9[2,60]  1
     camion_n_en_comuna_c_dia_d[3,2,61]  R2[3,61]  1
     camion_n_en_comuna_c_dia_d[3,2,61]  R5[3,2,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,61]  R7[2,61]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,61]  R7[2,61]  -400
     camion_n_en_comuna_c_dia_d[3,2,61]  R9[2,61]  1
     camion_n_en_comuna_c_dia_d[3,2,62]  R2[3,62]  1
     camion_n_en_comuna_c_dia_d[3,2,62]  R5[3,2,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,62]  R7[2,62]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,62]  R7[2,62]  -400
     camion_n_en_comuna_c_dia_d[3,2,62]  R9[2,62]  1
     camion_n_en_comuna_c_dia_d[3,2,63]  R2[3,63]  1
     camion_n_en_comuna_c_dia_d[3,2,63]  R5[3,2,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,63]  R7[2,63]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,63]  R7[2,63]  -400
     camion_n_en_comuna_c_dia_d[3,2,63]  R9[2,63]  1
     camion_n_en_comuna_c_dia_d[3,2,64]  R2[3,64]  1
     camion_n_en_comuna_c_dia_d[3,2,64]  R5[3,2,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,64]  R7[2,64]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,64]  R7[2,64]  -400
     camion_n_en_comuna_c_dia_d[3,2,64]  R9[2,64]  1
     camion_n_en_comuna_c_dia_d[3,2,65]  R2[3,65]  1
     camion_n_en_comuna_c_dia_d[3,2,65]  R5[3,2,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,65]  R7[2,65]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,65]  R7[2,65]  -400
     camion_n_en_comuna_c_dia_d[3,2,65]  R9[2,65]  1
     camion_n_en_comuna_c_dia_d[3,2,66]  R2[3,66]  1
     camion_n_en_comuna_c_dia_d[3,2,66]  R5[3,2,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,66]  R7[2,66]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,66]  R7[2,66]  -400
     camion_n_en_comuna_c_dia_d[3,2,66]  R9[2,66]  1
     camion_n_en_comuna_c_dia_d[3,2,67]  R2[3,67]  1
     camion_n_en_comuna_c_dia_d[3,2,67]  R5[3,2,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,67]  R7[2,67]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,67]  R7[2,67]  -400
     camion_n_en_comuna_c_dia_d[3,2,67]  R9[2,67]  1
     camion_n_en_comuna_c_dia_d[3,2,68]  R2[3,68]  1
     camion_n_en_comuna_c_dia_d[3,2,68]  R5[3,2,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,68]  R7[2,68]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,68]  R7[2,68]  -400
     camion_n_en_comuna_c_dia_d[3,2,68]  R9[2,68]  1
     camion_n_en_comuna_c_dia_d[3,2,69]  R2[3,69]  1
     camion_n_en_comuna_c_dia_d[3,2,69]  R5[3,2,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,69]  R7[2,69]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,69]  R7[2,69]  -400
     camion_n_en_comuna_c_dia_d[3,2,69]  R9[2,69]  1
     camion_n_en_comuna_c_dia_d[3,2,70]  R2[3,70]  1
     camion_n_en_comuna_c_dia_d[3,2,70]  R5[3,2,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,70]  R7[2,70]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,70]  R7[2,70]  -400
     camion_n_en_comuna_c_dia_d[3,2,70]  R9[2,70]  1
     camion_n_en_comuna_c_dia_d[3,2,71]  R2[3,71]  1
     camion_n_en_comuna_c_dia_d[3,2,71]  R5[3,2,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,71]  R7[2,71]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,71]  R7[2,71]  -400
     camion_n_en_comuna_c_dia_d[3,2,71]  R9[2,71]  1
     camion_n_en_comuna_c_dia_d[3,2,72]  R2[3,72]  1
     camion_n_en_comuna_c_dia_d[3,2,72]  R5[3,2,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,72]  R7[2,72]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,72]  R7[2,72]  -400
     camion_n_en_comuna_c_dia_d[3,2,72]  R9[2,72]  1
     camion_n_en_comuna_c_dia_d[3,2,73]  R2[3,73]  1
     camion_n_en_comuna_c_dia_d[3,2,73]  R5[3,2,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,73]  R7[2,73]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,73]  R7[2,73]  -400
     camion_n_en_comuna_c_dia_d[3,2,73]  R9[2,73]  1
     camion_n_en_comuna_c_dia_d[3,2,74]  R2[3,74]  1
     camion_n_en_comuna_c_dia_d[3,2,74]  R5[3,2,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,74]  R7[2,74]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,74]  R7[2,74]  -400
     camion_n_en_comuna_c_dia_d[3,2,74]  R9[2,74]  1
     camion_n_en_comuna_c_dia_d[3,2,75]  R2[3,75]  1
     camion_n_en_comuna_c_dia_d[3,2,75]  R5[3,2,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,75]  R7[2,75]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,75]  R7[2,75]  -400
     camion_n_en_comuna_c_dia_d[3,2,75]  R9[2,75]  1
     camion_n_en_comuna_c_dia_d[3,2,76]  R2[3,76]  1
     camion_n_en_comuna_c_dia_d[3,2,76]  R5[3,2,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,76]  R7[2,76]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,76]  R7[2,76]  -400
     camion_n_en_comuna_c_dia_d[3,2,76]  R9[2,76]  1
     camion_n_en_comuna_c_dia_d[3,2,77]  R2[3,77]  1
     camion_n_en_comuna_c_dia_d[3,2,77]  R5[3,2,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,77]  R7[2,77]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,77]  R7[2,77]  -400
     camion_n_en_comuna_c_dia_d[3,2,77]  R9[2,77]  1
     camion_n_en_comuna_c_dia_d[3,2,78]  R2[3,78]  1
     camion_n_en_comuna_c_dia_d[3,2,78]  R5[3,2,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,78]  R7[2,78]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,78]  R7[2,78]  -400
     camion_n_en_comuna_c_dia_d[3,2,78]  R9[2,78]  1
     camion_n_en_comuna_c_dia_d[3,2,79]  R2[3,79]  1
     camion_n_en_comuna_c_dia_d[3,2,79]  R5[3,2,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,79]  R7[2,79]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,79]  R7[2,79]  -400
     camion_n_en_comuna_c_dia_d[3,2,79]  R9[2,79]  1
     camion_n_en_comuna_c_dia_d[3,2,80]  R2[3,80]  1
     camion_n_en_comuna_c_dia_d[3,2,80]  R5[3,2,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,80]  R7[2,80]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,80]  R7[2,80]  -400
     camion_n_en_comuna_c_dia_d[3,2,80]  R9[2,80]  1
     camion_n_en_comuna_c_dia_d[3,2,81]  R2[3,81]  1
     camion_n_en_comuna_c_dia_d[3,2,81]  R5[3,2,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,81]  R7[2,81]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,81]  R7[2,81]  -400
     camion_n_en_comuna_c_dia_d[3,2,81]  R9[2,81]  1
     camion_n_en_comuna_c_dia_d[3,2,82]  R2[3,82]  1
     camion_n_en_comuna_c_dia_d[3,2,82]  R5[3,2,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,82]  R7[2,82]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,82]  R7[2,82]  -400
     camion_n_en_comuna_c_dia_d[3,2,82]  R9[2,82]  1
     camion_n_en_comuna_c_dia_d[3,2,83]  R2[3,83]  1
     camion_n_en_comuna_c_dia_d[3,2,83]  R5[3,2,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,83]  R7[2,83]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,83]  R7[2,83]  -400
     camion_n_en_comuna_c_dia_d[3,2,83]  R9[2,83]  1
     camion_n_en_comuna_c_dia_d[3,2,84]  R2[3,84]  1
     camion_n_en_comuna_c_dia_d[3,2,84]  R5[3,2,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,84]  R7[2,84]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,84]  R7[2,84]  -400
     camion_n_en_comuna_c_dia_d[3,2,84]  R9[2,84]  1
     camion_n_en_comuna_c_dia_d[3,2,85]  R2[3,85]  1
     camion_n_en_comuna_c_dia_d[3,2,85]  R5[3,2,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,85]  R7[2,85]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,85]  R7[2,85]  -400
     camion_n_en_comuna_c_dia_d[3,2,85]  R9[2,85]  1
     camion_n_en_comuna_c_dia_d[3,2,86]  R2[3,86]  1
     camion_n_en_comuna_c_dia_d[3,2,86]  R5[3,2,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,86]  R7[2,86]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,86]  R7[2,86]  -400
     camion_n_en_comuna_c_dia_d[3,2,86]  R9[2,86]  1
     camion_n_en_comuna_c_dia_d[3,2,87]  R2[3,87]  1
     camion_n_en_comuna_c_dia_d[3,2,87]  R5[3,2,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,87]  R7[2,87]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,87]  R7[2,87]  -400
     camion_n_en_comuna_c_dia_d[3,2,87]  R9[2,87]  1
     camion_n_en_comuna_c_dia_d[3,2,88]  R2[3,88]  1
     camion_n_en_comuna_c_dia_d[3,2,88]  R5[3,2,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,88]  R7[2,88]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,88]  R7[2,88]  -400
     camion_n_en_comuna_c_dia_d[3,2,88]  R9[2,88]  1
     camion_n_en_comuna_c_dia_d[3,2,89]  R2[3,89]  1
     camion_n_en_comuna_c_dia_d[3,2,89]  R5[3,2,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,89]  R7[2,89]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,89]  R7[2,89]  -400
     camion_n_en_comuna_c_dia_d[3,2,89]  R9[2,89]  1
     camion_n_en_comuna_c_dia_d[3,2,90]  R2[3,90]  1
     camion_n_en_comuna_c_dia_d[3,2,90]  R5[3,2,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,90]  R7[2,90]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,90]  R7[2,90]  -400
     camion_n_en_comuna_c_dia_d[3,2,90]  R9[2,90]  1
     camion_n_en_comuna_c_dia_d[3,2,91]  R2[3,91]  1
     camion_n_en_comuna_c_dia_d[3,2,91]  R5[3,2,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,91]  R7[2,91]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,91]  R7[2,91]  -400
     camion_n_en_comuna_c_dia_d[3,2,91]  R9[2,91]  1
     camion_n_en_comuna_c_dia_d[3,2,92]  R2[3,92]  1
     camion_n_en_comuna_c_dia_d[3,2,92]  R5[3,2,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,92]  R7[2,92]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,92]  R7[2,92]  -400
     camion_n_en_comuna_c_dia_d[3,2,92]  R9[2,92]  1
     camion_n_en_comuna_c_dia_d[3,2,93]  R2[3,93]  1
     camion_n_en_comuna_c_dia_d[3,2,93]  R5[3,2,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,93]  R7[2,93]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,93]  R7[2,93]  -400
     camion_n_en_comuna_c_dia_d[3,2,93]  R9[2,93]  1
     camion_n_en_comuna_c_dia_d[3,2,94]  R2[3,94]  1
     camion_n_en_comuna_c_dia_d[3,2,94]  R5[3,2,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,94]  R7[2,94]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,94]  R7[2,94]  -400
     camion_n_en_comuna_c_dia_d[3,2,94]  R9[2,94]  1
     camion_n_en_comuna_c_dia_d[3,2,95]  R2[3,95]  1
     camion_n_en_comuna_c_dia_d[3,2,95]  R5[3,2,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,95]  R7[2,95]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,95]  R7[2,95]  -400
     camion_n_en_comuna_c_dia_d[3,2,95]  R9[2,95]  1
     camion_n_en_comuna_c_dia_d[3,2,96]  R2[3,96]  1
     camion_n_en_comuna_c_dia_d[3,2,96]  R5[3,2,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,96]  R7[2,96]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,96]  R7[2,96]  -400
     camion_n_en_comuna_c_dia_d[3,2,96]  R9[2,96]  1
     camion_n_en_comuna_c_dia_d[3,2,97]  R2[3,97]  1
     camion_n_en_comuna_c_dia_d[3,2,97]  R5[3,2,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,97]  R7[2,97]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,97]  R7[2,97]  -400
     camion_n_en_comuna_c_dia_d[3,2,97]  R9[2,97]  1
     camion_n_en_comuna_c_dia_d[3,2,98]  R2[3,98]  1
     camion_n_en_comuna_c_dia_d[3,2,98]  R5[3,2,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,98]  R7[2,98]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,98]  R7[2,98]  -400
     camion_n_en_comuna_c_dia_d[3,2,98]  R9[2,98]  1
     camion_n_en_comuna_c_dia_d[3,2,99]  R2[3,99]  1
     camion_n_en_comuna_c_dia_d[3,2,99]  R5[3,2,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,2,99]  R7[2,99]  -1000
+    camion_n_en_comuna_c_dia_d[3,2,99]  R7[2,99]  -400
     camion_n_en_comuna_c_dia_d[3,2,99]  R9[2,99]  1
     camion_n_en_comuna_c_dia_d[3,3,0]  R2[3,0]   1
     camion_n_en_comuna_c_dia_d[3,3,0]  R5[3,3,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,0]  R7[3,0]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,0]  R7[3,0]   -400
     camion_n_en_comuna_c_dia_d[3,3,0]  R9[3,0]   1
     camion_n_en_comuna_c_dia_d[3,3,1]  R2[3,1]   1
     camion_n_en_comuna_c_dia_d[3,3,1]  R5[3,3,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,1]  R7[3,1]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,1]  R7[3,1]   -400
     camion_n_en_comuna_c_dia_d[3,3,1]  R9[3,1]   1
     camion_n_en_comuna_c_dia_d[3,3,2]  R2[3,2]   1
     camion_n_en_comuna_c_dia_d[3,3,2]  R5[3,3,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,2]  R7[3,2]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,2]  R7[3,2]   -400
     camion_n_en_comuna_c_dia_d[3,3,2]  R9[3,2]   1
     camion_n_en_comuna_c_dia_d[3,3,3]  R2[3,3]   1
     camion_n_en_comuna_c_dia_d[3,3,3]  R5[3,3,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,3]  R7[3,3]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,3]  R7[3,3]   -400
     camion_n_en_comuna_c_dia_d[3,3,3]  R9[3,3]   1
     camion_n_en_comuna_c_dia_d[3,3,4]  R2[3,4]   1
     camion_n_en_comuna_c_dia_d[3,3,4]  R5[3,3,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,4]  R7[3,4]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,4]  R7[3,4]   -400
     camion_n_en_comuna_c_dia_d[3,3,4]  R9[3,4]   1
     camion_n_en_comuna_c_dia_d[3,3,5]  R2[3,5]   1
     camion_n_en_comuna_c_dia_d[3,3,5]  R5[3,3,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,5]  R7[3,5]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,5]  R7[3,5]   -400
     camion_n_en_comuna_c_dia_d[3,3,5]  R9[3,5]   1
     camion_n_en_comuna_c_dia_d[3,3,6]  R2[3,6]   1
     camion_n_en_comuna_c_dia_d[3,3,6]  R5[3,3,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,6]  R7[3,6]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,6]  R7[3,6]   -400
     camion_n_en_comuna_c_dia_d[3,3,6]  R9[3,6]   1
     camion_n_en_comuna_c_dia_d[3,3,7]  R2[3,7]   1
     camion_n_en_comuna_c_dia_d[3,3,7]  R5[3,3,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,7]  R7[3,7]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,7]  R7[3,7]   -400
     camion_n_en_comuna_c_dia_d[3,3,7]  R9[3,7]   1
     camion_n_en_comuna_c_dia_d[3,3,8]  R2[3,8]   1
     camion_n_en_comuna_c_dia_d[3,3,8]  R5[3,3,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,8]  R7[3,8]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,8]  R7[3,8]   -400
     camion_n_en_comuna_c_dia_d[3,3,8]  R9[3,8]   1
     camion_n_en_comuna_c_dia_d[3,3,9]  R2[3,9]   1
     camion_n_en_comuna_c_dia_d[3,3,9]  R5[3,3,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,9]  R7[3,9]   -1000
+    camion_n_en_comuna_c_dia_d[3,3,9]  R7[3,9]   -400
     camion_n_en_comuna_c_dia_d[3,3,9]  R9[3,9]   1
     camion_n_en_comuna_c_dia_d[3,3,10]  R2[3,10]  1
     camion_n_en_comuna_c_dia_d[3,3,10]  R5[3,3,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,10]  R7[3,10]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,10]  R7[3,10]  -400
     camion_n_en_comuna_c_dia_d[3,3,10]  R9[3,10]  1
     camion_n_en_comuna_c_dia_d[3,3,11]  R2[3,11]  1
     camion_n_en_comuna_c_dia_d[3,3,11]  R5[3,3,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,11]  R7[3,11]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,11]  R7[3,11]  -400
     camion_n_en_comuna_c_dia_d[3,3,11]  R9[3,11]  1
     camion_n_en_comuna_c_dia_d[3,3,12]  R2[3,12]  1
     camion_n_en_comuna_c_dia_d[3,3,12]  R5[3,3,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,12]  R7[3,12]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,12]  R7[3,12]  -400
     camion_n_en_comuna_c_dia_d[3,3,12]  R9[3,12]  1
     camion_n_en_comuna_c_dia_d[3,3,13]  R2[3,13]  1
     camion_n_en_comuna_c_dia_d[3,3,13]  R5[3,3,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,13]  R7[3,13]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,13]  R7[3,13]  -400
     camion_n_en_comuna_c_dia_d[3,3,13]  R9[3,13]  1
     camion_n_en_comuna_c_dia_d[3,3,14]  R2[3,14]  1
     camion_n_en_comuna_c_dia_d[3,3,14]  R5[3,3,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,14]  R7[3,14]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,14]  R7[3,14]  -400
     camion_n_en_comuna_c_dia_d[3,3,14]  R9[3,14]  1
     camion_n_en_comuna_c_dia_d[3,3,15]  R2[3,15]  1
     camion_n_en_comuna_c_dia_d[3,3,15]  R5[3,3,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,15]  R7[3,15]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,15]  R7[3,15]  -400
     camion_n_en_comuna_c_dia_d[3,3,15]  R9[3,15]  1
     camion_n_en_comuna_c_dia_d[3,3,16]  R2[3,16]  1
     camion_n_en_comuna_c_dia_d[3,3,16]  R5[3,3,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,16]  R7[3,16]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,16]  R7[3,16]  -400
     camion_n_en_comuna_c_dia_d[3,3,16]  R9[3,16]  1
     camion_n_en_comuna_c_dia_d[3,3,17]  R2[3,17]  1
     camion_n_en_comuna_c_dia_d[3,3,17]  R5[3,3,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,17]  R7[3,17]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,17]  R7[3,17]  -400
     camion_n_en_comuna_c_dia_d[3,3,17]  R9[3,17]  1
     camion_n_en_comuna_c_dia_d[3,3,18]  R2[3,18]  1
     camion_n_en_comuna_c_dia_d[3,3,18]  R5[3,3,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,18]  R7[3,18]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,18]  R7[3,18]  -400
     camion_n_en_comuna_c_dia_d[3,3,18]  R9[3,18]  1
     camion_n_en_comuna_c_dia_d[3,3,19]  R2[3,19]  1
     camion_n_en_comuna_c_dia_d[3,3,19]  R5[3,3,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,19]  R7[3,19]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,19]  R7[3,19]  -400
     camion_n_en_comuna_c_dia_d[3,3,19]  R9[3,19]  1
     camion_n_en_comuna_c_dia_d[3,3,20]  R2[3,20]  1
     camion_n_en_comuna_c_dia_d[3,3,20]  R5[3,3,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,20]  R7[3,20]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,20]  R7[3,20]  -400
     camion_n_en_comuna_c_dia_d[3,3,20]  R9[3,20]  1
     camion_n_en_comuna_c_dia_d[3,3,21]  R2[3,21]  1
     camion_n_en_comuna_c_dia_d[3,3,21]  R5[3,3,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,21]  R7[3,21]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,21]  R7[3,21]  -400
     camion_n_en_comuna_c_dia_d[3,3,21]  R9[3,21]  1
     camion_n_en_comuna_c_dia_d[3,3,22]  R2[3,22]  1
     camion_n_en_comuna_c_dia_d[3,3,22]  R5[3,3,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,22]  R7[3,22]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,22]  R7[3,22]  -400
     camion_n_en_comuna_c_dia_d[3,3,22]  R9[3,22]  1
     camion_n_en_comuna_c_dia_d[3,3,23]  R2[3,23]  1
     camion_n_en_comuna_c_dia_d[3,3,23]  R5[3,3,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,23]  R7[3,23]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,23]  R7[3,23]  -400
     camion_n_en_comuna_c_dia_d[3,3,23]  R9[3,23]  1
     camion_n_en_comuna_c_dia_d[3,3,24]  R2[3,24]  1
     camion_n_en_comuna_c_dia_d[3,3,24]  R5[3,3,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,24]  R7[3,24]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,24]  R7[3,24]  -400
     camion_n_en_comuna_c_dia_d[3,3,24]  R9[3,24]  1
     camion_n_en_comuna_c_dia_d[3,3,25]  R2[3,25]  1
     camion_n_en_comuna_c_dia_d[3,3,25]  R5[3,3,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,25]  R7[3,25]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,25]  R7[3,25]  -400
     camion_n_en_comuna_c_dia_d[3,3,25]  R9[3,25]  1
     camion_n_en_comuna_c_dia_d[3,3,26]  R2[3,26]  1
     camion_n_en_comuna_c_dia_d[3,3,26]  R5[3,3,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,26]  R7[3,26]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,26]  R7[3,26]  -400
     camion_n_en_comuna_c_dia_d[3,3,26]  R9[3,26]  1
     camion_n_en_comuna_c_dia_d[3,3,27]  R2[3,27]  1
     camion_n_en_comuna_c_dia_d[3,3,27]  R5[3,3,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,27]  R7[3,27]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,27]  R7[3,27]  -400
     camion_n_en_comuna_c_dia_d[3,3,27]  R9[3,27]  1
     camion_n_en_comuna_c_dia_d[3,3,28]  R2[3,28]  1
     camion_n_en_comuna_c_dia_d[3,3,28]  R5[3,3,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,28]  R7[3,28]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,28]  R7[3,28]  -400
     camion_n_en_comuna_c_dia_d[3,3,28]  R9[3,28]  1
     camion_n_en_comuna_c_dia_d[3,3,29]  R2[3,29]  1
     camion_n_en_comuna_c_dia_d[3,3,29]  R5[3,3,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,29]  R7[3,29]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,29]  R7[3,29]  -400
     camion_n_en_comuna_c_dia_d[3,3,29]  R9[3,29]  1
     camion_n_en_comuna_c_dia_d[3,3,30]  R2[3,30]  1
     camion_n_en_comuna_c_dia_d[3,3,30]  R5[3,3,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,30]  R7[3,30]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,30]  R7[3,30]  -400
     camion_n_en_comuna_c_dia_d[3,3,30]  R9[3,30]  1
     camion_n_en_comuna_c_dia_d[3,3,31]  R2[3,31]  1
     camion_n_en_comuna_c_dia_d[3,3,31]  R5[3,3,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,31]  R7[3,31]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,31]  R7[3,31]  -400
     camion_n_en_comuna_c_dia_d[3,3,31]  R9[3,31]  1
     camion_n_en_comuna_c_dia_d[3,3,32]  R2[3,32]  1
     camion_n_en_comuna_c_dia_d[3,3,32]  R5[3,3,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,32]  R7[3,32]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,32]  R7[3,32]  -400
     camion_n_en_comuna_c_dia_d[3,3,32]  R9[3,32]  1
     camion_n_en_comuna_c_dia_d[3,3,33]  R2[3,33]  1
     camion_n_en_comuna_c_dia_d[3,3,33]  R5[3,3,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,33]  R7[3,33]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,33]  R7[3,33]  -400
     camion_n_en_comuna_c_dia_d[3,3,33]  R9[3,33]  1
     camion_n_en_comuna_c_dia_d[3,3,34]  R2[3,34]  1
     camion_n_en_comuna_c_dia_d[3,3,34]  R5[3,3,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,34]  R7[3,34]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,34]  R7[3,34]  -400
     camion_n_en_comuna_c_dia_d[3,3,34]  R9[3,34]  1
     camion_n_en_comuna_c_dia_d[3,3,35]  R2[3,35]  1
     camion_n_en_comuna_c_dia_d[3,3,35]  R5[3,3,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,35]  R7[3,35]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,35]  R7[3,35]  -400
     camion_n_en_comuna_c_dia_d[3,3,35]  R9[3,35]  1
     camion_n_en_comuna_c_dia_d[3,3,36]  R2[3,36]  1
     camion_n_en_comuna_c_dia_d[3,3,36]  R5[3,3,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,36]  R7[3,36]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,36]  R7[3,36]  -400
     camion_n_en_comuna_c_dia_d[3,3,36]  R9[3,36]  1
     camion_n_en_comuna_c_dia_d[3,3,37]  R2[3,37]  1
     camion_n_en_comuna_c_dia_d[3,3,37]  R5[3,3,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,37]  R7[3,37]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,37]  R7[3,37]  -400
     camion_n_en_comuna_c_dia_d[3,3,37]  R9[3,37]  1
     camion_n_en_comuna_c_dia_d[3,3,38]  R2[3,38]  1
     camion_n_en_comuna_c_dia_d[3,3,38]  R5[3,3,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,38]  R7[3,38]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,38]  R7[3,38]  -400
     camion_n_en_comuna_c_dia_d[3,3,38]  R9[3,38]  1
     camion_n_en_comuna_c_dia_d[3,3,39]  R2[3,39]  1
     camion_n_en_comuna_c_dia_d[3,3,39]  R5[3,3,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,39]  R7[3,39]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,39]  R7[3,39]  -400
     camion_n_en_comuna_c_dia_d[3,3,39]  R9[3,39]  1
     camion_n_en_comuna_c_dia_d[3,3,40]  R2[3,40]  1
     camion_n_en_comuna_c_dia_d[3,3,40]  R5[3,3,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,40]  R7[3,40]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,40]  R7[3,40]  -400
     camion_n_en_comuna_c_dia_d[3,3,40]  R9[3,40]  1
     camion_n_en_comuna_c_dia_d[3,3,41]  R2[3,41]  1
     camion_n_en_comuna_c_dia_d[3,3,41]  R5[3,3,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,41]  R7[3,41]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,41]  R7[3,41]  -400
     camion_n_en_comuna_c_dia_d[3,3,41]  R9[3,41]  1
     camion_n_en_comuna_c_dia_d[3,3,42]  R2[3,42]  1
     camion_n_en_comuna_c_dia_d[3,3,42]  R5[3,3,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,42]  R7[3,42]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,42]  R7[3,42]  -400
     camion_n_en_comuna_c_dia_d[3,3,42]  R9[3,42]  1
     camion_n_en_comuna_c_dia_d[3,3,43]  R2[3,43]  1
     camion_n_en_comuna_c_dia_d[3,3,43]  R5[3,3,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,43]  R7[3,43]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,43]  R7[3,43]  -400
     camion_n_en_comuna_c_dia_d[3,3,43]  R9[3,43]  1
     camion_n_en_comuna_c_dia_d[3,3,44]  R2[3,44]  1
     camion_n_en_comuna_c_dia_d[3,3,44]  R5[3,3,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,44]  R7[3,44]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,44]  R7[3,44]  -400
     camion_n_en_comuna_c_dia_d[3,3,44]  R9[3,44]  1
     camion_n_en_comuna_c_dia_d[3,3,45]  R2[3,45]  1
     camion_n_en_comuna_c_dia_d[3,3,45]  R5[3,3,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,45]  R7[3,45]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,45]  R7[3,45]  -400
     camion_n_en_comuna_c_dia_d[3,3,45]  R9[3,45]  1
     camion_n_en_comuna_c_dia_d[3,3,46]  R2[3,46]  1
     camion_n_en_comuna_c_dia_d[3,3,46]  R5[3,3,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,46]  R7[3,46]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,46]  R7[3,46]  -400
     camion_n_en_comuna_c_dia_d[3,3,46]  R9[3,46]  1
     camion_n_en_comuna_c_dia_d[3,3,47]  R2[3,47]  1
     camion_n_en_comuna_c_dia_d[3,3,47]  R5[3,3,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,47]  R7[3,47]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,47]  R7[3,47]  -400
     camion_n_en_comuna_c_dia_d[3,3,47]  R9[3,47]  1
     camion_n_en_comuna_c_dia_d[3,3,48]  R2[3,48]  1
     camion_n_en_comuna_c_dia_d[3,3,48]  R5[3,3,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,48]  R7[3,48]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,48]  R7[3,48]  -400
     camion_n_en_comuna_c_dia_d[3,3,48]  R9[3,48]  1
     camion_n_en_comuna_c_dia_d[3,3,49]  R2[3,49]  1
     camion_n_en_comuna_c_dia_d[3,3,49]  R5[3,3,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,49]  R7[3,49]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,49]  R7[3,49]  -400
     camion_n_en_comuna_c_dia_d[3,3,49]  R9[3,49]  1
     camion_n_en_comuna_c_dia_d[3,3,50]  R2[3,50]  1
     camion_n_en_comuna_c_dia_d[3,3,50]  R5[3,3,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,50]  R7[3,50]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,50]  R7[3,50]  -400
     camion_n_en_comuna_c_dia_d[3,3,50]  R9[3,50]  1
     camion_n_en_comuna_c_dia_d[3,3,51]  R2[3,51]  1
     camion_n_en_comuna_c_dia_d[3,3,51]  R5[3,3,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,51]  R7[3,51]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,51]  R7[3,51]  -400
     camion_n_en_comuna_c_dia_d[3,3,51]  R9[3,51]  1
     camion_n_en_comuna_c_dia_d[3,3,52]  R2[3,52]  1
     camion_n_en_comuna_c_dia_d[3,3,52]  R5[3,3,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,52]  R7[3,52]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,52]  R7[3,52]  -400
     camion_n_en_comuna_c_dia_d[3,3,52]  R9[3,52]  1
     camion_n_en_comuna_c_dia_d[3,3,53]  R2[3,53]  1
     camion_n_en_comuna_c_dia_d[3,3,53]  R5[3,3,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,53]  R7[3,53]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,53]  R7[3,53]  -400
     camion_n_en_comuna_c_dia_d[3,3,53]  R9[3,53]  1
     camion_n_en_comuna_c_dia_d[3,3,54]  R2[3,54]  1
     camion_n_en_comuna_c_dia_d[3,3,54]  R5[3,3,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,54]  R7[3,54]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,54]  R7[3,54]  -400
     camion_n_en_comuna_c_dia_d[3,3,54]  R9[3,54]  1
     camion_n_en_comuna_c_dia_d[3,3,55]  R2[3,55]  1
     camion_n_en_comuna_c_dia_d[3,3,55]  R5[3,3,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,55]  R7[3,55]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,55]  R7[3,55]  -400
     camion_n_en_comuna_c_dia_d[3,3,55]  R9[3,55]  1
     camion_n_en_comuna_c_dia_d[3,3,56]  R2[3,56]  1
     camion_n_en_comuna_c_dia_d[3,3,56]  R5[3,3,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,56]  R7[3,56]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,56]  R7[3,56]  -400
     camion_n_en_comuna_c_dia_d[3,3,56]  R9[3,56]  1
     camion_n_en_comuna_c_dia_d[3,3,57]  R2[3,57]  1
     camion_n_en_comuna_c_dia_d[3,3,57]  R5[3,3,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,57]  R7[3,57]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,57]  R7[3,57]  -400
     camion_n_en_comuna_c_dia_d[3,3,57]  R9[3,57]  1
     camion_n_en_comuna_c_dia_d[3,3,58]  R2[3,58]  1
     camion_n_en_comuna_c_dia_d[3,3,58]  R5[3,3,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,58]  R7[3,58]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,58]  R7[3,58]  -400
     camion_n_en_comuna_c_dia_d[3,3,58]  R9[3,58]  1
     camion_n_en_comuna_c_dia_d[3,3,59]  R2[3,59]  1
     camion_n_en_comuna_c_dia_d[3,3,59]  R5[3,3,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,59]  R7[3,59]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,59]  R7[3,59]  -400
     camion_n_en_comuna_c_dia_d[3,3,59]  R9[3,59]  1
     camion_n_en_comuna_c_dia_d[3,3,60]  R2[3,60]  1
     camion_n_en_comuna_c_dia_d[3,3,60]  R5[3,3,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,60]  R7[3,60]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,60]  R7[3,60]  -400
     camion_n_en_comuna_c_dia_d[3,3,60]  R9[3,60]  1
     camion_n_en_comuna_c_dia_d[3,3,61]  R2[3,61]  1
     camion_n_en_comuna_c_dia_d[3,3,61]  R5[3,3,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,61]  R7[3,61]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,61]  R7[3,61]  -400
     camion_n_en_comuna_c_dia_d[3,3,61]  R9[3,61]  1
     camion_n_en_comuna_c_dia_d[3,3,62]  R2[3,62]  1
     camion_n_en_comuna_c_dia_d[3,3,62]  R5[3,3,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,62]  R7[3,62]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,62]  R7[3,62]  -400
     camion_n_en_comuna_c_dia_d[3,3,62]  R9[3,62]  1
     camion_n_en_comuna_c_dia_d[3,3,63]  R2[3,63]  1
     camion_n_en_comuna_c_dia_d[3,3,63]  R5[3,3,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,63]  R7[3,63]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,63]  R7[3,63]  -400
     camion_n_en_comuna_c_dia_d[3,3,63]  R9[3,63]  1
     camion_n_en_comuna_c_dia_d[3,3,64]  R2[3,64]  1
     camion_n_en_comuna_c_dia_d[3,3,64]  R5[3,3,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,64]  R7[3,64]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,64]  R7[3,64]  -400
     camion_n_en_comuna_c_dia_d[3,3,64]  R9[3,64]  1
     camion_n_en_comuna_c_dia_d[3,3,65]  R2[3,65]  1
     camion_n_en_comuna_c_dia_d[3,3,65]  R5[3,3,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,65]  R7[3,65]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,65]  R7[3,65]  -400
     camion_n_en_comuna_c_dia_d[3,3,65]  R9[3,65]  1
     camion_n_en_comuna_c_dia_d[3,3,66]  R2[3,66]  1
     camion_n_en_comuna_c_dia_d[3,3,66]  R5[3,3,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,66]  R7[3,66]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,66]  R7[3,66]  -400
     camion_n_en_comuna_c_dia_d[3,3,66]  R9[3,66]  1
     camion_n_en_comuna_c_dia_d[3,3,67]  R2[3,67]  1
     camion_n_en_comuna_c_dia_d[3,3,67]  R5[3,3,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,67]  R7[3,67]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,67]  R7[3,67]  -400
     camion_n_en_comuna_c_dia_d[3,3,67]  R9[3,67]  1
     camion_n_en_comuna_c_dia_d[3,3,68]  R2[3,68]  1
     camion_n_en_comuna_c_dia_d[3,3,68]  R5[3,3,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,68]  R7[3,68]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,68]  R7[3,68]  -400
     camion_n_en_comuna_c_dia_d[3,3,68]  R9[3,68]  1
     camion_n_en_comuna_c_dia_d[3,3,69]  R2[3,69]  1
     camion_n_en_comuna_c_dia_d[3,3,69]  R5[3,3,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,69]  R7[3,69]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,69]  R7[3,69]  -400
     camion_n_en_comuna_c_dia_d[3,3,69]  R9[3,69]  1
     camion_n_en_comuna_c_dia_d[3,3,70]  R2[3,70]  1
     camion_n_en_comuna_c_dia_d[3,3,70]  R5[3,3,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,70]  R7[3,70]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,70]  R7[3,70]  -400
     camion_n_en_comuna_c_dia_d[3,3,70]  R9[3,70]  1
     camion_n_en_comuna_c_dia_d[3,3,71]  R2[3,71]  1
     camion_n_en_comuna_c_dia_d[3,3,71]  R5[3,3,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,71]  R7[3,71]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,71]  R7[3,71]  -400
     camion_n_en_comuna_c_dia_d[3,3,71]  R9[3,71]  1
     camion_n_en_comuna_c_dia_d[3,3,72]  R2[3,72]  1
     camion_n_en_comuna_c_dia_d[3,3,72]  R5[3,3,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,72]  R7[3,72]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,72]  R7[3,72]  -400
     camion_n_en_comuna_c_dia_d[3,3,72]  R9[3,72]  1
     camion_n_en_comuna_c_dia_d[3,3,73]  R2[3,73]  1
     camion_n_en_comuna_c_dia_d[3,3,73]  R5[3,3,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,73]  R7[3,73]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,73]  R7[3,73]  -400
     camion_n_en_comuna_c_dia_d[3,3,73]  R9[3,73]  1
     camion_n_en_comuna_c_dia_d[3,3,74]  R2[3,74]  1
     camion_n_en_comuna_c_dia_d[3,3,74]  R5[3,3,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,74]  R7[3,74]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,74]  R7[3,74]  -400
     camion_n_en_comuna_c_dia_d[3,3,74]  R9[3,74]  1
     camion_n_en_comuna_c_dia_d[3,3,75]  R2[3,75]  1
     camion_n_en_comuna_c_dia_d[3,3,75]  R5[3,3,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,75]  R7[3,75]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,75]  R7[3,75]  -400
     camion_n_en_comuna_c_dia_d[3,3,75]  R9[3,75]  1
     camion_n_en_comuna_c_dia_d[3,3,76]  R2[3,76]  1
     camion_n_en_comuna_c_dia_d[3,3,76]  R5[3,3,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,76]  R7[3,76]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,76]  R7[3,76]  -400
     camion_n_en_comuna_c_dia_d[3,3,76]  R9[3,76]  1
     camion_n_en_comuna_c_dia_d[3,3,77]  R2[3,77]  1
     camion_n_en_comuna_c_dia_d[3,3,77]  R5[3,3,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,77]  R7[3,77]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,77]  R7[3,77]  -400
     camion_n_en_comuna_c_dia_d[3,3,77]  R9[3,77]  1
     camion_n_en_comuna_c_dia_d[3,3,78]  R2[3,78]  1
     camion_n_en_comuna_c_dia_d[3,3,78]  R5[3,3,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,78]  R7[3,78]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,78]  R7[3,78]  -400
     camion_n_en_comuna_c_dia_d[3,3,78]  R9[3,78]  1
     camion_n_en_comuna_c_dia_d[3,3,79]  R2[3,79]  1
     camion_n_en_comuna_c_dia_d[3,3,79]  R5[3,3,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,79]  R7[3,79]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,79]  R7[3,79]  -400
     camion_n_en_comuna_c_dia_d[3,3,79]  R9[3,79]  1
     camion_n_en_comuna_c_dia_d[3,3,80]  R2[3,80]  1
     camion_n_en_comuna_c_dia_d[3,3,80]  R5[3,3,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,80]  R7[3,80]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,80]  R7[3,80]  -400
     camion_n_en_comuna_c_dia_d[3,3,80]  R9[3,80]  1
     camion_n_en_comuna_c_dia_d[3,3,81]  R2[3,81]  1
     camion_n_en_comuna_c_dia_d[3,3,81]  R5[3,3,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,81]  R7[3,81]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,81]  R7[3,81]  -400
     camion_n_en_comuna_c_dia_d[3,3,81]  R9[3,81]  1
     camion_n_en_comuna_c_dia_d[3,3,82]  R2[3,82]  1
     camion_n_en_comuna_c_dia_d[3,3,82]  R5[3,3,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,82]  R7[3,82]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,82]  R7[3,82]  -400
     camion_n_en_comuna_c_dia_d[3,3,82]  R9[3,82]  1
     camion_n_en_comuna_c_dia_d[3,3,83]  R2[3,83]  1
     camion_n_en_comuna_c_dia_d[3,3,83]  R5[3,3,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,83]  R7[3,83]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,83]  R7[3,83]  -400
     camion_n_en_comuna_c_dia_d[3,3,83]  R9[3,83]  1
     camion_n_en_comuna_c_dia_d[3,3,84]  R2[3,84]  1
     camion_n_en_comuna_c_dia_d[3,3,84]  R5[3,3,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,84]  R7[3,84]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,84]  R7[3,84]  -400
     camion_n_en_comuna_c_dia_d[3,3,84]  R9[3,84]  1
     camion_n_en_comuna_c_dia_d[3,3,85]  R2[3,85]  1
     camion_n_en_comuna_c_dia_d[3,3,85]  R5[3,3,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,85]  R7[3,85]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,85]  R7[3,85]  -400
     camion_n_en_comuna_c_dia_d[3,3,85]  R9[3,85]  1
     camion_n_en_comuna_c_dia_d[3,3,86]  R2[3,86]  1
     camion_n_en_comuna_c_dia_d[3,3,86]  R5[3,3,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,86]  R7[3,86]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,86]  R7[3,86]  -400
     camion_n_en_comuna_c_dia_d[3,3,86]  R9[3,86]  1
     camion_n_en_comuna_c_dia_d[3,3,87]  R2[3,87]  1
     camion_n_en_comuna_c_dia_d[3,3,87]  R5[3,3,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,87]  R7[3,87]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,87]  R7[3,87]  -400
     camion_n_en_comuna_c_dia_d[3,3,87]  R9[3,87]  1
     camion_n_en_comuna_c_dia_d[3,3,88]  R2[3,88]  1
     camion_n_en_comuna_c_dia_d[3,3,88]  R5[3,3,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,88]  R7[3,88]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,88]  R7[3,88]  -400
     camion_n_en_comuna_c_dia_d[3,3,88]  R9[3,88]  1
     camion_n_en_comuna_c_dia_d[3,3,89]  R2[3,89]  1
     camion_n_en_comuna_c_dia_d[3,3,89]  R5[3,3,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,89]  R7[3,89]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,89]  R7[3,89]  -400
     camion_n_en_comuna_c_dia_d[3,3,89]  R9[3,89]  1
     camion_n_en_comuna_c_dia_d[3,3,90]  R2[3,90]  1
     camion_n_en_comuna_c_dia_d[3,3,90]  R5[3,3,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,90]  R7[3,90]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,90]  R7[3,90]  -400
     camion_n_en_comuna_c_dia_d[3,3,90]  R9[3,90]  1
     camion_n_en_comuna_c_dia_d[3,3,91]  R2[3,91]  1
     camion_n_en_comuna_c_dia_d[3,3,91]  R5[3,3,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,91]  R7[3,91]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,91]  R7[3,91]  -400
     camion_n_en_comuna_c_dia_d[3,3,91]  R9[3,91]  1
     camion_n_en_comuna_c_dia_d[3,3,92]  R2[3,92]  1
     camion_n_en_comuna_c_dia_d[3,3,92]  R5[3,3,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,92]  R7[3,92]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,92]  R7[3,92]  -400
     camion_n_en_comuna_c_dia_d[3,3,92]  R9[3,92]  1
     camion_n_en_comuna_c_dia_d[3,3,93]  R2[3,93]  1
     camion_n_en_comuna_c_dia_d[3,3,93]  R5[3,3,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,93]  R7[3,93]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,93]  R7[3,93]  -400
     camion_n_en_comuna_c_dia_d[3,3,93]  R9[3,93]  1
     camion_n_en_comuna_c_dia_d[3,3,94]  R2[3,94]  1
     camion_n_en_comuna_c_dia_d[3,3,94]  R5[3,3,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,94]  R7[3,94]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,94]  R7[3,94]  -400
     camion_n_en_comuna_c_dia_d[3,3,94]  R9[3,94]  1
     camion_n_en_comuna_c_dia_d[3,3,95]  R2[3,95]  1
     camion_n_en_comuna_c_dia_d[3,3,95]  R5[3,3,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,95]  R7[3,95]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,95]  R7[3,95]  -400
     camion_n_en_comuna_c_dia_d[3,3,95]  R9[3,95]  1
     camion_n_en_comuna_c_dia_d[3,3,96]  R2[3,96]  1
     camion_n_en_comuna_c_dia_d[3,3,96]  R5[3,3,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,96]  R7[3,96]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,96]  R7[3,96]  -400
     camion_n_en_comuna_c_dia_d[3,3,96]  R9[3,96]  1
     camion_n_en_comuna_c_dia_d[3,3,97]  R2[3,97]  1
     camion_n_en_comuna_c_dia_d[3,3,97]  R5[3,3,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,97]  R7[3,97]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,97]  R7[3,97]  -400
     camion_n_en_comuna_c_dia_d[3,3,97]  R9[3,97]  1
     camion_n_en_comuna_c_dia_d[3,3,98]  R2[3,98]  1
     camion_n_en_comuna_c_dia_d[3,3,98]  R5[3,3,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,98]  R7[3,98]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,98]  R7[3,98]  -400
     camion_n_en_comuna_c_dia_d[3,3,98]  R9[3,98]  1
     camion_n_en_comuna_c_dia_d[3,3,99]  R2[3,99]  1
     camion_n_en_comuna_c_dia_d[3,3,99]  R5[3,3,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[3,3,99]  R7[3,99]  -1000
+    camion_n_en_comuna_c_dia_d[3,3,99]  R7[3,99]  -400
     camion_n_en_comuna_c_dia_d[3,3,99]  R9[3,99]  1
     camion_n_en_comuna_c_dia_d[4,0,0]  R2[4,0]   1
     camion_n_en_comuna_c_dia_d[4,0,0]  R5[4,0,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,0]  R7[0,0]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,0]  R7[0,0]   -400
     camion_n_en_comuna_c_dia_d[4,0,0]  R9[0,0]   1
     camion_n_en_comuna_c_dia_d[4,0,1]  R2[4,1]   1
     camion_n_en_comuna_c_dia_d[4,0,1]  R5[4,0,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,1]  R7[0,1]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,1]  R7[0,1]   -400
     camion_n_en_comuna_c_dia_d[4,0,1]  R9[0,1]   1
     camion_n_en_comuna_c_dia_d[4,0,2]  R2[4,2]   1
     camion_n_en_comuna_c_dia_d[4,0,2]  R5[4,0,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,2]  R7[0,2]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,2]  R7[0,2]   -400
     camion_n_en_comuna_c_dia_d[4,0,2]  R9[0,2]   1
     camion_n_en_comuna_c_dia_d[4,0,3]  R2[4,3]   1
     camion_n_en_comuna_c_dia_d[4,0,3]  R5[4,0,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,3]  R7[0,3]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,3]  R7[0,3]   -400
     camion_n_en_comuna_c_dia_d[4,0,3]  R9[0,3]   1
     camion_n_en_comuna_c_dia_d[4,0,4]  R2[4,4]   1
     camion_n_en_comuna_c_dia_d[4,0,4]  R5[4,0,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,4]  R7[0,4]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,4]  R7[0,4]   -400
     camion_n_en_comuna_c_dia_d[4,0,4]  R9[0,4]   1
     camion_n_en_comuna_c_dia_d[4,0,5]  R2[4,5]   1
     camion_n_en_comuna_c_dia_d[4,0,5]  R5[4,0,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,5]  R7[0,5]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,5]  R7[0,5]   -400
     camion_n_en_comuna_c_dia_d[4,0,5]  R9[0,5]   1
     camion_n_en_comuna_c_dia_d[4,0,6]  R2[4,6]   1
     camion_n_en_comuna_c_dia_d[4,0,6]  R5[4,0,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,6]  R7[0,6]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,6]  R7[0,6]   -400
     camion_n_en_comuna_c_dia_d[4,0,6]  R9[0,6]   1
     camion_n_en_comuna_c_dia_d[4,0,7]  R2[4,7]   1
     camion_n_en_comuna_c_dia_d[4,0,7]  R5[4,0,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,7]  R7[0,7]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,7]  R7[0,7]   -400
     camion_n_en_comuna_c_dia_d[4,0,7]  R9[0,7]   1
     camion_n_en_comuna_c_dia_d[4,0,8]  R2[4,8]   1
     camion_n_en_comuna_c_dia_d[4,0,8]  R5[4,0,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,8]  R7[0,8]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,8]  R7[0,8]   -400
     camion_n_en_comuna_c_dia_d[4,0,8]  R9[0,8]   1
     camion_n_en_comuna_c_dia_d[4,0,9]  R2[4,9]   1
     camion_n_en_comuna_c_dia_d[4,0,9]  R5[4,0,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,9]  R7[0,9]   -1000
+    camion_n_en_comuna_c_dia_d[4,0,9]  R7[0,9]   -400
     camion_n_en_comuna_c_dia_d[4,0,9]  R9[0,9]   1
     camion_n_en_comuna_c_dia_d[4,0,10]  R2[4,10]  1
     camion_n_en_comuna_c_dia_d[4,0,10]  R5[4,0,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,10]  R7[0,10]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,10]  R7[0,10]  -400
     camion_n_en_comuna_c_dia_d[4,0,10]  R9[0,10]  1
     camion_n_en_comuna_c_dia_d[4,0,11]  R2[4,11]  1
     camion_n_en_comuna_c_dia_d[4,0,11]  R5[4,0,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,11]  R7[0,11]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,11]  R7[0,11]  -400
     camion_n_en_comuna_c_dia_d[4,0,11]  R9[0,11]  1
     camion_n_en_comuna_c_dia_d[4,0,12]  R2[4,12]  1
     camion_n_en_comuna_c_dia_d[4,0,12]  R5[4,0,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,12]  R7[0,12]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,12]  R7[0,12]  -400
     camion_n_en_comuna_c_dia_d[4,0,12]  R9[0,12]  1
     camion_n_en_comuna_c_dia_d[4,0,13]  R2[4,13]  1
     camion_n_en_comuna_c_dia_d[4,0,13]  R5[4,0,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,13]  R7[0,13]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,13]  R7[0,13]  -400
     camion_n_en_comuna_c_dia_d[4,0,13]  R9[0,13]  1
     camion_n_en_comuna_c_dia_d[4,0,14]  R2[4,14]  1
     camion_n_en_comuna_c_dia_d[4,0,14]  R5[4,0,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,14]  R7[0,14]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,14]  R7[0,14]  -400
     camion_n_en_comuna_c_dia_d[4,0,14]  R9[0,14]  1
     camion_n_en_comuna_c_dia_d[4,0,15]  R2[4,15]  1
     camion_n_en_comuna_c_dia_d[4,0,15]  R5[4,0,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,15]  R7[0,15]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,15]  R7[0,15]  -400
     camion_n_en_comuna_c_dia_d[4,0,15]  R9[0,15]  1
     camion_n_en_comuna_c_dia_d[4,0,16]  R2[4,16]  1
     camion_n_en_comuna_c_dia_d[4,0,16]  R5[4,0,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,16]  R7[0,16]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,16]  R7[0,16]  -400
     camion_n_en_comuna_c_dia_d[4,0,16]  R9[0,16]  1
     camion_n_en_comuna_c_dia_d[4,0,17]  R2[4,17]  1
     camion_n_en_comuna_c_dia_d[4,0,17]  R5[4,0,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,17]  R7[0,17]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,17]  R7[0,17]  -400
     camion_n_en_comuna_c_dia_d[4,0,17]  R9[0,17]  1
     camion_n_en_comuna_c_dia_d[4,0,18]  R2[4,18]  1
     camion_n_en_comuna_c_dia_d[4,0,18]  R5[4,0,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,18]  R7[0,18]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,18]  R7[0,18]  -400
     camion_n_en_comuna_c_dia_d[4,0,18]  R9[0,18]  1
     camion_n_en_comuna_c_dia_d[4,0,19]  R2[4,19]  1
     camion_n_en_comuna_c_dia_d[4,0,19]  R5[4,0,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,19]  R7[0,19]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,19]  R7[0,19]  -400
     camion_n_en_comuna_c_dia_d[4,0,19]  R9[0,19]  1
     camion_n_en_comuna_c_dia_d[4,0,20]  R2[4,20]  1
     camion_n_en_comuna_c_dia_d[4,0,20]  R5[4,0,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,20]  R7[0,20]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,20]  R7[0,20]  -400
     camion_n_en_comuna_c_dia_d[4,0,20]  R9[0,20]  1
     camion_n_en_comuna_c_dia_d[4,0,21]  R2[4,21]  1
     camion_n_en_comuna_c_dia_d[4,0,21]  R5[4,0,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,21]  R7[0,21]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,21]  R7[0,21]  -400
     camion_n_en_comuna_c_dia_d[4,0,21]  R9[0,21]  1
     camion_n_en_comuna_c_dia_d[4,0,22]  R2[4,22]  1
     camion_n_en_comuna_c_dia_d[4,0,22]  R5[4,0,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,22]  R7[0,22]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,22]  R7[0,22]  -400
     camion_n_en_comuna_c_dia_d[4,0,22]  R9[0,22]  1
     camion_n_en_comuna_c_dia_d[4,0,23]  R2[4,23]  1
     camion_n_en_comuna_c_dia_d[4,0,23]  R5[4,0,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,23]  R7[0,23]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,23]  R7[0,23]  -400
     camion_n_en_comuna_c_dia_d[4,0,23]  R9[0,23]  1
     camion_n_en_comuna_c_dia_d[4,0,24]  R2[4,24]  1
     camion_n_en_comuna_c_dia_d[4,0,24]  R5[4,0,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,24]  R7[0,24]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,24]  R7[0,24]  -400
     camion_n_en_comuna_c_dia_d[4,0,24]  R9[0,24]  1
     camion_n_en_comuna_c_dia_d[4,0,25]  R2[4,25]  1
     camion_n_en_comuna_c_dia_d[4,0,25]  R5[4,0,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,25]  R7[0,25]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,25]  R7[0,25]  -400
     camion_n_en_comuna_c_dia_d[4,0,25]  R9[0,25]  1
     camion_n_en_comuna_c_dia_d[4,0,26]  R2[4,26]  1
     camion_n_en_comuna_c_dia_d[4,0,26]  R5[4,0,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,26]  R7[0,26]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,26]  R7[0,26]  -400
     camion_n_en_comuna_c_dia_d[4,0,26]  R9[0,26]  1
     camion_n_en_comuna_c_dia_d[4,0,27]  R2[4,27]  1
     camion_n_en_comuna_c_dia_d[4,0,27]  R5[4,0,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,27]  R7[0,27]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,27]  R7[0,27]  -400
     camion_n_en_comuna_c_dia_d[4,0,27]  R9[0,27]  1
     camion_n_en_comuna_c_dia_d[4,0,28]  R2[4,28]  1
     camion_n_en_comuna_c_dia_d[4,0,28]  R5[4,0,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,28]  R7[0,28]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,28]  R7[0,28]  -400
     camion_n_en_comuna_c_dia_d[4,0,28]  R9[0,28]  1
     camion_n_en_comuna_c_dia_d[4,0,29]  R2[4,29]  1
     camion_n_en_comuna_c_dia_d[4,0,29]  R5[4,0,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,29]  R7[0,29]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,29]  R7[0,29]  -400
     camion_n_en_comuna_c_dia_d[4,0,29]  R9[0,29]  1
     camion_n_en_comuna_c_dia_d[4,0,30]  R2[4,30]  1
     camion_n_en_comuna_c_dia_d[4,0,30]  R5[4,0,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,30]  R7[0,30]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,30]  R7[0,30]  -400
     camion_n_en_comuna_c_dia_d[4,0,30]  R9[0,30]  1
     camion_n_en_comuna_c_dia_d[4,0,31]  R2[4,31]  1
     camion_n_en_comuna_c_dia_d[4,0,31]  R5[4,0,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,31]  R7[0,31]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,31]  R7[0,31]  -400
     camion_n_en_comuna_c_dia_d[4,0,31]  R9[0,31]  1
     camion_n_en_comuna_c_dia_d[4,0,32]  R2[4,32]  1
     camion_n_en_comuna_c_dia_d[4,0,32]  R5[4,0,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,32]  R7[0,32]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,32]  R7[0,32]  -400
     camion_n_en_comuna_c_dia_d[4,0,32]  R9[0,32]  1
     camion_n_en_comuna_c_dia_d[4,0,33]  R2[4,33]  1
     camion_n_en_comuna_c_dia_d[4,0,33]  R5[4,0,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,33]  R7[0,33]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,33]  R7[0,33]  -400
     camion_n_en_comuna_c_dia_d[4,0,33]  R9[0,33]  1
     camion_n_en_comuna_c_dia_d[4,0,34]  R2[4,34]  1
     camion_n_en_comuna_c_dia_d[4,0,34]  R5[4,0,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,34]  R7[0,34]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,34]  R7[0,34]  -400
     camion_n_en_comuna_c_dia_d[4,0,34]  R9[0,34]  1
     camion_n_en_comuna_c_dia_d[4,0,35]  R2[4,35]  1
     camion_n_en_comuna_c_dia_d[4,0,35]  R5[4,0,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,35]  R7[0,35]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,35]  R7[0,35]  -400
     camion_n_en_comuna_c_dia_d[4,0,35]  R9[0,35]  1
     camion_n_en_comuna_c_dia_d[4,0,36]  R2[4,36]  1
     camion_n_en_comuna_c_dia_d[4,0,36]  R5[4,0,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,36]  R7[0,36]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,36]  R7[0,36]  -400
     camion_n_en_comuna_c_dia_d[4,0,36]  R9[0,36]  1
     camion_n_en_comuna_c_dia_d[4,0,37]  R2[4,37]  1
     camion_n_en_comuna_c_dia_d[4,0,37]  R5[4,0,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,37]  R7[0,37]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,37]  R7[0,37]  -400
     camion_n_en_comuna_c_dia_d[4,0,37]  R9[0,37]  1
     camion_n_en_comuna_c_dia_d[4,0,38]  R2[4,38]  1
     camion_n_en_comuna_c_dia_d[4,0,38]  R5[4,0,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,38]  R7[0,38]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,38]  R7[0,38]  -400
     camion_n_en_comuna_c_dia_d[4,0,38]  R9[0,38]  1
     camion_n_en_comuna_c_dia_d[4,0,39]  R2[4,39]  1
     camion_n_en_comuna_c_dia_d[4,0,39]  R5[4,0,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,39]  R7[0,39]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,39]  R7[0,39]  -400
     camion_n_en_comuna_c_dia_d[4,0,39]  R9[0,39]  1
     camion_n_en_comuna_c_dia_d[4,0,40]  R2[4,40]  1
     camion_n_en_comuna_c_dia_d[4,0,40]  R5[4,0,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,40]  R7[0,40]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,40]  R7[0,40]  -400
     camion_n_en_comuna_c_dia_d[4,0,40]  R9[0,40]  1
     camion_n_en_comuna_c_dia_d[4,0,41]  R2[4,41]  1
     camion_n_en_comuna_c_dia_d[4,0,41]  R5[4,0,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,41]  R7[0,41]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,41]  R7[0,41]  -400
     camion_n_en_comuna_c_dia_d[4,0,41]  R9[0,41]  1
     camion_n_en_comuna_c_dia_d[4,0,42]  R2[4,42]  1
     camion_n_en_comuna_c_dia_d[4,0,42]  R5[4,0,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,42]  R7[0,42]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,42]  R7[0,42]  -400
     camion_n_en_comuna_c_dia_d[4,0,42]  R9[0,42]  1
     camion_n_en_comuna_c_dia_d[4,0,43]  R2[4,43]  1
     camion_n_en_comuna_c_dia_d[4,0,43]  R5[4,0,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,43]  R7[0,43]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,43]  R7[0,43]  -400
     camion_n_en_comuna_c_dia_d[4,0,43]  R9[0,43]  1
     camion_n_en_comuna_c_dia_d[4,0,44]  R2[4,44]  1
     camion_n_en_comuna_c_dia_d[4,0,44]  R5[4,0,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,44]  R7[0,44]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,44]  R7[0,44]  -400
     camion_n_en_comuna_c_dia_d[4,0,44]  R9[0,44]  1
     camion_n_en_comuna_c_dia_d[4,0,45]  R2[4,45]  1
     camion_n_en_comuna_c_dia_d[4,0,45]  R5[4,0,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,45]  R7[0,45]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,45]  R7[0,45]  -400
     camion_n_en_comuna_c_dia_d[4,0,45]  R9[0,45]  1
     camion_n_en_comuna_c_dia_d[4,0,46]  R2[4,46]  1
     camion_n_en_comuna_c_dia_d[4,0,46]  R5[4,0,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,46]  R7[0,46]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,46]  R7[0,46]  -400
     camion_n_en_comuna_c_dia_d[4,0,46]  R9[0,46]  1
     camion_n_en_comuna_c_dia_d[4,0,47]  R2[4,47]  1
     camion_n_en_comuna_c_dia_d[4,0,47]  R5[4,0,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,47]  R7[0,47]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,47]  R7[0,47]  -400
     camion_n_en_comuna_c_dia_d[4,0,47]  R9[0,47]  1
     camion_n_en_comuna_c_dia_d[4,0,48]  R2[4,48]  1
     camion_n_en_comuna_c_dia_d[4,0,48]  R5[4,0,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,48]  R7[0,48]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,48]  R7[0,48]  -400
     camion_n_en_comuna_c_dia_d[4,0,48]  R9[0,48]  1
     camion_n_en_comuna_c_dia_d[4,0,49]  R2[4,49]  1
     camion_n_en_comuna_c_dia_d[4,0,49]  R5[4,0,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,49]  R7[0,49]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,49]  R7[0,49]  -400
     camion_n_en_comuna_c_dia_d[4,0,49]  R9[0,49]  1
     camion_n_en_comuna_c_dia_d[4,0,50]  R2[4,50]  1
     camion_n_en_comuna_c_dia_d[4,0,50]  R5[4,0,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,50]  R7[0,50]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,50]  R7[0,50]  -400
     camion_n_en_comuna_c_dia_d[4,0,50]  R9[0,50]  1
     camion_n_en_comuna_c_dia_d[4,0,51]  R2[4,51]  1
     camion_n_en_comuna_c_dia_d[4,0,51]  R5[4,0,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,51]  R7[0,51]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,51]  R7[0,51]  -400
     camion_n_en_comuna_c_dia_d[4,0,51]  R9[0,51]  1
     camion_n_en_comuna_c_dia_d[4,0,52]  R2[4,52]  1
     camion_n_en_comuna_c_dia_d[4,0,52]  R5[4,0,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,52]  R7[0,52]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,52]  R7[0,52]  -400
     camion_n_en_comuna_c_dia_d[4,0,52]  R9[0,52]  1
     camion_n_en_comuna_c_dia_d[4,0,53]  R2[4,53]  1
     camion_n_en_comuna_c_dia_d[4,0,53]  R5[4,0,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,53]  R7[0,53]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,53]  R7[0,53]  -400
     camion_n_en_comuna_c_dia_d[4,0,53]  R9[0,53]  1
     camion_n_en_comuna_c_dia_d[4,0,54]  R2[4,54]  1
     camion_n_en_comuna_c_dia_d[4,0,54]  R5[4,0,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,54]  R7[0,54]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,54]  R7[0,54]  -400
     camion_n_en_comuna_c_dia_d[4,0,54]  R9[0,54]  1
     camion_n_en_comuna_c_dia_d[4,0,55]  R2[4,55]  1
     camion_n_en_comuna_c_dia_d[4,0,55]  R5[4,0,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,55]  R7[0,55]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,55]  R7[0,55]  -400
     camion_n_en_comuna_c_dia_d[4,0,55]  R9[0,55]  1
     camion_n_en_comuna_c_dia_d[4,0,56]  R2[4,56]  1
     camion_n_en_comuna_c_dia_d[4,0,56]  R5[4,0,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,56]  R7[0,56]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,56]  R7[0,56]  -400
     camion_n_en_comuna_c_dia_d[4,0,56]  R9[0,56]  1
     camion_n_en_comuna_c_dia_d[4,0,57]  R2[4,57]  1
     camion_n_en_comuna_c_dia_d[4,0,57]  R5[4,0,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,57]  R7[0,57]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,57]  R7[0,57]  -400
     camion_n_en_comuna_c_dia_d[4,0,57]  R9[0,57]  1
     camion_n_en_comuna_c_dia_d[4,0,58]  R2[4,58]  1
     camion_n_en_comuna_c_dia_d[4,0,58]  R5[4,0,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,58]  R7[0,58]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,58]  R7[0,58]  -400
     camion_n_en_comuna_c_dia_d[4,0,58]  R9[0,58]  1
     camion_n_en_comuna_c_dia_d[4,0,59]  R2[4,59]  1
     camion_n_en_comuna_c_dia_d[4,0,59]  R5[4,0,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,59]  R7[0,59]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,59]  R7[0,59]  -400
     camion_n_en_comuna_c_dia_d[4,0,59]  R9[0,59]  1
     camion_n_en_comuna_c_dia_d[4,0,60]  R2[4,60]  1
     camion_n_en_comuna_c_dia_d[4,0,60]  R5[4,0,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,60]  R7[0,60]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,60]  R7[0,60]  -400
     camion_n_en_comuna_c_dia_d[4,0,60]  R9[0,60]  1
     camion_n_en_comuna_c_dia_d[4,0,61]  R2[4,61]  1
     camion_n_en_comuna_c_dia_d[4,0,61]  R5[4,0,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,61]  R7[0,61]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,61]  R7[0,61]  -400
     camion_n_en_comuna_c_dia_d[4,0,61]  R9[0,61]  1
     camion_n_en_comuna_c_dia_d[4,0,62]  R2[4,62]  1
     camion_n_en_comuna_c_dia_d[4,0,62]  R5[4,0,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,62]  R7[0,62]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,62]  R7[0,62]  -400
     camion_n_en_comuna_c_dia_d[4,0,62]  R9[0,62]  1
     camion_n_en_comuna_c_dia_d[4,0,63]  R2[4,63]  1
     camion_n_en_comuna_c_dia_d[4,0,63]  R5[4,0,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,63]  R7[0,63]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,63]  R7[0,63]  -400
     camion_n_en_comuna_c_dia_d[4,0,63]  R9[0,63]  1
     camion_n_en_comuna_c_dia_d[4,0,64]  R2[4,64]  1
     camion_n_en_comuna_c_dia_d[4,0,64]  R5[4,0,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,64]  R7[0,64]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,64]  R7[0,64]  -400
     camion_n_en_comuna_c_dia_d[4,0,64]  R9[0,64]  1
     camion_n_en_comuna_c_dia_d[4,0,65]  R2[4,65]  1
     camion_n_en_comuna_c_dia_d[4,0,65]  R5[4,0,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,65]  R7[0,65]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,65]  R7[0,65]  -400
     camion_n_en_comuna_c_dia_d[4,0,65]  R9[0,65]  1
     camion_n_en_comuna_c_dia_d[4,0,66]  R2[4,66]  1
     camion_n_en_comuna_c_dia_d[4,0,66]  R5[4,0,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,66]  R7[0,66]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,66]  R7[0,66]  -400
     camion_n_en_comuna_c_dia_d[4,0,66]  R9[0,66]  1
     camion_n_en_comuna_c_dia_d[4,0,67]  R2[4,67]  1
     camion_n_en_comuna_c_dia_d[4,0,67]  R5[4,0,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,67]  R7[0,67]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,67]  R7[0,67]  -400
     camion_n_en_comuna_c_dia_d[4,0,67]  R9[0,67]  1
     camion_n_en_comuna_c_dia_d[4,0,68]  R2[4,68]  1
     camion_n_en_comuna_c_dia_d[4,0,68]  R5[4,0,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,68]  R7[0,68]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,68]  R7[0,68]  -400
     camion_n_en_comuna_c_dia_d[4,0,68]  R9[0,68]  1
     camion_n_en_comuna_c_dia_d[4,0,69]  R2[4,69]  1
     camion_n_en_comuna_c_dia_d[4,0,69]  R5[4,0,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,69]  R7[0,69]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,69]  R7[0,69]  -400
     camion_n_en_comuna_c_dia_d[4,0,69]  R9[0,69]  1
     camion_n_en_comuna_c_dia_d[4,0,70]  R2[4,70]  1
     camion_n_en_comuna_c_dia_d[4,0,70]  R5[4,0,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,70]  R7[0,70]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,70]  R7[0,70]  -400
     camion_n_en_comuna_c_dia_d[4,0,70]  R9[0,70]  1
     camion_n_en_comuna_c_dia_d[4,0,71]  R2[4,71]  1
     camion_n_en_comuna_c_dia_d[4,0,71]  R5[4,0,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,71]  R7[0,71]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,71]  R7[0,71]  -400
     camion_n_en_comuna_c_dia_d[4,0,71]  R9[0,71]  1
     camion_n_en_comuna_c_dia_d[4,0,72]  R2[4,72]  1
     camion_n_en_comuna_c_dia_d[4,0,72]  R5[4,0,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,72]  R7[0,72]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,72]  R7[0,72]  -400
     camion_n_en_comuna_c_dia_d[4,0,72]  R9[0,72]  1
     camion_n_en_comuna_c_dia_d[4,0,73]  R2[4,73]  1
     camion_n_en_comuna_c_dia_d[4,0,73]  R5[4,0,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,73]  R7[0,73]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,73]  R7[0,73]  -400
     camion_n_en_comuna_c_dia_d[4,0,73]  R9[0,73]  1
     camion_n_en_comuna_c_dia_d[4,0,74]  R2[4,74]  1
     camion_n_en_comuna_c_dia_d[4,0,74]  R5[4,0,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,74]  R7[0,74]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,74]  R7[0,74]  -400
     camion_n_en_comuna_c_dia_d[4,0,74]  R9[0,74]  1
     camion_n_en_comuna_c_dia_d[4,0,75]  R2[4,75]  1
     camion_n_en_comuna_c_dia_d[4,0,75]  R5[4,0,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,75]  R7[0,75]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,75]  R7[0,75]  -400
     camion_n_en_comuna_c_dia_d[4,0,75]  R9[0,75]  1
     camion_n_en_comuna_c_dia_d[4,0,76]  R2[4,76]  1
     camion_n_en_comuna_c_dia_d[4,0,76]  R5[4,0,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,76]  R7[0,76]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,76]  R7[0,76]  -400
     camion_n_en_comuna_c_dia_d[4,0,76]  R9[0,76]  1
     camion_n_en_comuna_c_dia_d[4,0,77]  R2[4,77]  1
     camion_n_en_comuna_c_dia_d[4,0,77]  R5[4,0,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,77]  R7[0,77]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,77]  R7[0,77]  -400
     camion_n_en_comuna_c_dia_d[4,0,77]  R9[0,77]  1
     camion_n_en_comuna_c_dia_d[4,0,78]  R2[4,78]  1
     camion_n_en_comuna_c_dia_d[4,0,78]  R5[4,0,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,78]  R7[0,78]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,78]  R7[0,78]  -400
     camion_n_en_comuna_c_dia_d[4,0,78]  R9[0,78]  1
     camion_n_en_comuna_c_dia_d[4,0,79]  R2[4,79]  1
     camion_n_en_comuna_c_dia_d[4,0,79]  R5[4,0,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,79]  R7[0,79]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,79]  R7[0,79]  -400
     camion_n_en_comuna_c_dia_d[4,0,79]  R9[0,79]  1
     camion_n_en_comuna_c_dia_d[4,0,80]  R2[4,80]  1
     camion_n_en_comuna_c_dia_d[4,0,80]  R5[4,0,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,80]  R7[0,80]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,80]  R7[0,80]  -400
     camion_n_en_comuna_c_dia_d[4,0,80]  R9[0,80]  1
     camion_n_en_comuna_c_dia_d[4,0,81]  R2[4,81]  1
     camion_n_en_comuna_c_dia_d[4,0,81]  R5[4,0,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,81]  R7[0,81]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,81]  R7[0,81]  -400
     camion_n_en_comuna_c_dia_d[4,0,81]  R9[0,81]  1
     camion_n_en_comuna_c_dia_d[4,0,82]  R2[4,82]  1
     camion_n_en_comuna_c_dia_d[4,0,82]  R5[4,0,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,82]  R7[0,82]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,82]  R7[0,82]  -400
     camion_n_en_comuna_c_dia_d[4,0,82]  R9[0,82]  1
     camion_n_en_comuna_c_dia_d[4,0,83]  R2[4,83]  1
     camion_n_en_comuna_c_dia_d[4,0,83]  R5[4,0,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,83]  R7[0,83]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,83]  R7[0,83]  -400
     camion_n_en_comuna_c_dia_d[4,0,83]  R9[0,83]  1
     camion_n_en_comuna_c_dia_d[4,0,84]  R2[4,84]  1
     camion_n_en_comuna_c_dia_d[4,0,84]  R5[4,0,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,84]  R7[0,84]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,84]  R7[0,84]  -400
     camion_n_en_comuna_c_dia_d[4,0,84]  R9[0,84]  1
     camion_n_en_comuna_c_dia_d[4,0,85]  R2[4,85]  1
     camion_n_en_comuna_c_dia_d[4,0,85]  R5[4,0,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,85]  R7[0,85]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,85]  R7[0,85]  -400
     camion_n_en_comuna_c_dia_d[4,0,85]  R9[0,85]  1
     camion_n_en_comuna_c_dia_d[4,0,86]  R2[4,86]  1
     camion_n_en_comuna_c_dia_d[4,0,86]  R5[4,0,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,86]  R7[0,86]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,86]  R7[0,86]  -400
     camion_n_en_comuna_c_dia_d[4,0,86]  R9[0,86]  1
     camion_n_en_comuna_c_dia_d[4,0,87]  R2[4,87]  1
     camion_n_en_comuna_c_dia_d[4,0,87]  R5[4,0,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,87]  R7[0,87]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,87]  R7[0,87]  -400
     camion_n_en_comuna_c_dia_d[4,0,87]  R9[0,87]  1
     camion_n_en_comuna_c_dia_d[4,0,88]  R2[4,88]  1
     camion_n_en_comuna_c_dia_d[4,0,88]  R5[4,0,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,88]  R7[0,88]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,88]  R7[0,88]  -400
     camion_n_en_comuna_c_dia_d[4,0,88]  R9[0,88]  1
     camion_n_en_comuna_c_dia_d[4,0,89]  R2[4,89]  1
     camion_n_en_comuna_c_dia_d[4,0,89]  R5[4,0,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,89]  R7[0,89]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,89]  R7[0,89]  -400
     camion_n_en_comuna_c_dia_d[4,0,89]  R9[0,89]  1
     camion_n_en_comuna_c_dia_d[4,0,90]  R2[4,90]  1
     camion_n_en_comuna_c_dia_d[4,0,90]  R5[4,0,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,90]  R7[0,90]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,90]  R7[0,90]  -400
     camion_n_en_comuna_c_dia_d[4,0,90]  R9[0,90]  1
     camion_n_en_comuna_c_dia_d[4,0,91]  R2[4,91]  1
     camion_n_en_comuna_c_dia_d[4,0,91]  R5[4,0,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,91]  R7[0,91]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,91]  R7[0,91]  -400
     camion_n_en_comuna_c_dia_d[4,0,91]  R9[0,91]  1
     camion_n_en_comuna_c_dia_d[4,0,92]  R2[4,92]  1
     camion_n_en_comuna_c_dia_d[4,0,92]  R5[4,0,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,92]  R7[0,92]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,92]  R7[0,92]  -400
     camion_n_en_comuna_c_dia_d[4,0,92]  R9[0,92]  1
     camion_n_en_comuna_c_dia_d[4,0,93]  R2[4,93]  1
     camion_n_en_comuna_c_dia_d[4,0,93]  R5[4,0,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,93]  R7[0,93]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,93]  R7[0,93]  -400
     camion_n_en_comuna_c_dia_d[4,0,93]  R9[0,93]  1
     camion_n_en_comuna_c_dia_d[4,0,94]  R2[4,94]  1
     camion_n_en_comuna_c_dia_d[4,0,94]  R5[4,0,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,94]  R7[0,94]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,94]  R7[0,94]  -400
     camion_n_en_comuna_c_dia_d[4,0,94]  R9[0,94]  1
     camion_n_en_comuna_c_dia_d[4,0,95]  R2[4,95]  1
     camion_n_en_comuna_c_dia_d[4,0,95]  R5[4,0,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,95]  R7[0,95]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,95]  R7[0,95]  -400
     camion_n_en_comuna_c_dia_d[4,0,95]  R9[0,95]  1
     camion_n_en_comuna_c_dia_d[4,0,96]  R2[4,96]  1
     camion_n_en_comuna_c_dia_d[4,0,96]  R5[4,0,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,96]  R7[0,96]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,96]  R7[0,96]  -400
     camion_n_en_comuna_c_dia_d[4,0,96]  R9[0,96]  1
     camion_n_en_comuna_c_dia_d[4,0,97]  R2[4,97]  1
     camion_n_en_comuna_c_dia_d[4,0,97]  R5[4,0,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,97]  R7[0,97]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,97]  R7[0,97]  -400
     camion_n_en_comuna_c_dia_d[4,0,97]  R9[0,97]  1
     camion_n_en_comuna_c_dia_d[4,0,98]  R2[4,98]  1
     camion_n_en_comuna_c_dia_d[4,0,98]  R5[4,0,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,98]  R7[0,98]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,98]  R7[0,98]  -400
     camion_n_en_comuna_c_dia_d[4,0,98]  R9[0,98]  1
     camion_n_en_comuna_c_dia_d[4,0,99]  R2[4,99]  1
     camion_n_en_comuna_c_dia_d[4,0,99]  R5[4,0,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,0,99]  R7[0,99]  -1000
+    camion_n_en_comuna_c_dia_d[4,0,99]  R7[0,99]  -400
     camion_n_en_comuna_c_dia_d[4,0,99]  R9[0,99]  1
     camion_n_en_comuna_c_dia_d[4,1,0]  R2[4,0]   1
     camion_n_en_comuna_c_dia_d[4,1,0]  R5[4,1,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,0]  R7[1,0]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,0]  R7[1,0]   -400
     camion_n_en_comuna_c_dia_d[4,1,0]  R9[1,0]   1
     camion_n_en_comuna_c_dia_d[4,1,1]  R2[4,1]   1
     camion_n_en_comuna_c_dia_d[4,1,1]  R5[4,1,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,1]  R7[1,1]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,1]  R7[1,1]   -400
     camion_n_en_comuna_c_dia_d[4,1,1]  R9[1,1]   1
     camion_n_en_comuna_c_dia_d[4,1,2]  R2[4,2]   1
     camion_n_en_comuna_c_dia_d[4,1,2]  R5[4,1,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,2]  R7[1,2]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,2]  R7[1,2]   -400
     camion_n_en_comuna_c_dia_d[4,1,2]  R9[1,2]   1
     camion_n_en_comuna_c_dia_d[4,1,3]  R2[4,3]   1
     camion_n_en_comuna_c_dia_d[4,1,3]  R5[4,1,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,3]  R7[1,3]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,3]  R7[1,3]   -400
     camion_n_en_comuna_c_dia_d[4,1,3]  R9[1,3]   1
     camion_n_en_comuna_c_dia_d[4,1,4]  R2[4,4]   1
     camion_n_en_comuna_c_dia_d[4,1,4]  R5[4,1,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,4]  R7[1,4]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,4]  R7[1,4]   -400
     camion_n_en_comuna_c_dia_d[4,1,4]  R9[1,4]   1
     camion_n_en_comuna_c_dia_d[4,1,5]  R2[4,5]   1
     camion_n_en_comuna_c_dia_d[4,1,5]  R5[4,1,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,5]  R7[1,5]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,5]  R7[1,5]   -400
     camion_n_en_comuna_c_dia_d[4,1,5]  R9[1,5]   1
     camion_n_en_comuna_c_dia_d[4,1,6]  R2[4,6]   1
     camion_n_en_comuna_c_dia_d[4,1,6]  R5[4,1,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,6]  R7[1,6]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,6]  R7[1,6]   -400
     camion_n_en_comuna_c_dia_d[4,1,6]  R9[1,6]   1
     camion_n_en_comuna_c_dia_d[4,1,7]  R2[4,7]   1
     camion_n_en_comuna_c_dia_d[4,1,7]  R5[4,1,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,7]  R7[1,7]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,7]  R7[1,7]   -400
     camion_n_en_comuna_c_dia_d[4,1,7]  R9[1,7]   1
     camion_n_en_comuna_c_dia_d[4,1,8]  R2[4,8]   1
     camion_n_en_comuna_c_dia_d[4,1,8]  R5[4,1,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,8]  R7[1,8]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,8]  R7[1,8]   -400
     camion_n_en_comuna_c_dia_d[4,1,8]  R9[1,8]   1
     camion_n_en_comuna_c_dia_d[4,1,9]  R2[4,9]   1
     camion_n_en_comuna_c_dia_d[4,1,9]  R5[4,1,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,9]  R7[1,9]   -1000
+    camion_n_en_comuna_c_dia_d[4,1,9]  R7[1,9]   -400
     camion_n_en_comuna_c_dia_d[4,1,9]  R9[1,9]   1
     camion_n_en_comuna_c_dia_d[4,1,10]  R2[4,10]  1
     camion_n_en_comuna_c_dia_d[4,1,10]  R5[4,1,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,10]  R7[1,10]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,10]  R7[1,10]  -400
     camion_n_en_comuna_c_dia_d[4,1,10]  R9[1,10]  1
     camion_n_en_comuna_c_dia_d[4,1,11]  R2[4,11]  1
     camion_n_en_comuna_c_dia_d[4,1,11]  R5[4,1,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,11]  R7[1,11]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,11]  R7[1,11]  -400
     camion_n_en_comuna_c_dia_d[4,1,11]  R9[1,11]  1
     camion_n_en_comuna_c_dia_d[4,1,12]  R2[4,12]  1
     camion_n_en_comuna_c_dia_d[4,1,12]  R5[4,1,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,12]  R7[1,12]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,12]  R7[1,12]  -400
     camion_n_en_comuna_c_dia_d[4,1,12]  R9[1,12]  1
     camion_n_en_comuna_c_dia_d[4,1,13]  R2[4,13]  1
     camion_n_en_comuna_c_dia_d[4,1,13]  R5[4,1,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,13]  R7[1,13]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,13]  R7[1,13]  -400
     camion_n_en_comuna_c_dia_d[4,1,13]  R9[1,13]  1
     camion_n_en_comuna_c_dia_d[4,1,14]  R2[4,14]  1
     camion_n_en_comuna_c_dia_d[4,1,14]  R5[4,1,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,14]  R7[1,14]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,14]  R7[1,14]  -400
     camion_n_en_comuna_c_dia_d[4,1,14]  R9[1,14]  1
     camion_n_en_comuna_c_dia_d[4,1,15]  R2[4,15]  1
     camion_n_en_comuna_c_dia_d[4,1,15]  R5[4,1,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,15]  R7[1,15]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,15]  R7[1,15]  -400
     camion_n_en_comuna_c_dia_d[4,1,15]  R9[1,15]  1
     camion_n_en_comuna_c_dia_d[4,1,16]  R2[4,16]  1
     camion_n_en_comuna_c_dia_d[4,1,16]  R5[4,1,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,16]  R7[1,16]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,16]  R7[1,16]  -400
     camion_n_en_comuna_c_dia_d[4,1,16]  R9[1,16]  1
     camion_n_en_comuna_c_dia_d[4,1,17]  R2[4,17]  1
     camion_n_en_comuna_c_dia_d[4,1,17]  R5[4,1,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,17]  R7[1,17]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,17]  R7[1,17]  -400
     camion_n_en_comuna_c_dia_d[4,1,17]  R9[1,17]  1
     camion_n_en_comuna_c_dia_d[4,1,18]  R2[4,18]  1
     camion_n_en_comuna_c_dia_d[4,1,18]  R5[4,1,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,18]  R7[1,18]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,18]  R7[1,18]  -400
     camion_n_en_comuna_c_dia_d[4,1,18]  R9[1,18]  1
     camion_n_en_comuna_c_dia_d[4,1,19]  R2[4,19]  1
     camion_n_en_comuna_c_dia_d[4,1,19]  R5[4,1,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,19]  R7[1,19]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,19]  R7[1,19]  -400
     camion_n_en_comuna_c_dia_d[4,1,19]  R9[1,19]  1
     camion_n_en_comuna_c_dia_d[4,1,20]  R2[4,20]  1
     camion_n_en_comuna_c_dia_d[4,1,20]  R5[4,1,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,20]  R7[1,20]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,20]  R7[1,20]  -400
     camion_n_en_comuna_c_dia_d[4,1,20]  R9[1,20]  1
     camion_n_en_comuna_c_dia_d[4,1,21]  R2[4,21]  1
     camion_n_en_comuna_c_dia_d[4,1,21]  R5[4,1,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,21]  R7[1,21]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,21]  R7[1,21]  -400
     camion_n_en_comuna_c_dia_d[4,1,21]  R9[1,21]  1
     camion_n_en_comuna_c_dia_d[4,1,22]  R2[4,22]  1
     camion_n_en_comuna_c_dia_d[4,1,22]  R5[4,1,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,22]  R7[1,22]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,22]  R7[1,22]  -400
     camion_n_en_comuna_c_dia_d[4,1,22]  R9[1,22]  1
     camion_n_en_comuna_c_dia_d[4,1,23]  R2[4,23]  1
     camion_n_en_comuna_c_dia_d[4,1,23]  R5[4,1,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,23]  R7[1,23]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,23]  R7[1,23]  -400
     camion_n_en_comuna_c_dia_d[4,1,23]  R9[1,23]  1
     camion_n_en_comuna_c_dia_d[4,1,24]  R2[4,24]  1
     camion_n_en_comuna_c_dia_d[4,1,24]  R5[4,1,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,24]  R7[1,24]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,24]  R7[1,24]  -400
     camion_n_en_comuna_c_dia_d[4,1,24]  R9[1,24]  1
     camion_n_en_comuna_c_dia_d[4,1,25]  R2[4,25]  1
     camion_n_en_comuna_c_dia_d[4,1,25]  R5[4,1,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,25]  R7[1,25]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,25]  R7[1,25]  -400
     camion_n_en_comuna_c_dia_d[4,1,25]  R9[1,25]  1
     camion_n_en_comuna_c_dia_d[4,1,26]  R2[4,26]  1
     camion_n_en_comuna_c_dia_d[4,1,26]  R5[4,1,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,26]  R7[1,26]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,26]  R7[1,26]  -400
     camion_n_en_comuna_c_dia_d[4,1,26]  R9[1,26]  1
     camion_n_en_comuna_c_dia_d[4,1,27]  R2[4,27]  1
     camion_n_en_comuna_c_dia_d[4,1,27]  R5[4,1,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,27]  R7[1,27]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,27]  R7[1,27]  -400
     camion_n_en_comuna_c_dia_d[4,1,27]  R9[1,27]  1
     camion_n_en_comuna_c_dia_d[4,1,28]  R2[4,28]  1
     camion_n_en_comuna_c_dia_d[4,1,28]  R5[4,1,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,28]  R7[1,28]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,28]  R7[1,28]  -400
     camion_n_en_comuna_c_dia_d[4,1,28]  R9[1,28]  1
     camion_n_en_comuna_c_dia_d[4,1,29]  R2[4,29]  1
     camion_n_en_comuna_c_dia_d[4,1,29]  R5[4,1,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,29]  R7[1,29]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,29]  R7[1,29]  -400
     camion_n_en_comuna_c_dia_d[4,1,29]  R9[1,29]  1
     camion_n_en_comuna_c_dia_d[4,1,30]  R2[4,30]  1
     camion_n_en_comuna_c_dia_d[4,1,30]  R5[4,1,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,30]  R7[1,30]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,30]  R7[1,30]  -400
     camion_n_en_comuna_c_dia_d[4,1,30]  R9[1,30]  1
     camion_n_en_comuna_c_dia_d[4,1,31]  R2[4,31]  1
     camion_n_en_comuna_c_dia_d[4,1,31]  R5[4,1,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,31]  R7[1,31]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,31]  R7[1,31]  -400
     camion_n_en_comuna_c_dia_d[4,1,31]  R9[1,31]  1
     camion_n_en_comuna_c_dia_d[4,1,32]  R2[4,32]  1
     camion_n_en_comuna_c_dia_d[4,1,32]  R5[4,1,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,32]  R7[1,32]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,32]  R7[1,32]  -400
     camion_n_en_comuna_c_dia_d[4,1,32]  R9[1,32]  1
     camion_n_en_comuna_c_dia_d[4,1,33]  R2[4,33]  1
     camion_n_en_comuna_c_dia_d[4,1,33]  R5[4,1,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,33]  R7[1,33]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,33]  R7[1,33]  -400
     camion_n_en_comuna_c_dia_d[4,1,33]  R9[1,33]  1
     camion_n_en_comuna_c_dia_d[4,1,34]  R2[4,34]  1
     camion_n_en_comuna_c_dia_d[4,1,34]  R5[4,1,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,34]  R7[1,34]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,34]  R7[1,34]  -400
     camion_n_en_comuna_c_dia_d[4,1,34]  R9[1,34]  1
     camion_n_en_comuna_c_dia_d[4,1,35]  R2[4,35]  1
     camion_n_en_comuna_c_dia_d[4,1,35]  R5[4,1,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,35]  R7[1,35]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,35]  R7[1,35]  -400
     camion_n_en_comuna_c_dia_d[4,1,35]  R9[1,35]  1
     camion_n_en_comuna_c_dia_d[4,1,36]  R2[4,36]  1
     camion_n_en_comuna_c_dia_d[4,1,36]  R5[4,1,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,36]  R7[1,36]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,36]  R7[1,36]  -400
     camion_n_en_comuna_c_dia_d[4,1,36]  R9[1,36]  1
     camion_n_en_comuna_c_dia_d[4,1,37]  R2[4,37]  1
     camion_n_en_comuna_c_dia_d[4,1,37]  R5[4,1,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,37]  R7[1,37]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,37]  R7[1,37]  -400
     camion_n_en_comuna_c_dia_d[4,1,37]  R9[1,37]  1
     camion_n_en_comuna_c_dia_d[4,1,38]  R2[4,38]  1
     camion_n_en_comuna_c_dia_d[4,1,38]  R5[4,1,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,38]  R7[1,38]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,38]  R7[1,38]  -400
     camion_n_en_comuna_c_dia_d[4,1,38]  R9[1,38]  1
     camion_n_en_comuna_c_dia_d[4,1,39]  R2[4,39]  1
     camion_n_en_comuna_c_dia_d[4,1,39]  R5[4,1,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,39]  R7[1,39]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,39]  R7[1,39]  -400
     camion_n_en_comuna_c_dia_d[4,1,39]  R9[1,39]  1
     camion_n_en_comuna_c_dia_d[4,1,40]  R2[4,40]  1
     camion_n_en_comuna_c_dia_d[4,1,40]  R5[4,1,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,40]  R7[1,40]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,40]  R7[1,40]  -400
     camion_n_en_comuna_c_dia_d[4,1,40]  R9[1,40]  1
     camion_n_en_comuna_c_dia_d[4,1,41]  R2[4,41]  1
     camion_n_en_comuna_c_dia_d[4,1,41]  R5[4,1,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,41]  R7[1,41]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,41]  R7[1,41]  -400
     camion_n_en_comuna_c_dia_d[4,1,41]  R9[1,41]  1
     camion_n_en_comuna_c_dia_d[4,1,42]  R2[4,42]  1
     camion_n_en_comuna_c_dia_d[4,1,42]  R5[4,1,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,42]  R7[1,42]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,42]  R7[1,42]  -400
     camion_n_en_comuna_c_dia_d[4,1,42]  R9[1,42]  1
     camion_n_en_comuna_c_dia_d[4,1,43]  R2[4,43]  1
     camion_n_en_comuna_c_dia_d[4,1,43]  R5[4,1,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,43]  R7[1,43]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,43]  R7[1,43]  -400
     camion_n_en_comuna_c_dia_d[4,1,43]  R9[1,43]  1
     camion_n_en_comuna_c_dia_d[4,1,44]  R2[4,44]  1
     camion_n_en_comuna_c_dia_d[4,1,44]  R5[4,1,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,44]  R7[1,44]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,44]  R7[1,44]  -400
     camion_n_en_comuna_c_dia_d[4,1,44]  R9[1,44]  1
     camion_n_en_comuna_c_dia_d[4,1,45]  R2[4,45]  1
     camion_n_en_comuna_c_dia_d[4,1,45]  R5[4,1,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,45]  R7[1,45]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,45]  R7[1,45]  -400
     camion_n_en_comuna_c_dia_d[4,1,45]  R9[1,45]  1
     camion_n_en_comuna_c_dia_d[4,1,46]  R2[4,46]  1
     camion_n_en_comuna_c_dia_d[4,1,46]  R5[4,1,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,46]  R7[1,46]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,46]  R7[1,46]  -400
     camion_n_en_comuna_c_dia_d[4,1,46]  R9[1,46]  1
     camion_n_en_comuna_c_dia_d[4,1,47]  R2[4,47]  1
     camion_n_en_comuna_c_dia_d[4,1,47]  R5[4,1,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,47]  R7[1,47]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,47]  R7[1,47]  -400
     camion_n_en_comuna_c_dia_d[4,1,47]  R9[1,47]  1
     camion_n_en_comuna_c_dia_d[4,1,48]  R2[4,48]  1
     camion_n_en_comuna_c_dia_d[4,1,48]  R5[4,1,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,48]  R7[1,48]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,48]  R7[1,48]  -400
     camion_n_en_comuna_c_dia_d[4,1,48]  R9[1,48]  1
     camion_n_en_comuna_c_dia_d[4,1,49]  R2[4,49]  1
     camion_n_en_comuna_c_dia_d[4,1,49]  R5[4,1,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,49]  R7[1,49]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,49]  R7[1,49]  -400
     camion_n_en_comuna_c_dia_d[4,1,49]  R9[1,49]  1
     camion_n_en_comuna_c_dia_d[4,1,50]  R2[4,50]  1
     camion_n_en_comuna_c_dia_d[4,1,50]  R5[4,1,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,50]  R7[1,50]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,50]  R7[1,50]  -400
     camion_n_en_comuna_c_dia_d[4,1,50]  R9[1,50]  1
     camion_n_en_comuna_c_dia_d[4,1,51]  R2[4,51]  1
     camion_n_en_comuna_c_dia_d[4,1,51]  R5[4,1,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,51]  R7[1,51]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,51]  R7[1,51]  -400
     camion_n_en_comuna_c_dia_d[4,1,51]  R9[1,51]  1
     camion_n_en_comuna_c_dia_d[4,1,52]  R2[4,52]  1
     camion_n_en_comuna_c_dia_d[4,1,52]  R5[4,1,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,52]  R7[1,52]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,52]  R7[1,52]  -400
     camion_n_en_comuna_c_dia_d[4,1,52]  R9[1,52]  1
     camion_n_en_comuna_c_dia_d[4,1,53]  R2[4,53]  1
     camion_n_en_comuna_c_dia_d[4,1,53]  R5[4,1,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,53]  R7[1,53]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,53]  R7[1,53]  -400
     camion_n_en_comuna_c_dia_d[4,1,53]  R9[1,53]  1
     camion_n_en_comuna_c_dia_d[4,1,54]  R2[4,54]  1
     camion_n_en_comuna_c_dia_d[4,1,54]  R5[4,1,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,54]  R7[1,54]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,54]  R7[1,54]  -400
     camion_n_en_comuna_c_dia_d[4,1,54]  R9[1,54]  1
     camion_n_en_comuna_c_dia_d[4,1,55]  R2[4,55]  1
     camion_n_en_comuna_c_dia_d[4,1,55]  R5[4,1,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,55]  R7[1,55]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,55]  R7[1,55]  -400
     camion_n_en_comuna_c_dia_d[4,1,55]  R9[1,55]  1
     camion_n_en_comuna_c_dia_d[4,1,56]  R2[4,56]  1
     camion_n_en_comuna_c_dia_d[4,1,56]  R5[4,1,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,56]  R7[1,56]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,56]  R7[1,56]  -400
     camion_n_en_comuna_c_dia_d[4,1,56]  R9[1,56]  1
     camion_n_en_comuna_c_dia_d[4,1,57]  R2[4,57]  1
     camion_n_en_comuna_c_dia_d[4,1,57]  R5[4,1,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,57]  R7[1,57]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,57]  R7[1,57]  -400
     camion_n_en_comuna_c_dia_d[4,1,57]  R9[1,57]  1
     camion_n_en_comuna_c_dia_d[4,1,58]  R2[4,58]  1
     camion_n_en_comuna_c_dia_d[4,1,58]  R5[4,1,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,58]  R7[1,58]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,58]  R7[1,58]  -400
     camion_n_en_comuna_c_dia_d[4,1,58]  R9[1,58]  1
     camion_n_en_comuna_c_dia_d[4,1,59]  R2[4,59]  1
     camion_n_en_comuna_c_dia_d[4,1,59]  R5[4,1,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,59]  R7[1,59]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,59]  R7[1,59]  -400
     camion_n_en_comuna_c_dia_d[4,1,59]  R9[1,59]  1
     camion_n_en_comuna_c_dia_d[4,1,60]  R2[4,60]  1
     camion_n_en_comuna_c_dia_d[4,1,60]  R5[4,1,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,60]  R7[1,60]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,60]  R7[1,60]  -400
     camion_n_en_comuna_c_dia_d[4,1,60]  R9[1,60]  1
     camion_n_en_comuna_c_dia_d[4,1,61]  R2[4,61]  1
     camion_n_en_comuna_c_dia_d[4,1,61]  R5[4,1,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,61]  R7[1,61]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,61]  R7[1,61]  -400
     camion_n_en_comuna_c_dia_d[4,1,61]  R9[1,61]  1
     camion_n_en_comuna_c_dia_d[4,1,62]  R2[4,62]  1
     camion_n_en_comuna_c_dia_d[4,1,62]  R5[4,1,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,62]  R7[1,62]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,62]  R7[1,62]  -400
     camion_n_en_comuna_c_dia_d[4,1,62]  R9[1,62]  1
     camion_n_en_comuna_c_dia_d[4,1,63]  R2[4,63]  1
     camion_n_en_comuna_c_dia_d[4,1,63]  R5[4,1,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,63]  R7[1,63]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,63]  R7[1,63]  -400
     camion_n_en_comuna_c_dia_d[4,1,63]  R9[1,63]  1
     camion_n_en_comuna_c_dia_d[4,1,64]  R2[4,64]  1
     camion_n_en_comuna_c_dia_d[4,1,64]  R5[4,1,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,64]  R7[1,64]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,64]  R7[1,64]  -400
     camion_n_en_comuna_c_dia_d[4,1,64]  R9[1,64]  1
     camion_n_en_comuna_c_dia_d[4,1,65]  R2[4,65]  1
     camion_n_en_comuna_c_dia_d[4,1,65]  R5[4,1,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,65]  R7[1,65]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,65]  R7[1,65]  -400
     camion_n_en_comuna_c_dia_d[4,1,65]  R9[1,65]  1
     camion_n_en_comuna_c_dia_d[4,1,66]  R2[4,66]  1
     camion_n_en_comuna_c_dia_d[4,1,66]  R5[4,1,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,66]  R7[1,66]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,66]  R7[1,66]  -400
     camion_n_en_comuna_c_dia_d[4,1,66]  R9[1,66]  1
     camion_n_en_comuna_c_dia_d[4,1,67]  R2[4,67]  1
     camion_n_en_comuna_c_dia_d[4,1,67]  R5[4,1,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,67]  R7[1,67]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,67]  R7[1,67]  -400
     camion_n_en_comuna_c_dia_d[4,1,67]  R9[1,67]  1
     camion_n_en_comuna_c_dia_d[4,1,68]  R2[4,68]  1
     camion_n_en_comuna_c_dia_d[4,1,68]  R5[4,1,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,68]  R7[1,68]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,68]  R7[1,68]  -400
     camion_n_en_comuna_c_dia_d[4,1,68]  R9[1,68]  1
     camion_n_en_comuna_c_dia_d[4,1,69]  R2[4,69]  1
     camion_n_en_comuna_c_dia_d[4,1,69]  R5[4,1,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,69]  R7[1,69]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,69]  R7[1,69]  -400
     camion_n_en_comuna_c_dia_d[4,1,69]  R9[1,69]  1
     camion_n_en_comuna_c_dia_d[4,1,70]  R2[4,70]  1
     camion_n_en_comuna_c_dia_d[4,1,70]  R5[4,1,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,70]  R7[1,70]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,70]  R7[1,70]  -400
     camion_n_en_comuna_c_dia_d[4,1,70]  R9[1,70]  1
     camion_n_en_comuna_c_dia_d[4,1,71]  R2[4,71]  1
     camion_n_en_comuna_c_dia_d[4,1,71]  R5[4,1,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,71]  R7[1,71]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,71]  R7[1,71]  -400
     camion_n_en_comuna_c_dia_d[4,1,71]  R9[1,71]  1
     camion_n_en_comuna_c_dia_d[4,1,72]  R2[4,72]  1
     camion_n_en_comuna_c_dia_d[4,1,72]  R5[4,1,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,72]  R7[1,72]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,72]  R7[1,72]  -400
     camion_n_en_comuna_c_dia_d[4,1,72]  R9[1,72]  1
     camion_n_en_comuna_c_dia_d[4,1,73]  R2[4,73]  1
     camion_n_en_comuna_c_dia_d[4,1,73]  R5[4,1,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,73]  R7[1,73]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,73]  R7[1,73]  -400
     camion_n_en_comuna_c_dia_d[4,1,73]  R9[1,73]  1
     camion_n_en_comuna_c_dia_d[4,1,74]  R2[4,74]  1
     camion_n_en_comuna_c_dia_d[4,1,74]  R5[4,1,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,74]  R7[1,74]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,74]  R7[1,74]  -400
     camion_n_en_comuna_c_dia_d[4,1,74]  R9[1,74]  1
     camion_n_en_comuna_c_dia_d[4,1,75]  R2[4,75]  1
     camion_n_en_comuna_c_dia_d[4,1,75]  R5[4,1,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,75]  R7[1,75]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,75]  R7[1,75]  -400
     camion_n_en_comuna_c_dia_d[4,1,75]  R9[1,75]  1
     camion_n_en_comuna_c_dia_d[4,1,76]  R2[4,76]  1
     camion_n_en_comuna_c_dia_d[4,1,76]  R5[4,1,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,76]  R7[1,76]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,76]  R7[1,76]  -400
     camion_n_en_comuna_c_dia_d[4,1,76]  R9[1,76]  1
     camion_n_en_comuna_c_dia_d[4,1,77]  R2[4,77]  1
     camion_n_en_comuna_c_dia_d[4,1,77]  R5[4,1,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,77]  R7[1,77]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,77]  R7[1,77]  -400
     camion_n_en_comuna_c_dia_d[4,1,77]  R9[1,77]  1
     camion_n_en_comuna_c_dia_d[4,1,78]  R2[4,78]  1
     camion_n_en_comuna_c_dia_d[4,1,78]  R5[4,1,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,78]  R7[1,78]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,78]  R7[1,78]  -400
     camion_n_en_comuna_c_dia_d[4,1,78]  R9[1,78]  1
     camion_n_en_comuna_c_dia_d[4,1,79]  R2[4,79]  1
     camion_n_en_comuna_c_dia_d[4,1,79]  R5[4,1,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,79]  R7[1,79]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,79]  R7[1,79]  -400
     camion_n_en_comuna_c_dia_d[4,1,79]  R9[1,79]  1
     camion_n_en_comuna_c_dia_d[4,1,80]  R2[4,80]  1
     camion_n_en_comuna_c_dia_d[4,1,80]  R5[4,1,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,80]  R7[1,80]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,80]  R7[1,80]  -400
     camion_n_en_comuna_c_dia_d[4,1,80]  R9[1,80]  1
     camion_n_en_comuna_c_dia_d[4,1,81]  R2[4,81]  1
     camion_n_en_comuna_c_dia_d[4,1,81]  R5[4,1,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,81]  R7[1,81]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,81]  R7[1,81]  -400
     camion_n_en_comuna_c_dia_d[4,1,81]  R9[1,81]  1
     camion_n_en_comuna_c_dia_d[4,1,82]  R2[4,82]  1
     camion_n_en_comuna_c_dia_d[4,1,82]  R5[4,1,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,82]  R7[1,82]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,82]  R7[1,82]  -400
     camion_n_en_comuna_c_dia_d[4,1,82]  R9[1,82]  1
     camion_n_en_comuna_c_dia_d[4,1,83]  R2[4,83]  1
     camion_n_en_comuna_c_dia_d[4,1,83]  R5[4,1,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,83]  R7[1,83]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,83]  R7[1,83]  -400
     camion_n_en_comuna_c_dia_d[4,1,83]  R9[1,83]  1
     camion_n_en_comuna_c_dia_d[4,1,84]  R2[4,84]  1
     camion_n_en_comuna_c_dia_d[4,1,84]  R5[4,1,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,84]  R7[1,84]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,84]  R7[1,84]  -400
     camion_n_en_comuna_c_dia_d[4,1,84]  R9[1,84]  1
     camion_n_en_comuna_c_dia_d[4,1,85]  R2[4,85]  1
     camion_n_en_comuna_c_dia_d[4,1,85]  R5[4,1,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,85]  R7[1,85]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,85]  R7[1,85]  -400
     camion_n_en_comuna_c_dia_d[4,1,85]  R9[1,85]  1
     camion_n_en_comuna_c_dia_d[4,1,86]  R2[4,86]  1
     camion_n_en_comuna_c_dia_d[4,1,86]  R5[4,1,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,86]  R7[1,86]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,86]  R7[1,86]  -400
     camion_n_en_comuna_c_dia_d[4,1,86]  R9[1,86]  1
     camion_n_en_comuna_c_dia_d[4,1,87]  R2[4,87]  1
     camion_n_en_comuna_c_dia_d[4,1,87]  R5[4,1,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,87]  R7[1,87]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,87]  R7[1,87]  -400
     camion_n_en_comuna_c_dia_d[4,1,87]  R9[1,87]  1
     camion_n_en_comuna_c_dia_d[4,1,88]  R2[4,88]  1
     camion_n_en_comuna_c_dia_d[4,1,88]  R5[4,1,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,88]  R7[1,88]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,88]  R7[1,88]  -400
     camion_n_en_comuna_c_dia_d[4,1,88]  R9[1,88]  1
     camion_n_en_comuna_c_dia_d[4,1,89]  R2[4,89]  1
     camion_n_en_comuna_c_dia_d[4,1,89]  R5[4,1,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,89]  R7[1,89]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,89]  R7[1,89]  -400
     camion_n_en_comuna_c_dia_d[4,1,89]  R9[1,89]  1
     camion_n_en_comuna_c_dia_d[4,1,90]  R2[4,90]  1
     camion_n_en_comuna_c_dia_d[4,1,90]  R5[4,1,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,90]  R7[1,90]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,90]  R7[1,90]  -400
     camion_n_en_comuna_c_dia_d[4,1,90]  R9[1,90]  1
     camion_n_en_comuna_c_dia_d[4,1,91]  R2[4,91]  1
     camion_n_en_comuna_c_dia_d[4,1,91]  R5[4,1,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,91]  R7[1,91]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,91]  R7[1,91]  -400
     camion_n_en_comuna_c_dia_d[4,1,91]  R9[1,91]  1
     camion_n_en_comuna_c_dia_d[4,1,92]  R2[4,92]  1
     camion_n_en_comuna_c_dia_d[4,1,92]  R5[4,1,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,92]  R7[1,92]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,92]  R7[1,92]  -400
     camion_n_en_comuna_c_dia_d[4,1,92]  R9[1,92]  1
     camion_n_en_comuna_c_dia_d[4,1,93]  R2[4,93]  1
     camion_n_en_comuna_c_dia_d[4,1,93]  R5[4,1,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,93]  R7[1,93]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,93]  R7[1,93]  -400
     camion_n_en_comuna_c_dia_d[4,1,93]  R9[1,93]  1
     camion_n_en_comuna_c_dia_d[4,1,94]  R2[4,94]  1
     camion_n_en_comuna_c_dia_d[4,1,94]  R5[4,1,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,94]  R7[1,94]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,94]  R7[1,94]  -400
     camion_n_en_comuna_c_dia_d[4,1,94]  R9[1,94]  1
     camion_n_en_comuna_c_dia_d[4,1,95]  R2[4,95]  1
     camion_n_en_comuna_c_dia_d[4,1,95]  R5[4,1,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,95]  R7[1,95]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,95]  R7[1,95]  -400
     camion_n_en_comuna_c_dia_d[4,1,95]  R9[1,95]  1
     camion_n_en_comuna_c_dia_d[4,1,96]  R2[4,96]  1
     camion_n_en_comuna_c_dia_d[4,1,96]  R5[4,1,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,96]  R7[1,96]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,96]  R7[1,96]  -400
     camion_n_en_comuna_c_dia_d[4,1,96]  R9[1,96]  1
     camion_n_en_comuna_c_dia_d[4,1,97]  R2[4,97]  1
     camion_n_en_comuna_c_dia_d[4,1,97]  R5[4,1,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,97]  R7[1,97]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,97]  R7[1,97]  -400
     camion_n_en_comuna_c_dia_d[4,1,97]  R9[1,97]  1
     camion_n_en_comuna_c_dia_d[4,1,98]  R2[4,98]  1
     camion_n_en_comuna_c_dia_d[4,1,98]  R5[4,1,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,98]  R7[1,98]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,98]  R7[1,98]  -400
     camion_n_en_comuna_c_dia_d[4,1,98]  R9[1,98]  1
     camion_n_en_comuna_c_dia_d[4,1,99]  R2[4,99]  1
     camion_n_en_comuna_c_dia_d[4,1,99]  R5[4,1,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,1,99]  R7[1,99]  -1000
+    camion_n_en_comuna_c_dia_d[4,1,99]  R7[1,99]  -400
     camion_n_en_comuna_c_dia_d[4,1,99]  R9[1,99]  1
     camion_n_en_comuna_c_dia_d[4,2,0]  R2[4,0]   1
     camion_n_en_comuna_c_dia_d[4,2,0]  R5[4,2,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,0]  R7[2,0]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,0]  R7[2,0]   -400
     camion_n_en_comuna_c_dia_d[4,2,0]  R9[2,0]   1
     camion_n_en_comuna_c_dia_d[4,2,1]  R2[4,1]   1
     camion_n_en_comuna_c_dia_d[4,2,1]  R5[4,2,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,1]  R7[2,1]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,1]  R7[2,1]   -400
     camion_n_en_comuna_c_dia_d[4,2,1]  R9[2,1]   1
     camion_n_en_comuna_c_dia_d[4,2,2]  R2[4,2]   1
     camion_n_en_comuna_c_dia_d[4,2,2]  R5[4,2,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,2]  R7[2,2]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,2]  R7[2,2]   -400
     camion_n_en_comuna_c_dia_d[4,2,2]  R9[2,2]   1
     camion_n_en_comuna_c_dia_d[4,2,3]  R2[4,3]   1
     camion_n_en_comuna_c_dia_d[4,2,3]  R5[4,2,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,3]  R7[2,3]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,3]  R7[2,3]   -400
     camion_n_en_comuna_c_dia_d[4,2,3]  R9[2,3]   1
     camion_n_en_comuna_c_dia_d[4,2,4]  R2[4,4]   1
     camion_n_en_comuna_c_dia_d[4,2,4]  R5[4,2,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,4]  R7[2,4]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,4]  R7[2,4]   -400
     camion_n_en_comuna_c_dia_d[4,2,4]  R9[2,4]   1
     camion_n_en_comuna_c_dia_d[4,2,5]  R2[4,5]   1
     camion_n_en_comuna_c_dia_d[4,2,5]  R5[4,2,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,5]  R7[2,5]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,5]  R7[2,5]   -400
     camion_n_en_comuna_c_dia_d[4,2,5]  R9[2,5]   1
     camion_n_en_comuna_c_dia_d[4,2,6]  R2[4,6]   1
     camion_n_en_comuna_c_dia_d[4,2,6]  R5[4,2,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,6]  R7[2,6]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,6]  R7[2,6]   -400
     camion_n_en_comuna_c_dia_d[4,2,6]  R9[2,6]   1
     camion_n_en_comuna_c_dia_d[4,2,7]  R2[4,7]   1
     camion_n_en_comuna_c_dia_d[4,2,7]  R5[4,2,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,7]  R7[2,7]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,7]  R7[2,7]   -400
     camion_n_en_comuna_c_dia_d[4,2,7]  R9[2,7]   1
     camion_n_en_comuna_c_dia_d[4,2,8]  R2[4,8]   1
     camion_n_en_comuna_c_dia_d[4,2,8]  R5[4,2,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,8]  R7[2,8]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,8]  R7[2,8]   -400
     camion_n_en_comuna_c_dia_d[4,2,8]  R9[2,8]   1
     camion_n_en_comuna_c_dia_d[4,2,9]  R2[4,9]   1
     camion_n_en_comuna_c_dia_d[4,2,9]  R5[4,2,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,9]  R7[2,9]   -1000
+    camion_n_en_comuna_c_dia_d[4,2,9]  R7[2,9]   -400
     camion_n_en_comuna_c_dia_d[4,2,9]  R9[2,9]   1
     camion_n_en_comuna_c_dia_d[4,2,10]  R2[4,10]  1
     camion_n_en_comuna_c_dia_d[4,2,10]  R5[4,2,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,10]  R7[2,10]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,10]  R7[2,10]  -400
     camion_n_en_comuna_c_dia_d[4,2,10]  R9[2,10]  1
     camion_n_en_comuna_c_dia_d[4,2,11]  R2[4,11]  1
     camion_n_en_comuna_c_dia_d[4,2,11]  R5[4,2,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,11]  R7[2,11]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,11]  R7[2,11]  -400
     camion_n_en_comuna_c_dia_d[4,2,11]  R9[2,11]  1
     camion_n_en_comuna_c_dia_d[4,2,12]  R2[4,12]  1
     camion_n_en_comuna_c_dia_d[4,2,12]  R5[4,2,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,12]  R7[2,12]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,12]  R7[2,12]  -400
     camion_n_en_comuna_c_dia_d[4,2,12]  R9[2,12]  1
     camion_n_en_comuna_c_dia_d[4,2,13]  R2[4,13]  1
     camion_n_en_comuna_c_dia_d[4,2,13]  R5[4,2,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,13]  R7[2,13]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,13]  R7[2,13]  -400
     camion_n_en_comuna_c_dia_d[4,2,13]  R9[2,13]  1
     camion_n_en_comuna_c_dia_d[4,2,14]  R2[4,14]  1
     camion_n_en_comuna_c_dia_d[4,2,14]  R5[4,2,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,14]  R7[2,14]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,14]  R7[2,14]  -400
     camion_n_en_comuna_c_dia_d[4,2,14]  R9[2,14]  1
     camion_n_en_comuna_c_dia_d[4,2,15]  R2[4,15]  1
     camion_n_en_comuna_c_dia_d[4,2,15]  R5[4,2,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,15]  R7[2,15]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,15]  R7[2,15]  -400
     camion_n_en_comuna_c_dia_d[4,2,15]  R9[2,15]  1
     camion_n_en_comuna_c_dia_d[4,2,16]  R2[4,16]  1
     camion_n_en_comuna_c_dia_d[4,2,16]  R5[4,2,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,16]  R7[2,16]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,16]  R7[2,16]  -400
     camion_n_en_comuna_c_dia_d[4,2,16]  R9[2,16]  1
     camion_n_en_comuna_c_dia_d[4,2,17]  R2[4,17]  1
     camion_n_en_comuna_c_dia_d[4,2,17]  R5[4,2,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,17]  R7[2,17]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,17]  R7[2,17]  -400
     camion_n_en_comuna_c_dia_d[4,2,17]  R9[2,17]  1
     camion_n_en_comuna_c_dia_d[4,2,18]  R2[4,18]  1
     camion_n_en_comuna_c_dia_d[4,2,18]  R5[4,2,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,18]  R7[2,18]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,18]  R7[2,18]  -400
     camion_n_en_comuna_c_dia_d[4,2,18]  R9[2,18]  1
     camion_n_en_comuna_c_dia_d[4,2,19]  R2[4,19]  1
     camion_n_en_comuna_c_dia_d[4,2,19]  R5[4,2,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,19]  R7[2,19]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,19]  R7[2,19]  -400
     camion_n_en_comuna_c_dia_d[4,2,19]  R9[2,19]  1
     camion_n_en_comuna_c_dia_d[4,2,20]  R2[4,20]  1
     camion_n_en_comuna_c_dia_d[4,2,20]  R5[4,2,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,20]  R7[2,20]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,20]  R7[2,20]  -400
     camion_n_en_comuna_c_dia_d[4,2,20]  R9[2,20]  1
     camion_n_en_comuna_c_dia_d[4,2,21]  R2[4,21]  1
     camion_n_en_comuna_c_dia_d[4,2,21]  R5[4,2,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,21]  R7[2,21]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,21]  R7[2,21]  -400
     camion_n_en_comuna_c_dia_d[4,2,21]  R9[2,21]  1
     camion_n_en_comuna_c_dia_d[4,2,22]  R2[4,22]  1
     camion_n_en_comuna_c_dia_d[4,2,22]  R5[4,2,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,22]  R7[2,22]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,22]  R7[2,22]  -400
     camion_n_en_comuna_c_dia_d[4,2,22]  R9[2,22]  1
     camion_n_en_comuna_c_dia_d[4,2,23]  R2[4,23]  1
     camion_n_en_comuna_c_dia_d[4,2,23]  R5[4,2,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,23]  R7[2,23]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,23]  R7[2,23]  -400
     camion_n_en_comuna_c_dia_d[4,2,23]  R9[2,23]  1
     camion_n_en_comuna_c_dia_d[4,2,24]  R2[4,24]  1
     camion_n_en_comuna_c_dia_d[4,2,24]  R5[4,2,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,24]  R7[2,24]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,24]  R7[2,24]  -400
     camion_n_en_comuna_c_dia_d[4,2,24]  R9[2,24]  1
     camion_n_en_comuna_c_dia_d[4,2,25]  R2[4,25]  1
     camion_n_en_comuna_c_dia_d[4,2,25]  R5[4,2,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,25]  R7[2,25]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,25]  R7[2,25]  -400
     camion_n_en_comuna_c_dia_d[4,2,25]  R9[2,25]  1
     camion_n_en_comuna_c_dia_d[4,2,26]  R2[4,26]  1
     camion_n_en_comuna_c_dia_d[4,2,26]  R5[4,2,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,26]  R7[2,26]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,26]  R7[2,26]  -400
     camion_n_en_comuna_c_dia_d[4,2,26]  R9[2,26]  1
     camion_n_en_comuna_c_dia_d[4,2,27]  R2[4,27]  1
     camion_n_en_comuna_c_dia_d[4,2,27]  R5[4,2,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,27]  R7[2,27]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,27]  R7[2,27]  -400
     camion_n_en_comuna_c_dia_d[4,2,27]  R9[2,27]  1
     camion_n_en_comuna_c_dia_d[4,2,28]  R2[4,28]  1
     camion_n_en_comuna_c_dia_d[4,2,28]  R5[4,2,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,28]  R7[2,28]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,28]  R7[2,28]  -400
     camion_n_en_comuna_c_dia_d[4,2,28]  R9[2,28]  1
     camion_n_en_comuna_c_dia_d[4,2,29]  R2[4,29]  1
     camion_n_en_comuna_c_dia_d[4,2,29]  R5[4,2,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,29]  R7[2,29]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,29]  R7[2,29]  -400
     camion_n_en_comuna_c_dia_d[4,2,29]  R9[2,29]  1
     camion_n_en_comuna_c_dia_d[4,2,30]  R2[4,30]  1
     camion_n_en_comuna_c_dia_d[4,2,30]  R5[4,2,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,30]  R7[2,30]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,30]  R7[2,30]  -400
     camion_n_en_comuna_c_dia_d[4,2,30]  R9[2,30]  1
     camion_n_en_comuna_c_dia_d[4,2,31]  R2[4,31]  1
     camion_n_en_comuna_c_dia_d[4,2,31]  R5[4,2,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,31]  R7[2,31]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,31]  R7[2,31]  -400
     camion_n_en_comuna_c_dia_d[4,2,31]  R9[2,31]  1
     camion_n_en_comuna_c_dia_d[4,2,32]  R2[4,32]  1
     camion_n_en_comuna_c_dia_d[4,2,32]  R5[4,2,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,32]  R7[2,32]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,32]  R7[2,32]  -400
     camion_n_en_comuna_c_dia_d[4,2,32]  R9[2,32]  1
     camion_n_en_comuna_c_dia_d[4,2,33]  R2[4,33]  1
     camion_n_en_comuna_c_dia_d[4,2,33]  R5[4,2,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,33]  R7[2,33]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,33]  R7[2,33]  -400
     camion_n_en_comuna_c_dia_d[4,2,33]  R9[2,33]  1
     camion_n_en_comuna_c_dia_d[4,2,34]  R2[4,34]  1
     camion_n_en_comuna_c_dia_d[4,2,34]  R5[4,2,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,34]  R7[2,34]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,34]  R7[2,34]  -400
     camion_n_en_comuna_c_dia_d[4,2,34]  R9[2,34]  1
     camion_n_en_comuna_c_dia_d[4,2,35]  R2[4,35]  1
     camion_n_en_comuna_c_dia_d[4,2,35]  R5[4,2,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,35]  R7[2,35]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,35]  R7[2,35]  -400
     camion_n_en_comuna_c_dia_d[4,2,35]  R9[2,35]  1
     camion_n_en_comuna_c_dia_d[4,2,36]  R2[4,36]  1
     camion_n_en_comuna_c_dia_d[4,2,36]  R5[4,2,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,36]  R7[2,36]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,36]  R7[2,36]  -400
     camion_n_en_comuna_c_dia_d[4,2,36]  R9[2,36]  1
     camion_n_en_comuna_c_dia_d[4,2,37]  R2[4,37]  1
     camion_n_en_comuna_c_dia_d[4,2,37]  R5[4,2,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,37]  R7[2,37]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,37]  R7[2,37]  -400
     camion_n_en_comuna_c_dia_d[4,2,37]  R9[2,37]  1
     camion_n_en_comuna_c_dia_d[4,2,38]  R2[4,38]  1
     camion_n_en_comuna_c_dia_d[4,2,38]  R5[4,2,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,38]  R7[2,38]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,38]  R7[2,38]  -400
     camion_n_en_comuna_c_dia_d[4,2,38]  R9[2,38]  1
     camion_n_en_comuna_c_dia_d[4,2,39]  R2[4,39]  1
     camion_n_en_comuna_c_dia_d[4,2,39]  R5[4,2,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,39]  R7[2,39]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,39]  R7[2,39]  -400
     camion_n_en_comuna_c_dia_d[4,2,39]  R9[2,39]  1
     camion_n_en_comuna_c_dia_d[4,2,40]  R2[4,40]  1
     camion_n_en_comuna_c_dia_d[4,2,40]  R5[4,2,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,40]  R7[2,40]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,40]  R7[2,40]  -400
     camion_n_en_comuna_c_dia_d[4,2,40]  R9[2,40]  1
     camion_n_en_comuna_c_dia_d[4,2,41]  R2[4,41]  1
     camion_n_en_comuna_c_dia_d[4,2,41]  R5[4,2,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,41]  R7[2,41]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,41]  R7[2,41]  -400
     camion_n_en_comuna_c_dia_d[4,2,41]  R9[2,41]  1
     camion_n_en_comuna_c_dia_d[4,2,42]  R2[4,42]  1
     camion_n_en_comuna_c_dia_d[4,2,42]  R5[4,2,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,42]  R7[2,42]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,42]  R7[2,42]  -400
     camion_n_en_comuna_c_dia_d[4,2,42]  R9[2,42]  1
     camion_n_en_comuna_c_dia_d[4,2,43]  R2[4,43]  1
     camion_n_en_comuna_c_dia_d[4,2,43]  R5[4,2,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,43]  R7[2,43]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,43]  R7[2,43]  -400
     camion_n_en_comuna_c_dia_d[4,2,43]  R9[2,43]  1
     camion_n_en_comuna_c_dia_d[4,2,44]  R2[4,44]  1
     camion_n_en_comuna_c_dia_d[4,2,44]  R5[4,2,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,44]  R7[2,44]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,44]  R7[2,44]  -400
     camion_n_en_comuna_c_dia_d[4,2,44]  R9[2,44]  1
     camion_n_en_comuna_c_dia_d[4,2,45]  R2[4,45]  1
     camion_n_en_comuna_c_dia_d[4,2,45]  R5[4,2,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,45]  R7[2,45]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,45]  R7[2,45]  -400
     camion_n_en_comuna_c_dia_d[4,2,45]  R9[2,45]  1
     camion_n_en_comuna_c_dia_d[4,2,46]  R2[4,46]  1
     camion_n_en_comuna_c_dia_d[4,2,46]  R5[4,2,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,46]  R7[2,46]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,46]  R7[2,46]  -400
     camion_n_en_comuna_c_dia_d[4,2,46]  R9[2,46]  1
     camion_n_en_comuna_c_dia_d[4,2,47]  R2[4,47]  1
     camion_n_en_comuna_c_dia_d[4,2,47]  R5[4,2,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,47]  R7[2,47]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,47]  R7[2,47]  -400
     camion_n_en_comuna_c_dia_d[4,2,47]  R9[2,47]  1
     camion_n_en_comuna_c_dia_d[4,2,48]  R2[4,48]  1
     camion_n_en_comuna_c_dia_d[4,2,48]  R5[4,2,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,48]  R7[2,48]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,48]  R7[2,48]  -400
     camion_n_en_comuna_c_dia_d[4,2,48]  R9[2,48]  1
     camion_n_en_comuna_c_dia_d[4,2,49]  R2[4,49]  1
     camion_n_en_comuna_c_dia_d[4,2,49]  R5[4,2,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,49]  R7[2,49]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,49]  R7[2,49]  -400
     camion_n_en_comuna_c_dia_d[4,2,49]  R9[2,49]  1
     camion_n_en_comuna_c_dia_d[4,2,50]  R2[4,50]  1
     camion_n_en_comuna_c_dia_d[4,2,50]  R5[4,2,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,50]  R7[2,50]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,50]  R7[2,50]  -400
     camion_n_en_comuna_c_dia_d[4,2,50]  R9[2,50]  1
     camion_n_en_comuna_c_dia_d[4,2,51]  R2[4,51]  1
     camion_n_en_comuna_c_dia_d[4,2,51]  R5[4,2,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,51]  R7[2,51]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,51]  R7[2,51]  -400
     camion_n_en_comuna_c_dia_d[4,2,51]  R9[2,51]  1
     camion_n_en_comuna_c_dia_d[4,2,52]  R2[4,52]  1
     camion_n_en_comuna_c_dia_d[4,2,52]  R5[4,2,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,52]  R7[2,52]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,52]  R7[2,52]  -400
     camion_n_en_comuna_c_dia_d[4,2,52]  R9[2,52]  1
     camion_n_en_comuna_c_dia_d[4,2,53]  R2[4,53]  1
     camion_n_en_comuna_c_dia_d[4,2,53]  R5[4,2,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,53]  R7[2,53]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,53]  R7[2,53]  -400
     camion_n_en_comuna_c_dia_d[4,2,53]  R9[2,53]  1
     camion_n_en_comuna_c_dia_d[4,2,54]  R2[4,54]  1
     camion_n_en_comuna_c_dia_d[4,2,54]  R5[4,2,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,54]  R7[2,54]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,54]  R7[2,54]  -400
     camion_n_en_comuna_c_dia_d[4,2,54]  R9[2,54]  1
     camion_n_en_comuna_c_dia_d[4,2,55]  R2[4,55]  1
     camion_n_en_comuna_c_dia_d[4,2,55]  R5[4,2,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,55]  R7[2,55]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,55]  R7[2,55]  -400
     camion_n_en_comuna_c_dia_d[4,2,55]  R9[2,55]  1
     camion_n_en_comuna_c_dia_d[4,2,56]  R2[4,56]  1
     camion_n_en_comuna_c_dia_d[4,2,56]  R5[4,2,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,56]  R7[2,56]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,56]  R7[2,56]  -400
     camion_n_en_comuna_c_dia_d[4,2,56]  R9[2,56]  1
     camion_n_en_comuna_c_dia_d[4,2,57]  R2[4,57]  1
     camion_n_en_comuna_c_dia_d[4,2,57]  R5[4,2,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,57]  R7[2,57]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,57]  R7[2,57]  -400
     camion_n_en_comuna_c_dia_d[4,2,57]  R9[2,57]  1
     camion_n_en_comuna_c_dia_d[4,2,58]  R2[4,58]  1
     camion_n_en_comuna_c_dia_d[4,2,58]  R5[4,2,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,58]  R7[2,58]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,58]  R7[2,58]  -400
     camion_n_en_comuna_c_dia_d[4,2,58]  R9[2,58]  1
     camion_n_en_comuna_c_dia_d[4,2,59]  R2[4,59]  1
     camion_n_en_comuna_c_dia_d[4,2,59]  R5[4,2,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,59]  R7[2,59]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,59]  R7[2,59]  -400
     camion_n_en_comuna_c_dia_d[4,2,59]  R9[2,59]  1
     camion_n_en_comuna_c_dia_d[4,2,60]  R2[4,60]  1
     camion_n_en_comuna_c_dia_d[4,2,60]  R5[4,2,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,60]  R7[2,60]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,60]  R7[2,60]  -400
     camion_n_en_comuna_c_dia_d[4,2,60]  R9[2,60]  1
     camion_n_en_comuna_c_dia_d[4,2,61]  R2[4,61]  1
     camion_n_en_comuna_c_dia_d[4,2,61]  R5[4,2,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,61]  R7[2,61]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,61]  R7[2,61]  -400
     camion_n_en_comuna_c_dia_d[4,2,61]  R9[2,61]  1
     camion_n_en_comuna_c_dia_d[4,2,62]  R2[4,62]  1
     camion_n_en_comuna_c_dia_d[4,2,62]  R5[4,2,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,62]  R7[2,62]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,62]  R7[2,62]  -400
     camion_n_en_comuna_c_dia_d[4,2,62]  R9[2,62]  1
     camion_n_en_comuna_c_dia_d[4,2,63]  R2[4,63]  1
     camion_n_en_comuna_c_dia_d[4,2,63]  R5[4,2,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,63]  R7[2,63]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,63]  R7[2,63]  -400
     camion_n_en_comuna_c_dia_d[4,2,63]  R9[2,63]  1
     camion_n_en_comuna_c_dia_d[4,2,64]  R2[4,64]  1
     camion_n_en_comuna_c_dia_d[4,2,64]  R5[4,2,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,64]  R7[2,64]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,64]  R7[2,64]  -400
     camion_n_en_comuna_c_dia_d[4,2,64]  R9[2,64]  1
     camion_n_en_comuna_c_dia_d[4,2,65]  R2[4,65]  1
     camion_n_en_comuna_c_dia_d[4,2,65]  R5[4,2,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,65]  R7[2,65]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,65]  R7[2,65]  -400
     camion_n_en_comuna_c_dia_d[4,2,65]  R9[2,65]  1
     camion_n_en_comuna_c_dia_d[4,2,66]  R2[4,66]  1
     camion_n_en_comuna_c_dia_d[4,2,66]  R5[4,2,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,66]  R7[2,66]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,66]  R7[2,66]  -400
     camion_n_en_comuna_c_dia_d[4,2,66]  R9[2,66]  1
     camion_n_en_comuna_c_dia_d[4,2,67]  R2[4,67]  1
     camion_n_en_comuna_c_dia_d[4,2,67]  R5[4,2,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,67]  R7[2,67]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,67]  R7[2,67]  -400
     camion_n_en_comuna_c_dia_d[4,2,67]  R9[2,67]  1
     camion_n_en_comuna_c_dia_d[4,2,68]  R2[4,68]  1
     camion_n_en_comuna_c_dia_d[4,2,68]  R5[4,2,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,68]  R7[2,68]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,68]  R7[2,68]  -400
     camion_n_en_comuna_c_dia_d[4,2,68]  R9[2,68]  1
     camion_n_en_comuna_c_dia_d[4,2,69]  R2[4,69]  1
     camion_n_en_comuna_c_dia_d[4,2,69]  R5[4,2,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,69]  R7[2,69]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,69]  R7[2,69]  -400
     camion_n_en_comuna_c_dia_d[4,2,69]  R9[2,69]  1
     camion_n_en_comuna_c_dia_d[4,2,70]  R2[4,70]  1
     camion_n_en_comuna_c_dia_d[4,2,70]  R5[4,2,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,70]  R7[2,70]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,70]  R7[2,70]  -400
     camion_n_en_comuna_c_dia_d[4,2,70]  R9[2,70]  1
     camion_n_en_comuna_c_dia_d[4,2,71]  R2[4,71]  1
     camion_n_en_comuna_c_dia_d[4,2,71]  R5[4,2,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,71]  R7[2,71]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,71]  R7[2,71]  -400
     camion_n_en_comuna_c_dia_d[4,2,71]  R9[2,71]  1
     camion_n_en_comuna_c_dia_d[4,2,72]  R2[4,72]  1
     camion_n_en_comuna_c_dia_d[4,2,72]  R5[4,2,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,72]  R7[2,72]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,72]  R7[2,72]  -400
     camion_n_en_comuna_c_dia_d[4,2,72]  R9[2,72]  1
     camion_n_en_comuna_c_dia_d[4,2,73]  R2[4,73]  1
     camion_n_en_comuna_c_dia_d[4,2,73]  R5[4,2,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,73]  R7[2,73]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,73]  R7[2,73]  -400
     camion_n_en_comuna_c_dia_d[4,2,73]  R9[2,73]  1
     camion_n_en_comuna_c_dia_d[4,2,74]  R2[4,74]  1
     camion_n_en_comuna_c_dia_d[4,2,74]  R5[4,2,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,74]  R7[2,74]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,74]  R7[2,74]  -400
     camion_n_en_comuna_c_dia_d[4,2,74]  R9[2,74]  1
     camion_n_en_comuna_c_dia_d[4,2,75]  R2[4,75]  1
     camion_n_en_comuna_c_dia_d[4,2,75]  R5[4,2,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,75]  R7[2,75]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,75]  R7[2,75]  -400
     camion_n_en_comuna_c_dia_d[4,2,75]  R9[2,75]  1
     camion_n_en_comuna_c_dia_d[4,2,76]  R2[4,76]  1
     camion_n_en_comuna_c_dia_d[4,2,76]  R5[4,2,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,76]  R7[2,76]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,76]  R7[2,76]  -400
     camion_n_en_comuna_c_dia_d[4,2,76]  R9[2,76]  1
     camion_n_en_comuna_c_dia_d[4,2,77]  R2[4,77]  1
     camion_n_en_comuna_c_dia_d[4,2,77]  R5[4,2,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,77]  R7[2,77]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,77]  R7[2,77]  -400
     camion_n_en_comuna_c_dia_d[4,2,77]  R9[2,77]  1
     camion_n_en_comuna_c_dia_d[4,2,78]  R2[4,78]  1
     camion_n_en_comuna_c_dia_d[4,2,78]  R5[4,2,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,78]  R7[2,78]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,78]  R7[2,78]  -400
     camion_n_en_comuna_c_dia_d[4,2,78]  R9[2,78]  1
     camion_n_en_comuna_c_dia_d[4,2,79]  R2[4,79]  1
     camion_n_en_comuna_c_dia_d[4,2,79]  R5[4,2,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,79]  R7[2,79]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,79]  R7[2,79]  -400
     camion_n_en_comuna_c_dia_d[4,2,79]  R9[2,79]  1
     camion_n_en_comuna_c_dia_d[4,2,80]  R2[4,80]  1
     camion_n_en_comuna_c_dia_d[4,2,80]  R5[4,2,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,80]  R7[2,80]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,80]  R7[2,80]  -400
     camion_n_en_comuna_c_dia_d[4,2,80]  R9[2,80]  1
     camion_n_en_comuna_c_dia_d[4,2,81]  R2[4,81]  1
     camion_n_en_comuna_c_dia_d[4,2,81]  R5[4,2,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,81]  R7[2,81]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,81]  R7[2,81]  -400
     camion_n_en_comuna_c_dia_d[4,2,81]  R9[2,81]  1
     camion_n_en_comuna_c_dia_d[4,2,82]  R2[4,82]  1
     camion_n_en_comuna_c_dia_d[4,2,82]  R5[4,2,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,82]  R7[2,82]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,82]  R7[2,82]  -400
     camion_n_en_comuna_c_dia_d[4,2,82]  R9[2,82]  1
     camion_n_en_comuna_c_dia_d[4,2,83]  R2[4,83]  1
     camion_n_en_comuna_c_dia_d[4,2,83]  R5[4,2,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,83]  R7[2,83]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,83]  R7[2,83]  -400
     camion_n_en_comuna_c_dia_d[4,2,83]  R9[2,83]  1
     camion_n_en_comuna_c_dia_d[4,2,84]  R2[4,84]  1
     camion_n_en_comuna_c_dia_d[4,2,84]  R5[4,2,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,84]  R7[2,84]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,84]  R7[2,84]  -400
     camion_n_en_comuna_c_dia_d[4,2,84]  R9[2,84]  1
     camion_n_en_comuna_c_dia_d[4,2,85]  R2[4,85]  1
     camion_n_en_comuna_c_dia_d[4,2,85]  R5[4,2,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,85]  R7[2,85]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,85]  R7[2,85]  -400
     camion_n_en_comuna_c_dia_d[4,2,85]  R9[2,85]  1
     camion_n_en_comuna_c_dia_d[4,2,86]  R2[4,86]  1
     camion_n_en_comuna_c_dia_d[4,2,86]  R5[4,2,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,86]  R7[2,86]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,86]  R7[2,86]  -400
     camion_n_en_comuna_c_dia_d[4,2,86]  R9[2,86]  1
     camion_n_en_comuna_c_dia_d[4,2,87]  R2[4,87]  1
     camion_n_en_comuna_c_dia_d[4,2,87]  R5[4,2,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,87]  R7[2,87]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,87]  R7[2,87]  -400
     camion_n_en_comuna_c_dia_d[4,2,87]  R9[2,87]  1
     camion_n_en_comuna_c_dia_d[4,2,88]  R2[4,88]  1
     camion_n_en_comuna_c_dia_d[4,2,88]  R5[4,2,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,88]  R7[2,88]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,88]  R7[2,88]  -400
     camion_n_en_comuna_c_dia_d[4,2,88]  R9[2,88]  1
     camion_n_en_comuna_c_dia_d[4,2,89]  R2[4,89]  1
     camion_n_en_comuna_c_dia_d[4,2,89]  R5[4,2,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,89]  R7[2,89]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,89]  R7[2,89]  -400
     camion_n_en_comuna_c_dia_d[4,2,89]  R9[2,89]  1
     camion_n_en_comuna_c_dia_d[4,2,90]  R2[4,90]  1
     camion_n_en_comuna_c_dia_d[4,2,90]  R5[4,2,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,90]  R7[2,90]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,90]  R7[2,90]  -400
     camion_n_en_comuna_c_dia_d[4,2,90]  R9[2,90]  1
     camion_n_en_comuna_c_dia_d[4,2,91]  R2[4,91]  1
     camion_n_en_comuna_c_dia_d[4,2,91]  R5[4,2,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,91]  R7[2,91]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,91]  R7[2,91]  -400
     camion_n_en_comuna_c_dia_d[4,2,91]  R9[2,91]  1
     camion_n_en_comuna_c_dia_d[4,2,92]  R2[4,92]  1
     camion_n_en_comuna_c_dia_d[4,2,92]  R5[4,2,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,92]  R7[2,92]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,92]  R7[2,92]  -400
     camion_n_en_comuna_c_dia_d[4,2,92]  R9[2,92]  1
     camion_n_en_comuna_c_dia_d[4,2,93]  R2[4,93]  1
     camion_n_en_comuna_c_dia_d[4,2,93]  R5[4,2,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,93]  R7[2,93]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,93]  R7[2,93]  -400
     camion_n_en_comuna_c_dia_d[4,2,93]  R9[2,93]  1
     camion_n_en_comuna_c_dia_d[4,2,94]  R2[4,94]  1
     camion_n_en_comuna_c_dia_d[4,2,94]  R5[4,2,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,94]  R7[2,94]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,94]  R7[2,94]  -400
     camion_n_en_comuna_c_dia_d[4,2,94]  R9[2,94]  1
     camion_n_en_comuna_c_dia_d[4,2,95]  R2[4,95]  1
     camion_n_en_comuna_c_dia_d[4,2,95]  R5[4,2,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,95]  R7[2,95]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,95]  R7[2,95]  -400
     camion_n_en_comuna_c_dia_d[4,2,95]  R9[2,95]  1
     camion_n_en_comuna_c_dia_d[4,2,96]  R2[4,96]  1
     camion_n_en_comuna_c_dia_d[4,2,96]  R5[4,2,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,96]  R7[2,96]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,96]  R7[2,96]  -400
     camion_n_en_comuna_c_dia_d[4,2,96]  R9[2,96]  1
     camion_n_en_comuna_c_dia_d[4,2,97]  R2[4,97]  1
     camion_n_en_comuna_c_dia_d[4,2,97]  R5[4,2,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,97]  R7[2,97]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,97]  R7[2,97]  -400
     camion_n_en_comuna_c_dia_d[4,2,97]  R9[2,97]  1
     camion_n_en_comuna_c_dia_d[4,2,98]  R2[4,98]  1
     camion_n_en_comuna_c_dia_d[4,2,98]  R5[4,2,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,98]  R7[2,98]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,98]  R7[2,98]  -400
     camion_n_en_comuna_c_dia_d[4,2,98]  R9[2,98]  1
     camion_n_en_comuna_c_dia_d[4,2,99]  R2[4,99]  1
     camion_n_en_comuna_c_dia_d[4,2,99]  R5[4,2,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,2,99]  R7[2,99]  -1000
+    camion_n_en_comuna_c_dia_d[4,2,99]  R7[2,99]  -400
     camion_n_en_comuna_c_dia_d[4,2,99]  R9[2,99]  1
     camion_n_en_comuna_c_dia_d[4,3,0]  R2[4,0]   1
     camion_n_en_comuna_c_dia_d[4,3,0]  R5[4,3,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,0]  R7[3,0]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,0]  R7[3,0]   -400
     camion_n_en_comuna_c_dia_d[4,3,0]  R9[3,0]   1
     camion_n_en_comuna_c_dia_d[4,3,1]  R2[4,1]   1
     camion_n_en_comuna_c_dia_d[4,3,1]  R5[4,3,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,1]  R7[3,1]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,1]  R7[3,1]   -400
     camion_n_en_comuna_c_dia_d[4,3,1]  R9[3,1]   1
     camion_n_en_comuna_c_dia_d[4,3,2]  R2[4,2]   1
     camion_n_en_comuna_c_dia_d[4,3,2]  R5[4,3,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,2]  R7[3,2]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,2]  R7[3,2]   -400
     camion_n_en_comuna_c_dia_d[4,3,2]  R9[3,2]   1
     camion_n_en_comuna_c_dia_d[4,3,3]  R2[4,3]   1
     camion_n_en_comuna_c_dia_d[4,3,3]  R5[4,3,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,3]  R7[3,3]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,3]  R7[3,3]   -400
     camion_n_en_comuna_c_dia_d[4,3,3]  R9[3,3]   1
     camion_n_en_comuna_c_dia_d[4,3,4]  R2[4,4]   1
     camion_n_en_comuna_c_dia_d[4,3,4]  R5[4,3,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,4]  R7[3,4]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,4]  R7[3,4]   -400
     camion_n_en_comuna_c_dia_d[4,3,4]  R9[3,4]   1
     camion_n_en_comuna_c_dia_d[4,3,5]  R2[4,5]   1
     camion_n_en_comuna_c_dia_d[4,3,5]  R5[4,3,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,5]  R7[3,5]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,5]  R7[3,5]   -400
     camion_n_en_comuna_c_dia_d[4,3,5]  R9[3,5]   1
     camion_n_en_comuna_c_dia_d[4,3,6]  R2[4,6]   1
     camion_n_en_comuna_c_dia_d[4,3,6]  R5[4,3,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,6]  R7[3,6]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,6]  R7[3,6]   -400
     camion_n_en_comuna_c_dia_d[4,3,6]  R9[3,6]   1
     camion_n_en_comuna_c_dia_d[4,3,7]  R2[4,7]   1
     camion_n_en_comuna_c_dia_d[4,3,7]  R5[4,3,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,7]  R7[3,7]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,7]  R7[3,7]   -400
     camion_n_en_comuna_c_dia_d[4,3,7]  R9[3,7]   1
     camion_n_en_comuna_c_dia_d[4,3,8]  R2[4,8]   1
     camion_n_en_comuna_c_dia_d[4,3,8]  R5[4,3,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,8]  R7[3,8]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,8]  R7[3,8]   -400
     camion_n_en_comuna_c_dia_d[4,3,8]  R9[3,8]   1
     camion_n_en_comuna_c_dia_d[4,3,9]  R2[4,9]   1
     camion_n_en_comuna_c_dia_d[4,3,9]  R5[4,3,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,9]  R7[3,9]   -1000
+    camion_n_en_comuna_c_dia_d[4,3,9]  R7[3,9]   -400
     camion_n_en_comuna_c_dia_d[4,3,9]  R9[3,9]   1
     camion_n_en_comuna_c_dia_d[4,3,10]  R2[4,10]  1
     camion_n_en_comuna_c_dia_d[4,3,10]  R5[4,3,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,10]  R7[3,10]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,10]  R7[3,10]  -400
     camion_n_en_comuna_c_dia_d[4,3,10]  R9[3,10]  1
     camion_n_en_comuna_c_dia_d[4,3,11]  R2[4,11]  1
     camion_n_en_comuna_c_dia_d[4,3,11]  R5[4,3,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,11]  R7[3,11]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,11]  R7[3,11]  -400
     camion_n_en_comuna_c_dia_d[4,3,11]  R9[3,11]  1
     camion_n_en_comuna_c_dia_d[4,3,12]  R2[4,12]  1
     camion_n_en_comuna_c_dia_d[4,3,12]  R5[4,3,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,12]  R7[3,12]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,12]  R7[3,12]  -400
     camion_n_en_comuna_c_dia_d[4,3,12]  R9[3,12]  1
     camion_n_en_comuna_c_dia_d[4,3,13]  R2[4,13]  1
     camion_n_en_comuna_c_dia_d[4,3,13]  R5[4,3,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,13]  R7[3,13]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,13]  R7[3,13]  -400
     camion_n_en_comuna_c_dia_d[4,3,13]  R9[3,13]  1
     camion_n_en_comuna_c_dia_d[4,3,14]  R2[4,14]  1
     camion_n_en_comuna_c_dia_d[4,3,14]  R5[4,3,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,14]  R7[3,14]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,14]  R7[3,14]  -400
     camion_n_en_comuna_c_dia_d[4,3,14]  R9[3,14]  1
     camion_n_en_comuna_c_dia_d[4,3,15]  R2[4,15]  1
     camion_n_en_comuna_c_dia_d[4,3,15]  R5[4,3,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,15]  R7[3,15]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,15]  R7[3,15]  -400
     camion_n_en_comuna_c_dia_d[4,3,15]  R9[3,15]  1
     camion_n_en_comuna_c_dia_d[4,3,16]  R2[4,16]  1
     camion_n_en_comuna_c_dia_d[4,3,16]  R5[4,3,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,16]  R7[3,16]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,16]  R7[3,16]  -400
     camion_n_en_comuna_c_dia_d[4,3,16]  R9[3,16]  1
     camion_n_en_comuna_c_dia_d[4,3,17]  R2[4,17]  1
     camion_n_en_comuna_c_dia_d[4,3,17]  R5[4,3,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,17]  R7[3,17]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,17]  R7[3,17]  -400
     camion_n_en_comuna_c_dia_d[4,3,17]  R9[3,17]  1
     camion_n_en_comuna_c_dia_d[4,3,18]  R2[4,18]  1
     camion_n_en_comuna_c_dia_d[4,3,18]  R5[4,3,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,18]  R7[3,18]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,18]  R7[3,18]  -400
     camion_n_en_comuna_c_dia_d[4,3,18]  R9[3,18]  1
     camion_n_en_comuna_c_dia_d[4,3,19]  R2[4,19]  1
     camion_n_en_comuna_c_dia_d[4,3,19]  R5[4,3,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,19]  R7[3,19]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,19]  R7[3,19]  -400
     camion_n_en_comuna_c_dia_d[4,3,19]  R9[3,19]  1
     camion_n_en_comuna_c_dia_d[4,3,20]  R2[4,20]  1
     camion_n_en_comuna_c_dia_d[4,3,20]  R5[4,3,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,20]  R7[3,20]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,20]  R7[3,20]  -400
     camion_n_en_comuna_c_dia_d[4,3,20]  R9[3,20]  1
     camion_n_en_comuna_c_dia_d[4,3,21]  R2[4,21]  1
     camion_n_en_comuna_c_dia_d[4,3,21]  R5[4,3,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,21]  R7[3,21]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,21]  R7[3,21]  -400
     camion_n_en_comuna_c_dia_d[4,3,21]  R9[3,21]  1
     camion_n_en_comuna_c_dia_d[4,3,22]  R2[4,22]  1
     camion_n_en_comuna_c_dia_d[4,3,22]  R5[4,3,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,22]  R7[3,22]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,22]  R7[3,22]  -400
     camion_n_en_comuna_c_dia_d[4,3,22]  R9[3,22]  1
     camion_n_en_comuna_c_dia_d[4,3,23]  R2[4,23]  1
     camion_n_en_comuna_c_dia_d[4,3,23]  R5[4,3,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,23]  R7[3,23]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,23]  R7[3,23]  -400
     camion_n_en_comuna_c_dia_d[4,3,23]  R9[3,23]  1
     camion_n_en_comuna_c_dia_d[4,3,24]  R2[4,24]  1
     camion_n_en_comuna_c_dia_d[4,3,24]  R5[4,3,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,24]  R7[3,24]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,24]  R7[3,24]  -400
     camion_n_en_comuna_c_dia_d[4,3,24]  R9[3,24]  1
     camion_n_en_comuna_c_dia_d[4,3,25]  R2[4,25]  1
     camion_n_en_comuna_c_dia_d[4,3,25]  R5[4,3,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,25]  R7[3,25]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,25]  R7[3,25]  -400
     camion_n_en_comuna_c_dia_d[4,3,25]  R9[3,25]  1
     camion_n_en_comuna_c_dia_d[4,3,26]  R2[4,26]  1
     camion_n_en_comuna_c_dia_d[4,3,26]  R5[4,3,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,26]  R7[3,26]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,26]  R7[3,26]  -400
     camion_n_en_comuna_c_dia_d[4,3,26]  R9[3,26]  1
     camion_n_en_comuna_c_dia_d[4,3,27]  R2[4,27]  1
     camion_n_en_comuna_c_dia_d[4,3,27]  R5[4,3,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,27]  R7[3,27]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,27]  R7[3,27]  -400
     camion_n_en_comuna_c_dia_d[4,3,27]  R9[3,27]  1
     camion_n_en_comuna_c_dia_d[4,3,28]  R2[4,28]  1
     camion_n_en_comuna_c_dia_d[4,3,28]  R5[4,3,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,28]  R7[3,28]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,28]  R7[3,28]  -400
     camion_n_en_comuna_c_dia_d[4,3,28]  R9[3,28]  1
     camion_n_en_comuna_c_dia_d[4,3,29]  R2[4,29]  1
     camion_n_en_comuna_c_dia_d[4,3,29]  R5[4,3,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,29]  R7[3,29]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,29]  R7[3,29]  -400
     camion_n_en_comuna_c_dia_d[4,3,29]  R9[3,29]  1
     camion_n_en_comuna_c_dia_d[4,3,30]  R2[4,30]  1
     camion_n_en_comuna_c_dia_d[4,3,30]  R5[4,3,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,30]  R7[3,30]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,30]  R7[3,30]  -400
     camion_n_en_comuna_c_dia_d[4,3,30]  R9[3,30]  1
     camion_n_en_comuna_c_dia_d[4,3,31]  R2[4,31]  1
     camion_n_en_comuna_c_dia_d[4,3,31]  R5[4,3,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,31]  R7[3,31]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,31]  R7[3,31]  -400
     camion_n_en_comuna_c_dia_d[4,3,31]  R9[3,31]  1
     camion_n_en_comuna_c_dia_d[4,3,32]  R2[4,32]  1
     camion_n_en_comuna_c_dia_d[4,3,32]  R5[4,3,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,32]  R7[3,32]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,32]  R7[3,32]  -400
     camion_n_en_comuna_c_dia_d[4,3,32]  R9[3,32]  1
     camion_n_en_comuna_c_dia_d[4,3,33]  R2[4,33]  1
     camion_n_en_comuna_c_dia_d[4,3,33]  R5[4,3,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,33]  R7[3,33]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,33]  R7[3,33]  -400
     camion_n_en_comuna_c_dia_d[4,3,33]  R9[3,33]  1
     camion_n_en_comuna_c_dia_d[4,3,34]  R2[4,34]  1
     camion_n_en_comuna_c_dia_d[4,3,34]  R5[4,3,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,34]  R7[3,34]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,34]  R7[3,34]  -400
     camion_n_en_comuna_c_dia_d[4,3,34]  R9[3,34]  1
     camion_n_en_comuna_c_dia_d[4,3,35]  R2[4,35]  1
     camion_n_en_comuna_c_dia_d[4,3,35]  R5[4,3,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,35]  R7[3,35]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,35]  R7[3,35]  -400
     camion_n_en_comuna_c_dia_d[4,3,35]  R9[3,35]  1
     camion_n_en_comuna_c_dia_d[4,3,36]  R2[4,36]  1
     camion_n_en_comuna_c_dia_d[4,3,36]  R5[4,3,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,36]  R7[3,36]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,36]  R7[3,36]  -400
     camion_n_en_comuna_c_dia_d[4,3,36]  R9[3,36]  1
     camion_n_en_comuna_c_dia_d[4,3,37]  R2[4,37]  1
     camion_n_en_comuna_c_dia_d[4,3,37]  R5[4,3,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,37]  R7[3,37]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,37]  R7[3,37]  -400
     camion_n_en_comuna_c_dia_d[4,3,37]  R9[3,37]  1
     camion_n_en_comuna_c_dia_d[4,3,38]  R2[4,38]  1
     camion_n_en_comuna_c_dia_d[4,3,38]  R5[4,3,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,38]  R7[3,38]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,38]  R7[3,38]  -400
     camion_n_en_comuna_c_dia_d[4,3,38]  R9[3,38]  1
     camion_n_en_comuna_c_dia_d[4,3,39]  R2[4,39]  1
     camion_n_en_comuna_c_dia_d[4,3,39]  R5[4,3,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,39]  R7[3,39]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,39]  R7[3,39]  -400
     camion_n_en_comuna_c_dia_d[4,3,39]  R9[3,39]  1
     camion_n_en_comuna_c_dia_d[4,3,40]  R2[4,40]  1
     camion_n_en_comuna_c_dia_d[4,3,40]  R5[4,3,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,40]  R7[3,40]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,40]  R7[3,40]  -400
     camion_n_en_comuna_c_dia_d[4,3,40]  R9[3,40]  1
     camion_n_en_comuna_c_dia_d[4,3,41]  R2[4,41]  1
     camion_n_en_comuna_c_dia_d[4,3,41]  R5[4,3,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,41]  R7[3,41]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,41]  R7[3,41]  -400
     camion_n_en_comuna_c_dia_d[4,3,41]  R9[3,41]  1
     camion_n_en_comuna_c_dia_d[4,3,42]  R2[4,42]  1
     camion_n_en_comuna_c_dia_d[4,3,42]  R5[4,3,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,42]  R7[3,42]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,42]  R7[3,42]  -400
     camion_n_en_comuna_c_dia_d[4,3,42]  R9[3,42]  1
     camion_n_en_comuna_c_dia_d[4,3,43]  R2[4,43]  1
     camion_n_en_comuna_c_dia_d[4,3,43]  R5[4,3,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,43]  R7[3,43]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,43]  R7[3,43]  -400
     camion_n_en_comuna_c_dia_d[4,3,43]  R9[3,43]  1
     camion_n_en_comuna_c_dia_d[4,3,44]  R2[4,44]  1
     camion_n_en_comuna_c_dia_d[4,3,44]  R5[4,3,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,44]  R7[3,44]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,44]  R7[3,44]  -400
     camion_n_en_comuna_c_dia_d[4,3,44]  R9[3,44]  1
     camion_n_en_comuna_c_dia_d[4,3,45]  R2[4,45]  1
     camion_n_en_comuna_c_dia_d[4,3,45]  R5[4,3,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,45]  R7[3,45]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,45]  R7[3,45]  -400
     camion_n_en_comuna_c_dia_d[4,3,45]  R9[3,45]  1
     camion_n_en_comuna_c_dia_d[4,3,46]  R2[4,46]  1
     camion_n_en_comuna_c_dia_d[4,3,46]  R5[4,3,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,46]  R7[3,46]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,46]  R7[3,46]  -400
     camion_n_en_comuna_c_dia_d[4,3,46]  R9[3,46]  1
     camion_n_en_comuna_c_dia_d[4,3,47]  R2[4,47]  1
     camion_n_en_comuna_c_dia_d[4,3,47]  R5[4,3,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,47]  R7[3,47]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,47]  R7[3,47]  -400
     camion_n_en_comuna_c_dia_d[4,3,47]  R9[3,47]  1
     camion_n_en_comuna_c_dia_d[4,3,48]  R2[4,48]  1
     camion_n_en_comuna_c_dia_d[4,3,48]  R5[4,3,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,48]  R7[3,48]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,48]  R7[3,48]  -400
     camion_n_en_comuna_c_dia_d[4,3,48]  R9[3,48]  1
     camion_n_en_comuna_c_dia_d[4,3,49]  R2[4,49]  1
     camion_n_en_comuna_c_dia_d[4,3,49]  R5[4,3,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,49]  R7[3,49]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,49]  R7[3,49]  -400
     camion_n_en_comuna_c_dia_d[4,3,49]  R9[3,49]  1
     camion_n_en_comuna_c_dia_d[4,3,50]  R2[4,50]  1
     camion_n_en_comuna_c_dia_d[4,3,50]  R5[4,3,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,50]  R7[3,50]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,50]  R7[3,50]  -400
     camion_n_en_comuna_c_dia_d[4,3,50]  R9[3,50]  1
     camion_n_en_comuna_c_dia_d[4,3,51]  R2[4,51]  1
     camion_n_en_comuna_c_dia_d[4,3,51]  R5[4,3,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,51]  R7[3,51]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,51]  R7[3,51]  -400
     camion_n_en_comuna_c_dia_d[4,3,51]  R9[3,51]  1
     camion_n_en_comuna_c_dia_d[4,3,52]  R2[4,52]  1
     camion_n_en_comuna_c_dia_d[4,3,52]  R5[4,3,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,52]  R7[3,52]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,52]  R7[3,52]  -400
     camion_n_en_comuna_c_dia_d[4,3,52]  R9[3,52]  1
     camion_n_en_comuna_c_dia_d[4,3,53]  R2[4,53]  1
     camion_n_en_comuna_c_dia_d[4,3,53]  R5[4,3,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,53]  R7[3,53]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,53]  R7[3,53]  -400
     camion_n_en_comuna_c_dia_d[4,3,53]  R9[3,53]  1
     camion_n_en_comuna_c_dia_d[4,3,54]  R2[4,54]  1
     camion_n_en_comuna_c_dia_d[4,3,54]  R5[4,3,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,54]  R7[3,54]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,54]  R7[3,54]  -400
     camion_n_en_comuna_c_dia_d[4,3,54]  R9[3,54]  1
     camion_n_en_comuna_c_dia_d[4,3,55]  R2[4,55]  1
     camion_n_en_comuna_c_dia_d[4,3,55]  R5[4,3,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,55]  R7[3,55]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,55]  R7[3,55]  -400
     camion_n_en_comuna_c_dia_d[4,3,55]  R9[3,55]  1
     camion_n_en_comuna_c_dia_d[4,3,56]  R2[4,56]  1
     camion_n_en_comuna_c_dia_d[4,3,56]  R5[4,3,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,56]  R7[3,56]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,56]  R7[3,56]  -400
     camion_n_en_comuna_c_dia_d[4,3,56]  R9[3,56]  1
     camion_n_en_comuna_c_dia_d[4,3,57]  R2[4,57]  1
     camion_n_en_comuna_c_dia_d[4,3,57]  R5[4,3,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,57]  R7[3,57]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,57]  R7[3,57]  -400
     camion_n_en_comuna_c_dia_d[4,3,57]  R9[3,57]  1
     camion_n_en_comuna_c_dia_d[4,3,58]  R2[4,58]  1
     camion_n_en_comuna_c_dia_d[4,3,58]  R5[4,3,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,58]  R7[3,58]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,58]  R7[3,58]  -400
     camion_n_en_comuna_c_dia_d[4,3,58]  R9[3,58]  1
     camion_n_en_comuna_c_dia_d[4,3,59]  R2[4,59]  1
     camion_n_en_comuna_c_dia_d[4,3,59]  R5[4,3,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,59]  R7[3,59]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,59]  R7[3,59]  -400
     camion_n_en_comuna_c_dia_d[4,3,59]  R9[3,59]  1
     camion_n_en_comuna_c_dia_d[4,3,60]  R2[4,60]  1
     camion_n_en_comuna_c_dia_d[4,3,60]  R5[4,3,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,60]  R7[3,60]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,60]  R7[3,60]  -400
     camion_n_en_comuna_c_dia_d[4,3,60]  R9[3,60]  1
     camion_n_en_comuna_c_dia_d[4,3,61]  R2[4,61]  1
     camion_n_en_comuna_c_dia_d[4,3,61]  R5[4,3,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,61]  R7[3,61]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,61]  R7[3,61]  -400
     camion_n_en_comuna_c_dia_d[4,3,61]  R9[3,61]  1
     camion_n_en_comuna_c_dia_d[4,3,62]  R2[4,62]  1
     camion_n_en_comuna_c_dia_d[4,3,62]  R5[4,3,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,62]  R7[3,62]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,62]  R7[3,62]  -400
     camion_n_en_comuna_c_dia_d[4,3,62]  R9[3,62]  1
     camion_n_en_comuna_c_dia_d[4,3,63]  R2[4,63]  1
     camion_n_en_comuna_c_dia_d[4,3,63]  R5[4,3,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,63]  R7[3,63]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,63]  R7[3,63]  -400
     camion_n_en_comuna_c_dia_d[4,3,63]  R9[3,63]  1
     camion_n_en_comuna_c_dia_d[4,3,64]  R2[4,64]  1
     camion_n_en_comuna_c_dia_d[4,3,64]  R5[4,3,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,64]  R7[3,64]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,64]  R7[3,64]  -400
     camion_n_en_comuna_c_dia_d[4,3,64]  R9[3,64]  1
     camion_n_en_comuna_c_dia_d[4,3,65]  R2[4,65]  1
     camion_n_en_comuna_c_dia_d[4,3,65]  R5[4,3,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,65]  R7[3,65]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,65]  R7[3,65]  -400
     camion_n_en_comuna_c_dia_d[4,3,65]  R9[3,65]  1
     camion_n_en_comuna_c_dia_d[4,3,66]  R2[4,66]  1
     camion_n_en_comuna_c_dia_d[4,3,66]  R5[4,3,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,66]  R7[3,66]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,66]  R7[3,66]  -400
     camion_n_en_comuna_c_dia_d[4,3,66]  R9[3,66]  1
     camion_n_en_comuna_c_dia_d[4,3,67]  R2[4,67]  1
     camion_n_en_comuna_c_dia_d[4,3,67]  R5[4,3,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,67]  R7[3,67]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,67]  R7[3,67]  -400
     camion_n_en_comuna_c_dia_d[4,3,67]  R9[3,67]  1
     camion_n_en_comuna_c_dia_d[4,3,68]  R2[4,68]  1
     camion_n_en_comuna_c_dia_d[4,3,68]  R5[4,3,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,68]  R7[3,68]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,68]  R7[3,68]  -400
     camion_n_en_comuna_c_dia_d[4,3,68]  R9[3,68]  1
     camion_n_en_comuna_c_dia_d[4,3,69]  R2[4,69]  1
     camion_n_en_comuna_c_dia_d[4,3,69]  R5[4,3,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,69]  R7[3,69]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,69]  R7[3,69]  -400
     camion_n_en_comuna_c_dia_d[4,3,69]  R9[3,69]  1
     camion_n_en_comuna_c_dia_d[4,3,70]  R2[4,70]  1
     camion_n_en_comuna_c_dia_d[4,3,70]  R5[4,3,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,70]  R7[3,70]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,70]  R7[3,70]  -400
     camion_n_en_comuna_c_dia_d[4,3,70]  R9[3,70]  1
     camion_n_en_comuna_c_dia_d[4,3,71]  R2[4,71]  1
     camion_n_en_comuna_c_dia_d[4,3,71]  R5[4,3,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,71]  R7[3,71]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,71]  R7[3,71]  -400
     camion_n_en_comuna_c_dia_d[4,3,71]  R9[3,71]  1
     camion_n_en_comuna_c_dia_d[4,3,72]  R2[4,72]  1
     camion_n_en_comuna_c_dia_d[4,3,72]  R5[4,3,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,72]  R7[3,72]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,72]  R7[3,72]  -400
     camion_n_en_comuna_c_dia_d[4,3,72]  R9[3,72]  1
     camion_n_en_comuna_c_dia_d[4,3,73]  R2[4,73]  1
     camion_n_en_comuna_c_dia_d[4,3,73]  R5[4,3,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,73]  R7[3,73]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,73]  R7[3,73]  -400
     camion_n_en_comuna_c_dia_d[4,3,73]  R9[3,73]  1
     camion_n_en_comuna_c_dia_d[4,3,74]  R2[4,74]  1
     camion_n_en_comuna_c_dia_d[4,3,74]  R5[4,3,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,74]  R7[3,74]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,74]  R7[3,74]  -400
     camion_n_en_comuna_c_dia_d[4,3,74]  R9[3,74]  1
     camion_n_en_comuna_c_dia_d[4,3,75]  R2[4,75]  1
     camion_n_en_comuna_c_dia_d[4,3,75]  R5[4,3,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,75]  R7[3,75]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,75]  R7[3,75]  -400
     camion_n_en_comuna_c_dia_d[4,3,75]  R9[3,75]  1
     camion_n_en_comuna_c_dia_d[4,3,76]  R2[4,76]  1
     camion_n_en_comuna_c_dia_d[4,3,76]  R5[4,3,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,76]  R7[3,76]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,76]  R7[3,76]  -400
     camion_n_en_comuna_c_dia_d[4,3,76]  R9[3,76]  1
     camion_n_en_comuna_c_dia_d[4,3,77]  R2[4,77]  1
     camion_n_en_comuna_c_dia_d[4,3,77]  R5[4,3,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,77]  R7[3,77]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,77]  R7[3,77]  -400
     camion_n_en_comuna_c_dia_d[4,3,77]  R9[3,77]  1
     camion_n_en_comuna_c_dia_d[4,3,78]  R2[4,78]  1
     camion_n_en_comuna_c_dia_d[4,3,78]  R5[4,3,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,78]  R7[3,78]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,78]  R7[3,78]  -400
     camion_n_en_comuna_c_dia_d[4,3,78]  R9[3,78]  1
     camion_n_en_comuna_c_dia_d[4,3,79]  R2[4,79]  1
     camion_n_en_comuna_c_dia_d[4,3,79]  R5[4,3,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,79]  R7[3,79]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,79]  R7[3,79]  -400
     camion_n_en_comuna_c_dia_d[4,3,79]  R9[3,79]  1
     camion_n_en_comuna_c_dia_d[4,3,80]  R2[4,80]  1
     camion_n_en_comuna_c_dia_d[4,3,80]  R5[4,3,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,80]  R7[3,80]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,80]  R7[3,80]  -400
     camion_n_en_comuna_c_dia_d[4,3,80]  R9[3,80]  1
     camion_n_en_comuna_c_dia_d[4,3,81]  R2[4,81]  1
     camion_n_en_comuna_c_dia_d[4,3,81]  R5[4,3,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,81]  R7[3,81]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,81]  R7[3,81]  -400
     camion_n_en_comuna_c_dia_d[4,3,81]  R9[3,81]  1
     camion_n_en_comuna_c_dia_d[4,3,82]  R2[4,82]  1
     camion_n_en_comuna_c_dia_d[4,3,82]  R5[4,3,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,82]  R7[3,82]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,82]  R7[3,82]  -400
     camion_n_en_comuna_c_dia_d[4,3,82]  R9[3,82]  1
     camion_n_en_comuna_c_dia_d[4,3,83]  R2[4,83]  1
     camion_n_en_comuna_c_dia_d[4,3,83]  R5[4,3,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,83]  R7[3,83]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,83]  R7[3,83]  -400
     camion_n_en_comuna_c_dia_d[4,3,83]  R9[3,83]  1
     camion_n_en_comuna_c_dia_d[4,3,84]  R2[4,84]  1
     camion_n_en_comuna_c_dia_d[4,3,84]  R5[4,3,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,84]  R7[3,84]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,84]  R7[3,84]  -400
     camion_n_en_comuna_c_dia_d[4,3,84]  R9[3,84]  1
     camion_n_en_comuna_c_dia_d[4,3,85]  R2[4,85]  1
     camion_n_en_comuna_c_dia_d[4,3,85]  R5[4,3,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,85]  R7[3,85]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,85]  R7[3,85]  -400
     camion_n_en_comuna_c_dia_d[4,3,85]  R9[3,85]  1
     camion_n_en_comuna_c_dia_d[4,3,86]  R2[4,86]  1
     camion_n_en_comuna_c_dia_d[4,3,86]  R5[4,3,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,86]  R7[3,86]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,86]  R7[3,86]  -400
     camion_n_en_comuna_c_dia_d[4,3,86]  R9[3,86]  1
     camion_n_en_comuna_c_dia_d[4,3,87]  R2[4,87]  1
     camion_n_en_comuna_c_dia_d[4,3,87]  R5[4,3,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,87]  R7[3,87]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,87]  R7[3,87]  -400
     camion_n_en_comuna_c_dia_d[4,3,87]  R9[3,87]  1
     camion_n_en_comuna_c_dia_d[4,3,88]  R2[4,88]  1
     camion_n_en_comuna_c_dia_d[4,3,88]  R5[4,3,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,88]  R7[3,88]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,88]  R7[3,88]  -400
     camion_n_en_comuna_c_dia_d[4,3,88]  R9[3,88]  1
     camion_n_en_comuna_c_dia_d[4,3,89]  R2[4,89]  1
     camion_n_en_comuna_c_dia_d[4,3,89]  R5[4,3,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,89]  R7[3,89]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,89]  R7[3,89]  -400
     camion_n_en_comuna_c_dia_d[4,3,89]  R9[3,89]  1
     camion_n_en_comuna_c_dia_d[4,3,90]  R2[4,90]  1
     camion_n_en_comuna_c_dia_d[4,3,90]  R5[4,3,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,90]  R7[3,90]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,90]  R7[3,90]  -400
     camion_n_en_comuna_c_dia_d[4,3,90]  R9[3,90]  1
     camion_n_en_comuna_c_dia_d[4,3,91]  R2[4,91]  1
     camion_n_en_comuna_c_dia_d[4,3,91]  R5[4,3,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,91]  R7[3,91]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,91]  R7[3,91]  -400
     camion_n_en_comuna_c_dia_d[4,3,91]  R9[3,91]  1
     camion_n_en_comuna_c_dia_d[4,3,92]  R2[4,92]  1
     camion_n_en_comuna_c_dia_d[4,3,92]  R5[4,3,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,92]  R7[3,92]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,92]  R7[3,92]  -400
     camion_n_en_comuna_c_dia_d[4,3,92]  R9[3,92]  1
     camion_n_en_comuna_c_dia_d[4,3,93]  R2[4,93]  1
     camion_n_en_comuna_c_dia_d[4,3,93]  R5[4,3,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,93]  R7[3,93]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,93]  R7[3,93]  -400
     camion_n_en_comuna_c_dia_d[4,3,93]  R9[3,93]  1
     camion_n_en_comuna_c_dia_d[4,3,94]  R2[4,94]  1
     camion_n_en_comuna_c_dia_d[4,3,94]  R5[4,3,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,94]  R7[3,94]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,94]  R7[3,94]  -400
     camion_n_en_comuna_c_dia_d[4,3,94]  R9[3,94]  1
     camion_n_en_comuna_c_dia_d[4,3,95]  R2[4,95]  1
     camion_n_en_comuna_c_dia_d[4,3,95]  R5[4,3,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,95]  R7[3,95]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,95]  R7[3,95]  -400
     camion_n_en_comuna_c_dia_d[4,3,95]  R9[3,95]  1
     camion_n_en_comuna_c_dia_d[4,3,96]  R2[4,96]  1
     camion_n_en_comuna_c_dia_d[4,3,96]  R5[4,3,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,96]  R7[3,96]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,96]  R7[3,96]  -400
     camion_n_en_comuna_c_dia_d[4,3,96]  R9[3,96]  1
     camion_n_en_comuna_c_dia_d[4,3,97]  R2[4,97]  1
     camion_n_en_comuna_c_dia_d[4,3,97]  R5[4,3,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,97]  R7[3,97]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,97]  R7[3,97]  -400
     camion_n_en_comuna_c_dia_d[4,3,97]  R9[3,97]  1
     camion_n_en_comuna_c_dia_d[4,3,98]  R2[4,98]  1
     camion_n_en_comuna_c_dia_d[4,3,98]  R5[4,3,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,98]  R7[3,98]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,98]  R7[3,98]  -400
     camion_n_en_comuna_c_dia_d[4,3,98]  R9[3,98]  1
     camion_n_en_comuna_c_dia_d[4,3,99]  R2[4,99]  1
     camion_n_en_comuna_c_dia_d[4,3,99]  R5[4,3,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[4,3,99]  R7[3,99]  -1000
+    camion_n_en_comuna_c_dia_d[4,3,99]  R7[3,99]  -400
     camion_n_en_comuna_c_dia_d[4,3,99]  R9[3,99]  1
     camion_n_en_comuna_c_dia_d[5,0,0]  R2[5,0]   1
     camion_n_en_comuna_c_dia_d[5,0,0]  R5[5,0,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,0]  R7[0,0]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,0]  R7[0,0]   -400
     camion_n_en_comuna_c_dia_d[5,0,0]  R9[0,0]   1
     camion_n_en_comuna_c_dia_d[5,0,1]  R2[5,1]   1
     camion_n_en_comuna_c_dia_d[5,0,1]  R5[5,0,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,1]  R7[0,1]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,1]  R7[0,1]   -400
     camion_n_en_comuna_c_dia_d[5,0,1]  R9[0,1]   1
     camion_n_en_comuna_c_dia_d[5,0,2]  R2[5,2]   1
     camion_n_en_comuna_c_dia_d[5,0,2]  R5[5,0,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,2]  R7[0,2]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,2]  R7[0,2]   -400
     camion_n_en_comuna_c_dia_d[5,0,2]  R9[0,2]   1
     camion_n_en_comuna_c_dia_d[5,0,3]  R2[5,3]   1
     camion_n_en_comuna_c_dia_d[5,0,3]  R5[5,0,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,3]  R7[0,3]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,3]  R7[0,3]   -400
     camion_n_en_comuna_c_dia_d[5,0,3]  R9[0,3]   1
     camion_n_en_comuna_c_dia_d[5,0,4]  R2[5,4]   1
     camion_n_en_comuna_c_dia_d[5,0,4]  R5[5,0,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,4]  R7[0,4]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,4]  R7[0,4]   -400
     camion_n_en_comuna_c_dia_d[5,0,4]  R9[0,4]   1
     camion_n_en_comuna_c_dia_d[5,0,5]  R2[5,5]   1
     camion_n_en_comuna_c_dia_d[5,0,5]  R5[5,0,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,5]  R7[0,5]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,5]  R7[0,5]   -400
     camion_n_en_comuna_c_dia_d[5,0,5]  R9[0,5]   1
     camion_n_en_comuna_c_dia_d[5,0,6]  R2[5,6]   1
     camion_n_en_comuna_c_dia_d[5,0,6]  R5[5,0,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,6]  R7[0,6]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,6]  R7[0,6]   -400
     camion_n_en_comuna_c_dia_d[5,0,6]  R9[0,6]   1
     camion_n_en_comuna_c_dia_d[5,0,7]  R2[5,7]   1
     camion_n_en_comuna_c_dia_d[5,0,7]  R5[5,0,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,7]  R7[0,7]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,7]  R7[0,7]   -400
     camion_n_en_comuna_c_dia_d[5,0,7]  R9[0,7]   1
     camion_n_en_comuna_c_dia_d[5,0,8]  R2[5,8]   1
     camion_n_en_comuna_c_dia_d[5,0,8]  R5[5,0,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,8]  R7[0,8]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,8]  R7[0,8]   -400
     camion_n_en_comuna_c_dia_d[5,0,8]  R9[0,8]   1
     camion_n_en_comuna_c_dia_d[5,0,9]  R2[5,9]   1
     camion_n_en_comuna_c_dia_d[5,0,9]  R5[5,0,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,9]  R7[0,9]   -1000
+    camion_n_en_comuna_c_dia_d[5,0,9]  R7[0,9]   -400
     camion_n_en_comuna_c_dia_d[5,0,9]  R9[0,9]   1
     camion_n_en_comuna_c_dia_d[5,0,10]  R2[5,10]  1
     camion_n_en_comuna_c_dia_d[5,0,10]  R5[5,0,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,10]  R7[0,10]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,10]  R7[0,10]  -400
     camion_n_en_comuna_c_dia_d[5,0,10]  R9[0,10]  1
     camion_n_en_comuna_c_dia_d[5,0,11]  R2[5,11]  1
     camion_n_en_comuna_c_dia_d[5,0,11]  R5[5,0,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,11]  R7[0,11]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,11]  R7[0,11]  -400
     camion_n_en_comuna_c_dia_d[5,0,11]  R9[0,11]  1
     camion_n_en_comuna_c_dia_d[5,0,12]  R2[5,12]  1
     camion_n_en_comuna_c_dia_d[5,0,12]  R5[5,0,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,12]  R7[0,12]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,12]  R7[0,12]  -400
     camion_n_en_comuna_c_dia_d[5,0,12]  R9[0,12]  1
     camion_n_en_comuna_c_dia_d[5,0,13]  R2[5,13]  1
     camion_n_en_comuna_c_dia_d[5,0,13]  R5[5,0,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,13]  R7[0,13]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,13]  R7[0,13]  -400
     camion_n_en_comuna_c_dia_d[5,0,13]  R9[0,13]  1
     camion_n_en_comuna_c_dia_d[5,0,14]  R2[5,14]  1
     camion_n_en_comuna_c_dia_d[5,0,14]  R5[5,0,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,14]  R7[0,14]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,14]  R7[0,14]  -400
     camion_n_en_comuna_c_dia_d[5,0,14]  R9[0,14]  1
     camion_n_en_comuna_c_dia_d[5,0,15]  R2[5,15]  1
     camion_n_en_comuna_c_dia_d[5,0,15]  R5[5,0,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,15]  R7[0,15]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,15]  R7[0,15]  -400
     camion_n_en_comuna_c_dia_d[5,0,15]  R9[0,15]  1
     camion_n_en_comuna_c_dia_d[5,0,16]  R2[5,16]  1
     camion_n_en_comuna_c_dia_d[5,0,16]  R5[5,0,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,16]  R7[0,16]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,16]  R7[0,16]  -400
     camion_n_en_comuna_c_dia_d[5,0,16]  R9[0,16]  1
     camion_n_en_comuna_c_dia_d[5,0,17]  R2[5,17]  1
     camion_n_en_comuna_c_dia_d[5,0,17]  R5[5,0,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,17]  R7[0,17]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,17]  R7[0,17]  -400
     camion_n_en_comuna_c_dia_d[5,0,17]  R9[0,17]  1
     camion_n_en_comuna_c_dia_d[5,0,18]  R2[5,18]  1
     camion_n_en_comuna_c_dia_d[5,0,18]  R5[5,0,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,18]  R7[0,18]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,18]  R7[0,18]  -400
     camion_n_en_comuna_c_dia_d[5,0,18]  R9[0,18]  1
     camion_n_en_comuna_c_dia_d[5,0,19]  R2[5,19]  1
     camion_n_en_comuna_c_dia_d[5,0,19]  R5[5,0,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,19]  R7[0,19]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,19]  R7[0,19]  -400
     camion_n_en_comuna_c_dia_d[5,0,19]  R9[0,19]  1
     camion_n_en_comuna_c_dia_d[5,0,20]  R2[5,20]  1
     camion_n_en_comuna_c_dia_d[5,0,20]  R5[5,0,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,20]  R7[0,20]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,20]  R7[0,20]  -400
     camion_n_en_comuna_c_dia_d[5,0,20]  R9[0,20]  1
     camion_n_en_comuna_c_dia_d[5,0,21]  R2[5,21]  1
     camion_n_en_comuna_c_dia_d[5,0,21]  R5[5,0,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,21]  R7[0,21]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,21]  R7[0,21]  -400
     camion_n_en_comuna_c_dia_d[5,0,21]  R9[0,21]  1
     camion_n_en_comuna_c_dia_d[5,0,22]  R2[5,22]  1
     camion_n_en_comuna_c_dia_d[5,0,22]  R5[5,0,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,22]  R7[0,22]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,22]  R7[0,22]  -400
     camion_n_en_comuna_c_dia_d[5,0,22]  R9[0,22]  1
     camion_n_en_comuna_c_dia_d[5,0,23]  R2[5,23]  1
     camion_n_en_comuna_c_dia_d[5,0,23]  R5[5,0,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,23]  R7[0,23]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,23]  R7[0,23]  -400
     camion_n_en_comuna_c_dia_d[5,0,23]  R9[0,23]  1
     camion_n_en_comuna_c_dia_d[5,0,24]  R2[5,24]  1
     camion_n_en_comuna_c_dia_d[5,0,24]  R5[5,0,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,24]  R7[0,24]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,24]  R7[0,24]  -400
     camion_n_en_comuna_c_dia_d[5,0,24]  R9[0,24]  1
     camion_n_en_comuna_c_dia_d[5,0,25]  R2[5,25]  1
     camion_n_en_comuna_c_dia_d[5,0,25]  R5[5,0,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,25]  R7[0,25]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,25]  R7[0,25]  -400
     camion_n_en_comuna_c_dia_d[5,0,25]  R9[0,25]  1
     camion_n_en_comuna_c_dia_d[5,0,26]  R2[5,26]  1
     camion_n_en_comuna_c_dia_d[5,0,26]  R5[5,0,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,26]  R7[0,26]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,26]  R7[0,26]  -400
     camion_n_en_comuna_c_dia_d[5,0,26]  R9[0,26]  1
     camion_n_en_comuna_c_dia_d[5,0,27]  R2[5,27]  1
     camion_n_en_comuna_c_dia_d[5,0,27]  R5[5,0,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,27]  R7[0,27]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,27]  R7[0,27]  -400
     camion_n_en_comuna_c_dia_d[5,0,27]  R9[0,27]  1
     camion_n_en_comuna_c_dia_d[5,0,28]  R2[5,28]  1
     camion_n_en_comuna_c_dia_d[5,0,28]  R5[5,0,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,28]  R7[0,28]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,28]  R7[0,28]  -400
     camion_n_en_comuna_c_dia_d[5,0,28]  R9[0,28]  1
     camion_n_en_comuna_c_dia_d[5,0,29]  R2[5,29]  1
     camion_n_en_comuna_c_dia_d[5,0,29]  R5[5,0,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,29]  R7[0,29]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,29]  R7[0,29]  -400
     camion_n_en_comuna_c_dia_d[5,0,29]  R9[0,29]  1
     camion_n_en_comuna_c_dia_d[5,0,30]  R2[5,30]  1
     camion_n_en_comuna_c_dia_d[5,0,30]  R5[5,0,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,30]  R7[0,30]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,30]  R7[0,30]  -400
     camion_n_en_comuna_c_dia_d[5,0,30]  R9[0,30]  1
     camion_n_en_comuna_c_dia_d[5,0,31]  R2[5,31]  1
     camion_n_en_comuna_c_dia_d[5,0,31]  R5[5,0,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,31]  R7[0,31]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,31]  R7[0,31]  -400
     camion_n_en_comuna_c_dia_d[5,0,31]  R9[0,31]  1
     camion_n_en_comuna_c_dia_d[5,0,32]  R2[5,32]  1
     camion_n_en_comuna_c_dia_d[5,0,32]  R5[5,0,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,32]  R7[0,32]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,32]  R7[0,32]  -400
     camion_n_en_comuna_c_dia_d[5,0,32]  R9[0,32]  1
     camion_n_en_comuna_c_dia_d[5,0,33]  R2[5,33]  1
     camion_n_en_comuna_c_dia_d[5,0,33]  R5[5,0,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,33]  R7[0,33]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,33]  R7[0,33]  -400
     camion_n_en_comuna_c_dia_d[5,0,33]  R9[0,33]  1
     camion_n_en_comuna_c_dia_d[5,0,34]  R2[5,34]  1
     camion_n_en_comuna_c_dia_d[5,0,34]  R5[5,0,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,34]  R7[0,34]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,34]  R7[0,34]  -400
     camion_n_en_comuna_c_dia_d[5,0,34]  R9[0,34]  1
     camion_n_en_comuna_c_dia_d[5,0,35]  R2[5,35]  1
     camion_n_en_comuna_c_dia_d[5,0,35]  R5[5,0,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,35]  R7[0,35]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,35]  R7[0,35]  -400
     camion_n_en_comuna_c_dia_d[5,0,35]  R9[0,35]  1
     camion_n_en_comuna_c_dia_d[5,0,36]  R2[5,36]  1
     camion_n_en_comuna_c_dia_d[5,0,36]  R5[5,0,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,36]  R7[0,36]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,36]  R7[0,36]  -400
     camion_n_en_comuna_c_dia_d[5,0,36]  R9[0,36]  1
     camion_n_en_comuna_c_dia_d[5,0,37]  R2[5,37]  1
     camion_n_en_comuna_c_dia_d[5,0,37]  R5[5,0,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,37]  R7[0,37]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,37]  R7[0,37]  -400
     camion_n_en_comuna_c_dia_d[5,0,37]  R9[0,37]  1
     camion_n_en_comuna_c_dia_d[5,0,38]  R2[5,38]  1
     camion_n_en_comuna_c_dia_d[5,0,38]  R5[5,0,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,38]  R7[0,38]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,38]  R7[0,38]  -400
     camion_n_en_comuna_c_dia_d[5,0,38]  R9[0,38]  1
     camion_n_en_comuna_c_dia_d[5,0,39]  R2[5,39]  1
     camion_n_en_comuna_c_dia_d[5,0,39]  R5[5,0,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,39]  R7[0,39]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,39]  R7[0,39]  -400
     camion_n_en_comuna_c_dia_d[5,0,39]  R9[0,39]  1
     camion_n_en_comuna_c_dia_d[5,0,40]  R2[5,40]  1
     camion_n_en_comuna_c_dia_d[5,0,40]  R5[5,0,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,40]  R7[0,40]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,40]  R7[0,40]  -400
     camion_n_en_comuna_c_dia_d[5,0,40]  R9[0,40]  1
     camion_n_en_comuna_c_dia_d[5,0,41]  R2[5,41]  1
     camion_n_en_comuna_c_dia_d[5,0,41]  R5[5,0,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,41]  R7[0,41]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,41]  R7[0,41]  -400
     camion_n_en_comuna_c_dia_d[5,0,41]  R9[0,41]  1
     camion_n_en_comuna_c_dia_d[5,0,42]  R2[5,42]  1
     camion_n_en_comuna_c_dia_d[5,0,42]  R5[5,0,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,42]  R7[0,42]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,42]  R7[0,42]  -400
     camion_n_en_comuna_c_dia_d[5,0,42]  R9[0,42]  1
     camion_n_en_comuna_c_dia_d[5,0,43]  R2[5,43]  1
     camion_n_en_comuna_c_dia_d[5,0,43]  R5[5,0,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,43]  R7[0,43]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,43]  R7[0,43]  -400
     camion_n_en_comuna_c_dia_d[5,0,43]  R9[0,43]  1
     camion_n_en_comuna_c_dia_d[5,0,44]  R2[5,44]  1
     camion_n_en_comuna_c_dia_d[5,0,44]  R5[5,0,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,44]  R7[0,44]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,44]  R7[0,44]  -400
     camion_n_en_comuna_c_dia_d[5,0,44]  R9[0,44]  1
     camion_n_en_comuna_c_dia_d[5,0,45]  R2[5,45]  1
     camion_n_en_comuna_c_dia_d[5,0,45]  R5[5,0,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,45]  R7[0,45]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,45]  R7[0,45]  -400
     camion_n_en_comuna_c_dia_d[5,0,45]  R9[0,45]  1
     camion_n_en_comuna_c_dia_d[5,0,46]  R2[5,46]  1
     camion_n_en_comuna_c_dia_d[5,0,46]  R5[5,0,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,46]  R7[0,46]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,46]  R7[0,46]  -400
     camion_n_en_comuna_c_dia_d[5,0,46]  R9[0,46]  1
     camion_n_en_comuna_c_dia_d[5,0,47]  R2[5,47]  1
     camion_n_en_comuna_c_dia_d[5,0,47]  R5[5,0,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,47]  R7[0,47]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,47]  R7[0,47]  -400
     camion_n_en_comuna_c_dia_d[5,0,47]  R9[0,47]  1
     camion_n_en_comuna_c_dia_d[5,0,48]  R2[5,48]  1
     camion_n_en_comuna_c_dia_d[5,0,48]  R5[5,0,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,48]  R7[0,48]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,48]  R7[0,48]  -400
     camion_n_en_comuna_c_dia_d[5,0,48]  R9[0,48]  1
     camion_n_en_comuna_c_dia_d[5,0,49]  R2[5,49]  1
     camion_n_en_comuna_c_dia_d[5,0,49]  R5[5,0,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,49]  R7[0,49]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,49]  R7[0,49]  -400
     camion_n_en_comuna_c_dia_d[5,0,49]  R9[0,49]  1
     camion_n_en_comuna_c_dia_d[5,0,50]  R2[5,50]  1
     camion_n_en_comuna_c_dia_d[5,0,50]  R5[5,0,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,50]  R7[0,50]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,50]  R7[0,50]  -400
     camion_n_en_comuna_c_dia_d[5,0,50]  R9[0,50]  1
     camion_n_en_comuna_c_dia_d[5,0,51]  R2[5,51]  1
     camion_n_en_comuna_c_dia_d[5,0,51]  R5[5,0,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,51]  R7[0,51]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,51]  R7[0,51]  -400
     camion_n_en_comuna_c_dia_d[5,0,51]  R9[0,51]  1
     camion_n_en_comuna_c_dia_d[5,0,52]  R2[5,52]  1
     camion_n_en_comuna_c_dia_d[5,0,52]  R5[5,0,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,52]  R7[0,52]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,52]  R7[0,52]  -400
     camion_n_en_comuna_c_dia_d[5,0,52]  R9[0,52]  1
     camion_n_en_comuna_c_dia_d[5,0,53]  R2[5,53]  1
     camion_n_en_comuna_c_dia_d[5,0,53]  R5[5,0,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,53]  R7[0,53]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,53]  R7[0,53]  -400
     camion_n_en_comuna_c_dia_d[5,0,53]  R9[0,53]  1
     camion_n_en_comuna_c_dia_d[5,0,54]  R2[5,54]  1
     camion_n_en_comuna_c_dia_d[5,0,54]  R5[5,0,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,54]  R7[0,54]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,54]  R7[0,54]  -400
     camion_n_en_comuna_c_dia_d[5,0,54]  R9[0,54]  1
     camion_n_en_comuna_c_dia_d[5,0,55]  R2[5,55]  1
     camion_n_en_comuna_c_dia_d[5,0,55]  R5[5,0,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,55]  R7[0,55]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,55]  R7[0,55]  -400
     camion_n_en_comuna_c_dia_d[5,0,55]  R9[0,55]  1
     camion_n_en_comuna_c_dia_d[5,0,56]  R2[5,56]  1
     camion_n_en_comuna_c_dia_d[5,0,56]  R5[5,0,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,56]  R7[0,56]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,56]  R7[0,56]  -400
     camion_n_en_comuna_c_dia_d[5,0,56]  R9[0,56]  1
     camion_n_en_comuna_c_dia_d[5,0,57]  R2[5,57]  1
     camion_n_en_comuna_c_dia_d[5,0,57]  R5[5,0,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,57]  R7[0,57]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,57]  R7[0,57]  -400
     camion_n_en_comuna_c_dia_d[5,0,57]  R9[0,57]  1
     camion_n_en_comuna_c_dia_d[5,0,58]  R2[5,58]  1
     camion_n_en_comuna_c_dia_d[5,0,58]  R5[5,0,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,58]  R7[0,58]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,58]  R7[0,58]  -400
     camion_n_en_comuna_c_dia_d[5,0,58]  R9[0,58]  1
     camion_n_en_comuna_c_dia_d[5,0,59]  R2[5,59]  1
     camion_n_en_comuna_c_dia_d[5,0,59]  R5[5,0,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,59]  R7[0,59]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,59]  R7[0,59]  -400
     camion_n_en_comuna_c_dia_d[5,0,59]  R9[0,59]  1
     camion_n_en_comuna_c_dia_d[5,0,60]  R2[5,60]  1
     camion_n_en_comuna_c_dia_d[5,0,60]  R5[5,0,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,60]  R7[0,60]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,60]  R7[0,60]  -400
     camion_n_en_comuna_c_dia_d[5,0,60]  R9[0,60]  1
     camion_n_en_comuna_c_dia_d[5,0,61]  R2[5,61]  1
     camion_n_en_comuna_c_dia_d[5,0,61]  R5[5,0,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,61]  R7[0,61]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,61]  R7[0,61]  -400
     camion_n_en_comuna_c_dia_d[5,0,61]  R9[0,61]  1
     camion_n_en_comuna_c_dia_d[5,0,62]  R2[5,62]  1
     camion_n_en_comuna_c_dia_d[5,0,62]  R5[5,0,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,62]  R7[0,62]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,62]  R7[0,62]  -400
     camion_n_en_comuna_c_dia_d[5,0,62]  R9[0,62]  1
     camion_n_en_comuna_c_dia_d[5,0,63]  R2[5,63]  1
     camion_n_en_comuna_c_dia_d[5,0,63]  R5[5,0,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,63]  R7[0,63]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,63]  R7[0,63]  -400
     camion_n_en_comuna_c_dia_d[5,0,63]  R9[0,63]  1
     camion_n_en_comuna_c_dia_d[5,0,64]  R2[5,64]  1
     camion_n_en_comuna_c_dia_d[5,0,64]  R5[5,0,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,64]  R7[0,64]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,64]  R7[0,64]  -400
     camion_n_en_comuna_c_dia_d[5,0,64]  R9[0,64]  1
     camion_n_en_comuna_c_dia_d[5,0,65]  R2[5,65]  1
     camion_n_en_comuna_c_dia_d[5,0,65]  R5[5,0,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,65]  R7[0,65]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,65]  R7[0,65]  -400
     camion_n_en_comuna_c_dia_d[5,0,65]  R9[0,65]  1
     camion_n_en_comuna_c_dia_d[5,0,66]  R2[5,66]  1
     camion_n_en_comuna_c_dia_d[5,0,66]  R5[5,0,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,66]  R7[0,66]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,66]  R7[0,66]  -400
     camion_n_en_comuna_c_dia_d[5,0,66]  R9[0,66]  1
     camion_n_en_comuna_c_dia_d[5,0,67]  R2[5,67]  1
     camion_n_en_comuna_c_dia_d[5,0,67]  R5[5,0,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,67]  R7[0,67]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,67]  R7[0,67]  -400
     camion_n_en_comuna_c_dia_d[5,0,67]  R9[0,67]  1
     camion_n_en_comuna_c_dia_d[5,0,68]  R2[5,68]  1
     camion_n_en_comuna_c_dia_d[5,0,68]  R5[5,0,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,68]  R7[0,68]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,68]  R7[0,68]  -400
     camion_n_en_comuna_c_dia_d[5,0,68]  R9[0,68]  1
     camion_n_en_comuna_c_dia_d[5,0,69]  R2[5,69]  1
     camion_n_en_comuna_c_dia_d[5,0,69]  R5[5,0,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,69]  R7[0,69]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,69]  R7[0,69]  -400
     camion_n_en_comuna_c_dia_d[5,0,69]  R9[0,69]  1
     camion_n_en_comuna_c_dia_d[5,0,70]  R2[5,70]  1
     camion_n_en_comuna_c_dia_d[5,0,70]  R5[5,0,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,70]  R7[0,70]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,70]  R7[0,70]  -400
     camion_n_en_comuna_c_dia_d[5,0,70]  R9[0,70]  1
     camion_n_en_comuna_c_dia_d[5,0,71]  R2[5,71]  1
     camion_n_en_comuna_c_dia_d[5,0,71]  R5[5,0,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,71]  R7[0,71]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,71]  R7[0,71]  -400
     camion_n_en_comuna_c_dia_d[5,0,71]  R9[0,71]  1
     camion_n_en_comuna_c_dia_d[5,0,72]  R2[5,72]  1
     camion_n_en_comuna_c_dia_d[5,0,72]  R5[5,0,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,72]  R7[0,72]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,72]  R7[0,72]  -400
     camion_n_en_comuna_c_dia_d[5,0,72]  R9[0,72]  1
     camion_n_en_comuna_c_dia_d[5,0,73]  R2[5,73]  1
     camion_n_en_comuna_c_dia_d[5,0,73]  R5[5,0,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,73]  R7[0,73]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,73]  R7[0,73]  -400
     camion_n_en_comuna_c_dia_d[5,0,73]  R9[0,73]  1
     camion_n_en_comuna_c_dia_d[5,0,74]  R2[5,74]  1
     camion_n_en_comuna_c_dia_d[5,0,74]  R5[5,0,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,74]  R7[0,74]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,74]  R7[0,74]  -400
     camion_n_en_comuna_c_dia_d[5,0,74]  R9[0,74]  1
     camion_n_en_comuna_c_dia_d[5,0,75]  R2[5,75]  1
     camion_n_en_comuna_c_dia_d[5,0,75]  R5[5,0,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,75]  R7[0,75]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,75]  R7[0,75]  -400
     camion_n_en_comuna_c_dia_d[5,0,75]  R9[0,75]  1
     camion_n_en_comuna_c_dia_d[5,0,76]  R2[5,76]  1
     camion_n_en_comuna_c_dia_d[5,0,76]  R5[5,0,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,76]  R7[0,76]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,76]  R7[0,76]  -400
     camion_n_en_comuna_c_dia_d[5,0,76]  R9[0,76]  1
     camion_n_en_comuna_c_dia_d[5,0,77]  R2[5,77]  1
     camion_n_en_comuna_c_dia_d[5,0,77]  R5[5,0,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,77]  R7[0,77]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,77]  R7[0,77]  -400
     camion_n_en_comuna_c_dia_d[5,0,77]  R9[0,77]  1
     camion_n_en_comuna_c_dia_d[5,0,78]  R2[5,78]  1
     camion_n_en_comuna_c_dia_d[5,0,78]  R5[5,0,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,78]  R7[0,78]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,78]  R7[0,78]  -400
     camion_n_en_comuna_c_dia_d[5,0,78]  R9[0,78]  1
     camion_n_en_comuna_c_dia_d[5,0,79]  R2[5,79]  1
     camion_n_en_comuna_c_dia_d[5,0,79]  R5[5,0,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,79]  R7[0,79]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,79]  R7[0,79]  -400
     camion_n_en_comuna_c_dia_d[5,0,79]  R9[0,79]  1
     camion_n_en_comuna_c_dia_d[5,0,80]  R2[5,80]  1
     camion_n_en_comuna_c_dia_d[5,0,80]  R5[5,0,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,80]  R7[0,80]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,80]  R7[0,80]  -400
     camion_n_en_comuna_c_dia_d[5,0,80]  R9[0,80]  1
     camion_n_en_comuna_c_dia_d[5,0,81]  R2[5,81]  1
     camion_n_en_comuna_c_dia_d[5,0,81]  R5[5,0,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,81]  R7[0,81]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,81]  R7[0,81]  -400
     camion_n_en_comuna_c_dia_d[5,0,81]  R9[0,81]  1
     camion_n_en_comuna_c_dia_d[5,0,82]  R2[5,82]  1
     camion_n_en_comuna_c_dia_d[5,0,82]  R5[5,0,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,82]  R7[0,82]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,82]  R7[0,82]  -400
     camion_n_en_comuna_c_dia_d[5,0,82]  R9[0,82]  1
     camion_n_en_comuna_c_dia_d[5,0,83]  R2[5,83]  1
     camion_n_en_comuna_c_dia_d[5,0,83]  R5[5,0,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,83]  R7[0,83]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,83]  R7[0,83]  -400
     camion_n_en_comuna_c_dia_d[5,0,83]  R9[0,83]  1
     camion_n_en_comuna_c_dia_d[5,0,84]  R2[5,84]  1
     camion_n_en_comuna_c_dia_d[5,0,84]  R5[5,0,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,84]  R7[0,84]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,84]  R7[0,84]  -400
     camion_n_en_comuna_c_dia_d[5,0,84]  R9[0,84]  1
     camion_n_en_comuna_c_dia_d[5,0,85]  R2[5,85]  1
     camion_n_en_comuna_c_dia_d[5,0,85]  R5[5,0,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,85]  R7[0,85]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,85]  R7[0,85]  -400
     camion_n_en_comuna_c_dia_d[5,0,85]  R9[0,85]  1
     camion_n_en_comuna_c_dia_d[5,0,86]  R2[5,86]  1
     camion_n_en_comuna_c_dia_d[5,0,86]  R5[5,0,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,86]  R7[0,86]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,86]  R7[0,86]  -400
     camion_n_en_comuna_c_dia_d[5,0,86]  R9[0,86]  1
     camion_n_en_comuna_c_dia_d[5,0,87]  R2[5,87]  1
     camion_n_en_comuna_c_dia_d[5,0,87]  R5[5,0,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,87]  R7[0,87]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,87]  R7[0,87]  -400
     camion_n_en_comuna_c_dia_d[5,0,87]  R9[0,87]  1
     camion_n_en_comuna_c_dia_d[5,0,88]  R2[5,88]  1
     camion_n_en_comuna_c_dia_d[5,0,88]  R5[5,0,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,88]  R7[0,88]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,88]  R7[0,88]  -400
     camion_n_en_comuna_c_dia_d[5,0,88]  R9[0,88]  1
     camion_n_en_comuna_c_dia_d[5,0,89]  R2[5,89]  1
     camion_n_en_comuna_c_dia_d[5,0,89]  R5[5,0,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,89]  R7[0,89]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,89]  R7[0,89]  -400
     camion_n_en_comuna_c_dia_d[5,0,89]  R9[0,89]  1
     camion_n_en_comuna_c_dia_d[5,0,90]  R2[5,90]  1
     camion_n_en_comuna_c_dia_d[5,0,90]  R5[5,0,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,90]  R7[0,90]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,90]  R7[0,90]  -400
     camion_n_en_comuna_c_dia_d[5,0,90]  R9[0,90]  1
     camion_n_en_comuna_c_dia_d[5,0,91]  R2[5,91]  1
     camion_n_en_comuna_c_dia_d[5,0,91]  R5[5,0,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,91]  R7[0,91]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,91]  R7[0,91]  -400
     camion_n_en_comuna_c_dia_d[5,0,91]  R9[0,91]  1
     camion_n_en_comuna_c_dia_d[5,0,92]  R2[5,92]  1
     camion_n_en_comuna_c_dia_d[5,0,92]  R5[5,0,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,92]  R7[0,92]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,92]  R7[0,92]  -400
     camion_n_en_comuna_c_dia_d[5,0,92]  R9[0,92]  1
     camion_n_en_comuna_c_dia_d[5,0,93]  R2[5,93]  1
     camion_n_en_comuna_c_dia_d[5,0,93]  R5[5,0,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,93]  R7[0,93]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,93]  R7[0,93]  -400
     camion_n_en_comuna_c_dia_d[5,0,93]  R9[0,93]  1
     camion_n_en_comuna_c_dia_d[5,0,94]  R2[5,94]  1
     camion_n_en_comuna_c_dia_d[5,0,94]  R5[5,0,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,94]  R7[0,94]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,94]  R7[0,94]  -400
     camion_n_en_comuna_c_dia_d[5,0,94]  R9[0,94]  1
     camion_n_en_comuna_c_dia_d[5,0,95]  R2[5,95]  1
     camion_n_en_comuna_c_dia_d[5,0,95]  R5[5,0,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,95]  R7[0,95]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,95]  R7[0,95]  -400
     camion_n_en_comuna_c_dia_d[5,0,95]  R9[0,95]  1
     camion_n_en_comuna_c_dia_d[5,0,96]  R2[5,96]  1
     camion_n_en_comuna_c_dia_d[5,0,96]  R5[5,0,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,96]  R7[0,96]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,96]  R7[0,96]  -400
     camion_n_en_comuna_c_dia_d[5,0,96]  R9[0,96]  1
     camion_n_en_comuna_c_dia_d[5,0,97]  R2[5,97]  1
     camion_n_en_comuna_c_dia_d[5,0,97]  R5[5,0,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,97]  R7[0,97]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,97]  R7[0,97]  -400
     camion_n_en_comuna_c_dia_d[5,0,97]  R9[0,97]  1
     camion_n_en_comuna_c_dia_d[5,0,98]  R2[5,98]  1
     camion_n_en_comuna_c_dia_d[5,0,98]  R5[5,0,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,98]  R7[0,98]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,98]  R7[0,98]  -400
     camion_n_en_comuna_c_dia_d[5,0,98]  R9[0,98]  1
     camion_n_en_comuna_c_dia_d[5,0,99]  R2[5,99]  1
     camion_n_en_comuna_c_dia_d[5,0,99]  R5[5,0,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,0,99]  R7[0,99]  -1000
+    camion_n_en_comuna_c_dia_d[5,0,99]  R7[0,99]  -400
     camion_n_en_comuna_c_dia_d[5,0,99]  R9[0,99]  1
     camion_n_en_comuna_c_dia_d[5,1,0]  R2[5,0]   1
     camion_n_en_comuna_c_dia_d[5,1,0]  R5[5,1,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,0]  R7[1,0]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,0]  R7[1,0]   -400
     camion_n_en_comuna_c_dia_d[5,1,0]  R9[1,0]   1
     camion_n_en_comuna_c_dia_d[5,1,1]  R2[5,1]   1
     camion_n_en_comuna_c_dia_d[5,1,1]  R5[5,1,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,1]  R7[1,1]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,1]  R7[1,1]   -400
     camion_n_en_comuna_c_dia_d[5,1,1]  R9[1,1]   1
     camion_n_en_comuna_c_dia_d[5,1,2]  R2[5,2]   1
     camion_n_en_comuna_c_dia_d[5,1,2]  R5[5,1,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,2]  R7[1,2]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,2]  R7[1,2]   -400
     camion_n_en_comuna_c_dia_d[5,1,2]  R9[1,2]   1
     camion_n_en_comuna_c_dia_d[5,1,3]  R2[5,3]   1
     camion_n_en_comuna_c_dia_d[5,1,3]  R5[5,1,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,3]  R7[1,3]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,3]  R7[1,3]   -400
     camion_n_en_comuna_c_dia_d[5,1,3]  R9[1,3]   1
     camion_n_en_comuna_c_dia_d[5,1,4]  R2[5,4]   1
     camion_n_en_comuna_c_dia_d[5,1,4]  R5[5,1,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,4]  R7[1,4]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,4]  R7[1,4]   -400
     camion_n_en_comuna_c_dia_d[5,1,4]  R9[1,4]   1
     camion_n_en_comuna_c_dia_d[5,1,5]  R2[5,5]   1
     camion_n_en_comuna_c_dia_d[5,1,5]  R5[5,1,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,5]  R7[1,5]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,5]  R7[1,5]   -400
     camion_n_en_comuna_c_dia_d[5,1,5]  R9[1,5]   1
     camion_n_en_comuna_c_dia_d[5,1,6]  R2[5,6]   1
     camion_n_en_comuna_c_dia_d[5,1,6]  R5[5,1,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,6]  R7[1,6]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,6]  R7[1,6]   -400
     camion_n_en_comuna_c_dia_d[5,1,6]  R9[1,6]   1
     camion_n_en_comuna_c_dia_d[5,1,7]  R2[5,7]   1
     camion_n_en_comuna_c_dia_d[5,1,7]  R5[5,1,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,7]  R7[1,7]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,7]  R7[1,7]   -400
     camion_n_en_comuna_c_dia_d[5,1,7]  R9[1,7]   1
     camion_n_en_comuna_c_dia_d[5,1,8]  R2[5,8]   1
     camion_n_en_comuna_c_dia_d[5,1,8]  R5[5,1,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,8]  R7[1,8]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,8]  R7[1,8]   -400
     camion_n_en_comuna_c_dia_d[5,1,8]  R9[1,8]   1
     camion_n_en_comuna_c_dia_d[5,1,9]  R2[5,9]   1
     camion_n_en_comuna_c_dia_d[5,1,9]  R5[5,1,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,9]  R7[1,9]   -1000
+    camion_n_en_comuna_c_dia_d[5,1,9]  R7[1,9]   -400
     camion_n_en_comuna_c_dia_d[5,1,9]  R9[1,9]   1
     camion_n_en_comuna_c_dia_d[5,1,10]  R2[5,10]  1
     camion_n_en_comuna_c_dia_d[5,1,10]  R5[5,1,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,10]  R7[1,10]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,10]  R7[1,10]  -400
     camion_n_en_comuna_c_dia_d[5,1,10]  R9[1,10]  1
     camion_n_en_comuna_c_dia_d[5,1,11]  R2[5,11]  1
     camion_n_en_comuna_c_dia_d[5,1,11]  R5[5,1,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,11]  R7[1,11]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,11]  R7[1,11]  -400
     camion_n_en_comuna_c_dia_d[5,1,11]  R9[1,11]  1
     camion_n_en_comuna_c_dia_d[5,1,12]  R2[5,12]  1
     camion_n_en_comuna_c_dia_d[5,1,12]  R5[5,1,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,12]  R7[1,12]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,12]  R7[1,12]  -400
     camion_n_en_comuna_c_dia_d[5,1,12]  R9[1,12]  1
     camion_n_en_comuna_c_dia_d[5,1,13]  R2[5,13]  1
     camion_n_en_comuna_c_dia_d[5,1,13]  R5[5,1,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,13]  R7[1,13]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,13]  R7[1,13]  -400
     camion_n_en_comuna_c_dia_d[5,1,13]  R9[1,13]  1
     camion_n_en_comuna_c_dia_d[5,1,14]  R2[5,14]  1
     camion_n_en_comuna_c_dia_d[5,1,14]  R5[5,1,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,14]  R7[1,14]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,14]  R7[1,14]  -400
     camion_n_en_comuna_c_dia_d[5,1,14]  R9[1,14]  1
     camion_n_en_comuna_c_dia_d[5,1,15]  R2[5,15]  1
     camion_n_en_comuna_c_dia_d[5,1,15]  R5[5,1,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,15]  R7[1,15]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,15]  R7[1,15]  -400
     camion_n_en_comuna_c_dia_d[5,1,15]  R9[1,15]  1
     camion_n_en_comuna_c_dia_d[5,1,16]  R2[5,16]  1
     camion_n_en_comuna_c_dia_d[5,1,16]  R5[5,1,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,16]  R7[1,16]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,16]  R7[1,16]  -400
     camion_n_en_comuna_c_dia_d[5,1,16]  R9[1,16]  1
     camion_n_en_comuna_c_dia_d[5,1,17]  R2[5,17]  1
     camion_n_en_comuna_c_dia_d[5,1,17]  R5[5,1,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,17]  R7[1,17]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,17]  R7[1,17]  -400
     camion_n_en_comuna_c_dia_d[5,1,17]  R9[1,17]  1
     camion_n_en_comuna_c_dia_d[5,1,18]  R2[5,18]  1
     camion_n_en_comuna_c_dia_d[5,1,18]  R5[5,1,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,18]  R7[1,18]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,18]  R7[1,18]  -400
     camion_n_en_comuna_c_dia_d[5,1,18]  R9[1,18]  1
     camion_n_en_comuna_c_dia_d[5,1,19]  R2[5,19]  1
     camion_n_en_comuna_c_dia_d[5,1,19]  R5[5,1,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,19]  R7[1,19]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,19]  R7[1,19]  -400
     camion_n_en_comuna_c_dia_d[5,1,19]  R9[1,19]  1
     camion_n_en_comuna_c_dia_d[5,1,20]  R2[5,20]  1
     camion_n_en_comuna_c_dia_d[5,1,20]  R5[5,1,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,20]  R7[1,20]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,20]  R7[1,20]  -400
     camion_n_en_comuna_c_dia_d[5,1,20]  R9[1,20]  1
     camion_n_en_comuna_c_dia_d[5,1,21]  R2[5,21]  1
     camion_n_en_comuna_c_dia_d[5,1,21]  R5[5,1,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,21]  R7[1,21]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,21]  R7[1,21]  -400
     camion_n_en_comuna_c_dia_d[5,1,21]  R9[1,21]  1
     camion_n_en_comuna_c_dia_d[5,1,22]  R2[5,22]  1
     camion_n_en_comuna_c_dia_d[5,1,22]  R5[5,1,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,22]  R7[1,22]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,22]  R7[1,22]  -400
     camion_n_en_comuna_c_dia_d[5,1,22]  R9[1,22]  1
     camion_n_en_comuna_c_dia_d[5,1,23]  R2[5,23]  1
     camion_n_en_comuna_c_dia_d[5,1,23]  R5[5,1,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,23]  R7[1,23]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,23]  R7[1,23]  -400
     camion_n_en_comuna_c_dia_d[5,1,23]  R9[1,23]  1
     camion_n_en_comuna_c_dia_d[5,1,24]  R2[5,24]  1
     camion_n_en_comuna_c_dia_d[5,1,24]  R5[5,1,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,24]  R7[1,24]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,24]  R7[1,24]  -400
     camion_n_en_comuna_c_dia_d[5,1,24]  R9[1,24]  1
     camion_n_en_comuna_c_dia_d[5,1,25]  R2[5,25]  1
     camion_n_en_comuna_c_dia_d[5,1,25]  R5[5,1,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,25]  R7[1,25]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,25]  R7[1,25]  -400
     camion_n_en_comuna_c_dia_d[5,1,25]  R9[1,25]  1
     camion_n_en_comuna_c_dia_d[5,1,26]  R2[5,26]  1
     camion_n_en_comuna_c_dia_d[5,1,26]  R5[5,1,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,26]  R7[1,26]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,26]  R7[1,26]  -400
     camion_n_en_comuna_c_dia_d[5,1,26]  R9[1,26]  1
     camion_n_en_comuna_c_dia_d[5,1,27]  R2[5,27]  1
     camion_n_en_comuna_c_dia_d[5,1,27]  R5[5,1,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,27]  R7[1,27]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,27]  R7[1,27]  -400
     camion_n_en_comuna_c_dia_d[5,1,27]  R9[1,27]  1
     camion_n_en_comuna_c_dia_d[5,1,28]  R2[5,28]  1
     camion_n_en_comuna_c_dia_d[5,1,28]  R5[5,1,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,28]  R7[1,28]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,28]  R7[1,28]  -400
     camion_n_en_comuna_c_dia_d[5,1,28]  R9[1,28]  1
     camion_n_en_comuna_c_dia_d[5,1,29]  R2[5,29]  1
     camion_n_en_comuna_c_dia_d[5,1,29]  R5[5,1,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,29]  R7[1,29]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,29]  R7[1,29]  -400
     camion_n_en_comuna_c_dia_d[5,1,29]  R9[1,29]  1
     camion_n_en_comuna_c_dia_d[5,1,30]  R2[5,30]  1
     camion_n_en_comuna_c_dia_d[5,1,30]  R5[5,1,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,30]  R7[1,30]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,30]  R7[1,30]  -400
     camion_n_en_comuna_c_dia_d[5,1,30]  R9[1,30]  1
     camion_n_en_comuna_c_dia_d[5,1,31]  R2[5,31]  1
     camion_n_en_comuna_c_dia_d[5,1,31]  R5[5,1,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,31]  R7[1,31]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,31]  R7[1,31]  -400
     camion_n_en_comuna_c_dia_d[5,1,31]  R9[1,31]  1
     camion_n_en_comuna_c_dia_d[5,1,32]  R2[5,32]  1
     camion_n_en_comuna_c_dia_d[5,1,32]  R5[5,1,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,32]  R7[1,32]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,32]  R7[1,32]  -400
     camion_n_en_comuna_c_dia_d[5,1,32]  R9[1,32]  1
     camion_n_en_comuna_c_dia_d[5,1,33]  R2[5,33]  1
     camion_n_en_comuna_c_dia_d[5,1,33]  R5[5,1,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,33]  R7[1,33]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,33]  R7[1,33]  -400
     camion_n_en_comuna_c_dia_d[5,1,33]  R9[1,33]  1
     camion_n_en_comuna_c_dia_d[5,1,34]  R2[5,34]  1
     camion_n_en_comuna_c_dia_d[5,1,34]  R5[5,1,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,34]  R7[1,34]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,34]  R7[1,34]  -400
     camion_n_en_comuna_c_dia_d[5,1,34]  R9[1,34]  1
     camion_n_en_comuna_c_dia_d[5,1,35]  R2[5,35]  1
     camion_n_en_comuna_c_dia_d[5,1,35]  R5[5,1,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,35]  R7[1,35]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,35]  R7[1,35]  -400
     camion_n_en_comuna_c_dia_d[5,1,35]  R9[1,35]  1
     camion_n_en_comuna_c_dia_d[5,1,36]  R2[5,36]  1
     camion_n_en_comuna_c_dia_d[5,1,36]  R5[5,1,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,36]  R7[1,36]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,36]  R7[1,36]  -400
     camion_n_en_comuna_c_dia_d[5,1,36]  R9[1,36]  1
     camion_n_en_comuna_c_dia_d[5,1,37]  R2[5,37]  1
     camion_n_en_comuna_c_dia_d[5,1,37]  R5[5,1,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,37]  R7[1,37]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,37]  R7[1,37]  -400
     camion_n_en_comuna_c_dia_d[5,1,37]  R9[1,37]  1
     camion_n_en_comuna_c_dia_d[5,1,38]  R2[5,38]  1
     camion_n_en_comuna_c_dia_d[5,1,38]  R5[5,1,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,38]  R7[1,38]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,38]  R7[1,38]  -400
     camion_n_en_comuna_c_dia_d[5,1,38]  R9[1,38]  1
     camion_n_en_comuna_c_dia_d[5,1,39]  R2[5,39]  1
     camion_n_en_comuna_c_dia_d[5,1,39]  R5[5,1,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,39]  R7[1,39]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,39]  R7[1,39]  -400
     camion_n_en_comuna_c_dia_d[5,1,39]  R9[1,39]  1
     camion_n_en_comuna_c_dia_d[5,1,40]  R2[5,40]  1
     camion_n_en_comuna_c_dia_d[5,1,40]  R5[5,1,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,40]  R7[1,40]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,40]  R7[1,40]  -400
     camion_n_en_comuna_c_dia_d[5,1,40]  R9[1,40]  1
     camion_n_en_comuna_c_dia_d[5,1,41]  R2[5,41]  1
     camion_n_en_comuna_c_dia_d[5,1,41]  R5[5,1,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,41]  R7[1,41]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,41]  R7[1,41]  -400
     camion_n_en_comuna_c_dia_d[5,1,41]  R9[1,41]  1
     camion_n_en_comuna_c_dia_d[5,1,42]  R2[5,42]  1
     camion_n_en_comuna_c_dia_d[5,1,42]  R5[5,1,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,42]  R7[1,42]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,42]  R7[1,42]  -400
     camion_n_en_comuna_c_dia_d[5,1,42]  R9[1,42]  1
     camion_n_en_comuna_c_dia_d[5,1,43]  R2[5,43]  1
     camion_n_en_comuna_c_dia_d[5,1,43]  R5[5,1,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,43]  R7[1,43]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,43]  R7[1,43]  -400
     camion_n_en_comuna_c_dia_d[5,1,43]  R9[1,43]  1
     camion_n_en_comuna_c_dia_d[5,1,44]  R2[5,44]  1
     camion_n_en_comuna_c_dia_d[5,1,44]  R5[5,1,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,44]  R7[1,44]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,44]  R7[1,44]  -400
     camion_n_en_comuna_c_dia_d[5,1,44]  R9[1,44]  1
     camion_n_en_comuna_c_dia_d[5,1,45]  R2[5,45]  1
     camion_n_en_comuna_c_dia_d[5,1,45]  R5[5,1,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,45]  R7[1,45]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,45]  R7[1,45]  -400
     camion_n_en_comuna_c_dia_d[5,1,45]  R9[1,45]  1
     camion_n_en_comuna_c_dia_d[5,1,46]  R2[5,46]  1
     camion_n_en_comuna_c_dia_d[5,1,46]  R5[5,1,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,46]  R7[1,46]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,46]  R7[1,46]  -400
     camion_n_en_comuna_c_dia_d[5,1,46]  R9[1,46]  1
     camion_n_en_comuna_c_dia_d[5,1,47]  R2[5,47]  1
     camion_n_en_comuna_c_dia_d[5,1,47]  R5[5,1,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,47]  R7[1,47]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,47]  R7[1,47]  -400
     camion_n_en_comuna_c_dia_d[5,1,47]  R9[1,47]  1
     camion_n_en_comuna_c_dia_d[5,1,48]  R2[5,48]  1
     camion_n_en_comuna_c_dia_d[5,1,48]  R5[5,1,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,48]  R7[1,48]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,48]  R7[1,48]  -400
     camion_n_en_comuna_c_dia_d[5,1,48]  R9[1,48]  1
     camion_n_en_comuna_c_dia_d[5,1,49]  R2[5,49]  1
     camion_n_en_comuna_c_dia_d[5,1,49]  R5[5,1,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,49]  R7[1,49]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,49]  R7[1,49]  -400
     camion_n_en_comuna_c_dia_d[5,1,49]  R9[1,49]  1
     camion_n_en_comuna_c_dia_d[5,1,50]  R2[5,50]  1
     camion_n_en_comuna_c_dia_d[5,1,50]  R5[5,1,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,50]  R7[1,50]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,50]  R7[1,50]  -400
     camion_n_en_comuna_c_dia_d[5,1,50]  R9[1,50]  1
     camion_n_en_comuna_c_dia_d[5,1,51]  R2[5,51]  1
     camion_n_en_comuna_c_dia_d[5,1,51]  R5[5,1,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,51]  R7[1,51]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,51]  R7[1,51]  -400
     camion_n_en_comuna_c_dia_d[5,1,51]  R9[1,51]  1
     camion_n_en_comuna_c_dia_d[5,1,52]  R2[5,52]  1
     camion_n_en_comuna_c_dia_d[5,1,52]  R5[5,1,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,52]  R7[1,52]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,52]  R7[1,52]  -400
     camion_n_en_comuna_c_dia_d[5,1,52]  R9[1,52]  1
     camion_n_en_comuna_c_dia_d[5,1,53]  R2[5,53]  1
     camion_n_en_comuna_c_dia_d[5,1,53]  R5[5,1,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,53]  R7[1,53]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,53]  R7[1,53]  -400
     camion_n_en_comuna_c_dia_d[5,1,53]  R9[1,53]  1
     camion_n_en_comuna_c_dia_d[5,1,54]  R2[5,54]  1
     camion_n_en_comuna_c_dia_d[5,1,54]  R5[5,1,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,54]  R7[1,54]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,54]  R7[1,54]  -400
     camion_n_en_comuna_c_dia_d[5,1,54]  R9[1,54]  1
     camion_n_en_comuna_c_dia_d[5,1,55]  R2[5,55]  1
     camion_n_en_comuna_c_dia_d[5,1,55]  R5[5,1,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,55]  R7[1,55]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,55]  R7[1,55]  -400
     camion_n_en_comuna_c_dia_d[5,1,55]  R9[1,55]  1
     camion_n_en_comuna_c_dia_d[5,1,56]  R2[5,56]  1
     camion_n_en_comuna_c_dia_d[5,1,56]  R5[5,1,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,56]  R7[1,56]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,56]  R7[1,56]  -400
     camion_n_en_comuna_c_dia_d[5,1,56]  R9[1,56]  1
     camion_n_en_comuna_c_dia_d[5,1,57]  R2[5,57]  1
     camion_n_en_comuna_c_dia_d[5,1,57]  R5[5,1,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,57]  R7[1,57]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,57]  R7[1,57]  -400
     camion_n_en_comuna_c_dia_d[5,1,57]  R9[1,57]  1
     camion_n_en_comuna_c_dia_d[5,1,58]  R2[5,58]  1
     camion_n_en_comuna_c_dia_d[5,1,58]  R5[5,1,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,58]  R7[1,58]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,58]  R7[1,58]  -400
     camion_n_en_comuna_c_dia_d[5,1,58]  R9[1,58]  1
     camion_n_en_comuna_c_dia_d[5,1,59]  R2[5,59]  1
     camion_n_en_comuna_c_dia_d[5,1,59]  R5[5,1,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,59]  R7[1,59]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,59]  R7[1,59]  -400
     camion_n_en_comuna_c_dia_d[5,1,59]  R9[1,59]  1
     camion_n_en_comuna_c_dia_d[5,1,60]  R2[5,60]  1
     camion_n_en_comuna_c_dia_d[5,1,60]  R5[5,1,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,60]  R7[1,60]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,60]  R7[1,60]  -400
     camion_n_en_comuna_c_dia_d[5,1,60]  R9[1,60]  1
     camion_n_en_comuna_c_dia_d[5,1,61]  R2[5,61]  1
     camion_n_en_comuna_c_dia_d[5,1,61]  R5[5,1,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,61]  R7[1,61]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,61]  R7[1,61]  -400
     camion_n_en_comuna_c_dia_d[5,1,61]  R9[1,61]  1
     camion_n_en_comuna_c_dia_d[5,1,62]  R2[5,62]  1
     camion_n_en_comuna_c_dia_d[5,1,62]  R5[5,1,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,62]  R7[1,62]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,62]  R7[1,62]  -400
     camion_n_en_comuna_c_dia_d[5,1,62]  R9[1,62]  1
     camion_n_en_comuna_c_dia_d[5,1,63]  R2[5,63]  1
     camion_n_en_comuna_c_dia_d[5,1,63]  R5[5,1,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,63]  R7[1,63]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,63]  R7[1,63]  -400
     camion_n_en_comuna_c_dia_d[5,1,63]  R9[1,63]  1
     camion_n_en_comuna_c_dia_d[5,1,64]  R2[5,64]  1
     camion_n_en_comuna_c_dia_d[5,1,64]  R5[5,1,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,64]  R7[1,64]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,64]  R7[1,64]  -400
     camion_n_en_comuna_c_dia_d[5,1,64]  R9[1,64]  1
     camion_n_en_comuna_c_dia_d[5,1,65]  R2[5,65]  1
     camion_n_en_comuna_c_dia_d[5,1,65]  R5[5,1,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,65]  R7[1,65]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,65]  R7[1,65]  -400
     camion_n_en_comuna_c_dia_d[5,1,65]  R9[1,65]  1
     camion_n_en_comuna_c_dia_d[5,1,66]  R2[5,66]  1
     camion_n_en_comuna_c_dia_d[5,1,66]  R5[5,1,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,66]  R7[1,66]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,66]  R7[1,66]  -400
     camion_n_en_comuna_c_dia_d[5,1,66]  R9[1,66]  1
     camion_n_en_comuna_c_dia_d[5,1,67]  R2[5,67]  1
     camion_n_en_comuna_c_dia_d[5,1,67]  R5[5,1,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,67]  R7[1,67]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,67]  R7[1,67]  -400
     camion_n_en_comuna_c_dia_d[5,1,67]  R9[1,67]  1
     camion_n_en_comuna_c_dia_d[5,1,68]  R2[5,68]  1
     camion_n_en_comuna_c_dia_d[5,1,68]  R5[5,1,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,68]  R7[1,68]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,68]  R7[1,68]  -400
     camion_n_en_comuna_c_dia_d[5,1,68]  R9[1,68]  1
     camion_n_en_comuna_c_dia_d[5,1,69]  R2[5,69]  1
     camion_n_en_comuna_c_dia_d[5,1,69]  R5[5,1,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,69]  R7[1,69]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,69]  R7[1,69]  -400
     camion_n_en_comuna_c_dia_d[5,1,69]  R9[1,69]  1
     camion_n_en_comuna_c_dia_d[5,1,70]  R2[5,70]  1
     camion_n_en_comuna_c_dia_d[5,1,70]  R5[5,1,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,70]  R7[1,70]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,70]  R7[1,70]  -400
     camion_n_en_comuna_c_dia_d[5,1,70]  R9[1,70]  1
     camion_n_en_comuna_c_dia_d[5,1,71]  R2[5,71]  1
     camion_n_en_comuna_c_dia_d[5,1,71]  R5[5,1,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,71]  R7[1,71]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,71]  R7[1,71]  -400
     camion_n_en_comuna_c_dia_d[5,1,71]  R9[1,71]  1
     camion_n_en_comuna_c_dia_d[5,1,72]  R2[5,72]  1
     camion_n_en_comuna_c_dia_d[5,1,72]  R5[5,1,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,72]  R7[1,72]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,72]  R7[1,72]  -400
     camion_n_en_comuna_c_dia_d[5,1,72]  R9[1,72]  1
     camion_n_en_comuna_c_dia_d[5,1,73]  R2[5,73]  1
     camion_n_en_comuna_c_dia_d[5,1,73]  R5[5,1,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,73]  R7[1,73]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,73]  R7[1,73]  -400
     camion_n_en_comuna_c_dia_d[5,1,73]  R9[1,73]  1
     camion_n_en_comuna_c_dia_d[5,1,74]  R2[5,74]  1
     camion_n_en_comuna_c_dia_d[5,1,74]  R5[5,1,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,74]  R7[1,74]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,74]  R7[1,74]  -400
     camion_n_en_comuna_c_dia_d[5,1,74]  R9[1,74]  1
     camion_n_en_comuna_c_dia_d[5,1,75]  R2[5,75]  1
     camion_n_en_comuna_c_dia_d[5,1,75]  R5[5,1,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,75]  R7[1,75]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,75]  R7[1,75]  -400
     camion_n_en_comuna_c_dia_d[5,1,75]  R9[1,75]  1
     camion_n_en_comuna_c_dia_d[5,1,76]  R2[5,76]  1
     camion_n_en_comuna_c_dia_d[5,1,76]  R5[5,1,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,76]  R7[1,76]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,76]  R7[1,76]  -400
     camion_n_en_comuna_c_dia_d[5,1,76]  R9[1,76]  1
     camion_n_en_comuna_c_dia_d[5,1,77]  R2[5,77]  1
     camion_n_en_comuna_c_dia_d[5,1,77]  R5[5,1,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,77]  R7[1,77]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,77]  R7[1,77]  -400
     camion_n_en_comuna_c_dia_d[5,1,77]  R9[1,77]  1
     camion_n_en_comuna_c_dia_d[5,1,78]  R2[5,78]  1
     camion_n_en_comuna_c_dia_d[5,1,78]  R5[5,1,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,78]  R7[1,78]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,78]  R7[1,78]  -400
     camion_n_en_comuna_c_dia_d[5,1,78]  R9[1,78]  1
     camion_n_en_comuna_c_dia_d[5,1,79]  R2[5,79]  1
     camion_n_en_comuna_c_dia_d[5,1,79]  R5[5,1,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,79]  R7[1,79]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,79]  R7[1,79]  -400
     camion_n_en_comuna_c_dia_d[5,1,79]  R9[1,79]  1
     camion_n_en_comuna_c_dia_d[5,1,80]  R2[5,80]  1
     camion_n_en_comuna_c_dia_d[5,1,80]  R5[5,1,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,80]  R7[1,80]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,80]  R7[1,80]  -400
     camion_n_en_comuna_c_dia_d[5,1,80]  R9[1,80]  1
     camion_n_en_comuna_c_dia_d[5,1,81]  R2[5,81]  1
     camion_n_en_comuna_c_dia_d[5,1,81]  R5[5,1,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,81]  R7[1,81]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,81]  R7[1,81]  -400
     camion_n_en_comuna_c_dia_d[5,1,81]  R9[1,81]  1
     camion_n_en_comuna_c_dia_d[5,1,82]  R2[5,82]  1
     camion_n_en_comuna_c_dia_d[5,1,82]  R5[5,1,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,82]  R7[1,82]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,82]  R7[1,82]  -400
     camion_n_en_comuna_c_dia_d[5,1,82]  R9[1,82]  1
     camion_n_en_comuna_c_dia_d[5,1,83]  R2[5,83]  1
     camion_n_en_comuna_c_dia_d[5,1,83]  R5[5,1,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,83]  R7[1,83]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,83]  R7[1,83]  -400
     camion_n_en_comuna_c_dia_d[5,1,83]  R9[1,83]  1
     camion_n_en_comuna_c_dia_d[5,1,84]  R2[5,84]  1
     camion_n_en_comuna_c_dia_d[5,1,84]  R5[5,1,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,84]  R7[1,84]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,84]  R7[1,84]  -400
     camion_n_en_comuna_c_dia_d[5,1,84]  R9[1,84]  1
     camion_n_en_comuna_c_dia_d[5,1,85]  R2[5,85]  1
     camion_n_en_comuna_c_dia_d[5,1,85]  R5[5,1,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,85]  R7[1,85]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,85]  R7[1,85]  -400
     camion_n_en_comuna_c_dia_d[5,1,85]  R9[1,85]  1
     camion_n_en_comuna_c_dia_d[5,1,86]  R2[5,86]  1
     camion_n_en_comuna_c_dia_d[5,1,86]  R5[5,1,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,86]  R7[1,86]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,86]  R7[1,86]  -400
     camion_n_en_comuna_c_dia_d[5,1,86]  R9[1,86]  1
     camion_n_en_comuna_c_dia_d[5,1,87]  R2[5,87]  1
     camion_n_en_comuna_c_dia_d[5,1,87]  R5[5,1,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,87]  R7[1,87]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,87]  R7[1,87]  -400
     camion_n_en_comuna_c_dia_d[5,1,87]  R9[1,87]  1
     camion_n_en_comuna_c_dia_d[5,1,88]  R2[5,88]  1
     camion_n_en_comuna_c_dia_d[5,1,88]  R5[5,1,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,88]  R7[1,88]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,88]  R7[1,88]  -400
     camion_n_en_comuna_c_dia_d[5,1,88]  R9[1,88]  1
     camion_n_en_comuna_c_dia_d[5,1,89]  R2[5,89]  1
     camion_n_en_comuna_c_dia_d[5,1,89]  R5[5,1,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,89]  R7[1,89]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,89]  R7[1,89]  -400
     camion_n_en_comuna_c_dia_d[5,1,89]  R9[1,89]  1
     camion_n_en_comuna_c_dia_d[5,1,90]  R2[5,90]  1
     camion_n_en_comuna_c_dia_d[5,1,90]  R5[5,1,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,90]  R7[1,90]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,90]  R7[1,90]  -400
     camion_n_en_comuna_c_dia_d[5,1,90]  R9[1,90]  1
     camion_n_en_comuna_c_dia_d[5,1,91]  R2[5,91]  1
     camion_n_en_comuna_c_dia_d[5,1,91]  R5[5,1,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,91]  R7[1,91]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,91]  R7[1,91]  -400
     camion_n_en_comuna_c_dia_d[5,1,91]  R9[1,91]  1
     camion_n_en_comuna_c_dia_d[5,1,92]  R2[5,92]  1
     camion_n_en_comuna_c_dia_d[5,1,92]  R5[5,1,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,92]  R7[1,92]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,92]  R7[1,92]  -400
     camion_n_en_comuna_c_dia_d[5,1,92]  R9[1,92]  1
     camion_n_en_comuna_c_dia_d[5,1,93]  R2[5,93]  1
     camion_n_en_comuna_c_dia_d[5,1,93]  R5[5,1,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,93]  R7[1,93]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,93]  R7[1,93]  -400
     camion_n_en_comuna_c_dia_d[5,1,93]  R9[1,93]  1
     camion_n_en_comuna_c_dia_d[5,1,94]  R2[5,94]  1
     camion_n_en_comuna_c_dia_d[5,1,94]  R5[5,1,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,94]  R7[1,94]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,94]  R7[1,94]  -400
     camion_n_en_comuna_c_dia_d[5,1,94]  R9[1,94]  1
     camion_n_en_comuna_c_dia_d[5,1,95]  R2[5,95]  1
     camion_n_en_comuna_c_dia_d[5,1,95]  R5[5,1,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,95]  R7[1,95]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,95]  R7[1,95]  -400
     camion_n_en_comuna_c_dia_d[5,1,95]  R9[1,95]  1
     camion_n_en_comuna_c_dia_d[5,1,96]  R2[5,96]  1
     camion_n_en_comuna_c_dia_d[5,1,96]  R5[5,1,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,96]  R7[1,96]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,96]  R7[1,96]  -400
     camion_n_en_comuna_c_dia_d[5,1,96]  R9[1,96]  1
     camion_n_en_comuna_c_dia_d[5,1,97]  R2[5,97]  1
     camion_n_en_comuna_c_dia_d[5,1,97]  R5[5,1,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,97]  R7[1,97]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,97]  R7[1,97]  -400
     camion_n_en_comuna_c_dia_d[5,1,97]  R9[1,97]  1
     camion_n_en_comuna_c_dia_d[5,1,98]  R2[5,98]  1
     camion_n_en_comuna_c_dia_d[5,1,98]  R5[5,1,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,98]  R7[1,98]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,98]  R7[1,98]  -400
     camion_n_en_comuna_c_dia_d[5,1,98]  R9[1,98]  1
     camion_n_en_comuna_c_dia_d[5,1,99]  R2[5,99]  1
     camion_n_en_comuna_c_dia_d[5,1,99]  R5[5,1,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,1,99]  R7[1,99]  -1000
+    camion_n_en_comuna_c_dia_d[5,1,99]  R7[1,99]  -400
     camion_n_en_comuna_c_dia_d[5,1,99]  R9[1,99]  1
     camion_n_en_comuna_c_dia_d[5,2,0]  R2[5,0]   1
     camion_n_en_comuna_c_dia_d[5,2,0]  R5[5,2,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,0]  R7[2,0]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,0]  R7[2,0]   -400
     camion_n_en_comuna_c_dia_d[5,2,0]  R9[2,0]   1
     camion_n_en_comuna_c_dia_d[5,2,1]  R2[5,1]   1
     camion_n_en_comuna_c_dia_d[5,2,1]  R5[5,2,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,1]  R7[2,1]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,1]  R7[2,1]   -400
     camion_n_en_comuna_c_dia_d[5,2,1]  R9[2,1]   1
     camion_n_en_comuna_c_dia_d[5,2,2]  R2[5,2]   1
     camion_n_en_comuna_c_dia_d[5,2,2]  R5[5,2,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,2]  R7[2,2]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,2]  R7[2,2]   -400
     camion_n_en_comuna_c_dia_d[5,2,2]  R9[2,2]   1
     camion_n_en_comuna_c_dia_d[5,2,3]  R2[5,3]   1
     camion_n_en_comuna_c_dia_d[5,2,3]  R5[5,2,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,3]  R7[2,3]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,3]  R7[2,3]   -400
     camion_n_en_comuna_c_dia_d[5,2,3]  R9[2,3]   1
     camion_n_en_comuna_c_dia_d[5,2,4]  R2[5,4]   1
     camion_n_en_comuna_c_dia_d[5,2,4]  R5[5,2,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,4]  R7[2,4]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,4]  R7[2,4]   -400
     camion_n_en_comuna_c_dia_d[5,2,4]  R9[2,4]   1
     camion_n_en_comuna_c_dia_d[5,2,5]  R2[5,5]   1
     camion_n_en_comuna_c_dia_d[5,2,5]  R5[5,2,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,5]  R7[2,5]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,5]  R7[2,5]   -400
     camion_n_en_comuna_c_dia_d[5,2,5]  R9[2,5]   1
     camion_n_en_comuna_c_dia_d[5,2,6]  R2[5,6]   1
     camion_n_en_comuna_c_dia_d[5,2,6]  R5[5,2,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,6]  R7[2,6]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,6]  R7[2,6]   -400
     camion_n_en_comuna_c_dia_d[5,2,6]  R9[2,6]   1
     camion_n_en_comuna_c_dia_d[5,2,7]  R2[5,7]   1
     camion_n_en_comuna_c_dia_d[5,2,7]  R5[5,2,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,7]  R7[2,7]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,7]  R7[2,7]   -400
     camion_n_en_comuna_c_dia_d[5,2,7]  R9[2,7]   1
     camion_n_en_comuna_c_dia_d[5,2,8]  R2[5,8]   1
     camion_n_en_comuna_c_dia_d[5,2,8]  R5[5,2,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,8]  R7[2,8]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,8]  R7[2,8]   -400
     camion_n_en_comuna_c_dia_d[5,2,8]  R9[2,8]   1
     camion_n_en_comuna_c_dia_d[5,2,9]  R2[5,9]   1
     camion_n_en_comuna_c_dia_d[5,2,9]  R5[5,2,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,9]  R7[2,9]   -1000
+    camion_n_en_comuna_c_dia_d[5,2,9]  R7[2,9]   -400
     camion_n_en_comuna_c_dia_d[5,2,9]  R9[2,9]   1
     camion_n_en_comuna_c_dia_d[5,2,10]  R2[5,10]  1
     camion_n_en_comuna_c_dia_d[5,2,10]  R5[5,2,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,10]  R7[2,10]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,10]  R7[2,10]  -400
     camion_n_en_comuna_c_dia_d[5,2,10]  R9[2,10]  1
     camion_n_en_comuna_c_dia_d[5,2,11]  R2[5,11]  1
     camion_n_en_comuna_c_dia_d[5,2,11]  R5[5,2,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,11]  R7[2,11]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,11]  R7[2,11]  -400
     camion_n_en_comuna_c_dia_d[5,2,11]  R9[2,11]  1
     camion_n_en_comuna_c_dia_d[5,2,12]  R2[5,12]  1
     camion_n_en_comuna_c_dia_d[5,2,12]  R5[5,2,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,12]  R7[2,12]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,12]  R7[2,12]  -400
     camion_n_en_comuna_c_dia_d[5,2,12]  R9[2,12]  1
     camion_n_en_comuna_c_dia_d[5,2,13]  R2[5,13]  1
     camion_n_en_comuna_c_dia_d[5,2,13]  R5[5,2,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,13]  R7[2,13]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,13]  R7[2,13]  -400
     camion_n_en_comuna_c_dia_d[5,2,13]  R9[2,13]  1
     camion_n_en_comuna_c_dia_d[5,2,14]  R2[5,14]  1
     camion_n_en_comuna_c_dia_d[5,2,14]  R5[5,2,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,14]  R7[2,14]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,14]  R7[2,14]  -400
     camion_n_en_comuna_c_dia_d[5,2,14]  R9[2,14]  1
     camion_n_en_comuna_c_dia_d[5,2,15]  R2[5,15]  1
     camion_n_en_comuna_c_dia_d[5,2,15]  R5[5,2,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,15]  R7[2,15]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,15]  R7[2,15]  -400
     camion_n_en_comuna_c_dia_d[5,2,15]  R9[2,15]  1
     camion_n_en_comuna_c_dia_d[5,2,16]  R2[5,16]  1
     camion_n_en_comuna_c_dia_d[5,2,16]  R5[5,2,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,16]  R7[2,16]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,16]  R7[2,16]  -400
     camion_n_en_comuna_c_dia_d[5,2,16]  R9[2,16]  1
     camion_n_en_comuna_c_dia_d[5,2,17]  R2[5,17]  1
     camion_n_en_comuna_c_dia_d[5,2,17]  R5[5,2,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,17]  R7[2,17]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,17]  R7[2,17]  -400
     camion_n_en_comuna_c_dia_d[5,2,17]  R9[2,17]  1
     camion_n_en_comuna_c_dia_d[5,2,18]  R2[5,18]  1
     camion_n_en_comuna_c_dia_d[5,2,18]  R5[5,2,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,18]  R7[2,18]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,18]  R7[2,18]  -400
     camion_n_en_comuna_c_dia_d[5,2,18]  R9[2,18]  1
     camion_n_en_comuna_c_dia_d[5,2,19]  R2[5,19]  1
     camion_n_en_comuna_c_dia_d[5,2,19]  R5[5,2,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,19]  R7[2,19]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,19]  R7[2,19]  -400
     camion_n_en_comuna_c_dia_d[5,2,19]  R9[2,19]  1
     camion_n_en_comuna_c_dia_d[5,2,20]  R2[5,20]  1
     camion_n_en_comuna_c_dia_d[5,2,20]  R5[5,2,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,20]  R7[2,20]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,20]  R7[2,20]  -400
     camion_n_en_comuna_c_dia_d[5,2,20]  R9[2,20]  1
     camion_n_en_comuna_c_dia_d[5,2,21]  R2[5,21]  1
     camion_n_en_comuna_c_dia_d[5,2,21]  R5[5,2,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,21]  R7[2,21]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,21]  R7[2,21]  -400
     camion_n_en_comuna_c_dia_d[5,2,21]  R9[2,21]  1
     camion_n_en_comuna_c_dia_d[5,2,22]  R2[5,22]  1
     camion_n_en_comuna_c_dia_d[5,2,22]  R5[5,2,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,22]  R7[2,22]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,22]  R7[2,22]  -400
     camion_n_en_comuna_c_dia_d[5,2,22]  R9[2,22]  1
     camion_n_en_comuna_c_dia_d[5,2,23]  R2[5,23]  1
     camion_n_en_comuna_c_dia_d[5,2,23]  R5[5,2,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,23]  R7[2,23]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,23]  R7[2,23]  -400
     camion_n_en_comuna_c_dia_d[5,2,23]  R9[2,23]  1
     camion_n_en_comuna_c_dia_d[5,2,24]  R2[5,24]  1
     camion_n_en_comuna_c_dia_d[5,2,24]  R5[5,2,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,24]  R7[2,24]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,24]  R7[2,24]  -400
     camion_n_en_comuna_c_dia_d[5,2,24]  R9[2,24]  1
     camion_n_en_comuna_c_dia_d[5,2,25]  R2[5,25]  1
     camion_n_en_comuna_c_dia_d[5,2,25]  R5[5,2,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,25]  R7[2,25]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,25]  R7[2,25]  -400
     camion_n_en_comuna_c_dia_d[5,2,25]  R9[2,25]  1
     camion_n_en_comuna_c_dia_d[5,2,26]  R2[5,26]  1
     camion_n_en_comuna_c_dia_d[5,2,26]  R5[5,2,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,26]  R7[2,26]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,26]  R7[2,26]  -400
     camion_n_en_comuna_c_dia_d[5,2,26]  R9[2,26]  1
     camion_n_en_comuna_c_dia_d[5,2,27]  R2[5,27]  1
     camion_n_en_comuna_c_dia_d[5,2,27]  R5[5,2,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,27]  R7[2,27]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,27]  R7[2,27]  -400
     camion_n_en_comuna_c_dia_d[5,2,27]  R9[2,27]  1
     camion_n_en_comuna_c_dia_d[5,2,28]  R2[5,28]  1
     camion_n_en_comuna_c_dia_d[5,2,28]  R5[5,2,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,28]  R7[2,28]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,28]  R7[2,28]  -400
     camion_n_en_comuna_c_dia_d[5,2,28]  R9[2,28]  1
     camion_n_en_comuna_c_dia_d[5,2,29]  R2[5,29]  1
     camion_n_en_comuna_c_dia_d[5,2,29]  R5[5,2,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,29]  R7[2,29]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,29]  R7[2,29]  -400
     camion_n_en_comuna_c_dia_d[5,2,29]  R9[2,29]  1
     camion_n_en_comuna_c_dia_d[5,2,30]  R2[5,30]  1
     camion_n_en_comuna_c_dia_d[5,2,30]  R5[5,2,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,30]  R7[2,30]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,30]  R7[2,30]  -400
     camion_n_en_comuna_c_dia_d[5,2,30]  R9[2,30]  1
     camion_n_en_comuna_c_dia_d[5,2,31]  R2[5,31]  1
     camion_n_en_comuna_c_dia_d[5,2,31]  R5[5,2,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,31]  R7[2,31]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,31]  R7[2,31]  -400
     camion_n_en_comuna_c_dia_d[5,2,31]  R9[2,31]  1
     camion_n_en_comuna_c_dia_d[5,2,32]  R2[5,32]  1
     camion_n_en_comuna_c_dia_d[5,2,32]  R5[5,2,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,32]  R7[2,32]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,32]  R7[2,32]  -400
     camion_n_en_comuna_c_dia_d[5,2,32]  R9[2,32]  1
     camion_n_en_comuna_c_dia_d[5,2,33]  R2[5,33]  1
     camion_n_en_comuna_c_dia_d[5,2,33]  R5[5,2,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,33]  R7[2,33]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,33]  R7[2,33]  -400
     camion_n_en_comuna_c_dia_d[5,2,33]  R9[2,33]  1
     camion_n_en_comuna_c_dia_d[5,2,34]  R2[5,34]  1
     camion_n_en_comuna_c_dia_d[5,2,34]  R5[5,2,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,34]  R7[2,34]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,34]  R7[2,34]  -400
     camion_n_en_comuna_c_dia_d[5,2,34]  R9[2,34]  1
     camion_n_en_comuna_c_dia_d[5,2,35]  R2[5,35]  1
     camion_n_en_comuna_c_dia_d[5,2,35]  R5[5,2,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,35]  R7[2,35]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,35]  R7[2,35]  -400
     camion_n_en_comuna_c_dia_d[5,2,35]  R9[2,35]  1
     camion_n_en_comuna_c_dia_d[5,2,36]  R2[5,36]  1
     camion_n_en_comuna_c_dia_d[5,2,36]  R5[5,2,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,36]  R7[2,36]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,36]  R7[2,36]  -400
     camion_n_en_comuna_c_dia_d[5,2,36]  R9[2,36]  1
     camion_n_en_comuna_c_dia_d[5,2,37]  R2[5,37]  1
     camion_n_en_comuna_c_dia_d[5,2,37]  R5[5,2,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,37]  R7[2,37]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,37]  R7[2,37]  -400
     camion_n_en_comuna_c_dia_d[5,2,37]  R9[2,37]  1
     camion_n_en_comuna_c_dia_d[5,2,38]  R2[5,38]  1
     camion_n_en_comuna_c_dia_d[5,2,38]  R5[5,2,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,38]  R7[2,38]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,38]  R7[2,38]  -400
     camion_n_en_comuna_c_dia_d[5,2,38]  R9[2,38]  1
     camion_n_en_comuna_c_dia_d[5,2,39]  R2[5,39]  1
     camion_n_en_comuna_c_dia_d[5,2,39]  R5[5,2,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,39]  R7[2,39]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,39]  R7[2,39]  -400
     camion_n_en_comuna_c_dia_d[5,2,39]  R9[2,39]  1
     camion_n_en_comuna_c_dia_d[5,2,40]  R2[5,40]  1
     camion_n_en_comuna_c_dia_d[5,2,40]  R5[5,2,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,40]  R7[2,40]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,40]  R7[2,40]  -400
     camion_n_en_comuna_c_dia_d[5,2,40]  R9[2,40]  1
     camion_n_en_comuna_c_dia_d[5,2,41]  R2[5,41]  1
     camion_n_en_comuna_c_dia_d[5,2,41]  R5[5,2,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,41]  R7[2,41]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,41]  R7[2,41]  -400
     camion_n_en_comuna_c_dia_d[5,2,41]  R9[2,41]  1
     camion_n_en_comuna_c_dia_d[5,2,42]  R2[5,42]  1
     camion_n_en_comuna_c_dia_d[5,2,42]  R5[5,2,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,42]  R7[2,42]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,42]  R7[2,42]  -400
     camion_n_en_comuna_c_dia_d[5,2,42]  R9[2,42]  1
     camion_n_en_comuna_c_dia_d[5,2,43]  R2[5,43]  1
     camion_n_en_comuna_c_dia_d[5,2,43]  R5[5,2,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,43]  R7[2,43]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,43]  R7[2,43]  -400
     camion_n_en_comuna_c_dia_d[5,2,43]  R9[2,43]  1
     camion_n_en_comuna_c_dia_d[5,2,44]  R2[5,44]  1
     camion_n_en_comuna_c_dia_d[5,2,44]  R5[5,2,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,44]  R7[2,44]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,44]  R7[2,44]  -400
     camion_n_en_comuna_c_dia_d[5,2,44]  R9[2,44]  1
     camion_n_en_comuna_c_dia_d[5,2,45]  R2[5,45]  1
     camion_n_en_comuna_c_dia_d[5,2,45]  R5[5,2,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,45]  R7[2,45]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,45]  R7[2,45]  -400
     camion_n_en_comuna_c_dia_d[5,2,45]  R9[2,45]  1
     camion_n_en_comuna_c_dia_d[5,2,46]  R2[5,46]  1
     camion_n_en_comuna_c_dia_d[5,2,46]  R5[5,2,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,46]  R7[2,46]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,46]  R7[2,46]  -400
     camion_n_en_comuna_c_dia_d[5,2,46]  R9[2,46]  1
     camion_n_en_comuna_c_dia_d[5,2,47]  R2[5,47]  1
     camion_n_en_comuna_c_dia_d[5,2,47]  R5[5,2,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,47]  R7[2,47]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,47]  R7[2,47]  -400
     camion_n_en_comuna_c_dia_d[5,2,47]  R9[2,47]  1
     camion_n_en_comuna_c_dia_d[5,2,48]  R2[5,48]  1
     camion_n_en_comuna_c_dia_d[5,2,48]  R5[5,2,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,48]  R7[2,48]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,48]  R7[2,48]  -400
     camion_n_en_comuna_c_dia_d[5,2,48]  R9[2,48]  1
     camion_n_en_comuna_c_dia_d[5,2,49]  R2[5,49]  1
     camion_n_en_comuna_c_dia_d[5,2,49]  R5[5,2,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,49]  R7[2,49]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,49]  R7[2,49]  -400
     camion_n_en_comuna_c_dia_d[5,2,49]  R9[2,49]  1
     camion_n_en_comuna_c_dia_d[5,2,50]  R2[5,50]  1
     camion_n_en_comuna_c_dia_d[5,2,50]  R5[5,2,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,50]  R7[2,50]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,50]  R7[2,50]  -400
     camion_n_en_comuna_c_dia_d[5,2,50]  R9[2,50]  1
     camion_n_en_comuna_c_dia_d[5,2,51]  R2[5,51]  1
     camion_n_en_comuna_c_dia_d[5,2,51]  R5[5,2,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,51]  R7[2,51]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,51]  R7[2,51]  -400
     camion_n_en_comuna_c_dia_d[5,2,51]  R9[2,51]  1
     camion_n_en_comuna_c_dia_d[5,2,52]  R2[5,52]  1
     camion_n_en_comuna_c_dia_d[5,2,52]  R5[5,2,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,52]  R7[2,52]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,52]  R7[2,52]  -400
     camion_n_en_comuna_c_dia_d[5,2,52]  R9[2,52]  1
     camion_n_en_comuna_c_dia_d[5,2,53]  R2[5,53]  1
     camion_n_en_comuna_c_dia_d[5,2,53]  R5[5,2,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,53]  R7[2,53]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,53]  R7[2,53]  -400
     camion_n_en_comuna_c_dia_d[5,2,53]  R9[2,53]  1
     camion_n_en_comuna_c_dia_d[5,2,54]  R2[5,54]  1
     camion_n_en_comuna_c_dia_d[5,2,54]  R5[5,2,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,54]  R7[2,54]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,54]  R7[2,54]  -400
     camion_n_en_comuna_c_dia_d[5,2,54]  R9[2,54]  1
     camion_n_en_comuna_c_dia_d[5,2,55]  R2[5,55]  1
     camion_n_en_comuna_c_dia_d[5,2,55]  R5[5,2,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,55]  R7[2,55]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,55]  R7[2,55]  -400
     camion_n_en_comuna_c_dia_d[5,2,55]  R9[2,55]  1
     camion_n_en_comuna_c_dia_d[5,2,56]  R2[5,56]  1
     camion_n_en_comuna_c_dia_d[5,2,56]  R5[5,2,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,56]  R7[2,56]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,56]  R7[2,56]  -400
     camion_n_en_comuna_c_dia_d[5,2,56]  R9[2,56]  1
     camion_n_en_comuna_c_dia_d[5,2,57]  R2[5,57]  1
     camion_n_en_comuna_c_dia_d[5,2,57]  R5[5,2,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,57]  R7[2,57]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,57]  R7[2,57]  -400
     camion_n_en_comuna_c_dia_d[5,2,57]  R9[2,57]  1
     camion_n_en_comuna_c_dia_d[5,2,58]  R2[5,58]  1
     camion_n_en_comuna_c_dia_d[5,2,58]  R5[5,2,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,58]  R7[2,58]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,58]  R7[2,58]  -400
     camion_n_en_comuna_c_dia_d[5,2,58]  R9[2,58]  1
     camion_n_en_comuna_c_dia_d[5,2,59]  R2[5,59]  1
     camion_n_en_comuna_c_dia_d[5,2,59]  R5[5,2,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,59]  R7[2,59]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,59]  R7[2,59]  -400
     camion_n_en_comuna_c_dia_d[5,2,59]  R9[2,59]  1
     camion_n_en_comuna_c_dia_d[5,2,60]  R2[5,60]  1
     camion_n_en_comuna_c_dia_d[5,2,60]  R5[5,2,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,60]  R7[2,60]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,60]  R7[2,60]  -400
     camion_n_en_comuna_c_dia_d[5,2,60]  R9[2,60]  1
     camion_n_en_comuna_c_dia_d[5,2,61]  R2[5,61]  1
     camion_n_en_comuna_c_dia_d[5,2,61]  R5[5,2,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,61]  R7[2,61]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,61]  R7[2,61]  -400
     camion_n_en_comuna_c_dia_d[5,2,61]  R9[2,61]  1
     camion_n_en_comuna_c_dia_d[5,2,62]  R2[5,62]  1
     camion_n_en_comuna_c_dia_d[5,2,62]  R5[5,2,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,62]  R7[2,62]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,62]  R7[2,62]  -400
     camion_n_en_comuna_c_dia_d[5,2,62]  R9[2,62]  1
     camion_n_en_comuna_c_dia_d[5,2,63]  R2[5,63]  1
     camion_n_en_comuna_c_dia_d[5,2,63]  R5[5,2,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,63]  R7[2,63]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,63]  R7[2,63]  -400
     camion_n_en_comuna_c_dia_d[5,2,63]  R9[2,63]  1
     camion_n_en_comuna_c_dia_d[5,2,64]  R2[5,64]  1
     camion_n_en_comuna_c_dia_d[5,2,64]  R5[5,2,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,64]  R7[2,64]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,64]  R7[2,64]  -400
     camion_n_en_comuna_c_dia_d[5,2,64]  R9[2,64]  1
     camion_n_en_comuna_c_dia_d[5,2,65]  R2[5,65]  1
     camion_n_en_comuna_c_dia_d[5,2,65]  R5[5,2,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,65]  R7[2,65]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,65]  R7[2,65]  -400
     camion_n_en_comuna_c_dia_d[5,2,65]  R9[2,65]  1
     camion_n_en_comuna_c_dia_d[5,2,66]  R2[5,66]  1
     camion_n_en_comuna_c_dia_d[5,2,66]  R5[5,2,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,66]  R7[2,66]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,66]  R7[2,66]  -400
     camion_n_en_comuna_c_dia_d[5,2,66]  R9[2,66]  1
     camion_n_en_comuna_c_dia_d[5,2,67]  R2[5,67]  1
     camion_n_en_comuna_c_dia_d[5,2,67]  R5[5,2,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,67]  R7[2,67]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,67]  R7[2,67]  -400
     camion_n_en_comuna_c_dia_d[5,2,67]  R9[2,67]  1
     camion_n_en_comuna_c_dia_d[5,2,68]  R2[5,68]  1
     camion_n_en_comuna_c_dia_d[5,2,68]  R5[5,2,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,68]  R7[2,68]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,68]  R7[2,68]  -400
     camion_n_en_comuna_c_dia_d[5,2,68]  R9[2,68]  1
     camion_n_en_comuna_c_dia_d[5,2,69]  R2[5,69]  1
     camion_n_en_comuna_c_dia_d[5,2,69]  R5[5,2,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,69]  R7[2,69]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,69]  R7[2,69]  -400
     camion_n_en_comuna_c_dia_d[5,2,69]  R9[2,69]  1
     camion_n_en_comuna_c_dia_d[5,2,70]  R2[5,70]  1
     camion_n_en_comuna_c_dia_d[5,2,70]  R5[5,2,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,70]  R7[2,70]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,70]  R7[2,70]  -400
     camion_n_en_comuna_c_dia_d[5,2,70]  R9[2,70]  1
     camion_n_en_comuna_c_dia_d[5,2,71]  R2[5,71]  1
     camion_n_en_comuna_c_dia_d[5,2,71]  R5[5,2,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,71]  R7[2,71]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,71]  R7[2,71]  -400
     camion_n_en_comuna_c_dia_d[5,2,71]  R9[2,71]  1
     camion_n_en_comuna_c_dia_d[5,2,72]  R2[5,72]  1
     camion_n_en_comuna_c_dia_d[5,2,72]  R5[5,2,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,72]  R7[2,72]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,72]  R7[2,72]  -400
     camion_n_en_comuna_c_dia_d[5,2,72]  R9[2,72]  1
     camion_n_en_comuna_c_dia_d[5,2,73]  R2[5,73]  1
     camion_n_en_comuna_c_dia_d[5,2,73]  R5[5,2,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,73]  R7[2,73]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,73]  R7[2,73]  -400
     camion_n_en_comuna_c_dia_d[5,2,73]  R9[2,73]  1
     camion_n_en_comuna_c_dia_d[5,2,74]  R2[5,74]  1
     camion_n_en_comuna_c_dia_d[5,2,74]  R5[5,2,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,74]  R7[2,74]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,74]  R7[2,74]  -400
     camion_n_en_comuna_c_dia_d[5,2,74]  R9[2,74]  1
     camion_n_en_comuna_c_dia_d[5,2,75]  R2[5,75]  1
     camion_n_en_comuna_c_dia_d[5,2,75]  R5[5,2,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,75]  R7[2,75]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,75]  R7[2,75]  -400
     camion_n_en_comuna_c_dia_d[5,2,75]  R9[2,75]  1
     camion_n_en_comuna_c_dia_d[5,2,76]  R2[5,76]  1
     camion_n_en_comuna_c_dia_d[5,2,76]  R5[5,2,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,76]  R7[2,76]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,76]  R7[2,76]  -400
     camion_n_en_comuna_c_dia_d[5,2,76]  R9[2,76]  1
     camion_n_en_comuna_c_dia_d[5,2,77]  R2[5,77]  1
     camion_n_en_comuna_c_dia_d[5,2,77]  R5[5,2,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,77]  R7[2,77]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,77]  R7[2,77]  -400
     camion_n_en_comuna_c_dia_d[5,2,77]  R9[2,77]  1
     camion_n_en_comuna_c_dia_d[5,2,78]  R2[5,78]  1
     camion_n_en_comuna_c_dia_d[5,2,78]  R5[5,2,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,78]  R7[2,78]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,78]  R7[2,78]  -400
     camion_n_en_comuna_c_dia_d[5,2,78]  R9[2,78]  1
     camion_n_en_comuna_c_dia_d[5,2,79]  R2[5,79]  1
     camion_n_en_comuna_c_dia_d[5,2,79]  R5[5,2,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,79]  R7[2,79]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,79]  R7[2,79]  -400
     camion_n_en_comuna_c_dia_d[5,2,79]  R9[2,79]  1
     camion_n_en_comuna_c_dia_d[5,2,80]  R2[5,80]  1
     camion_n_en_comuna_c_dia_d[5,2,80]  R5[5,2,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,80]  R7[2,80]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,80]  R7[2,80]  -400
     camion_n_en_comuna_c_dia_d[5,2,80]  R9[2,80]  1
     camion_n_en_comuna_c_dia_d[5,2,81]  R2[5,81]  1
     camion_n_en_comuna_c_dia_d[5,2,81]  R5[5,2,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,81]  R7[2,81]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,81]  R7[2,81]  -400
     camion_n_en_comuna_c_dia_d[5,2,81]  R9[2,81]  1
     camion_n_en_comuna_c_dia_d[5,2,82]  R2[5,82]  1
     camion_n_en_comuna_c_dia_d[5,2,82]  R5[5,2,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,82]  R7[2,82]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,82]  R7[2,82]  -400
     camion_n_en_comuna_c_dia_d[5,2,82]  R9[2,82]  1
     camion_n_en_comuna_c_dia_d[5,2,83]  R2[5,83]  1
     camion_n_en_comuna_c_dia_d[5,2,83]  R5[5,2,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,83]  R7[2,83]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,83]  R7[2,83]  -400
     camion_n_en_comuna_c_dia_d[5,2,83]  R9[2,83]  1
     camion_n_en_comuna_c_dia_d[5,2,84]  R2[5,84]  1
     camion_n_en_comuna_c_dia_d[5,2,84]  R5[5,2,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,84]  R7[2,84]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,84]  R7[2,84]  -400
     camion_n_en_comuna_c_dia_d[5,2,84]  R9[2,84]  1
     camion_n_en_comuna_c_dia_d[5,2,85]  R2[5,85]  1
     camion_n_en_comuna_c_dia_d[5,2,85]  R5[5,2,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,85]  R7[2,85]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,85]  R7[2,85]  -400
     camion_n_en_comuna_c_dia_d[5,2,85]  R9[2,85]  1
     camion_n_en_comuna_c_dia_d[5,2,86]  R2[5,86]  1
     camion_n_en_comuna_c_dia_d[5,2,86]  R5[5,2,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,86]  R7[2,86]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,86]  R7[2,86]  -400
     camion_n_en_comuna_c_dia_d[5,2,86]  R9[2,86]  1
     camion_n_en_comuna_c_dia_d[5,2,87]  R2[5,87]  1
     camion_n_en_comuna_c_dia_d[5,2,87]  R5[5,2,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,87]  R7[2,87]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,87]  R7[2,87]  -400
     camion_n_en_comuna_c_dia_d[5,2,87]  R9[2,87]  1
     camion_n_en_comuna_c_dia_d[5,2,88]  R2[5,88]  1
     camion_n_en_comuna_c_dia_d[5,2,88]  R5[5,2,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,88]  R7[2,88]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,88]  R7[2,88]  -400
     camion_n_en_comuna_c_dia_d[5,2,88]  R9[2,88]  1
     camion_n_en_comuna_c_dia_d[5,2,89]  R2[5,89]  1
     camion_n_en_comuna_c_dia_d[5,2,89]  R5[5,2,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,89]  R7[2,89]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,89]  R7[2,89]  -400
     camion_n_en_comuna_c_dia_d[5,2,89]  R9[2,89]  1
     camion_n_en_comuna_c_dia_d[5,2,90]  R2[5,90]  1
     camion_n_en_comuna_c_dia_d[5,2,90]  R5[5,2,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,90]  R7[2,90]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,90]  R7[2,90]  -400
     camion_n_en_comuna_c_dia_d[5,2,90]  R9[2,90]  1
     camion_n_en_comuna_c_dia_d[5,2,91]  R2[5,91]  1
     camion_n_en_comuna_c_dia_d[5,2,91]  R5[5,2,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,91]  R7[2,91]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,91]  R7[2,91]  -400
     camion_n_en_comuna_c_dia_d[5,2,91]  R9[2,91]  1
     camion_n_en_comuna_c_dia_d[5,2,92]  R2[5,92]  1
     camion_n_en_comuna_c_dia_d[5,2,92]  R5[5,2,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,92]  R7[2,92]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,92]  R7[2,92]  -400
     camion_n_en_comuna_c_dia_d[5,2,92]  R9[2,92]  1
     camion_n_en_comuna_c_dia_d[5,2,93]  R2[5,93]  1
     camion_n_en_comuna_c_dia_d[5,2,93]  R5[5,2,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,93]  R7[2,93]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,93]  R7[2,93]  -400
     camion_n_en_comuna_c_dia_d[5,2,93]  R9[2,93]  1
     camion_n_en_comuna_c_dia_d[5,2,94]  R2[5,94]  1
     camion_n_en_comuna_c_dia_d[5,2,94]  R5[5,2,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,94]  R7[2,94]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,94]  R7[2,94]  -400
     camion_n_en_comuna_c_dia_d[5,2,94]  R9[2,94]  1
     camion_n_en_comuna_c_dia_d[5,2,95]  R2[5,95]  1
     camion_n_en_comuna_c_dia_d[5,2,95]  R5[5,2,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,95]  R7[2,95]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,95]  R7[2,95]  -400
     camion_n_en_comuna_c_dia_d[5,2,95]  R9[2,95]  1
     camion_n_en_comuna_c_dia_d[5,2,96]  R2[5,96]  1
     camion_n_en_comuna_c_dia_d[5,2,96]  R5[5,2,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,96]  R7[2,96]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,96]  R7[2,96]  -400
     camion_n_en_comuna_c_dia_d[5,2,96]  R9[2,96]  1
     camion_n_en_comuna_c_dia_d[5,2,97]  R2[5,97]  1
     camion_n_en_comuna_c_dia_d[5,2,97]  R5[5,2,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,97]  R7[2,97]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,97]  R7[2,97]  -400
     camion_n_en_comuna_c_dia_d[5,2,97]  R9[2,97]  1
     camion_n_en_comuna_c_dia_d[5,2,98]  R2[5,98]  1
     camion_n_en_comuna_c_dia_d[5,2,98]  R5[5,2,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,98]  R7[2,98]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,98]  R7[2,98]  -400
     camion_n_en_comuna_c_dia_d[5,2,98]  R9[2,98]  1
     camion_n_en_comuna_c_dia_d[5,2,99]  R2[5,99]  1
     camion_n_en_comuna_c_dia_d[5,2,99]  R5[5,2,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,2,99]  R7[2,99]  -1000
+    camion_n_en_comuna_c_dia_d[5,2,99]  R7[2,99]  -400
     camion_n_en_comuna_c_dia_d[5,2,99]  R9[2,99]  1
     camion_n_en_comuna_c_dia_d[5,3,0]  R2[5,0]   1
     camion_n_en_comuna_c_dia_d[5,3,0]  R5[5,3,0]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,0]  R7[3,0]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,0]  R7[3,0]   -400
     camion_n_en_comuna_c_dia_d[5,3,0]  R9[3,0]   1
     camion_n_en_comuna_c_dia_d[5,3,1]  R2[5,1]   1
     camion_n_en_comuna_c_dia_d[5,3,1]  R5[5,3,1]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,1]  R7[3,1]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,1]  R7[3,1]   -400
     camion_n_en_comuna_c_dia_d[5,3,1]  R9[3,1]   1
     camion_n_en_comuna_c_dia_d[5,3,2]  R2[5,2]   1
     camion_n_en_comuna_c_dia_d[5,3,2]  R5[5,3,2]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,2]  R7[3,2]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,2]  R7[3,2]   -400
     camion_n_en_comuna_c_dia_d[5,3,2]  R9[3,2]   1
     camion_n_en_comuna_c_dia_d[5,3,3]  R2[5,3]   1
     camion_n_en_comuna_c_dia_d[5,3,3]  R5[5,3,3]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,3]  R7[3,3]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,3]  R7[3,3]   -400
     camion_n_en_comuna_c_dia_d[5,3,3]  R9[3,3]   1
     camion_n_en_comuna_c_dia_d[5,3,4]  R2[5,4]   1
     camion_n_en_comuna_c_dia_d[5,3,4]  R5[5,3,4]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,4]  R7[3,4]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,4]  R7[3,4]   -400
     camion_n_en_comuna_c_dia_d[5,3,4]  R9[3,4]   1
     camion_n_en_comuna_c_dia_d[5,3,5]  R2[5,5]   1
     camion_n_en_comuna_c_dia_d[5,3,5]  R5[5,3,5]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,5]  R7[3,5]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,5]  R7[3,5]   -400
     camion_n_en_comuna_c_dia_d[5,3,5]  R9[3,5]   1
     camion_n_en_comuna_c_dia_d[5,3,6]  R2[5,6]   1
     camion_n_en_comuna_c_dia_d[5,3,6]  R5[5,3,6]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,6]  R7[3,6]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,6]  R7[3,6]   -400
     camion_n_en_comuna_c_dia_d[5,3,6]  R9[3,6]   1
     camion_n_en_comuna_c_dia_d[5,3,7]  R2[5,7]   1
     camion_n_en_comuna_c_dia_d[5,3,7]  R5[5,3,7]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,7]  R7[3,7]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,7]  R7[3,7]   -400
     camion_n_en_comuna_c_dia_d[5,3,7]  R9[3,7]   1
     camion_n_en_comuna_c_dia_d[5,3,8]  R2[5,8]   1
     camion_n_en_comuna_c_dia_d[5,3,8]  R5[5,3,8]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,8]  R7[3,8]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,8]  R7[3,8]   -400
     camion_n_en_comuna_c_dia_d[5,3,8]  R9[3,8]   1
     camion_n_en_comuna_c_dia_d[5,3,9]  R2[5,9]   1
     camion_n_en_comuna_c_dia_d[5,3,9]  R5[5,3,9]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,9]  R7[3,9]   -1000
+    camion_n_en_comuna_c_dia_d[5,3,9]  R7[3,9]   -400
     camion_n_en_comuna_c_dia_d[5,3,9]  R9[3,9]   1
     camion_n_en_comuna_c_dia_d[5,3,10]  R2[5,10]  1
     camion_n_en_comuna_c_dia_d[5,3,10]  R5[5,3,10]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,10]  R7[3,10]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,10]  R7[3,10]  -400
     camion_n_en_comuna_c_dia_d[5,3,10]  R9[3,10]  1
     camion_n_en_comuna_c_dia_d[5,3,11]  R2[5,11]  1
     camion_n_en_comuna_c_dia_d[5,3,11]  R5[5,3,11]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,11]  R7[3,11]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,11]  R7[3,11]  -400
     camion_n_en_comuna_c_dia_d[5,3,11]  R9[3,11]  1
     camion_n_en_comuna_c_dia_d[5,3,12]  R2[5,12]  1
     camion_n_en_comuna_c_dia_d[5,3,12]  R5[5,3,12]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,12]  R7[3,12]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,12]  R7[3,12]  -400
     camion_n_en_comuna_c_dia_d[5,3,12]  R9[3,12]  1
     camion_n_en_comuna_c_dia_d[5,3,13]  R2[5,13]  1
     camion_n_en_comuna_c_dia_d[5,3,13]  R5[5,3,13]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,13]  R7[3,13]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,13]  R7[3,13]  -400
     camion_n_en_comuna_c_dia_d[5,3,13]  R9[3,13]  1
     camion_n_en_comuna_c_dia_d[5,3,14]  R2[5,14]  1
     camion_n_en_comuna_c_dia_d[5,3,14]  R5[5,3,14]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,14]  R7[3,14]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,14]  R7[3,14]  -400
     camion_n_en_comuna_c_dia_d[5,3,14]  R9[3,14]  1
     camion_n_en_comuna_c_dia_d[5,3,15]  R2[5,15]  1
     camion_n_en_comuna_c_dia_d[5,3,15]  R5[5,3,15]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,15]  R7[3,15]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,15]  R7[3,15]  -400
     camion_n_en_comuna_c_dia_d[5,3,15]  R9[3,15]  1
     camion_n_en_comuna_c_dia_d[5,3,16]  R2[5,16]  1
     camion_n_en_comuna_c_dia_d[5,3,16]  R5[5,3,16]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,16]  R7[3,16]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,16]  R7[3,16]  -400
     camion_n_en_comuna_c_dia_d[5,3,16]  R9[3,16]  1
     camion_n_en_comuna_c_dia_d[5,3,17]  R2[5,17]  1
     camion_n_en_comuna_c_dia_d[5,3,17]  R5[5,3,17]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,17]  R7[3,17]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,17]  R7[3,17]  -400
     camion_n_en_comuna_c_dia_d[5,3,17]  R9[3,17]  1
     camion_n_en_comuna_c_dia_d[5,3,18]  R2[5,18]  1
     camion_n_en_comuna_c_dia_d[5,3,18]  R5[5,3,18]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,18]  R7[3,18]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,18]  R7[3,18]  -400
     camion_n_en_comuna_c_dia_d[5,3,18]  R9[3,18]  1
     camion_n_en_comuna_c_dia_d[5,3,19]  R2[5,19]  1
     camion_n_en_comuna_c_dia_d[5,3,19]  R5[5,3,19]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,19]  R7[3,19]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,19]  R7[3,19]  -400
     camion_n_en_comuna_c_dia_d[5,3,19]  R9[3,19]  1
     camion_n_en_comuna_c_dia_d[5,3,20]  R2[5,20]  1
     camion_n_en_comuna_c_dia_d[5,3,20]  R5[5,3,20]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,20]  R7[3,20]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,20]  R7[3,20]  -400
     camion_n_en_comuna_c_dia_d[5,3,20]  R9[3,20]  1
     camion_n_en_comuna_c_dia_d[5,3,21]  R2[5,21]  1
     camion_n_en_comuna_c_dia_d[5,3,21]  R5[5,3,21]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,21]  R7[3,21]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,21]  R7[3,21]  -400
     camion_n_en_comuna_c_dia_d[5,3,21]  R9[3,21]  1
     camion_n_en_comuna_c_dia_d[5,3,22]  R2[5,22]  1
     camion_n_en_comuna_c_dia_d[5,3,22]  R5[5,3,22]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,22]  R7[3,22]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,22]  R7[3,22]  -400
     camion_n_en_comuna_c_dia_d[5,3,22]  R9[3,22]  1
     camion_n_en_comuna_c_dia_d[5,3,23]  R2[5,23]  1
     camion_n_en_comuna_c_dia_d[5,3,23]  R5[5,3,23]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,23]  R7[3,23]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,23]  R7[3,23]  -400
     camion_n_en_comuna_c_dia_d[5,3,23]  R9[3,23]  1
     camion_n_en_comuna_c_dia_d[5,3,24]  R2[5,24]  1
     camion_n_en_comuna_c_dia_d[5,3,24]  R5[5,3,24]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,24]  R7[3,24]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,24]  R7[3,24]  -400
     camion_n_en_comuna_c_dia_d[5,3,24]  R9[3,24]  1
     camion_n_en_comuna_c_dia_d[5,3,25]  R2[5,25]  1
     camion_n_en_comuna_c_dia_d[5,3,25]  R5[5,3,25]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,25]  R7[3,25]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,25]  R7[3,25]  -400
     camion_n_en_comuna_c_dia_d[5,3,25]  R9[3,25]  1
     camion_n_en_comuna_c_dia_d[5,3,26]  R2[5,26]  1
     camion_n_en_comuna_c_dia_d[5,3,26]  R5[5,3,26]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,26]  R7[3,26]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,26]  R7[3,26]  -400
     camion_n_en_comuna_c_dia_d[5,3,26]  R9[3,26]  1
     camion_n_en_comuna_c_dia_d[5,3,27]  R2[5,27]  1
     camion_n_en_comuna_c_dia_d[5,3,27]  R5[5,3,27]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,27]  R7[3,27]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,27]  R7[3,27]  -400
     camion_n_en_comuna_c_dia_d[5,3,27]  R9[3,27]  1
     camion_n_en_comuna_c_dia_d[5,3,28]  R2[5,28]  1
     camion_n_en_comuna_c_dia_d[5,3,28]  R5[5,3,28]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,28]  R7[3,28]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,28]  R7[3,28]  -400
     camion_n_en_comuna_c_dia_d[5,3,28]  R9[3,28]  1
     camion_n_en_comuna_c_dia_d[5,3,29]  R2[5,29]  1
     camion_n_en_comuna_c_dia_d[5,3,29]  R5[5,3,29]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,29]  R7[3,29]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,29]  R7[3,29]  -400
     camion_n_en_comuna_c_dia_d[5,3,29]  R9[3,29]  1
     camion_n_en_comuna_c_dia_d[5,3,30]  R2[5,30]  1
     camion_n_en_comuna_c_dia_d[5,3,30]  R5[5,3,30]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,30]  R7[3,30]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,30]  R7[3,30]  -400
     camion_n_en_comuna_c_dia_d[5,3,30]  R9[3,30]  1
     camion_n_en_comuna_c_dia_d[5,3,31]  R2[5,31]  1
     camion_n_en_comuna_c_dia_d[5,3,31]  R5[5,3,31]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,31]  R7[3,31]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,31]  R7[3,31]  -400
     camion_n_en_comuna_c_dia_d[5,3,31]  R9[3,31]  1
     camion_n_en_comuna_c_dia_d[5,3,32]  R2[5,32]  1
     camion_n_en_comuna_c_dia_d[5,3,32]  R5[5,3,32]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,32]  R7[3,32]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,32]  R7[3,32]  -400
     camion_n_en_comuna_c_dia_d[5,3,32]  R9[3,32]  1
     camion_n_en_comuna_c_dia_d[5,3,33]  R2[5,33]  1
     camion_n_en_comuna_c_dia_d[5,3,33]  R5[5,3,33]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,33]  R7[3,33]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,33]  R7[3,33]  -400
     camion_n_en_comuna_c_dia_d[5,3,33]  R9[3,33]  1
     camion_n_en_comuna_c_dia_d[5,3,34]  R2[5,34]  1
     camion_n_en_comuna_c_dia_d[5,3,34]  R5[5,3,34]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,34]  R7[3,34]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,34]  R7[3,34]  -400
     camion_n_en_comuna_c_dia_d[5,3,34]  R9[3,34]  1
     camion_n_en_comuna_c_dia_d[5,3,35]  R2[5,35]  1
     camion_n_en_comuna_c_dia_d[5,3,35]  R5[5,3,35]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,35]  R7[3,35]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,35]  R7[3,35]  -400
     camion_n_en_comuna_c_dia_d[5,3,35]  R9[3,35]  1
     camion_n_en_comuna_c_dia_d[5,3,36]  R2[5,36]  1
     camion_n_en_comuna_c_dia_d[5,3,36]  R5[5,3,36]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,36]  R7[3,36]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,36]  R7[3,36]  -400
     camion_n_en_comuna_c_dia_d[5,3,36]  R9[3,36]  1
     camion_n_en_comuna_c_dia_d[5,3,37]  R2[5,37]  1
     camion_n_en_comuna_c_dia_d[5,3,37]  R5[5,3,37]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,37]  R7[3,37]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,37]  R7[3,37]  -400
     camion_n_en_comuna_c_dia_d[5,3,37]  R9[3,37]  1
     camion_n_en_comuna_c_dia_d[5,3,38]  R2[5,38]  1
     camion_n_en_comuna_c_dia_d[5,3,38]  R5[5,3,38]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,38]  R7[3,38]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,38]  R7[3,38]  -400
     camion_n_en_comuna_c_dia_d[5,3,38]  R9[3,38]  1
     camion_n_en_comuna_c_dia_d[5,3,39]  R2[5,39]  1
     camion_n_en_comuna_c_dia_d[5,3,39]  R5[5,3,39]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,39]  R7[3,39]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,39]  R7[3,39]  -400
     camion_n_en_comuna_c_dia_d[5,3,39]  R9[3,39]  1
     camion_n_en_comuna_c_dia_d[5,3,40]  R2[5,40]  1
     camion_n_en_comuna_c_dia_d[5,3,40]  R5[5,3,40]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,40]  R7[3,40]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,40]  R7[3,40]  -400
     camion_n_en_comuna_c_dia_d[5,3,40]  R9[3,40]  1
     camion_n_en_comuna_c_dia_d[5,3,41]  R2[5,41]  1
     camion_n_en_comuna_c_dia_d[5,3,41]  R5[5,3,41]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,41]  R7[3,41]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,41]  R7[3,41]  -400
     camion_n_en_comuna_c_dia_d[5,3,41]  R9[3,41]  1
     camion_n_en_comuna_c_dia_d[5,3,42]  R2[5,42]  1
     camion_n_en_comuna_c_dia_d[5,3,42]  R5[5,3,42]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,42]  R7[3,42]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,42]  R7[3,42]  -400
     camion_n_en_comuna_c_dia_d[5,3,42]  R9[3,42]  1
     camion_n_en_comuna_c_dia_d[5,3,43]  R2[5,43]  1
     camion_n_en_comuna_c_dia_d[5,3,43]  R5[5,3,43]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,43]  R7[3,43]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,43]  R7[3,43]  -400
     camion_n_en_comuna_c_dia_d[5,3,43]  R9[3,43]  1
     camion_n_en_comuna_c_dia_d[5,3,44]  R2[5,44]  1
     camion_n_en_comuna_c_dia_d[5,3,44]  R5[5,3,44]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,44]  R7[3,44]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,44]  R7[3,44]  -400
     camion_n_en_comuna_c_dia_d[5,3,44]  R9[3,44]  1
     camion_n_en_comuna_c_dia_d[5,3,45]  R2[5,45]  1
     camion_n_en_comuna_c_dia_d[5,3,45]  R5[5,3,45]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,45]  R7[3,45]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,45]  R7[3,45]  -400
     camion_n_en_comuna_c_dia_d[5,3,45]  R9[3,45]  1
     camion_n_en_comuna_c_dia_d[5,3,46]  R2[5,46]  1
     camion_n_en_comuna_c_dia_d[5,3,46]  R5[5,3,46]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,46]  R7[3,46]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,46]  R7[3,46]  -400
     camion_n_en_comuna_c_dia_d[5,3,46]  R9[3,46]  1
     camion_n_en_comuna_c_dia_d[5,3,47]  R2[5,47]  1
     camion_n_en_comuna_c_dia_d[5,3,47]  R5[5,3,47]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,47]  R7[3,47]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,47]  R7[3,47]  -400
     camion_n_en_comuna_c_dia_d[5,3,47]  R9[3,47]  1
     camion_n_en_comuna_c_dia_d[5,3,48]  R2[5,48]  1
     camion_n_en_comuna_c_dia_d[5,3,48]  R5[5,3,48]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,48]  R7[3,48]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,48]  R7[3,48]  -400
     camion_n_en_comuna_c_dia_d[5,3,48]  R9[3,48]  1
     camion_n_en_comuna_c_dia_d[5,3,49]  R2[5,49]  1
     camion_n_en_comuna_c_dia_d[5,3,49]  R5[5,3,49]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,49]  R7[3,49]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,49]  R7[3,49]  -400
     camion_n_en_comuna_c_dia_d[5,3,49]  R9[3,49]  1
     camion_n_en_comuna_c_dia_d[5,3,50]  R2[5,50]  1
     camion_n_en_comuna_c_dia_d[5,3,50]  R5[5,3,50]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,50]  R7[3,50]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,50]  R7[3,50]  -400
     camion_n_en_comuna_c_dia_d[5,3,50]  R9[3,50]  1
     camion_n_en_comuna_c_dia_d[5,3,51]  R2[5,51]  1
     camion_n_en_comuna_c_dia_d[5,3,51]  R5[5,3,51]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,51]  R7[3,51]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,51]  R7[3,51]  -400
     camion_n_en_comuna_c_dia_d[5,3,51]  R9[3,51]  1
     camion_n_en_comuna_c_dia_d[5,3,52]  R2[5,52]  1
     camion_n_en_comuna_c_dia_d[5,3,52]  R5[5,3,52]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,52]  R7[3,52]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,52]  R7[3,52]  -400
     camion_n_en_comuna_c_dia_d[5,3,52]  R9[3,52]  1
     camion_n_en_comuna_c_dia_d[5,3,53]  R2[5,53]  1
     camion_n_en_comuna_c_dia_d[5,3,53]  R5[5,3,53]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,53]  R7[3,53]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,53]  R7[3,53]  -400
     camion_n_en_comuna_c_dia_d[5,3,53]  R9[3,53]  1
     camion_n_en_comuna_c_dia_d[5,3,54]  R2[5,54]  1
     camion_n_en_comuna_c_dia_d[5,3,54]  R5[5,3,54]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,54]  R7[3,54]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,54]  R7[3,54]  -400
     camion_n_en_comuna_c_dia_d[5,3,54]  R9[3,54]  1
     camion_n_en_comuna_c_dia_d[5,3,55]  R2[5,55]  1
     camion_n_en_comuna_c_dia_d[5,3,55]  R5[5,3,55]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,55]  R7[3,55]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,55]  R7[3,55]  -400
     camion_n_en_comuna_c_dia_d[5,3,55]  R9[3,55]  1
     camion_n_en_comuna_c_dia_d[5,3,56]  R2[5,56]  1
     camion_n_en_comuna_c_dia_d[5,3,56]  R5[5,3,56]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,56]  R7[3,56]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,56]  R7[3,56]  -400
     camion_n_en_comuna_c_dia_d[5,3,56]  R9[3,56]  1
     camion_n_en_comuna_c_dia_d[5,3,57]  R2[5,57]  1
     camion_n_en_comuna_c_dia_d[5,3,57]  R5[5,3,57]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,57]  R7[3,57]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,57]  R7[3,57]  -400
     camion_n_en_comuna_c_dia_d[5,3,57]  R9[3,57]  1
     camion_n_en_comuna_c_dia_d[5,3,58]  R2[5,58]  1
     camion_n_en_comuna_c_dia_d[5,3,58]  R5[5,3,58]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,58]  R7[3,58]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,58]  R7[3,58]  -400
     camion_n_en_comuna_c_dia_d[5,3,58]  R9[3,58]  1
     camion_n_en_comuna_c_dia_d[5,3,59]  R2[5,59]  1
     camion_n_en_comuna_c_dia_d[5,3,59]  R5[5,3,59]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,59]  R7[3,59]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,59]  R7[3,59]  -400
     camion_n_en_comuna_c_dia_d[5,3,59]  R9[3,59]  1
     camion_n_en_comuna_c_dia_d[5,3,60]  R2[5,60]  1
     camion_n_en_comuna_c_dia_d[5,3,60]  R5[5,3,60]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,60]  R7[3,60]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,60]  R7[3,60]  -400
     camion_n_en_comuna_c_dia_d[5,3,60]  R9[3,60]  1
     camion_n_en_comuna_c_dia_d[5,3,61]  R2[5,61]  1
     camion_n_en_comuna_c_dia_d[5,3,61]  R5[5,3,61]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,61]  R7[3,61]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,61]  R7[3,61]  -400
     camion_n_en_comuna_c_dia_d[5,3,61]  R9[3,61]  1
     camion_n_en_comuna_c_dia_d[5,3,62]  R2[5,62]  1
     camion_n_en_comuna_c_dia_d[5,3,62]  R5[5,3,62]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,62]  R7[3,62]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,62]  R7[3,62]  -400
     camion_n_en_comuna_c_dia_d[5,3,62]  R9[3,62]  1
     camion_n_en_comuna_c_dia_d[5,3,63]  R2[5,63]  1
     camion_n_en_comuna_c_dia_d[5,3,63]  R5[5,3,63]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,63]  R7[3,63]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,63]  R7[3,63]  -400
     camion_n_en_comuna_c_dia_d[5,3,63]  R9[3,63]  1
     camion_n_en_comuna_c_dia_d[5,3,64]  R2[5,64]  1
     camion_n_en_comuna_c_dia_d[5,3,64]  R5[5,3,64]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,64]  R7[3,64]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,64]  R7[3,64]  -400
     camion_n_en_comuna_c_dia_d[5,3,64]  R9[3,64]  1
     camion_n_en_comuna_c_dia_d[5,3,65]  R2[5,65]  1
     camion_n_en_comuna_c_dia_d[5,3,65]  R5[5,3,65]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,65]  R7[3,65]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,65]  R7[3,65]  -400
     camion_n_en_comuna_c_dia_d[5,3,65]  R9[3,65]  1
     camion_n_en_comuna_c_dia_d[5,3,66]  R2[5,66]  1
     camion_n_en_comuna_c_dia_d[5,3,66]  R5[5,3,66]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,66]  R7[3,66]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,66]  R7[3,66]  -400
     camion_n_en_comuna_c_dia_d[5,3,66]  R9[3,66]  1
     camion_n_en_comuna_c_dia_d[5,3,67]  R2[5,67]  1
     camion_n_en_comuna_c_dia_d[5,3,67]  R5[5,3,67]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,67]  R7[3,67]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,67]  R7[3,67]  -400
     camion_n_en_comuna_c_dia_d[5,3,67]  R9[3,67]  1
     camion_n_en_comuna_c_dia_d[5,3,68]  R2[5,68]  1
     camion_n_en_comuna_c_dia_d[5,3,68]  R5[5,3,68]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,68]  R7[3,68]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,68]  R7[3,68]  -400
     camion_n_en_comuna_c_dia_d[5,3,68]  R9[3,68]  1
     camion_n_en_comuna_c_dia_d[5,3,69]  R2[5,69]  1
     camion_n_en_comuna_c_dia_d[5,3,69]  R5[5,3,69]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,69]  R7[3,69]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,69]  R7[3,69]  -400
     camion_n_en_comuna_c_dia_d[5,3,69]  R9[3,69]  1
     camion_n_en_comuna_c_dia_d[5,3,70]  R2[5,70]  1
     camion_n_en_comuna_c_dia_d[5,3,70]  R5[5,3,70]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,70]  R7[3,70]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,70]  R7[3,70]  -400
     camion_n_en_comuna_c_dia_d[5,3,70]  R9[3,70]  1
     camion_n_en_comuna_c_dia_d[5,3,71]  R2[5,71]  1
     camion_n_en_comuna_c_dia_d[5,3,71]  R5[5,3,71]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,71]  R7[3,71]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,71]  R7[3,71]  -400
     camion_n_en_comuna_c_dia_d[5,3,71]  R9[3,71]  1
     camion_n_en_comuna_c_dia_d[5,3,72]  R2[5,72]  1
     camion_n_en_comuna_c_dia_d[5,3,72]  R5[5,3,72]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,72]  R7[3,72]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,72]  R7[3,72]  -400
     camion_n_en_comuna_c_dia_d[5,3,72]  R9[3,72]  1
     camion_n_en_comuna_c_dia_d[5,3,73]  R2[5,73]  1
     camion_n_en_comuna_c_dia_d[5,3,73]  R5[5,3,73]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,73]  R7[3,73]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,73]  R7[3,73]  -400
     camion_n_en_comuna_c_dia_d[5,3,73]  R9[3,73]  1
     camion_n_en_comuna_c_dia_d[5,3,74]  R2[5,74]  1
     camion_n_en_comuna_c_dia_d[5,3,74]  R5[5,3,74]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,74]  R7[3,74]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,74]  R7[3,74]  -400
     camion_n_en_comuna_c_dia_d[5,3,74]  R9[3,74]  1
     camion_n_en_comuna_c_dia_d[5,3,75]  R2[5,75]  1
     camion_n_en_comuna_c_dia_d[5,3,75]  R5[5,3,75]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,75]  R7[3,75]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,75]  R7[3,75]  -400
     camion_n_en_comuna_c_dia_d[5,3,75]  R9[3,75]  1
     camion_n_en_comuna_c_dia_d[5,3,76]  R2[5,76]  1
     camion_n_en_comuna_c_dia_d[5,3,76]  R5[5,3,76]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,76]  R7[3,76]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,76]  R7[3,76]  -400
     camion_n_en_comuna_c_dia_d[5,3,76]  R9[3,76]  1
     camion_n_en_comuna_c_dia_d[5,3,77]  R2[5,77]  1
     camion_n_en_comuna_c_dia_d[5,3,77]  R5[5,3,77]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,77]  R7[3,77]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,77]  R7[3,77]  -400
     camion_n_en_comuna_c_dia_d[5,3,77]  R9[3,77]  1
     camion_n_en_comuna_c_dia_d[5,3,78]  R2[5,78]  1
     camion_n_en_comuna_c_dia_d[5,3,78]  R5[5,3,78]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,78]  R7[3,78]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,78]  R7[3,78]  -400
     camion_n_en_comuna_c_dia_d[5,3,78]  R9[3,78]  1
     camion_n_en_comuna_c_dia_d[5,3,79]  R2[5,79]  1
     camion_n_en_comuna_c_dia_d[5,3,79]  R5[5,3,79]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,79]  R7[3,79]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,79]  R7[3,79]  -400
     camion_n_en_comuna_c_dia_d[5,3,79]  R9[3,79]  1
     camion_n_en_comuna_c_dia_d[5,3,80]  R2[5,80]  1
     camion_n_en_comuna_c_dia_d[5,3,80]  R5[5,3,80]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,80]  R7[3,80]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,80]  R7[3,80]  -400
     camion_n_en_comuna_c_dia_d[5,3,80]  R9[3,80]  1
     camion_n_en_comuna_c_dia_d[5,3,81]  R2[5,81]  1
     camion_n_en_comuna_c_dia_d[5,3,81]  R5[5,3,81]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,81]  R7[3,81]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,81]  R7[3,81]  -400
     camion_n_en_comuna_c_dia_d[5,3,81]  R9[3,81]  1
     camion_n_en_comuna_c_dia_d[5,3,82]  R2[5,82]  1
     camion_n_en_comuna_c_dia_d[5,3,82]  R5[5,3,82]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,82]  R7[3,82]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,82]  R7[3,82]  -400
     camion_n_en_comuna_c_dia_d[5,3,82]  R9[3,82]  1
     camion_n_en_comuna_c_dia_d[5,3,83]  R2[5,83]  1
     camion_n_en_comuna_c_dia_d[5,3,83]  R5[5,3,83]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,83]  R7[3,83]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,83]  R7[3,83]  -400
     camion_n_en_comuna_c_dia_d[5,3,83]  R9[3,83]  1
     camion_n_en_comuna_c_dia_d[5,3,84]  R2[5,84]  1
     camion_n_en_comuna_c_dia_d[5,3,84]  R5[5,3,84]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,84]  R7[3,84]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,84]  R7[3,84]  -400
     camion_n_en_comuna_c_dia_d[5,3,84]  R9[3,84]  1
     camion_n_en_comuna_c_dia_d[5,3,85]  R2[5,85]  1
     camion_n_en_comuna_c_dia_d[5,3,85]  R5[5,3,85]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,85]  R7[3,85]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,85]  R7[3,85]  -400
     camion_n_en_comuna_c_dia_d[5,3,85]  R9[3,85]  1
     camion_n_en_comuna_c_dia_d[5,3,86]  R2[5,86]  1
     camion_n_en_comuna_c_dia_d[5,3,86]  R5[5,3,86]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,86]  R7[3,86]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,86]  R7[3,86]  -400
     camion_n_en_comuna_c_dia_d[5,3,86]  R9[3,86]  1
     camion_n_en_comuna_c_dia_d[5,3,87]  R2[5,87]  1
     camion_n_en_comuna_c_dia_d[5,3,87]  R5[5,3,87]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,87]  R7[3,87]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,87]  R7[3,87]  -400
     camion_n_en_comuna_c_dia_d[5,3,87]  R9[3,87]  1
     camion_n_en_comuna_c_dia_d[5,3,88]  R2[5,88]  1
     camion_n_en_comuna_c_dia_d[5,3,88]  R5[5,3,88]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,88]  R7[3,88]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,88]  R7[3,88]  -400
     camion_n_en_comuna_c_dia_d[5,3,88]  R9[3,88]  1
     camion_n_en_comuna_c_dia_d[5,3,89]  R2[5,89]  1
     camion_n_en_comuna_c_dia_d[5,3,89]  R5[5,3,89]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,89]  R7[3,89]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,89]  R7[3,89]  -400
     camion_n_en_comuna_c_dia_d[5,3,89]  R9[3,89]  1
     camion_n_en_comuna_c_dia_d[5,3,90]  R2[5,90]  1
     camion_n_en_comuna_c_dia_d[5,3,90]  R5[5,3,90]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,90]  R7[3,90]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,90]  R7[3,90]  -400
     camion_n_en_comuna_c_dia_d[5,3,90]  R9[3,90]  1
     camion_n_en_comuna_c_dia_d[5,3,91]  R2[5,91]  1
     camion_n_en_comuna_c_dia_d[5,3,91]  R5[5,3,91]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,91]  R7[3,91]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,91]  R7[3,91]  -400
     camion_n_en_comuna_c_dia_d[5,3,91]  R9[3,91]  1
     camion_n_en_comuna_c_dia_d[5,3,92]  R2[5,92]  1
     camion_n_en_comuna_c_dia_d[5,3,92]  R5[5,3,92]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,92]  R7[3,92]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,92]  R7[3,92]  -400
     camion_n_en_comuna_c_dia_d[5,3,92]  R9[3,92]  1
     camion_n_en_comuna_c_dia_d[5,3,93]  R2[5,93]  1
     camion_n_en_comuna_c_dia_d[5,3,93]  R5[5,3,93]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,93]  R7[3,93]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,93]  R7[3,93]  -400
     camion_n_en_comuna_c_dia_d[5,3,93]  R9[3,93]  1
     camion_n_en_comuna_c_dia_d[5,3,94]  R2[5,94]  1
     camion_n_en_comuna_c_dia_d[5,3,94]  R5[5,3,94]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,94]  R7[3,94]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,94]  R7[3,94]  -400
     camion_n_en_comuna_c_dia_d[5,3,94]  R9[3,94]  1
     camion_n_en_comuna_c_dia_d[5,3,95]  R2[5,95]  1
     camion_n_en_comuna_c_dia_d[5,3,95]  R5[5,3,95]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,95]  R7[3,95]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,95]  R7[3,95]  -400
     camion_n_en_comuna_c_dia_d[5,3,95]  R9[3,95]  1
     camion_n_en_comuna_c_dia_d[5,3,96]  R2[5,96]  1
     camion_n_en_comuna_c_dia_d[5,3,96]  R5[5,3,96]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,96]  R7[3,96]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,96]  R7[3,96]  -400
     camion_n_en_comuna_c_dia_d[5,3,96]  R9[3,96]  1
     camion_n_en_comuna_c_dia_d[5,3,97]  R2[5,97]  1
     camion_n_en_comuna_c_dia_d[5,3,97]  R5[5,3,97]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,97]  R7[3,97]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,97]  R7[3,97]  -400
     camion_n_en_comuna_c_dia_d[5,3,97]  R9[3,97]  1
     camion_n_en_comuna_c_dia_d[5,3,98]  R2[5,98]  1
     camion_n_en_comuna_c_dia_d[5,3,98]  R5[5,3,98]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,98]  R7[3,98]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,98]  R7[3,98]  -400
     camion_n_en_comuna_c_dia_d[5,3,98]  R9[3,98]  1
     camion_n_en_comuna_c_dia_d[5,3,99]  R2[5,99]  1
     camion_n_en_comuna_c_dia_d[5,3,99]  R5[5,3,99]  1000000000000
-    camion_n_en_comuna_c_dia_d[5,3,99]  R7[3,99]  -1000
+    camion_n_en_comuna_c_dia_d[5,3,99]  R7[3,99]  -400
     camion_n_en_comuna_c_dia_d[5,3,99]  R9[3,99]  1
     vacunas_camion_dia[0,0,0]  R1[0,0,0]  1
     vacunas_camion_dia[0,0,0]  R5[0,0,0]  -1
@@ -52213,2406 +52213,2406 @@ COLUMNS
     comuna_critica[3,99]  R12[3,99]  -1000000000000
     MARKER    'MARKER'                 'INTEND'
 RHS
-    RHS1      R1[0,0,0]  400
-    RHS1      R1[0,0,1]  400
-    RHS1      R1[0,0,2]  400
-    RHS1      R1[0,0,3]  400
-    RHS1      R1[0,0,4]  400
-    RHS1      R1[0,0,5]  400
-    RHS1      R1[0,0,6]  400
-    RHS1      R1[0,0,7]  400
-    RHS1      R1[0,0,8]  400
-    RHS1      R1[0,0,9]  400
-    RHS1      R1[0,0,10]  400
-    RHS1      R1[0,0,11]  400
-    RHS1      R1[0,0,12]  400
-    RHS1      R1[0,0,13]  400
-    RHS1      R1[0,0,14]  400
-    RHS1      R1[0,0,15]  400
-    RHS1      R1[0,0,16]  400
-    RHS1      R1[0,0,17]  400
-    RHS1      R1[0,0,18]  400
-    RHS1      R1[0,0,19]  400
-    RHS1      R1[0,0,20]  400
-    RHS1      R1[0,0,21]  400
-    RHS1      R1[0,0,22]  400
-    RHS1      R1[0,0,23]  400
-    RHS1      R1[0,0,24]  400
-    RHS1      R1[0,0,25]  400
-    RHS1      R1[0,0,26]  400
-    RHS1      R1[0,0,27]  400
-    RHS1      R1[0,0,28]  400
-    RHS1      R1[0,0,29]  400
-    RHS1      R1[0,0,30]  400
-    RHS1      R1[0,0,31]  400
-    RHS1      R1[0,0,32]  400
-    RHS1      R1[0,0,33]  400
-    RHS1      R1[0,0,34]  400
-    RHS1      R1[0,0,35]  400
-    RHS1      R1[0,0,36]  400
-    RHS1      R1[0,0,37]  400
-    RHS1      R1[0,0,38]  400
-    RHS1      R1[0,0,39]  400
-    RHS1      R1[0,0,40]  400
-    RHS1      R1[0,0,41]  400
-    RHS1      R1[0,0,42]  400
-    RHS1      R1[0,0,43]  400
-    RHS1      R1[0,0,44]  400
-    RHS1      R1[0,0,45]  400
-    RHS1      R1[0,0,46]  400
-    RHS1      R1[0,0,47]  400
-    RHS1      R1[0,0,48]  400
-    RHS1      R1[0,0,49]  400
-    RHS1      R1[0,0,50]  400
-    RHS1      R1[0,0,51]  400
-    RHS1      R1[0,0,52]  400
-    RHS1      R1[0,0,53]  400
-    RHS1      R1[0,0,54]  400
-    RHS1      R1[0,0,55]  400
-    RHS1      R1[0,0,56]  400
-    RHS1      R1[0,0,57]  400
-    RHS1      R1[0,0,58]  400
-    RHS1      R1[0,0,59]  400
-    RHS1      R1[0,0,60]  400
-    RHS1      R1[0,0,61]  400
-    RHS1      R1[0,0,62]  400
-    RHS1      R1[0,0,63]  400
-    RHS1      R1[0,0,64]  400
-    RHS1      R1[0,0,65]  400
-    RHS1      R1[0,0,66]  400
-    RHS1      R1[0,0,67]  400
-    RHS1      R1[0,0,68]  400
-    RHS1      R1[0,0,69]  400
-    RHS1      R1[0,0,70]  400
-    RHS1      R1[0,0,71]  400
-    RHS1      R1[0,0,72]  400
-    RHS1      R1[0,0,73]  400
-    RHS1      R1[0,0,74]  400
-    RHS1      R1[0,0,75]  400
-    RHS1      R1[0,0,76]  400
-    RHS1      R1[0,0,77]  400
-    RHS1      R1[0,0,78]  400
-    RHS1      R1[0,0,79]  400
-    RHS1      R1[0,0,80]  400
-    RHS1      R1[0,0,81]  400
-    RHS1      R1[0,0,82]  400
-    RHS1      R1[0,0,83]  400
-    RHS1      R1[0,0,84]  400
-    RHS1      R1[0,0,85]  400
-    RHS1      R1[0,0,86]  400
-    RHS1      R1[0,0,87]  400
-    RHS1      R1[0,0,88]  400
-    RHS1      R1[0,0,89]  400
-    RHS1      R1[0,0,90]  400
-    RHS1      R1[0,0,91]  400
-    RHS1      R1[0,0,92]  400
-    RHS1      R1[0,0,93]  400
-    RHS1      R1[0,0,94]  400
-    RHS1      R1[0,0,95]  400
-    RHS1      R1[0,0,96]  400
-    RHS1      R1[0,0,97]  400
-    RHS1      R1[0,0,98]  400
-    RHS1      R1[0,0,99]  400
-    RHS1      R1[0,1,0]  400
-    RHS1      R1[0,1,1]  400
-    RHS1      R1[0,1,2]  400
-    RHS1      R1[0,1,3]  400
-    RHS1      R1[0,1,4]  400
-    RHS1      R1[0,1,5]  400
-    RHS1      R1[0,1,6]  400
-    RHS1      R1[0,1,7]  400
-    RHS1      R1[0,1,8]  400
-    RHS1      R1[0,1,9]  400
-    RHS1      R1[0,1,10]  400
-    RHS1      R1[0,1,11]  400
-    RHS1      R1[0,1,12]  400
-    RHS1      R1[0,1,13]  400
-    RHS1      R1[0,1,14]  400
-    RHS1      R1[0,1,15]  400
-    RHS1      R1[0,1,16]  400
-    RHS1      R1[0,1,17]  400
-    RHS1      R1[0,1,18]  400
-    RHS1      R1[0,1,19]  400
-    RHS1      R1[0,1,20]  400
-    RHS1      R1[0,1,21]  400
-    RHS1      R1[0,1,22]  400
-    RHS1      R1[0,1,23]  400
-    RHS1      R1[0,1,24]  400
-    RHS1      R1[0,1,25]  400
-    RHS1      R1[0,1,26]  400
-    RHS1      R1[0,1,27]  400
-    RHS1      R1[0,1,28]  400
-    RHS1      R1[0,1,29]  400
-    RHS1      R1[0,1,30]  400
-    RHS1      R1[0,1,31]  400
-    RHS1      R1[0,1,32]  400
-    RHS1      R1[0,1,33]  400
-    RHS1      R1[0,1,34]  400
-    RHS1      R1[0,1,35]  400
-    RHS1      R1[0,1,36]  400
-    RHS1      R1[0,1,37]  400
-    RHS1      R1[0,1,38]  400
-    RHS1      R1[0,1,39]  400
-    RHS1      R1[0,1,40]  400
-    RHS1      R1[0,1,41]  400
-    RHS1      R1[0,1,42]  400
-    RHS1      R1[0,1,43]  400
-    RHS1      R1[0,1,44]  400
-    RHS1      R1[0,1,45]  400
-    RHS1      R1[0,1,46]  400
-    RHS1      R1[0,1,47]  400
-    RHS1      R1[0,1,48]  400
-    RHS1      R1[0,1,49]  400
-    RHS1      R1[0,1,50]  400
-    RHS1      R1[0,1,51]  400
-    RHS1      R1[0,1,52]  400
-    RHS1      R1[0,1,53]  400
-    RHS1      R1[0,1,54]  400
-    RHS1      R1[0,1,55]  400
-    RHS1      R1[0,1,56]  400
-    RHS1      R1[0,1,57]  400
-    RHS1      R1[0,1,58]  400
-    RHS1      R1[0,1,59]  400
-    RHS1      R1[0,1,60]  400
-    RHS1      R1[0,1,61]  400
-    RHS1      R1[0,1,62]  400
-    RHS1      R1[0,1,63]  400
-    RHS1      R1[0,1,64]  400
-    RHS1      R1[0,1,65]  400
-    RHS1      R1[0,1,66]  400
-    RHS1      R1[0,1,67]  400
-    RHS1      R1[0,1,68]  400
-    RHS1      R1[0,1,69]  400
-    RHS1      R1[0,1,70]  400
-    RHS1      R1[0,1,71]  400
-    RHS1      R1[0,1,72]  400
-    RHS1      R1[0,1,73]  400
-    RHS1      R1[0,1,74]  400
-    RHS1      R1[0,1,75]  400
-    RHS1      R1[0,1,76]  400
-    RHS1      R1[0,1,77]  400
-    RHS1      R1[0,1,78]  400
-    RHS1      R1[0,1,79]  400
-    RHS1      R1[0,1,80]  400
-    RHS1      R1[0,1,81]  400
-    RHS1      R1[0,1,82]  400
-    RHS1      R1[0,1,83]  400
-    RHS1      R1[0,1,84]  400
-    RHS1      R1[0,1,85]  400
-    RHS1      R1[0,1,86]  400
-    RHS1      R1[0,1,87]  400
-    RHS1      R1[0,1,88]  400
-    RHS1      R1[0,1,89]  400
-    RHS1      R1[0,1,90]  400
-    RHS1      R1[0,1,91]  400
-    RHS1      R1[0,1,92]  400
-    RHS1      R1[0,1,93]  400
-    RHS1      R1[0,1,94]  400
-    RHS1      R1[0,1,95]  400
-    RHS1      R1[0,1,96]  400
-    RHS1      R1[0,1,97]  400
-    RHS1      R1[0,1,98]  400
-    RHS1      R1[0,1,99]  400
-    RHS1      R1[0,2,0]  400
-    RHS1      R1[0,2,1]  400
-    RHS1      R1[0,2,2]  400
-    RHS1      R1[0,2,3]  400
-    RHS1      R1[0,2,4]  400
-    RHS1      R1[0,2,5]  400
-    RHS1      R1[0,2,6]  400
-    RHS1      R1[0,2,7]  400
-    RHS1      R1[0,2,8]  400
-    RHS1      R1[0,2,9]  400
-    RHS1      R1[0,2,10]  400
-    RHS1      R1[0,2,11]  400
-    RHS1      R1[0,2,12]  400
-    RHS1      R1[0,2,13]  400
-    RHS1      R1[0,2,14]  400
-    RHS1      R1[0,2,15]  400
-    RHS1      R1[0,2,16]  400
-    RHS1      R1[0,2,17]  400
-    RHS1      R1[0,2,18]  400
-    RHS1      R1[0,2,19]  400
-    RHS1      R1[0,2,20]  400
-    RHS1      R1[0,2,21]  400
-    RHS1      R1[0,2,22]  400
-    RHS1      R1[0,2,23]  400
-    RHS1      R1[0,2,24]  400
-    RHS1      R1[0,2,25]  400
-    RHS1      R1[0,2,26]  400
-    RHS1      R1[0,2,27]  400
-    RHS1      R1[0,2,28]  400
-    RHS1      R1[0,2,29]  400
-    RHS1      R1[0,2,30]  400
-    RHS1      R1[0,2,31]  400
-    RHS1      R1[0,2,32]  400
-    RHS1      R1[0,2,33]  400
-    RHS1      R1[0,2,34]  400
-    RHS1      R1[0,2,35]  400
-    RHS1      R1[0,2,36]  400
-    RHS1      R1[0,2,37]  400
-    RHS1      R1[0,2,38]  400
-    RHS1      R1[0,2,39]  400
-    RHS1      R1[0,2,40]  400
-    RHS1      R1[0,2,41]  400
-    RHS1      R1[0,2,42]  400
-    RHS1      R1[0,2,43]  400
-    RHS1      R1[0,2,44]  400
-    RHS1      R1[0,2,45]  400
-    RHS1      R1[0,2,46]  400
-    RHS1      R1[0,2,47]  400
-    RHS1      R1[0,2,48]  400
-    RHS1      R1[0,2,49]  400
-    RHS1      R1[0,2,50]  400
-    RHS1      R1[0,2,51]  400
-    RHS1      R1[0,2,52]  400
-    RHS1      R1[0,2,53]  400
-    RHS1      R1[0,2,54]  400
-    RHS1      R1[0,2,55]  400
-    RHS1      R1[0,2,56]  400
-    RHS1      R1[0,2,57]  400
-    RHS1      R1[0,2,58]  400
-    RHS1      R1[0,2,59]  400
-    RHS1      R1[0,2,60]  400
-    RHS1      R1[0,2,61]  400
-    RHS1      R1[0,2,62]  400
-    RHS1      R1[0,2,63]  400
-    RHS1      R1[0,2,64]  400
-    RHS1      R1[0,2,65]  400
-    RHS1      R1[0,2,66]  400
-    RHS1      R1[0,2,67]  400
-    RHS1      R1[0,2,68]  400
-    RHS1      R1[0,2,69]  400
-    RHS1      R1[0,2,70]  400
-    RHS1      R1[0,2,71]  400
-    RHS1      R1[0,2,72]  400
-    RHS1      R1[0,2,73]  400
-    RHS1      R1[0,2,74]  400
-    RHS1      R1[0,2,75]  400
-    RHS1      R1[0,2,76]  400
-    RHS1      R1[0,2,77]  400
-    RHS1      R1[0,2,78]  400
-    RHS1      R1[0,2,79]  400
-    RHS1      R1[0,2,80]  400
-    RHS1      R1[0,2,81]  400
-    RHS1      R1[0,2,82]  400
-    RHS1      R1[0,2,83]  400
-    RHS1      R1[0,2,84]  400
-    RHS1      R1[0,2,85]  400
-    RHS1      R1[0,2,86]  400
-    RHS1      R1[0,2,87]  400
-    RHS1      R1[0,2,88]  400
-    RHS1      R1[0,2,89]  400
-    RHS1      R1[0,2,90]  400
-    RHS1      R1[0,2,91]  400
-    RHS1      R1[0,2,92]  400
-    RHS1      R1[0,2,93]  400
-    RHS1      R1[0,2,94]  400
-    RHS1      R1[0,2,95]  400
-    RHS1      R1[0,2,96]  400
-    RHS1      R1[0,2,97]  400
-    RHS1      R1[0,2,98]  400
-    RHS1      R1[0,2,99]  400
-    RHS1      R1[0,3,0]  400
-    RHS1      R1[0,3,1]  400
-    RHS1      R1[0,3,2]  400
-    RHS1      R1[0,3,3]  400
-    RHS1      R1[0,3,4]  400
-    RHS1      R1[0,3,5]  400
-    RHS1      R1[0,3,6]  400
-    RHS1      R1[0,3,7]  400
-    RHS1      R1[0,3,8]  400
-    RHS1      R1[0,3,9]  400
-    RHS1      R1[0,3,10]  400
-    RHS1      R1[0,3,11]  400
-    RHS1      R1[0,3,12]  400
-    RHS1      R1[0,3,13]  400
-    RHS1      R1[0,3,14]  400
-    RHS1      R1[0,3,15]  400
-    RHS1      R1[0,3,16]  400
-    RHS1      R1[0,3,17]  400
-    RHS1      R1[0,3,18]  400
-    RHS1      R1[0,3,19]  400
-    RHS1      R1[0,3,20]  400
-    RHS1      R1[0,3,21]  400
-    RHS1      R1[0,3,22]  400
-    RHS1      R1[0,3,23]  400
-    RHS1      R1[0,3,24]  400
-    RHS1      R1[0,3,25]  400
-    RHS1      R1[0,3,26]  400
-    RHS1      R1[0,3,27]  400
-    RHS1      R1[0,3,28]  400
-    RHS1      R1[0,3,29]  400
-    RHS1      R1[0,3,30]  400
-    RHS1      R1[0,3,31]  400
-    RHS1      R1[0,3,32]  400
-    RHS1      R1[0,3,33]  400
-    RHS1      R1[0,3,34]  400
-    RHS1      R1[0,3,35]  400
-    RHS1      R1[0,3,36]  400
-    RHS1      R1[0,3,37]  400
-    RHS1      R1[0,3,38]  400
-    RHS1      R1[0,3,39]  400
-    RHS1      R1[0,3,40]  400
-    RHS1      R1[0,3,41]  400
-    RHS1      R1[0,3,42]  400
-    RHS1      R1[0,3,43]  400
-    RHS1      R1[0,3,44]  400
-    RHS1      R1[0,3,45]  400
-    RHS1      R1[0,3,46]  400
-    RHS1      R1[0,3,47]  400
-    RHS1      R1[0,3,48]  400
-    RHS1      R1[0,3,49]  400
-    RHS1      R1[0,3,50]  400
-    RHS1      R1[0,3,51]  400
-    RHS1      R1[0,3,52]  400
-    RHS1      R1[0,3,53]  400
-    RHS1      R1[0,3,54]  400
-    RHS1      R1[0,3,55]  400
-    RHS1      R1[0,3,56]  400
-    RHS1      R1[0,3,57]  400
-    RHS1      R1[0,3,58]  400
-    RHS1      R1[0,3,59]  400
-    RHS1      R1[0,3,60]  400
-    RHS1      R1[0,3,61]  400
-    RHS1      R1[0,3,62]  400
-    RHS1      R1[0,3,63]  400
-    RHS1      R1[0,3,64]  400
-    RHS1      R1[0,3,65]  400
-    RHS1      R1[0,3,66]  400
-    RHS1      R1[0,3,67]  400
-    RHS1      R1[0,3,68]  400
-    RHS1      R1[0,3,69]  400
-    RHS1      R1[0,3,70]  400
-    RHS1      R1[0,3,71]  400
-    RHS1      R1[0,3,72]  400
-    RHS1      R1[0,3,73]  400
-    RHS1      R1[0,3,74]  400
-    RHS1      R1[0,3,75]  400
-    RHS1      R1[0,3,76]  400
-    RHS1      R1[0,3,77]  400
-    RHS1      R1[0,3,78]  400
-    RHS1      R1[0,3,79]  400
-    RHS1      R1[0,3,80]  400
-    RHS1      R1[0,3,81]  400
-    RHS1      R1[0,3,82]  400
-    RHS1      R1[0,3,83]  400
-    RHS1      R1[0,3,84]  400
-    RHS1      R1[0,3,85]  400
-    RHS1      R1[0,3,86]  400
-    RHS1      R1[0,3,87]  400
-    RHS1      R1[0,3,88]  400
-    RHS1      R1[0,3,89]  400
-    RHS1      R1[0,3,90]  400
-    RHS1      R1[0,3,91]  400
-    RHS1      R1[0,3,92]  400
-    RHS1      R1[0,3,93]  400
-    RHS1      R1[0,3,94]  400
-    RHS1      R1[0,3,95]  400
-    RHS1      R1[0,3,96]  400
-    RHS1      R1[0,3,97]  400
-    RHS1      R1[0,3,98]  400
-    RHS1      R1[0,3,99]  400
-    RHS1      R1[1,0,0]  400
-    RHS1      R1[1,0,1]  400
-    RHS1      R1[1,0,2]  400
-    RHS1      R1[1,0,3]  400
-    RHS1      R1[1,0,4]  400
-    RHS1      R1[1,0,5]  400
-    RHS1      R1[1,0,6]  400
-    RHS1      R1[1,0,7]  400
-    RHS1      R1[1,0,8]  400
-    RHS1      R1[1,0,9]  400
-    RHS1      R1[1,0,10]  400
-    RHS1      R1[1,0,11]  400
-    RHS1      R1[1,0,12]  400
-    RHS1      R1[1,0,13]  400
-    RHS1      R1[1,0,14]  400
-    RHS1      R1[1,0,15]  400
-    RHS1      R1[1,0,16]  400
-    RHS1      R1[1,0,17]  400
-    RHS1      R1[1,0,18]  400
-    RHS1      R1[1,0,19]  400
-    RHS1      R1[1,0,20]  400
-    RHS1      R1[1,0,21]  400
-    RHS1      R1[1,0,22]  400
-    RHS1      R1[1,0,23]  400
-    RHS1      R1[1,0,24]  400
-    RHS1      R1[1,0,25]  400
-    RHS1      R1[1,0,26]  400
-    RHS1      R1[1,0,27]  400
-    RHS1      R1[1,0,28]  400
-    RHS1      R1[1,0,29]  400
-    RHS1      R1[1,0,30]  400
-    RHS1      R1[1,0,31]  400
-    RHS1      R1[1,0,32]  400
-    RHS1      R1[1,0,33]  400
-    RHS1      R1[1,0,34]  400
-    RHS1      R1[1,0,35]  400
-    RHS1      R1[1,0,36]  400
-    RHS1      R1[1,0,37]  400
-    RHS1      R1[1,0,38]  400
-    RHS1      R1[1,0,39]  400
-    RHS1      R1[1,0,40]  400
-    RHS1      R1[1,0,41]  400
-    RHS1      R1[1,0,42]  400
-    RHS1      R1[1,0,43]  400
-    RHS1      R1[1,0,44]  400
-    RHS1      R1[1,0,45]  400
-    RHS1      R1[1,0,46]  400
-    RHS1      R1[1,0,47]  400
-    RHS1      R1[1,0,48]  400
-    RHS1      R1[1,0,49]  400
-    RHS1      R1[1,0,50]  400
-    RHS1      R1[1,0,51]  400
-    RHS1      R1[1,0,52]  400
-    RHS1      R1[1,0,53]  400
-    RHS1      R1[1,0,54]  400
-    RHS1      R1[1,0,55]  400
-    RHS1      R1[1,0,56]  400
-    RHS1      R1[1,0,57]  400
-    RHS1      R1[1,0,58]  400
-    RHS1      R1[1,0,59]  400
-    RHS1      R1[1,0,60]  400
-    RHS1      R1[1,0,61]  400
-    RHS1      R1[1,0,62]  400
-    RHS1      R1[1,0,63]  400
-    RHS1      R1[1,0,64]  400
-    RHS1      R1[1,0,65]  400
-    RHS1      R1[1,0,66]  400
-    RHS1      R1[1,0,67]  400
-    RHS1      R1[1,0,68]  400
-    RHS1      R1[1,0,69]  400
-    RHS1      R1[1,0,70]  400
-    RHS1      R1[1,0,71]  400
-    RHS1      R1[1,0,72]  400
-    RHS1      R1[1,0,73]  400
-    RHS1      R1[1,0,74]  400
-    RHS1      R1[1,0,75]  400
-    RHS1      R1[1,0,76]  400
-    RHS1      R1[1,0,77]  400
-    RHS1      R1[1,0,78]  400
-    RHS1      R1[1,0,79]  400
-    RHS1      R1[1,0,80]  400
-    RHS1      R1[1,0,81]  400
-    RHS1      R1[1,0,82]  400
-    RHS1      R1[1,0,83]  400
-    RHS1      R1[1,0,84]  400
-    RHS1      R1[1,0,85]  400
-    RHS1      R1[1,0,86]  400
-    RHS1      R1[1,0,87]  400
-    RHS1      R1[1,0,88]  400
-    RHS1      R1[1,0,89]  400
-    RHS1      R1[1,0,90]  400
-    RHS1      R1[1,0,91]  400
-    RHS1      R1[1,0,92]  400
-    RHS1      R1[1,0,93]  400
-    RHS1      R1[1,0,94]  400
-    RHS1      R1[1,0,95]  400
-    RHS1      R1[1,0,96]  400
-    RHS1      R1[1,0,97]  400
-    RHS1      R1[1,0,98]  400
-    RHS1      R1[1,0,99]  400
-    RHS1      R1[1,1,0]  400
-    RHS1      R1[1,1,1]  400
-    RHS1      R1[1,1,2]  400
-    RHS1      R1[1,1,3]  400
-    RHS1      R1[1,1,4]  400
-    RHS1      R1[1,1,5]  400
-    RHS1      R1[1,1,6]  400
-    RHS1      R1[1,1,7]  400
-    RHS1      R1[1,1,8]  400
-    RHS1      R1[1,1,9]  400
-    RHS1      R1[1,1,10]  400
-    RHS1      R1[1,1,11]  400
-    RHS1      R1[1,1,12]  400
-    RHS1      R1[1,1,13]  400
-    RHS1      R1[1,1,14]  400
-    RHS1      R1[1,1,15]  400
-    RHS1      R1[1,1,16]  400
-    RHS1      R1[1,1,17]  400
-    RHS1      R1[1,1,18]  400
-    RHS1      R1[1,1,19]  400
-    RHS1      R1[1,1,20]  400
-    RHS1      R1[1,1,21]  400
-    RHS1      R1[1,1,22]  400
-    RHS1      R1[1,1,23]  400
-    RHS1      R1[1,1,24]  400
-    RHS1      R1[1,1,25]  400
-    RHS1      R1[1,1,26]  400
-    RHS1      R1[1,1,27]  400
-    RHS1      R1[1,1,28]  400
-    RHS1      R1[1,1,29]  400
-    RHS1      R1[1,1,30]  400
-    RHS1      R1[1,1,31]  400
-    RHS1      R1[1,1,32]  400
-    RHS1      R1[1,1,33]  400
-    RHS1      R1[1,1,34]  400
-    RHS1      R1[1,1,35]  400
-    RHS1      R1[1,1,36]  400
-    RHS1      R1[1,1,37]  400
-    RHS1      R1[1,1,38]  400
-    RHS1      R1[1,1,39]  400
-    RHS1      R1[1,1,40]  400
-    RHS1      R1[1,1,41]  400
-    RHS1      R1[1,1,42]  400
-    RHS1      R1[1,1,43]  400
-    RHS1      R1[1,1,44]  400
-    RHS1      R1[1,1,45]  400
-    RHS1      R1[1,1,46]  400
-    RHS1      R1[1,1,47]  400
-    RHS1      R1[1,1,48]  400
-    RHS1      R1[1,1,49]  400
-    RHS1      R1[1,1,50]  400
-    RHS1      R1[1,1,51]  400
-    RHS1      R1[1,1,52]  400
-    RHS1      R1[1,1,53]  400
-    RHS1      R1[1,1,54]  400
-    RHS1      R1[1,1,55]  400
-    RHS1      R1[1,1,56]  400
-    RHS1      R1[1,1,57]  400
-    RHS1      R1[1,1,58]  400
-    RHS1      R1[1,1,59]  400
-    RHS1      R1[1,1,60]  400
-    RHS1      R1[1,1,61]  400
-    RHS1      R1[1,1,62]  400
-    RHS1      R1[1,1,63]  400
-    RHS1      R1[1,1,64]  400
-    RHS1      R1[1,1,65]  400
-    RHS1      R1[1,1,66]  400
-    RHS1      R1[1,1,67]  400
-    RHS1      R1[1,1,68]  400
-    RHS1      R1[1,1,69]  400
-    RHS1      R1[1,1,70]  400
-    RHS1      R1[1,1,71]  400
-    RHS1      R1[1,1,72]  400
-    RHS1      R1[1,1,73]  400
-    RHS1      R1[1,1,74]  400
-    RHS1      R1[1,1,75]  400
-    RHS1      R1[1,1,76]  400
-    RHS1      R1[1,1,77]  400
-    RHS1      R1[1,1,78]  400
-    RHS1      R1[1,1,79]  400
-    RHS1      R1[1,1,80]  400
-    RHS1      R1[1,1,81]  400
-    RHS1      R1[1,1,82]  400
-    RHS1      R1[1,1,83]  400
-    RHS1      R1[1,1,84]  400
-    RHS1      R1[1,1,85]  400
-    RHS1      R1[1,1,86]  400
-    RHS1      R1[1,1,87]  400
-    RHS1      R1[1,1,88]  400
-    RHS1      R1[1,1,89]  400
-    RHS1      R1[1,1,90]  400
-    RHS1      R1[1,1,91]  400
-    RHS1      R1[1,1,92]  400
-    RHS1      R1[1,1,93]  400
-    RHS1      R1[1,1,94]  400
-    RHS1      R1[1,1,95]  400
-    RHS1      R1[1,1,96]  400
-    RHS1      R1[1,1,97]  400
-    RHS1      R1[1,1,98]  400
-    RHS1      R1[1,1,99]  400
-    RHS1      R1[1,2,0]  400
-    RHS1      R1[1,2,1]  400
-    RHS1      R1[1,2,2]  400
-    RHS1      R1[1,2,3]  400
-    RHS1      R1[1,2,4]  400
-    RHS1      R1[1,2,5]  400
-    RHS1      R1[1,2,6]  400
-    RHS1      R1[1,2,7]  400
-    RHS1      R1[1,2,8]  400
-    RHS1      R1[1,2,9]  400
-    RHS1      R1[1,2,10]  400
-    RHS1      R1[1,2,11]  400
-    RHS1      R1[1,2,12]  400
-    RHS1      R1[1,2,13]  400
-    RHS1      R1[1,2,14]  400
-    RHS1      R1[1,2,15]  400
-    RHS1      R1[1,2,16]  400
-    RHS1      R1[1,2,17]  400
-    RHS1      R1[1,2,18]  400
-    RHS1      R1[1,2,19]  400
-    RHS1      R1[1,2,20]  400
-    RHS1      R1[1,2,21]  400
-    RHS1      R1[1,2,22]  400
-    RHS1      R1[1,2,23]  400
-    RHS1      R1[1,2,24]  400
-    RHS1      R1[1,2,25]  400
-    RHS1      R1[1,2,26]  400
-    RHS1      R1[1,2,27]  400
-    RHS1      R1[1,2,28]  400
-    RHS1      R1[1,2,29]  400
-    RHS1      R1[1,2,30]  400
-    RHS1      R1[1,2,31]  400
-    RHS1      R1[1,2,32]  400
-    RHS1      R1[1,2,33]  400
-    RHS1      R1[1,2,34]  400
-    RHS1      R1[1,2,35]  400
-    RHS1      R1[1,2,36]  400
-    RHS1      R1[1,2,37]  400
-    RHS1      R1[1,2,38]  400
-    RHS1      R1[1,2,39]  400
-    RHS1      R1[1,2,40]  400
-    RHS1      R1[1,2,41]  400
-    RHS1      R1[1,2,42]  400
-    RHS1      R1[1,2,43]  400
-    RHS1      R1[1,2,44]  400
-    RHS1      R1[1,2,45]  400
-    RHS1      R1[1,2,46]  400
-    RHS1      R1[1,2,47]  400
-    RHS1      R1[1,2,48]  400
-    RHS1      R1[1,2,49]  400
-    RHS1      R1[1,2,50]  400
-    RHS1      R1[1,2,51]  400
-    RHS1      R1[1,2,52]  400
-    RHS1      R1[1,2,53]  400
-    RHS1      R1[1,2,54]  400
-    RHS1      R1[1,2,55]  400
-    RHS1      R1[1,2,56]  400
-    RHS1      R1[1,2,57]  400
-    RHS1      R1[1,2,58]  400
-    RHS1      R1[1,2,59]  400
-    RHS1      R1[1,2,60]  400
-    RHS1      R1[1,2,61]  400
-    RHS1      R1[1,2,62]  400
-    RHS1      R1[1,2,63]  400
-    RHS1      R1[1,2,64]  400
-    RHS1      R1[1,2,65]  400
-    RHS1      R1[1,2,66]  400
-    RHS1      R1[1,2,67]  400
-    RHS1      R1[1,2,68]  400
-    RHS1      R1[1,2,69]  400
-    RHS1      R1[1,2,70]  400
-    RHS1      R1[1,2,71]  400
-    RHS1      R1[1,2,72]  400
-    RHS1      R1[1,2,73]  400
-    RHS1      R1[1,2,74]  400
-    RHS1      R1[1,2,75]  400
-    RHS1      R1[1,2,76]  400
-    RHS1      R1[1,2,77]  400
-    RHS1      R1[1,2,78]  400
-    RHS1      R1[1,2,79]  400
-    RHS1      R1[1,2,80]  400
-    RHS1      R1[1,2,81]  400
-    RHS1      R1[1,2,82]  400
-    RHS1      R1[1,2,83]  400
-    RHS1      R1[1,2,84]  400
-    RHS1      R1[1,2,85]  400
-    RHS1      R1[1,2,86]  400
-    RHS1      R1[1,2,87]  400
-    RHS1      R1[1,2,88]  400
-    RHS1      R1[1,2,89]  400
-    RHS1      R1[1,2,90]  400
-    RHS1      R1[1,2,91]  400
-    RHS1      R1[1,2,92]  400
-    RHS1      R1[1,2,93]  400
-    RHS1      R1[1,2,94]  400
-    RHS1      R1[1,2,95]  400
-    RHS1      R1[1,2,96]  400
-    RHS1      R1[1,2,97]  400
-    RHS1      R1[1,2,98]  400
-    RHS1      R1[1,2,99]  400
-    RHS1      R1[1,3,0]  400
-    RHS1      R1[1,3,1]  400
-    RHS1      R1[1,3,2]  400
-    RHS1      R1[1,3,3]  400
-    RHS1      R1[1,3,4]  400
-    RHS1      R1[1,3,5]  400
-    RHS1      R1[1,3,6]  400
-    RHS1      R1[1,3,7]  400
-    RHS1      R1[1,3,8]  400
-    RHS1      R1[1,3,9]  400
-    RHS1      R1[1,3,10]  400
-    RHS1      R1[1,3,11]  400
-    RHS1      R1[1,3,12]  400
-    RHS1      R1[1,3,13]  400
-    RHS1      R1[1,3,14]  400
-    RHS1      R1[1,3,15]  400
-    RHS1      R1[1,3,16]  400
-    RHS1      R1[1,3,17]  400
-    RHS1      R1[1,3,18]  400
-    RHS1      R1[1,3,19]  400
-    RHS1      R1[1,3,20]  400
-    RHS1      R1[1,3,21]  400
-    RHS1      R1[1,3,22]  400
-    RHS1      R1[1,3,23]  400
-    RHS1      R1[1,3,24]  400
-    RHS1      R1[1,3,25]  400
-    RHS1      R1[1,3,26]  400
-    RHS1      R1[1,3,27]  400
-    RHS1      R1[1,3,28]  400
-    RHS1      R1[1,3,29]  400
-    RHS1      R1[1,3,30]  400
-    RHS1      R1[1,3,31]  400
-    RHS1      R1[1,3,32]  400
-    RHS1      R1[1,3,33]  400
-    RHS1      R1[1,3,34]  400
-    RHS1      R1[1,3,35]  400
-    RHS1      R1[1,3,36]  400
-    RHS1      R1[1,3,37]  400
-    RHS1      R1[1,3,38]  400
-    RHS1      R1[1,3,39]  400
-    RHS1      R1[1,3,40]  400
-    RHS1      R1[1,3,41]  400
-    RHS1      R1[1,3,42]  400
-    RHS1      R1[1,3,43]  400
-    RHS1      R1[1,3,44]  400
-    RHS1      R1[1,3,45]  400
-    RHS1      R1[1,3,46]  400
-    RHS1      R1[1,3,47]  400
-    RHS1      R1[1,3,48]  400
-    RHS1      R1[1,3,49]  400
-    RHS1      R1[1,3,50]  400
-    RHS1      R1[1,3,51]  400
-    RHS1      R1[1,3,52]  400
-    RHS1      R1[1,3,53]  400
-    RHS1      R1[1,3,54]  400
-    RHS1      R1[1,3,55]  400
-    RHS1      R1[1,3,56]  400
-    RHS1      R1[1,3,57]  400
-    RHS1      R1[1,3,58]  400
-    RHS1      R1[1,3,59]  400
-    RHS1      R1[1,3,60]  400
-    RHS1      R1[1,3,61]  400
-    RHS1      R1[1,3,62]  400
-    RHS1      R1[1,3,63]  400
-    RHS1      R1[1,3,64]  400
-    RHS1      R1[1,3,65]  400
-    RHS1      R1[1,3,66]  400
-    RHS1      R1[1,3,67]  400
-    RHS1      R1[1,3,68]  400
-    RHS1      R1[1,3,69]  400
-    RHS1      R1[1,3,70]  400
-    RHS1      R1[1,3,71]  400
-    RHS1      R1[1,3,72]  400
-    RHS1      R1[1,3,73]  400
-    RHS1      R1[1,3,74]  400
-    RHS1      R1[1,3,75]  400
-    RHS1      R1[1,3,76]  400
-    RHS1      R1[1,3,77]  400
-    RHS1      R1[1,3,78]  400
-    RHS1      R1[1,3,79]  400
-    RHS1      R1[1,3,80]  400
-    RHS1      R1[1,3,81]  400
-    RHS1      R1[1,3,82]  400
-    RHS1      R1[1,3,83]  400
-    RHS1      R1[1,3,84]  400
-    RHS1      R1[1,3,85]  400
-    RHS1      R1[1,3,86]  400
-    RHS1      R1[1,3,87]  400
-    RHS1      R1[1,3,88]  400
-    RHS1      R1[1,3,89]  400
-    RHS1      R1[1,3,90]  400
-    RHS1      R1[1,3,91]  400
-    RHS1      R1[1,3,92]  400
-    RHS1      R1[1,3,93]  400
-    RHS1      R1[1,3,94]  400
-    RHS1      R1[1,3,95]  400
-    RHS1      R1[1,3,96]  400
-    RHS1      R1[1,3,97]  400
-    RHS1      R1[1,3,98]  400
-    RHS1      R1[1,3,99]  400
-    RHS1      R1[2,0,0]  400
-    RHS1      R1[2,0,1]  400
-    RHS1      R1[2,0,2]  400
-    RHS1      R1[2,0,3]  400
-    RHS1      R1[2,0,4]  400
-    RHS1      R1[2,0,5]  400
-    RHS1      R1[2,0,6]  400
-    RHS1      R1[2,0,7]  400
-    RHS1      R1[2,0,8]  400
-    RHS1      R1[2,0,9]  400
-    RHS1      R1[2,0,10]  400
-    RHS1      R1[2,0,11]  400
-    RHS1      R1[2,0,12]  400
-    RHS1      R1[2,0,13]  400
-    RHS1      R1[2,0,14]  400
-    RHS1      R1[2,0,15]  400
-    RHS1      R1[2,0,16]  400
-    RHS1      R1[2,0,17]  400
-    RHS1      R1[2,0,18]  400
-    RHS1      R1[2,0,19]  400
-    RHS1      R1[2,0,20]  400
-    RHS1      R1[2,0,21]  400
-    RHS1      R1[2,0,22]  400
-    RHS1      R1[2,0,23]  400
-    RHS1      R1[2,0,24]  400
-    RHS1      R1[2,0,25]  400
-    RHS1      R1[2,0,26]  400
-    RHS1      R1[2,0,27]  400
-    RHS1      R1[2,0,28]  400
-    RHS1      R1[2,0,29]  400
-    RHS1      R1[2,0,30]  400
-    RHS1      R1[2,0,31]  400
-    RHS1      R1[2,0,32]  400
-    RHS1      R1[2,0,33]  400
-    RHS1      R1[2,0,34]  400
-    RHS1      R1[2,0,35]  400
-    RHS1      R1[2,0,36]  400
-    RHS1      R1[2,0,37]  400
-    RHS1      R1[2,0,38]  400
-    RHS1      R1[2,0,39]  400
-    RHS1      R1[2,0,40]  400
-    RHS1      R1[2,0,41]  400
-    RHS1      R1[2,0,42]  400
-    RHS1      R1[2,0,43]  400
-    RHS1      R1[2,0,44]  400
-    RHS1      R1[2,0,45]  400
-    RHS1      R1[2,0,46]  400
-    RHS1      R1[2,0,47]  400
-    RHS1      R1[2,0,48]  400
-    RHS1      R1[2,0,49]  400
-    RHS1      R1[2,0,50]  400
-    RHS1      R1[2,0,51]  400
-    RHS1      R1[2,0,52]  400
-    RHS1      R1[2,0,53]  400
-    RHS1      R1[2,0,54]  400
-    RHS1      R1[2,0,55]  400
-    RHS1      R1[2,0,56]  400
-    RHS1      R1[2,0,57]  400
-    RHS1      R1[2,0,58]  400
-    RHS1      R1[2,0,59]  400
-    RHS1      R1[2,0,60]  400
-    RHS1      R1[2,0,61]  400
-    RHS1      R1[2,0,62]  400
-    RHS1      R1[2,0,63]  400
-    RHS1      R1[2,0,64]  400
-    RHS1      R1[2,0,65]  400
-    RHS1      R1[2,0,66]  400
-    RHS1      R1[2,0,67]  400
-    RHS1      R1[2,0,68]  400
-    RHS1      R1[2,0,69]  400
-    RHS1      R1[2,0,70]  400
-    RHS1      R1[2,0,71]  400
-    RHS1      R1[2,0,72]  400
-    RHS1      R1[2,0,73]  400
-    RHS1      R1[2,0,74]  400
-    RHS1      R1[2,0,75]  400
-    RHS1      R1[2,0,76]  400
-    RHS1      R1[2,0,77]  400
-    RHS1      R1[2,0,78]  400
-    RHS1      R1[2,0,79]  400
-    RHS1      R1[2,0,80]  400
-    RHS1      R1[2,0,81]  400
-    RHS1      R1[2,0,82]  400
-    RHS1      R1[2,0,83]  400
-    RHS1      R1[2,0,84]  400
-    RHS1      R1[2,0,85]  400
-    RHS1      R1[2,0,86]  400
-    RHS1      R1[2,0,87]  400
-    RHS1      R1[2,0,88]  400
-    RHS1      R1[2,0,89]  400
-    RHS1      R1[2,0,90]  400
-    RHS1      R1[2,0,91]  400
-    RHS1      R1[2,0,92]  400
-    RHS1      R1[2,0,93]  400
-    RHS1      R1[2,0,94]  400
-    RHS1      R1[2,0,95]  400
-    RHS1      R1[2,0,96]  400
-    RHS1      R1[2,0,97]  400
-    RHS1      R1[2,0,98]  400
-    RHS1      R1[2,0,99]  400
-    RHS1      R1[2,1,0]  400
-    RHS1      R1[2,1,1]  400
-    RHS1      R1[2,1,2]  400
-    RHS1      R1[2,1,3]  400
-    RHS1      R1[2,1,4]  400
-    RHS1      R1[2,1,5]  400
-    RHS1      R1[2,1,6]  400
-    RHS1      R1[2,1,7]  400
-    RHS1      R1[2,1,8]  400
-    RHS1      R1[2,1,9]  400
-    RHS1      R1[2,1,10]  400
-    RHS1      R1[2,1,11]  400
-    RHS1      R1[2,1,12]  400
-    RHS1      R1[2,1,13]  400
-    RHS1      R1[2,1,14]  400
-    RHS1      R1[2,1,15]  400
-    RHS1      R1[2,1,16]  400
-    RHS1      R1[2,1,17]  400
-    RHS1      R1[2,1,18]  400
-    RHS1      R1[2,1,19]  400
-    RHS1      R1[2,1,20]  400
-    RHS1      R1[2,1,21]  400
-    RHS1      R1[2,1,22]  400
-    RHS1      R1[2,1,23]  400
-    RHS1      R1[2,1,24]  400
-    RHS1      R1[2,1,25]  400
-    RHS1      R1[2,1,26]  400
-    RHS1      R1[2,1,27]  400
-    RHS1      R1[2,1,28]  400
-    RHS1      R1[2,1,29]  400
-    RHS1      R1[2,1,30]  400
-    RHS1      R1[2,1,31]  400
-    RHS1      R1[2,1,32]  400
-    RHS1      R1[2,1,33]  400
-    RHS1      R1[2,1,34]  400
-    RHS1      R1[2,1,35]  400
-    RHS1      R1[2,1,36]  400
-    RHS1      R1[2,1,37]  400
-    RHS1      R1[2,1,38]  400
-    RHS1      R1[2,1,39]  400
-    RHS1      R1[2,1,40]  400
-    RHS1      R1[2,1,41]  400
-    RHS1      R1[2,1,42]  400
-    RHS1      R1[2,1,43]  400
-    RHS1      R1[2,1,44]  400
-    RHS1      R1[2,1,45]  400
-    RHS1      R1[2,1,46]  400
-    RHS1      R1[2,1,47]  400
-    RHS1      R1[2,1,48]  400
-    RHS1      R1[2,1,49]  400
-    RHS1      R1[2,1,50]  400
-    RHS1      R1[2,1,51]  400
-    RHS1      R1[2,1,52]  400
-    RHS1      R1[2,1,53]  400
-    RHS1      R1[2,1,54]  400
-    RHS1      R1[2,1,55]  400
-    RHS1      R1[2,1,56]  400
-    RHS1      R1[2,1,57]  400
-    RHS1      R1[2,1,58]  400
-    RHS1      R1[2,1,59]  400
-    RHS1      R1[2,1,60]  400
-    RHS1      R1[2,1,61]  400
-    RHS1      R1[2,1,62]  400
-    RHS1      R1[2,1,63]  400
-    RHS1      R1[2,1,64]  400
-    RHS1      R1[2,1,65]  400
-    RHS1      R1[2,1,66]  400
-    RHS1      R1[2,1,67]  400
-    RHS1      R1[2,1,68]  400
-    RHS1      R1[2,1,69]  400
-    RHS1      R1[2,1,70]  400
-    RHS1      R1[2,1,71]  400
-    RHS1      R1[2,1,72]  400
-    RHS1      R1[2,1,73]  400
-    RHS1      R1[2,1,74]  400
-    RHS1      R1[2,1,75]  400
-    RHS1      R1[2,1,76]  400
-    RHS1      R1[2,1,77]  400
-    RHS1      R1[2,1,78]  400
-    RHS1      R1[2,1,79]  400
-    RHS1      R1[2,1,80]  400
-    RHS1      R1[2,1,81]  400
-    RHS1      R1[2,1,82]  400
-    RHS1      R1[2,1,83]  400
-    RHS1      R1[2,1,84]  400
-    RHS1      R1[2,1,85]  400
-    RHS1      R1[2,1,86]  400
-    RHS1      R1[2,1,87]  400
-    RHS1      R1[2,1,88]  400
-    RHS1      R1[2,1,89]  400
-    RHS1      R1[2,1,90]  400
-    RHS1      R1[2,1,91]  400
-    RHS1      R1[2,1,92]  400
-    RHS1      R1[2,1,93]  400
-    RHS1      R1[2,1,94]  400
-    RHS1      R1[2,1,95]  400
-    RHS1      R1[2,1,96]  400
-    RHS1      R1[2,1,97]  400
-    RHS1      R1[2,1,98]  400
-    RHS1      R1[2,1,99]  400
-    RHS1      R1[2,2,0]  400
-    RHS1      R1[2,2,1]  400
-    RHS1      R1[2,2,2]  400
-    RHS1      R1[2,2,3]  400
-    RHS1      R1[2,2,4]  400
-    RHS1      R1[2,2,5]  400
-    RHS1      R1[2,2,6]  400
-    RHS1      R1[2,2,7]  400
-    RHS1      R1[2,2,8]  400
-    RHS1      R1[2,2,9]  400
-    RHS1      R1[2,2,10]  400
-    RHS1      R1[2,2,11]  400
-    RHS1      R1[2,2,12]  400
-    RHS1      R1[2,2,13]  400
-    RHS1      R1[2,2,14]  400
-    RHS1      R1[2,2,15]  400
-    RHS1      R1[2,2,16]  400
-    RHS1      R1[2,2,17]  400
-    RHS1      R1[2,2,18]  400
-    RHS1      R1[2,2,19]  400
-    RHS1      R1[2,2,20]  400
-    RHS1      R1[2,2,21]  400
-    RHS1      R1[2,2,22]  400
-    RHS1      R1[2,2,23]  400
-    RHS1      R1[2,2,24]  400
-    RHS1      R1[2,2,25]  400
-    RHS1      R1[2,2,26]  400
-    RHS1      R1[2,2,27]  400
-    RHS1      R1[2,2,28]  400
-    RHS1      R1[2,2,29]  400
-    RHS1      R1[2,2,30]  400
-    RHS1      R1[2,2,31]  400
-    RHS1      R1[2,2,32]  400
-    RHS1      R1[2,2,33]  400
-    RHS1      R1[2,2,34]  400
-    RHS1      R1[2,2,35]  400
-    RHS1      R1[2,2,36]  400
-    RHS1      R1[2,2,37]  400
-    RHS1      R1[2,2,38]  400
-    RHS1      R1[2,2,39]  400
-    RHS1      R1[2,2,40]  400
-    RHS1      R1[2,2,41]  400
-    RHS1      R1[2,2,42]  400
-    RHS1      R1[2,2,43]  400
-    RHS1      R1[2,2,44]  400
-    RHS1      R1[2,2,45]  400
-    RHS1      R1[2,2,46]  400
-    RHS1      R1[2,2,47]  400
-    RHS1      R1[2,2,48]  400
-    RHS1      R1[2,2,49]  400
-    RHS1      R1[2,2,50]  400
-    RHS1      R1[2,2,51]  400
-    RHS1      R1[2,2,52]  400
-    RHS1      R1[2,2,53]  400
-    RHS1      R1[2,2,54]  400
-    RHS1      R1[2,2,55]  400
-    RHS1      R1[2,2,56]  400
-    RHS1      R1[2,2,57]  400
-    RHS1      R1[2,2,58]  400
-    RHS1      R1[2,2,59]  400
-    RHS1      R1[2,2,60]  400
-    RHS1      R1[2,2,61]  400
-    RHS1      R1[2,2,62]  400
-    RHS1      R1[2,2,63]  400
-    RHS1      R1[2,2,64]  400
-    RHS1      R1[2,2,65]  400
-    RHS1      R1[2,2,66]  400
-    RHS1      R1[2,2,67]  400
-    RHS1      R1[2,2,68]  400
-    RHS1      R1[2,2,69]  400
-    RHS1      R1[2,2,70]  400
-    RHS1      R1[2,2,71]  400
-    RHS1      R1[2,2,72]  400
-    RHS1      R1[2,2,73]  400
-    RHS1      R1[2,2,74]  400
-    RHS1      R1[2,2,75]  400
-    RHS1      R1[2,2,76]  400
-    RHS1      R1[2,2,77]  400
-    RHS1      R1[2,2,78]  400
-    RHS1      R1[2,2,79]  400
-    RHS1      R1[2,2,80]  400
-    RHS1      R1[2,2,81]  400
-    RHS1      R1[2,2,82]  400
-    RHS1      R1[2,2,83]  400
-    RHS1      R1[2,2,84]  400
-    RHS1      R1[2,2,85]  400
-    RHS1      R1[2,2,86]  400
-    RHS1      R1[2,2,87]  400
-    RHS1      R1[2,2,88]  400
-    RHS1      R1[2,2,89]  400
-    RHS1      R1[2,2,90]  400
-    RHS1      R1[2,2,91]  400
-    RHS1      R1[2,2,92]  400
-    RHS1      R1[2,2,93]  400
-    RHS1      R1[2,2,94]  400
-    RHS1      R1[2,2,95]  400
-    RHS1      R1[2,2,96]  400
-    RHS1      R1[2,2,97]  400
-    RHS1      R1[2,2,98]  400
-    RHS1      R1[2,2,99]  400
-    RHS1      R1[2,3,0]  400
-    RHS1      R1[2,3,1]  400
-    RHS1      R1[2,3,2]  400
-    RHS1      R1[2,3,3]  400
-    RHS1      R1[2,3,4]  400
-    RHS1      R1[2,3,5]  400
-    RHS1      R1[2,3,6]  400
-    RHS1      R1[2,3,7]  400
-    RHS1      R1[2,3,8]  400
-    RHS1      R1[2,3,9]  400
-    RHS1      R1[2,3,10]  400
-    RHS1      R1[2,3,11]  400
-    RHS1      R1[2,3,12]  400
-    RHS1      R1[2,3,13]  400
-    RHS1      R1[2,3,14]  400
-    RHS1      R1[2,3,15]  400
-    RHS1      R1[2,3,16]  400
-    RHS1      R1[2,3,17]  400
-    RHS1      R1[2,3,18]  400
-    RHS1      R1[2,3,19]  400
-    RHS1      R1[2,3,20]  400
-    RHS1      R1[2,3,21]  400
-    RHS1      R1[2,3,22]  400
-    RHS1      R1[2,3,23]  400
-    RHS1      R1[2,3,24]  400
-    RHS1      R1[2,3,25]  400
-    RHS1      R1[2,3,26]  400
-    RHS1      R1[2,3,27]  400
-    RHS1      R1[2,3,28]  400
-    RHS1      R1[2,3,29]  400
-    RHS1      R1[2,3,30]  400
-    RHS1      R1[2,3,31]  400
-    RHS1      R1[2,3,32]  400
-    RHS1      R1[2,3,33]  400
-    RHS1      R1[2,3,34]  400
-    RHS1      R1[2,3,35]  400
-    RHS1      R1[2,3,36]  400
-    RHS1      R1[2,3,37]  400
-    RHS1      R1[2,3,38]  400
-    RHS1      R1[2,3,39]  400
-    RHS1      R1[2,3,40]  400
-    RHS1      R1[2,3,41]  400
-    RHS1      R1[2,3,42]  400
-    RHS1      R1[2,3,43]  400
-    RHS1      R1[2,3,44]  400
-    RHS1      R1[2,3,45]  400
-    RHS1      R1[2,3,46]  400
-    RHS1      R1[2,3,47]  400
-    RHS1      R1[2,3,48]  400
-    RHS1      R1[2,3,49]  400
-    RHS1      R1[2,3,50]  400
-    RHS1      R1[2,3,51]  400
-    RHS1      R1[2,3,52]  400
-    RHS1      R1[2,3,53]  400
-    RHS1      R1[2,3,54]  400
-    RHS1      R1[2,3,55]  400
-    RHS1      R1[2,3,56]  400
-    RHS1      R1[2,3,57]  400
-    RHS1      R1[2,3,58]  400
-    RHS1      R1[2,3,59]  400
-    RHS1      R1[2,3,60]  400
-    RHS1      R1[2,3,61]  400
-    RHS1      R1[2,3,62]  400
-    RHS1      R1[2,3,63]  400
-    RHS1      R1[2,3,64]  400
-    RHS1      R1[2,3,65]  400
-    RHS1      R1[2,3,66]  400
-    RHS1      R1[2,3,67]  400
-    RHS1      R1[2,3,68]  400
-    RHS1      R1[2,3,69]  400
-    RHS1      R1[2,3,70]  400
-    RHS1      R1[2,3,71]  400
-    RHS1      R1[2,3,72]  400
-    RHS1      R1[2,3,73]  400
-    RHS1      R1[2,3,74]  400
-    RHS1      R1[2,3,75]  400
-    RHS1      R1[2,3,76]  400
-    RHS1      R1[2,3,77]  400
-    RHS1      R1[2,3,78]  400
-    RHS1      R1[2,3,79]  400
-    RHS1      R1[2,3,80]  400
-    RHS1      R1[2,3,81]  400
-    RHS1      R1[2,3,82]  400
-    RHS1      R1[2,3,83]  400
-    RHS1      R1[2,3,84]  400
-    RHS1      R1[2,3,85]  400
-    RHS1      R1[2,3,86]  400
-    RHS1      R1[2,3,87]  400
-    RHS1      R1[2,3,88]  400
-    RHS1      R1[2,3,89]  400
-    RHS1      R1[2,3,90]  400
-    RHS1      R1[2,3,91]  400
-    RHS1      R1[2,3,92]  400
-    RHS1      R1[2,3,93]  400
-    RHS1      R1[2,3,94]  400
-    RHS1      R1[2,3,95]  400
-    RHS1      R1[2,3,96]  400
-    RHS1      R1[2,3,97]  400
-    RHS1      R1[2,3,98]  400
-    RHS1      R1[2,3,99]  400
-    RHS1      R1[3,0,0]  400
-    RHS1      R1[3,0,1]  400
-    RHS1      R1[3,0,2]  400
-    RHS1      R1[3,0,3]  400
-    RHS1      R1[3,0,4]  400
-    RHS1      R1[3,0,5]  400
-    RHS1      R1[3,0,6]  400
-    RHS1      R1[3,0,7]  400
-    RHS1      R1[3,0,8]  400
-    RHS1      R1[3,0,9]  400
-    RHS1      R1[3,0,10]  400
-    RHS1      R1[3,0,11]  400
-    RHS1      R1[3,0,12]  400
-    RHS1      R1[3,0,13]  400
-    RHS1      R1[3,0,14]  400
-    RHS1      R1[3,0,15]  400
-    RHS1      R1[3,0,16]  400
-    RHS1      R1[3,0,17]  400
-    RHS1      R1[3,0,18]  400
-    RHS1      R1[3,0,19]  400
-    RHS1      R1[3,0,20]  400
-    RHS1      R1[3,0,21]  400
-    RHS1      R1[3,0,22]  400
-    RHS1      R1[3,0,23]  400
-    RHS1      R1[3,0,24]  400
-    RHS1      R1[3,0,25]  400
-    RHS1      R1[3,0,26]  400
-    RHS1      R1[3,0,27]  400
-    RHS1      R1[3,0,28]  400
-    RHS1      R1[3,0,29]  400
-    RHS1      R1[3,0,30]  400
-    RHS1      R1[3,0,31]  400
-    RHS1      R1[3,0,32]  400
-    RHS1      R1[3,0,33]  400
-    RHS1      R1[3,0,34]  400
-    RHS1      R1[3,0,35]  400
-    RHS1      R1[3,0,36]  400
-    RHS1      R1[3,0,37]  400
-    RHS1      R1[3,0,38]  400
-    RHS1      R1[3,0,39]  400
-    RHS1      R1[3,0,40]  400
-    RHS1      R1[3,0,41]  400
-    RHS1      R1[3,0,42]  400
-    RHS1      R1[3,0,43]  400
-    RHS1      R1[3,0,44]  400
-    RHS1      R1[3,0,45]  400
-    RHS1      R1[3,0,46]  400
-    RHS1      R1[3,0,47]  400
-    RHS1      R1[3,0,48]  400
-    RHS1      R1[3,0,49]  400
-    RHS1      R1[3,0,50]  400
-    RHS1      R1[3,0,51]  400
-    RHS1      R1[3,0,52]  400
-    RHS1      R1[3,0,53]  400
-    RHS1      R1[3,0,54]  400
-    RHS1      R1[3,0,55]  400
-    RHS1      R1[3,0,56]  400
-    RHS1      R1[3,0,57]  400
-    RHS1      R1[3,0,58]  400
-    RHS1      R1[3,0,59]  400
-    RHS1      R1[3,0,60]  400
-    RHS1      R1[3,0,61]  400
-    RHS1      R1[3,0,62]  400
-    RHS1      R1[3,0,63]  400
-    RHS1      R1[3,0,64]  400
-    RHS1      R1[3,0,65]  400
-    RHS1      R1[3,0,66]  400
-    RHS1      R1[3,0,67]  400
-    RHS1      R1[3,0,68]  400
-    RHS1      R1[3,0,69]  400
-    RHS1      R1[3,0,70]  400
-    RHS1      R1[3,0,71]  400
-    RHS1      R1[3,0,72]  400
-    RHS1      R1[3,0,73]  400
-    RHS1      R1[3,0,74]  400
-    RHS1      R1[3,0,75]  400
-    RHS1      R1[3,0,76]  400
-    RHS1      R1[3,0,77]  400
-    RHS1      R1[3,0,78]  400
-    RHS1      R1[3,0,79]  400
-    RHS1      R1[3,0,80]  400
-    RHS1      R1[3,0,81]  400
-    RHS1      R1[3,0,82]  400
-    RHS1      R1[3,0,83]  400
-    RHS1      R1[3,0,84]  400
-    RHS1      R1[3,0,85]  400
-    RHS1      R1[3,0,86]  400
-    RHS1      R1[3,0,87]  400
-    RHS1      R1[3,0,88]  400
-    RHS1      R1[3,0,89]  400
-    RHS1      R1[3,0,90]  400
-    RHS1      R1[3,0,91]  400
-    RHS1      R1[3,0,92]  400
-    RHS1      R1[3,0,93]  400
-    RHS1      R1[3,0,94]  400
-    RHS1      R1[3,0,95]  400
-    RHS1      R1[3,0,96]  400
-    RHS1      R1[3,0,97]  400
-    RHS1      R1[3,0,98]  400
-    RHS1      R1[3,0,99]  400
-    RHS1      R1[3,1,0]  400
-    RHS1      R1[3,1,1]  400
-    RHS1      R1[3,1,2]  400
-    RHS1      R1[3,1,3]  400
-    RHS1      R1[3,1,4]  400
-    RHS1      R1[3,1,5]  400
-    RHS1      R1[3,1,6]  400
-    RHS1      R1[3,1,7]  400
-    RHS1      R1[3,1,8]  400
-    RHS1      R1[3,1,9]  400
-    RHS1      R1[3,1,10]  400
-    RHS1      R1[3,1,11]  400
-    RHS1      R1[3,1,12]  400
-    RHS1      R1[3,1,13]  400
-    RHS1      R1[3,1,14]  400
-    RHS1      R1[3,1,15]  400
-    RHS1      R1[3,1,16]  400
-    RHS1      R1[3,1,17]  400
-    RHS1      R1[3,1,18]  400
-    RHS1      R1[3,1,19]  400
-    RHS1      R1[3,1,20]  400
-    RHS1      R1[3,1,21]  400
-    RHS1      R1[3,1,22]  400
-    RHS1      R1[3,1,23]  400
-    RHS1      R1[3,1,24]  400
-    RHS1      R1[3,1,25]  400
-    RHS1      R1[3,1,26]  400
-    RHS1      R1[3,1,27]  400
-    RHS1      R1[3,1,28]  400
-    RHS1      R1[3,1,29]  400
-    RHS1      R1[3,1,30]  400
-    RHS1      R1[3,1,31]  400
-    RHS1      R1[3,1,32]  400
-    RHS1      R1[3,1,33]  400
-    RHS1      R1[3,1,34]  400
-    RHS1      R1[3,1,35]  400
-    RHS1      R1[3,1,36]  400
-    RHS1      R1[3,1,37]  400
-    RHS1      R1[3,1,38]  400
-    RHS1      R1[3,1,39]  400
-    RHS1      R1[3,1,40]  400
-    RHS1      R1[3,1,41]  400
-    RHS1      R1[3,1,42]  400
-    RHS1      R1[3,1,43]  400
-    RHS1      R1[3,1,44]  400
-    RHS1      R1[3,1,45]  400
-    RHS1      R1[3,1,46]  400
-    RHS1      R1[3,1,47]  400
-    RHS1      R1[3,1,48]  400
-    RHS1      R1[3,1,49]  400
-    RHS1      R1[3,1,50]  400
-    RHS1      R1[3,1,51]  400
-    RHS1      R1[3,1,52]  400
-    RHS1      R1[3,1,53]  400
-    RHS1      R1[3,1,54]  400
-    RHS1      R1[3,1,55]  400
-    RHS1      R1[3,1,56]  400
-    RHS1      R1[3,1,57]  400
-    RHS1      R1[3,1,58]  400
-    RHS1      R1[3,1,59]  400
-    RHS1      R1[3,1,60]  400
-    RHS1      R1[3,1,61]  400
-    RHS1      R1[3,1,62]  400
-    RHS1      R1[3,1,63]  400
-    RHS1      R1[3,1,64]  400
-    RHS1      R1[3,1,65]  400
-    RHS1      R1[3,1,66]  400
-    RHS1      R1[3,1,67]  400
-    RHS1      R1[3,1,68]  400
-    RHS1      R1[3,1,69]  400
-    RHS1      R1[3,1,70]  400
-    RHS1      R1[3,1,71]  400
-    RHS1      R1[3,1,72]  400
-    RHS1      R1[3,1,73]  400
-    RHS1      R1[3,1,74]  400
-    RHS1      R1[3,1,75]  400
-    RHS1      R1[3,1,76]  400
-    RHS1      R1[3,1,77]  400
-    RHS1      R1[3,1,78]  400
-    RHS1      R1[3,1,79]  400
-    RHS1      R1[3,1,80]  400
-    RHS1      R1[3,1,81]  400
-    RHS1      R1[3,1,82]  400
-    RHS1      R1[3,1,83]  400
-    RHS1      R1[3,1,84]  400
-    RHS1      R1[3,1,85]  400
-    RHS1      R1[3,1,86]  400
-    RHS1      R1[3,1,87]  400
-    RHS1      R1[3,1,88]  400
-    RHS1      R1[3,1,89]  400
-    RHS1      R1[3,1,90]  400
-    RHS1      R1[3,1,91]  400
-    RHS1      R1[3,1,92]  400
-    RHS1      R1[3,1,93]  400
-    RHS1      R1[3,1,94]  400
-    RHS1      R1[3,1,95]  400
-    RHS1      R1[3,1,96]  400
-    RHS1      R1[3,1,97]  400
-    RHS1      R1[3,1,98]  400
-    RHS1      R1[3,1,99]  400
-    RHS1      R1[3,2,0]  400
-    RHS1      R1[3,2,1]  400
-    RHS1      R1[3,2,2]  400
-    RHS1      R1[3,2,3]  400
-    RHS1      R1[3,2,4]  400
-    RHS1      R1[3,2,5]  400
-    RHS1      R1[3,2,6]  400
-    RHS1      R1[3,2,7]  400
-    RHS1      R1[3,2,8]  400
-    RHS1      R1[3,2,9]  400
-    RHS1      R1[3,2,10]  400
-    RHS1      R1[3,2,11]  400
-    RHS1      R1[3,2,12]  400
-    RHS1      R1[3,2,13]  400
-    RHS1      R1[3,2,14]  400
-    RHS1      R1[3,2,15]  400
-    RHS1      R1[3,2,16]  400
-    RHS1      R1[3,2,17]  400
-    RHS1      R1[3,2,18]  400
-    RHS1      R1[3,2,19]  400
-    RHS1      R1[3,2,20]  400
-    RHS1      R1[3,2,21]  400
-    RHS1      R1[3,2,22]  400
-    RHS1      R1[3,2,23]  400
-    RHS1      R1[3,2,24]  400
-    RHS1      R1[3,2,25]  400
-    RHS1      R1[3,2,26]  400
-    RHS1      R1[3,2,27]  400
-    RHS1      R1[3,2,28]  400
-    RHS1      R1[3,2,29]  400
-    RHS1      R1[3,2,30]  400
-    RHS1      R1[3,2,31]  400
-    RHS1      R1[3,2,32]  400
-    RHS1      R1[3,2,33]  400
-    RHS1      R1[3,2,34]  400
-    RHS1      R1[3,2,35]  400
-    RHS1      R1[3,2,36]  400
-    RHS1      R1[3,2,37]  400
-    RHS1      R1[3,2,38]  400
-    RHS1      R1[3,2,39]  400
-    RHS1      R1[3,2,40]  400
-    RHS1      R1[3,2,41]  400
-    RHS1      R1[3,2,42]  400
-    RHS1      R1[3,2,43]  400
-    RHS1      R1[3,2,44]  400
-    RHS1      R1[3,2,45]  400
-    RHS1      R1[3,2,46]  400
-    RHS1      R1[3,2,47]  400
-    RHS1      R1[3,2,48]  400
-    RHS1      R1[3,2,49]  400
-    RHS1      R1[3,2,50]  400
-    RHS1      R1[3,2,51]  400
-    RHS1      R1[3,2,52]  400
-    RHS1      R1[3,2,53]  400
-    RHS1      R1[3,2,54]  400
-    RHS1      R1[3,2,55]  400
-    RHS1      R1[3,2,56]  400
-    RHS1      R1[3,2,57]  400
-    RHS1      R1[3,2,58]  400
-    RHS1      R1[3,2,59]  400
-    RHS1      R1[3,2,60]  400
-    RHS1      R1[3,2,61]  400
-    RHS1      R1[3,2,62]  400
-    RHS1      R1[3,2,63]  400
-    RHS1      R1[3,2,64]  400
-    RHS1      R1[3,2,65]  400
-    RHS1      R1[3,2,66]  400
-    RHS1      R1[3,2,67]  400
-    RHS1      R1[3,2,68]  400
-    RHS1      R1[3,2,69]  400
-    RHS1      R1[3,2,70]  400
-    RHS1      R1[3,2,71]  400
-    RHS1      R1[3,2,72]  400
-    RHS1      R1[3,2,73]  400
-    RHS1      R1[3,2,74]  400
-    RHS1      R1[3,2,75]  400
-    RHS1      R1[3,2,76]  400
-    RHS1      R1[3,2,77]  400
-    RHS1      R1[3,2,78]  400
-    RHS1      R1[3,2,79]  400
-    RHS1      R1[3,2,80]  400
-    RHS1      R1[3,2,81]  400
-    RHS1      R1[3,2,82]  400
-    RHS1      R1[3,2,83]  400
-    RHS1      R1[3,2,84]  400
-    RHS1      R1[3,2,85]  400
-    RHS1      R1[3,2,86]  400
-    RHS1      R1[3,2,87]  400
-    RHS1      R1[3,2,88]  400
-    RHS1      R1[3,2,89]  400
-    RHS1      R1[3,2,90]  400
-    RHS1      R1[3,2,91]  400
-    RHS1      R1[3,2,92]  400
-    RHS1      R1[3,2,93]  400
-    RHS1      R1[3,2,94]  400
-    RHS1      R1[3,2,95]  400
-    RHS1      R1[3,2,96]  400
-    RHS1      R1[3,2,97]  400
-    RHS1      R1[3,2,98]  400
-    RHS1      R1[3,2,99]  400
-    RHS1      R1[3,3,0]  400
-    RHS1      R1[3,3,1]  400
-    RHS1      R1[3,3,2]  400
-    RHS1      R1[3,3,3]  400
-    RHS1      R1[3,3,4]  400
-    RHS1      R1[3,3,5]  400
-    RHS1      R1[3,3,6]  400
-    RHS1      R1[3,3,7]  400
-    RHS1      R1[3,3,8]  400
-    RHS1      R1[3,3,9]  400
-    RHS1      R1[3,3,10]  400
-    RHS1      R1[3,3,11]  400
-    RHS1      R1[3,3,12]  400
-    RHS1      R1[3,3,13]  400
-    RHS1      R1[3,3,14]  400
-    RHS1      R1[3,3,15]  400
-    RHS1      R1[3,3,16]  400
-    RHS1      R1[3,3,17]  400
-    RHS1      R1[3,3,18]  400
-    RHS1      R1[3,3,19]  400
-    RHS1      R1[3,3,20]  400
-    RHS1      R1[3,3,21]  400
-    RHS1      R1[3,3,22]  400
-    RHS1      R1[3,3,23]  400
-    RHS1      R1[3,3,24]  400
-    RHS1      R1[3,3,25]  400
-    RHS1      R1[3,3,26]  400
-    RHS1      R1[3,3,27]  400
-    RHS1      R1[3,3,28]  400
-    RHS1      R1[3,3,29]  400
-    RHS1      R1[3,3,30]  400
-    RHS1      R1[3,3,31]  400
-    RHS1      R1[3,3,32]  400
-    RHS1      R1[3,3,33]  400
-    RHS1      R1[3,3,34]  400
-    RHS1      R1[3,3,35]  400
-    RHS1      R1[3,3,36]  400
-    RHS1      R1[3,3,37]  400
-    RHS1      R1[3,3,38]  400
-    RHS1      R1[3,3,39]  400
-    RHS1      R1[3,3,40]  400
-    RHS1      R1[3,3,41]  400
-    RHS1      R1[3,3,42]  400
-    RHS1      R1[3,3,43]  400
-    RHS1      R1[3,3,44]  400
-    RHS1      R1[3,3,45]  400
-    RHS1      R1[3,3,46]  400
-    RHS1      R1[3,3,47]  400
-    RHS1      R1[3,3,48]  400
-    RHS1      R1[3,3,49]  400
-    RHS1      R1[3,3,50]  400
-    RHS1      R1[3,3,51]  400
-    RHS1      R1[3,3,52]  400
-    RHS1      R1[3,3,53]  400
-    RHS1      R1[3,3,54]  400
-    RHS1      R1[3,3,55]  400
-    RHS1      R1[3,3,56]  400
-    RHS1      R1[3,3,57]  400
-    RHS1      R1[3,3,58]  400
-    RHS1      R1[3,3,59]  400
-    RHS1      R1[3,3,60]  400
-    RHS1      R1[3,3,61]  400
-    RHS1      R1[3,3,62]  400
-    RHS1      R1[3,3,63]  400
-    RHS1      R1[3,3,64]  400
-    RHS1      R1[3,3,65]  400
-    RHS1      R1[3,3,66]  400
-    RHS1      R1[3,3,67]  400
-    RHS1      R1[3,3,68]  400
-    RHS1      R1[3,3,69]  400
-    RHS1      R1[3,3,70]  400
-    RHS1      R1[3,3,71]  400
-    RHS1      R1[3,3,72]  400
-    RHS1      R1[3,3,73]  400
-    RHS1      R1[3,3,74]  400
-    RHS1      R1[3,3,75]  400
-    RHS1      R1[3,3,76]  400
-    RHS1      R1[3,3,77]  400
-    RHS1      R1[3,3,78]  400
-    RHS1      R1[3,3,79]  400
-    RHS1      R1[3,3,80]  400
-    RHS1      R1[3,3,81]  400
-    RHS1      R1[3,3,82]  400
-    RHS1      R1[3,3,83]  400
-    RHS1      R1[3,3,84]  400
-    RHS1      R1[3,3,85]  400
-    RHS1      R1[3,3,86]  400
-    RHS1      R1[3,3,87]  400
-    RHS1      R1[3,3,88]  400
-    RHS1      R1[3,3,89]  400
-    RHS1      R1[3,3,90]  400
-    RHS1      R1[3,3,91]  400
-    RHS1      R1[3,3,92]  400
-    RHS1      R1[3,3,93]  400
-    RHS1      R1[3,3,94]  400
-    RHS1      R1[3,3,95]  400
-    RHS1      R1[3,3,96]  400
-    RHS1      R1[3,3,97]  400
-    RHS1      R1[3,3,98]  400
-    RHS1      R1[3,3,99]  400
-    RHS1      R1[4,0,0]  400
-    RHS1      R1[4,0,1]  400
-    RHS1      R1[4,0,2]  400
-    RHS1      R1[4,0,3]  400
-    RHS1      R1[4,0,4]  400
-    RHS1      R1[4,0,5]  400
-    RHS1      R1[4,0,6]  400
-    RHS1      R1[4,0,7]  400
-    RHS1      R1[4,0,8]  400
-    RHS1      R1[4,0,9]  400
-    RHS1      R1[4,0,10]  400
-    RHS1      R1[4,0,11]  400
-    RHS1      R1[4,0,12]  400
-    RHS1      R1[4,0,13]  400
-    RHS1      R1[4,0,14]  400
-    RHS1      R1[4,0,15]  400
-    RHS1      R1[4,0,16]  400
-    RHS1      R1[4,0,17]  400
-    RHS1      R1[4,0,18]  400
-    RHS1      R1[4,0,19]  400
-    RHS1      R1[4,0,20]  400
-    RHS1      R1[4,0,21]  400
-    RHS1      R1[4,0,22]  400
-    RHS1      R1[4,0,23]  400
-    RHS1      R1[4,0,24]  400
-    RHS1      R1[4,0,25]  400
-    RHS1      R1[4,0,26]  400
-    RHS1      R1[4,0,27]  400
-    RHS1      R1[4,0,28]  400
-    RHS1      R1[4,0,29]  400
-    RHS1      R1[4,0,30]  400
-    RHS1      R1[4,0,31]  400
-    RHS1      R1[4,0,32]  400
-    RHS1      R1[4,0,33]  400
-    RHS1      R1[4,0,34]  400
-    RHS1      R1[4,0,35]  400
-    RHS1      R1[4,0,36]  400
-    RHS1      R1[4,0,37]  400
-    RHS1      R1[4,0,38]  400
-    RHS1      R1[4,0,39]  400
-    RHS1      R1[4,0,40]  400
-    RHS1      R1[4,0,41]  400
-    RHS1      R1[4,0,42]  400
-    RHS1      R1[4,0,43]  400
-    RHS1      R1[4,0,44]  400
-    RHS1      R1[4,0,45]  400
-    RHS1      R1[4,0,46]  400
-    RHS1      R1[4,0,47]  400
-    RHS1      R1[4,0,48]  400
-    RHS1      R1[4,0,49]  400
-    RHS1      R1[4,0,50]  400
-    RHS1      R1[4,0,51]  400
-    RHS1      R1[4,0,52]  400
-    RHS1      R1[4,0,53]  400
-    RHS1      R1[4,0,54]  400
-    RHS1      R1[4,0,55]  400
-    RHS1      R1[4,0,56]  400
-    RHS1      R1[4,0,57]  400
-    RHS1      R1[4,0,58]  400
-    RHS1      R1[4,0,59]  400
-    RHS1      R1[4,0,60]  400
-    RHS1      R1[4,0,61]  400
-    RHS1      R1[4,0,62]  400
-    RHS1      R1[4,0,63]  400
-    RHS1      R1[4,0,64]  400
-    RHS1      R1[4,0,65]  400
-    RHS1      R1[4,0,66]  400
-    RHS1      R1[4,0,67]  400
-    RHS1      R1[4,0,68]  400
-    RHS1      R1[4,0,69]  400
-    RHS1      R1[4,0,70]  400
-    RHS1      R1[4,0,71]  400
-    RHS1      R1[4,0,72]  400
-    RHS1      R1[4,0,73]  400
-    RHS1      R1[4,0,74]  400
-    RHS1      R1[4,0,75]  400
-    RHS1      R1[4,0,76]  400
-    RHS1      R1[4,0,77]  400
-    RHS1      R1[4,0,78]  400
-    RHS1      R1[4,0,79]  400
-    RHS1      R1[4,0,80]  400
-    RHS1      R1[4,0,81]  400
-    RHS1      R1[4,0,82]  400
-    RHS1      R1[4,0,83]  400
-    RHS1      R1[4,0,84]  400
-    RHS1      R1[4,0,85]  400
-    RHS1      R1[4,0,86]  400
-    RHS1      R1[4,0,87]  400
-    RHS1      R1[4,0,88]  400
-    RHS1      R1[4,0,89]  400
-    RHS1      R1[4,0,90]  400
-    RHS1      R1[4,0,91]  400
-    RHS1      R1[4,0,92]  400
-    RHS1      R1[4,0,93]  400
-    RHS1      R1[4,0,94]  400
-    RHS1      R1[4,0,95]  400
-    RHS1      R1[4,0,96]  400
-    RHS1      R1[4,0,97]  400
-    RHS1      R1[4,0,98]  400
-    RHS1      R1[4,0,99]  400
-    RHS1      R1[4,1,0]  400
-    RHS1      R1[4,1,1]  400
-    RHS1      R1[4,1,2]  400
-    RHS1      R1[4,1,3]  400
-    RHS1      R1[4,1,4]  400
-    RHS1      R1[4,1,5]  400
-    RHS1      R1[4,1,6]  400
-    RHS1      R1[4,1,7]  400
-    RHS1      R1[4,1,8]  400
-    RHS1      R1[4,1,9]  400
-    RHS1      R1[4,1,10]  400
-    RHS1      R1[4,1,11]  400
-    RHS1      R1[4,1,12]  400
-    RHS1      R1[4,1,13]  400
-    RHS1      R1[4,1,14]  400
-    RHS1      R1[4,1,15]  400
-    RHS1      R1[4,1,16]  400
-    RHS1      R1[4,1,17]  400
-    RHS1      R1[4,1,18]  400
-    RHS1      R1[4,1,19]  400
-    RHS1      R1[4,1,20]  400
-    RHS1      R1[4,1,21]  400
-    RHS1      R1[4,1,22]  400
-    RHS1      R1[4,1,23]  400
-    RHS1      R1[4,1,24]  400
-    RHS1      R1[4,1,25]  400
-    RHS1      R1[4,1,26]  400
-    RHS1      R1[4,1,27]  400
-    RHS1      R1[4,1,28]  400
-    RHS1      R1[4,1,29]  400
-    RHS1      R1[4,1,30]  400
-    RHS1      R1[4,1,31]  400
-    RHS1      R1[4,1,32]  400
-    RHS1      R1[4,1,33]  400
-    RHS1      R1[4,1,34]  400
-    RHS1      R1[4,1,35]  400
-    RHS1      R1[4,1,36]  400
-    RHS1      R1[4,1,37]  400
-    RHS1      R1[4,1,38]  400
-    RHS1      R1[4,1,39]  400
-    RHS1      R1[4,1,40]  400
-    RHS1      R1[4,1,41]  400
-    RHS1      R1[4,1,42]  400
-    RHS1      R1[4,1,43]  400
-    RHS1      R1[4,1,44]  400
-    RHS1      R1[4,1,45]  400
-    RHS1      R1[4,1,46]  400
-    RHS1      R1[4,1,47]  400
-    RHS1      R1[4,1,48]  400
-    RHS1      R1[4,1,49]  400
-    RHS1      R1[4,1,50]  400
-    RHS1      R1[4,1,51]  400
-    RHS1      R1[4,1,52]  400
-    RHS1      R1[4,1,53]  400
-    RHS1      R1[4,1,54]  400
-    RHS1      R1[4,1,55]  400
-    RHS1      R1[4,1,56]  400
-    RHS1      R1[4,1,57]  400
-    RHS1      R1[4,1,58]  400
-    RHS1      R1[4,1,59]  400
-    RHS1      R1[4,1,60]  400
-    RHS1      R1[4,1,61]  400
-    RHS1      R1[4,1,62]  400
-    RHS1      R1[4,1,63]  400
-    RHS1      R1[4,1,64]  400
-    RHS1      R1[4,1,65]  400
-    RHS1      R1[4,1,66]  400
-    RHS1      R1[4,1,67]  400
-    RHS1      R1[4,1,68]  400
-    RHS1      R1[4,1,69]  400
-    RHS1      R1[4,1,70]  400
-    RHS1      R1[4,1,71]  400
-    RHS1      R1[4,1,72]  400
-    RHS1      R1[4,1,73]  400
-    RHS1      R1[4,1,74]  400
-    RHS1      R1[4,1,75]  400
-    RHS1      R1[4,1,76]  400
-    RHS1      R1[4,1,77]  400
-    RHS1      R1[4,1,78]  400
-    RHS1      R1[4,1,79]  400
-    RHS1      R1[4,1,80]  400
-    RHS1      R1[4,1,81]  400
-    RHS1      R1[4,1,82]  400
-    RHS1      R1[4,1,83]  400
-    RHS1      R1[4,1,84]  400
-    RHS1      R1[4,1,85]  400
-    RHS1      R1[4,1,86]  400
-    RHS1      R1[4,1,87]  400
-    RHS1      R1[4,1,88]  400
-    RHS1      R1[4,1,89]  400
-    RHS1      R1[4,1,90]  400
-    RHS1      R1[4,1,91]  400
-    RHS1      R1[4,1,92]  400
-    RHS1      R1[4,1,93]  400
-    RHS1      R1[4,1,94]  400
-    RHS1      R1[4,1,95]  400
-    RHS1      R1[4,1,96]  400
-    RHS1      R1[4,1,97]  400
-    RHS1      R1[4,1,98]  400
-    RHS1      R1[4,1,99]  400
-    RHS1      R1[4,2,0]  400
-    RHS1      R1[4,2,1]  400
-    RHS1      R1[4,2,2]  400
-    RHS1      R1[4,2,3]  400
-    RHS1      R1[4,2,4]  400
-    RHS1      R1[4,2,5]  400
-    RHS1      R1[4,2,6]  400
-    RHS1      R1[4,2,7]  400
-    RHS1      R1[4,2,8]  400
-    RHS1      R1[4,2,9]  400
-    RHS1      R1[4,2,10]  400
-    RHS1      R1[4,2,11]  400
-    RHS1      R1[4,2,12]  400
-    RHS1      R1[4,2,13]  400
-    RHS1      R1[4,2,14]  400
-    RHS1      R1[4,2,15]  400
-    RHS1      R1[4,2,16]  400
-    RHS1      R1[4,2,17]  400
-    RHS1      R1[4,2,18]  400
-    RHS1      R1[4,2,19]  400
-    RHS1      R1[4,2,20]  400
-    RHS1      R1[4,2,21]  400
-    RHS1      R1[4,2,22]  400
-    RHS1      R1[4,2,23]  400
-    RHS1      R1[4,2,24]  400
-    RHS1      R1[4,2,25]  400
-    RHS1      R1[4,2,26]  400
-    RHS1      R1[4,2,27]  400
-    RHS1      R1[4,2,28]  400
-    RHS1      R1[4,2,29]  400
-    RHS1      R1[4,2,30]  400
-    RHS1      R1[4,2,31]  400
-    RHS1      R1[4,2,32]  400
-    RHS1      R1[4,2,33]  400
-    RHS1      R1[4,2,34]  400
-    RHS1      R1[4,2,35]  400
-    RHS1      R1[4,2,36]  400
-    RHS1      R1[4,2,37]  400
-    RHS1      R1[4,2,38]  400
-    RHS1      R1[4,2,39]  400
-    RHS1      R1[4,2,40]  400
-    RHS1      R1[4,2,41]  400
-    RHS1      R1[4,2,42]  400
-    RHS1      R1[4,2,43]  400
-    RHS1      R1[4,2,44]  400
-    RHS1      R1[4,2,45]  400
-    RHS1      R1[4,2,46]  400
-    RHS1      R1[4,2,47]  400
-    RHS1      R1[4,2,48]  400
-    RHS1      R1[4,2,49]  400
-    RHS1      R1[4,2,50]  400
-    RHS1      R1[4,2,51]  400
-    RHS1      R1[4,2,52]  400
-    RHS1      R1[4,2,53]  400
-    RHS1      R1[4,2,54]  400
-    RHS1      R1[4,2,55]  400
-    RHS1      R1[4,2,56]  400
-    RHS1      R1[4,2,57]  400
-    RHS1      R1[4,2,58]  400
-    RHS1      R1[4,2,59]  400
-    RHS1      R1[4,2,60]  400
-    RHS1      R1[4,2,61]  400
-    RHS1      R1[4,2,62]  400
-    RHS1      R1[4,2,63]  400
-    RHS1      R1[4,2,64]  400
-    RHS1      R1[4,2,65]  400
-    RHS1      R1[4,2,66]  400
-    RHS1      R1[4,2,67]  400
-    RHS1      R1[4,2,68]  400
-    RHS1      R1[4,2,69]  400
-    RHS1      R1[4,2,70]  400
-    RHS1      R1[4,2,71]  400
-    RHS1      R1[4,2,72]  400
-    RHS1      R1[4,2,73]  400
-    RHS1      R1[4,2,74]  400
-    RHS1      R1[4,2,75]  400
-    RHS1      R1[4,2,76]  400
-    RHS1      R1[4,2,77]  400
-    RHS1      R1[4,2,78]  400
-    RHS1      R1[4,2,79]  400
-    RHS1      R1[4,2,80]  400
-    RHS1      R1[4,2,81]  400
-    RHS1      R1[4,2,82]  400
-    RHS1      R1[4,2,83]  400
-    RHS1      R1[4,2,84]  400
-    RHS1      R1[4,2,85]  400
-    RHS1      R1[4,2,86]  400
-    RHS1      R1[4,2,87]  400
-    RHS1      R1[4,2,88]  400
-    RHS1      R1[4,2,89]  400
-    RHS1      R1[4,2,90]  400
-    RHS1      R1[4,2,91]  400
-    RHS1      R1[4,2,92]  400
-    RHS1      R1[4,2,93]  400
-    RHS1      R1[4,2,94]  400
-    RHS1      R1[4,2,95]  400
-    RHS1      R1[4,2,96]  400
-    RHS1      R1[4,2,97]  400
-    RHS1      R1[4,2,98]  400
-    RHS1      R1[4,2,99]  400
-    RHS1      R1[4,3,0]  400
-    RHS1      R1[4,3,1]  400
-    RHS1      R1[4,3,2]  400
-    RHS1      R1[4,3,3]  400
-    RHS1      R1[4,3,4]  400
-    RHS1      R1[4,3,5]  400
-    RHS1      R1[4,3,6]  400
-    RHS1      R1[4,3,7]  400
-    RHS1      R1[4,3,8]  400
-    RHS1      R1[4,3,9]  400
-    RHS1      R1[4,3,10]  400
-    RHS1      R1[4,3,11]  400
-    RHS1      R1[4,3,12]  400
-    RHS1      R1[4,3,13]  400
-    RHS1      R1[4,3,14]  400
-    RHS1      R1[4,3,15]  400
-    RHS1      R1[4,3,16]  400
-    RHS1      R1[4,3,17]  400
-    RHS1      R1[4,3,18]  400
-    RHS1      R1[4,3,19]  400
-    RHS1      R1[4,3,20]  400
-    RHS1      R1[4,3,21]  400
-    RHS1      R1[4,3,22]  400
-    RHS1      R1[4,3,23]  400
-    RHS1      R1[4,3,24]  400
-    RHS1      R1[4,3,25]  400
-    RHS1      R1[4,3,26]  400
-    RHS1      R1[4,3,27]  400
-    RHS1      R1[4,3,28]  400
-    RHS1      R1[4,3,29]  400
-    RHS1      R1[4,3,30]  400
-    RHS1      R1[4,3,31]  400
-    RHS1      R1[4,3,32]  400
-    RHS1      R1[4,3,33]  400
-    RHS1      R1[4,3,34]  400
-    RHS1      R1[4,3,35]  400
-    RHS1      R1[4,3,36]  400
-    RHS1      R1[4,3,37]  400
-    RHS1      R1[4,3,38]  400
-    RHS1      R1[4,3,39]  400
-    RHS1      R1[4,3,40]  400
-    RHS1      R1[4,3,41]  400
-    RHS1      R1[4,3,42]  400
-    RHS1      R1[4,3,43]  400
-    RHS1      R1[4,3,44]  400
-    RHS1      R1[4,3,45]  400
-    RHS1      R1[4,3,46]  400
-    RHS1      R1[4,3,47]  400
-    RHS1      R1[4,3,48]  400
-    RHS1      R1[4,3,49]  400
-    RHS1      R1[4,3,50]  400
-    RHS1      R1[4,3,51]  400
-    RHS1      R1[4,3,52]  400
-    RHS1      R1[4,3,53]  400
-    RHS1      R1[4,3,54]  400
-    RHS1      R1[4,3,55]  400
-    RHS1      R1[4,3,56]  400
-    RHS1      R1[4,3,57]  400
-    RHS1      R1[4,3,58]  400
-    RHS1      R1[4,3,59]  400
-    RHS1      R1[4,3,60]  400
-    RHS1      R1[4,3,61]  400
-    RHS1      R1[4,3,62]  400
-    RHS1      R1[4,3,63]  400
-    RHS1      R1[4,3,64]  400
-    RHS1      R1[4,3,65]  400
-    RHS1      R1[4,3,66]  400
-    RHS1      R1[4,3,67]  400
-    RHS1      R1[4,3,68]  400
-    RHS1      R1[4,3,69]  400
-    RHS1      R1[4,3,70]  400
-    RHS1      R1[4,3,71]  400
-    RHS1      R1[4,3,72]  400
-    RHS1      R1[4,3,73]  400
-    RHS1      R1[4,3,74]  400
-    RHS1      R1[4,3,75]  400
-    RHS1      R1[4,3,76]  400
-    RHS1      R1[4,3,77]  400
-    RHS1      R1[4,3,78]  400
-    RHS1      R1[4,3,79]  400
-    RHS1      R1[4,3,80]  400
-    RHS1      R1[4,3,81]  400
-    RHS1      R1[4,3,82]  400
-    RHS1      R1[4,3,83]  400
-    RHS1      R1[4,3,84]  400
-    RHS1      R1[4,3,85]  400
-    RHS1      R1[4,3,86]  400
-    RHS1      R1[4,3,87]  400
-    RHS1      R1[4,3,88]  400
-    RHS1      R1[4,3,89]  400
-    RHS1      R1[4,3,90]  400
-    RHS1      R1[4,3,91]  400
-    RHS1      R1[4,3,92]  400
-    RHS1      R1[4,3,93]  400
-    RHS1      R1[4,3,94]  400
-    RHS1      R1[4,3,95]  400
-    RHS1      R1[4,3,96]  400
-    RHS1      R1[4,3,97]  400
-    RHS1      R1[4,3,98]  400
-    RHS1      R1[4,3,99]  400
-    RHS1      R1[5,0,0]  400
-    RHS1      R1[5,0,1]  400
-    RHS1      R1[5,0,2]  400
-    RHS1      R1[5,0,3]  400
-    RHS1      R1[5,0,4]  400
-    RHS1      R1[5,0,5]  400
-    RHS1      R1[5,0,6]  400
-    RHS1      R1[5,0,7]  400
-    RHS1      R1[5,0,8]  400
-    RHS1      R1[5,0,9]  400
-    RHS1      R1[5,0,10]  400
-    RHS1      R1[5,0,11]  400
-    RHS1      R1[5,0,12]  400
-    RHS1      R1[5,0,13]  400
-    RHS1      R1[5,0,14]  400
-    RHS1      R1[5,0,15]  400
-    RHS1      R1[5,0,16]  400
-    RHS1      R1[5,0,17]  400
-    RHS1      R1[5,0,18]  400
-    RHS1      R1[5,0,19]  400
-    RHS1      R1[5,0,20]  400
-    RHS1      R1[5,0,21]  400
-    RHS1      R1[5,0,22]  400
-    RHS1      R1[5,0,23]  400
-    RHS1      R1[5,0,24]  400
-    RHS1      R1[5,0,25]  400
-    RHS1      R1[5,0,26]  400
-    RHS1      R1[5,0,27]  400
-    RHS1      R1[5,0,28]  400
-    RHS1      R1[5,0,29]  400
-    RHS1      R1[5,0,30]  400
-    RHS1      R1[5,0,31]  400
-    RHS1      R1[5,0,32]  400
-    RHS1      R1[5,0,33]  400
-    RHS1      R1[5,0,34]  400
-    RHS1      R1[5,0,35]  400
-    RHS1      R1[5,0,36]  400
-    RHS1      R1[5,0,37]  400
-    RHS1      R1[5,0,38]  400
-    RHS1      R1[5,0,39]  400
-    RHS1      R1[5,0,40]  400
-    RHS1      R1[5,0,41]  400
-    RHS1      R1[5,0,42]  400
-    RHS1      R1[5,0,43]  400
-    RHS1      R1[5,0,44]  400
-    RHS1      R1[5,0,45]  400
-    RHS1      R1[5,0,46]  400
-    RHS1      R1[5,0,47]  400
-    RHS1      R1[5,0,48]  400
-    RHS1      R1[5,0,49]  400
-    RHS1      R1[5,0,50]  400
-    RHS1      R1[5,0,51]  400
-    RHS1      R1[5,0,52]  400
-    RHS1      R1[5,0,53]  400
-    RHS1      R1[5,0,54]  400
-    RHS1      R1[5,0,55]  400
-    RHS1      R1[5,0,56]  400
-    RHS1      R1[5,0,57]  400
-    RHS1      R1[5,0,58]  400
-    RHS1      R1[5,0,59]  400
-    RHS1      R1[5,0,60]  400
-    RHS1      R1[5,0,61]  400
-    RHS1      R1[5,0,62]  400
-    RHS1      R1[5,0,63]  400
-    RHS1      R1[5,0,64]  400
-    RHS1      R1[5,0,65]  400
-    RHS1      R1[5,0,66]  400
-    RHS1      R1[5,0,67]  400
-    RHS1      R1[5,0,68]  400
-    RHS1      R1[5,0,69]  400
-    RHS1      R1[5,0,70]  400
-    RHS1      R1[5,0,71]  400
-    RHS1      R1[5,0,72]  400
-    RHS1      R1[5,0,73]  400
-    RHS1      R1[5,0,74]  400
-    RHS1      R1[5,0,75]  400
-    RHS1      R1[5,0,76]  400
-    RHS1      R1[5,0,77]  400
-    RHS1      R1[5,0,78]  400
-    RHS1      R1[5,0,79]  400
-    RHS1      R1[5,0,80]  400
-    RHS1      R1[5,0,81]  400
-    RHS1      R1[5,0,82]  400
-    RHS1      R1[5,0,83]  400
-    RHS1      R1[5,0,84]  400
-    RHS1      R1[5,0,85]  400
-    RHS1      R1[5,0,86]  400
-    RHS1      R1[5,0,87]  400
-    RHS1      R1[5,0,88]  400
-    RHS1      R1[5,0,89]  400
-    RHS1      R1[5,0,90]  400
-    RHS1      R1[5,0,91]  400
-    RHS1      R1[5,0,92]  400
-    RHS1      R1[5,0,93]  400
-    RHS1      R1[5,0,94]  400
-    RHS1      R1[5,0,95]  400
-    RHS1      R1[5,0,96]  400
-    RHS1      R1[5,0,97]  400
-    RHS1      R1[5,0,98]  400
-    RHS1      R1[5,0,99]  400
-    RHS1      R1[5,1,0]  400
-    RHS1      R1[5,1,1]  400
-    RHS1      R1[5,1,2]  400
-    RHS1      R1[5,1,3]  400
-    RHS1      R1[5,1,4]  400
-    RHS1      R1[5,1,5]  400
-    RHS1      R1[5,1,6]  400
-    RHS1      R1[5,1,7]  400
-    RHS1      R1[5,1,8]  400
-    RHS1      R1[5,1,9]  400
-    RHS1      R1[5,1,10]  400
-    RHS1      R1[5,1,11]  400
-    RHS1      R1[5,1,12]  400
-    RHS1      R1[5,1,13]  400
-    RHS1      R1[5,1,14]  400
-    RHS1      R1[5,1,15]  400
-    RHS1      R1[5,1,16]  400
-    RHS1      R1[5,1,17]  400
-    RHS1      R1[5,1,18]  400
-    RHS1      R1[5,1,19]  400
-    RHS1      R1[5,1,20]  400
-    RHS1      R1[5,1,21]  400
-    RHS1      R1[5,1,22]  400
-    RHS1      R1[5,1,23]  400
-    RHS1      R1[5,1,24]  400
-    RHS1      R1[5,1,25]  400
-    RHS1      R1[5,1,26]  400
-    RHS1      R1[5,1,27]  400
-    RHS1      R1[5,1,28]  400
-    RHS1      R1[5,1,29]  400
-    RHS1      R1[5,1,30]  400
-    RHS1      R1[5,1,31]  400
-    RHS1      R1[5,1,32]  400
-    RHS1      R1[5,1,33]  400
-    RHS1      R1[5,1,34]  400
-    RHS1      R1[5,1,35]  400
-    RHS1      R1[5,1,36]  400
-    RHS1      R1[5,1,37]  400
-    RHS1      R1[5,1,38]  400
-    RHS1      R1[5,1,39]  400
-    RHS1      R1[5,1,40]  400
-    RHS1      R1[5,1,41]  400
-    RHS1      R1[5,1,42]  400
-    RHS1      R1[5,1,43]  400
-    RHS1      R1[5,1,44]  400
-    RHS1      R1[5,1,45]  400
-    RHS1      R1[5,1,46]  400
-    RHS1      R1[5,1,47]  400
-    RHS1      R1[5,1,48]  400
-    RHS1      R1[5,1,49]  400
-    RHS1      R1[5,1,50]  400
-    RHS1      R1[5,1,51]  400
-    RHS1      R1[5,1,52]  400
-    RHS1      R1[5,1,53]  400
-    RHS1      R1[5,1,54]  400
-    RHS1      R1[5,1,55]  400
-    RHS1      R1[5,1,56]  400
-    RHS1      R1[5,1,57]  400
-    RHS1      R1[5,1,58]  400
-    RHS1      R1[5,1,59]  400
-    RHS1      R1[5,1,60]  400
-    RHS1      R1[5,1,61]  400
-    RHS1      R1[5,1,62]  400
-    RHS1      R1[5,1,63]  400
-    RHS1      R1[5,1,64]  400
-    RHS1      R1[5,1,65]  400
-    RHS1      R1[5,1,66]  400
-    RHS1      R1[5,1,67]  400
-    RHS1      R1[5,1,68]  400
-    RHS1      R1[5,1,69]  400
-    RHS1      R1[5,1,70]  400
-    RHS1      R1[5,1,71]  400
-    RHS1      R1[5,1,72]  400
-    RHS1      R1[5,1,73]  400
-    RHS1      R1[5,1,74]  400
-    RHS1      R1[5,1,75]  400
-    RHS1      R1[5,1,76]  400
-    RHS1      R1[5,1,77]  400
-    RHS1      R1[5,1,78]  400
-    RHS1      R1[5,1,79]  400
-    RHS1      R1[5,1,80]  400
-    RHS1      R1[5,1,81]  400
-    RHS1      R1[5,1,82]  400
-    RHS1      R1[5,1,83]  400
-    RHS1      R1[5,1,84]  400
-    RHS1      R1[5,1,85]  400
-    RHS1      R1[5,1,86]  400
-    RHS1      R1[5,1,87]  400
-    RHS1      R1[5,1,88]  400
-    RHS1      R1[5,1,89]  400
-    RHS1      R1[5,1,90]  400
-    RHS1      R1[5,1,91]  400
-    RHS1      R1[5,1,92]  400
-    RHS1      R1[5,1,93]  400
-    RHS1      R1[5,1,94]  400
-    RHS1      R1[5,1,95]  400
-    RHS1      R1[5,1,96]  400
-    RHS1      R1[5,1,97]  400
-    RHS1      R1[5,1,98]  400
-    RHS1      R1[5,1,99]  400
-    RHS1      R1[5,2,0]  400
-    RHS1      R1[5,2,1]  400
-    RHS1      R1[5,2,2]  400
-    RHS1      R1[5,2,3]  400
-    RHS1      R1[5,2,4]  400
-    RHS1      R1[5,2,5]  400
-    RHS1      R1[5,2,6]  400
-    RHS1      R1[5,2,7]  400
-    RHS1      R1[5,2,8]  400
-    RHS1      R1[5,2,9]  400
-    RHS1      R1[5,2,10]  400
-    RHS1      R1[5,2,11]  400
-    RHS1      R1[5,2,12]  400
-    RHS1      R1[5,2,13]  400
-    RHS1      R1[5,2,14]  400
-    RHS1      R1[5,2,15]  400
-    RHS1      R1[5,2,16]  400
-    RHS1      R1[5,2,17]  400
-    RHS1      R1[5,2,18]  400
-    RHS1      R1[5,2,19]  400
-    RHS1      R1[5,2,20]  400
-    RHS1      R1[5,2,21]  400
-    RHS1      R1[5,2,22]  400
-    RHS1      R1[5,2,23]  400
-    RHS1      R1[5,2,24]  400
-    RHS1      R1[5,2,25]  400
-    RHS1      R1[5,2,26]  400
-    RHS1      R1[5,2,27]  400
-    RHS1      R1[5,2,28]  400
-    RHS1      R1[5,2,29]  400
-    RHS1      R1[5,2,30]  400
-    RHS1      R1[5,2,31]  400
-    RHS1      R1[5,2,32]  400
-    RHS1      R1[5,2,33]  400
-    RHS1      R1[5,2,34]  400
-    RHS1      R1[5,2,35]  400
-    RHS1      R1[5,2,36]  400
-    RHS1      R1[5,2,37]  400
-    RHS1      R1[5,2,38]  400
-    RHS1      R1[5,2,39]  400
-    RHS1      R1[5,2,40]  400
-    RHS1      R1[5,2,41]  400
-    RHS1      R1[5,2,42]  400
-    RHS1      R1[5,2,43]  400
-    RHS1      R1[5,2,44]  400
-    RHS1      R1[5,2,45]  400
-    RHS1      R1[5,2,46]  400
-    RHS1      R1[5,2,47]  400
-    RHS1      R1[5,2,48]  400
-    RHS1      R1[5,2,49]  400
-    RHS1      R1[5,2,50]  400
-    RHS1      R1[5,2,51]  400
-    RHS1      R1[5,2,52]  400
-    RHS1      R1[5,2,53]  400
-    RHS1      R1[5,2,54]  400
-    RHS1      R1[5,2,55]  400
-    RHS1      R1[5,2,56]  400
-    RHS1      R1[5,2,57]  400
-    RHS1      R1[5,2,58]  400
-    RHS1      R1[5,2,59]  400
-    RHS1      R1[5,2,60]  400
-    RHS1      R1[5,2,61]  400
-    RHS1      R1[5,2,62]  400
-    RHS1      R1[5,2,63]  400
-    RHS1      R1[5,2,64]  400
-    RHS1      R1[5,2,65]  400
-    RHS1      R1[5,2,66]  400
-    RHS1      R1[5,2,67]  400
-    RHS1      R1[5,2,68]  400
-    RHS1      R1[5,2,69]  400
-    RHS1      R1[5,2,70]  400
-    RHS1      R1[5,2,71]  400
-    RHS1      R1[5,2,72]  400
-    RHS1      R1[5,2,73]  400
-    RHS1      R1[5,2,74]  400
-    RHS1      R1[5,2,75]  400
-    RHS1      R1[5,2,76]  400
-    RHS1      R1[5,2,77]  400
-    RHS1      R1[5,2,78]  400
-    RHS1      R1[5,2,79]  400
-    RHS1      R1[5,2,80]  400
-    RHS1      R1[5,2,81]  400
-    RHS1      R1[5,2,82]  400
-    RHS1      R1[5,2,83]  400
-    RHS1      R1[5,2,84]  400
-    RHS1      R1[5,2,85]  400
-    RHS1      R1[5,2,86]  400
-    RHS1      R1[5,2,87]  400
-    RHS1      R1[5,2,88]  400
-    RHS1      R1[5,2,89]  400
-    RHS1      R1[5,2,90]  400
-    RHS1      R1[5,2,91]  400
-    RHS1      R1[5,2,92]  400
-    RHS1      R1[5,2,93]  400
-    RHS1      R1[5,2,94]  400
-    RHS1      R1[5,2,95]  400
-    RHS1      R1[5,2,96]  400
-    RHS1      R1[5,2,97]  400
-    RHS1      R1[5,2,98]  400
-    RHS1      R1[5,2,99]  400
-    RHS1      R1[5,3,0]  400
-    RHS1      R1[5,3,1]  400
-    RHS1      R1[5,3,2]  400
-    RHS1      R1[5,3,3]  400
-    RHS1      R1[5,3,4]  400
-    RHS1      R1[5,3,5]  400
-    RHS1      R1[5,3,6]  400
-    RHS1      R1[5,3,7]  400
-    RHS1      R1[5,3,8]  400
-    RHS1      R1[5,3,9]  400
-    RHS1      R1[5,3,10]  400
-    RHS1      R1[5,3,11]  400
-    RHS1      R1[5,3,12]  400
-    RHS1      R1[5,3,13]  400
-    RHS1      R1[5,3,14]  400
-    RHS1      R1[5,3,15]  400
-    RHS1      R1[5,3,16]  400
-    RHS1      R1[5,3,17]  400
-    RHS1      R1[5,3,18]  400
-    RHS1      R1[5,3,19]  400
-    RHS1      R1[5,3,20]  400
-    RHS1      R1[5,3,21]  400
-    RHS1      R1[5,3,22]  400
-    RHS1      R1[5,3,23]  400
-    RHS1      R1[5,3,24]  400
-    RHS1      R1[5,3,25]  400
-    RHS1      R1[5,3,26]  400
-    RHS1      R1[5,3,27]  400
-    RHS1      R1[5,3,28]  400
-    RHS1      R1[5,3,29]  400
-    RHS1      R1[5,3,30]  400
-    RHS1      R1[5,3,31]  400
-    RHS1      R1[5,3,32]  400
-    RHS1      R1[5,3,33]  400
-    RHS1      R1[5,3,34]  400
-    RHS1      R1[5,3,35]  400
-    RHS1      R1[5,3,36]  400
-    RHS1      R1[5,3,37]  400
-    RHS1      R1[5,3,38]  400
-    RHS1      R1[5,3,39]  400
-    RHS1      R1[5,3,40]  400
-    RHS1      R1[5,3,41]  400
-    RHS1      R1[5,3,42]  400
-    RHS1      R1[5,3,43]  400
-    RHS1      R1[5,3,44]  400
-    RHS1      R1[5,3,45]  400
-    RHS1      R1[5,3,46]  400
-    RHS1      R1[5,3,47]  400
-    RHS1      R1[5,3,48]  400
-    RHS1      R1[5,3,49]  400
-    RHS1      R1[5,3,50]  400
-    RHS1      R1[5,3,51]  400
-    RHS1      R1[5,3,52]  400
-    RHS1      R1[5,3,53]  400
-    RHS1      R1[5,3,54]  400
-    RHS1      R1[5,3,55]  400
-    RHS1      R1[5,3,56]  400
-    RHS1      R1[5,3,57]  400
-    RHS1      R1[5,3,58]  400
-    RHS1      R1[5,3,59]  400
-    RHS1      R1[5,3,60]  400
-    RHS1      R1[5,3,61]  400
-    RHS1      R1[5,3,62]  400
-    RHS1      R1[5,3,63]  400
-    RHS1      R1[5,3,64]  400
-    RHS1      R1[5,3,65]  400
-    RHS1      R1[5,3,66]  400
-    RHS1      R1[5,3,67]  400
-    RHS1      R1[5,3,68]  400
-    RHS1      R1[5,3,69]  400
-    RHS1      R1[5,3,70]  400
-    RHS1      R1[5,3,71]  400
-    RHS1      R1[5,3,72]  400
-    RHS1      R1[5,3,73]  400
-    RHS1      R1[5,3,74]  400
-    RHS1      R1[5,3,75]  400
-    RHS1      R1[5,3,76]  400
-    RHS1      R1[5,3,77]  400
-    RHS1      R1[5,3,78]  400
-    RHS1      R1[5,3,79]  400
-    RHS1      R1[5,3,80]  400
-    RHS1      R1[5,3,81]  400
-    RHS1      R1[5,3,82]  400
-    RHS1      R1[5,3,83]  400
-    RHS1      R1[5,3,84]  400
-    RHS1      R1[5,3,85]  400
-    RHS1      R1[5,3,86]  400
-    RHS1      R1[5,3,87]  400
-    RHS1      R1[5,3,88]  400
-    RHS1      R1[5,3,89]  400
-    RHS1      R1[5,3,90]  400
-    RHS1      R1[5,3,91]  400
-    RHS1      R1[5,3,92]  400
-    RHS1      R1[5,3,93]  400
-    RHS1      R1[5,3,94]  400
-    RHS1      R1[5,3,95]  400
-    RHS1      R1[5,3,96]  400
-    RHS1      R1[5,3,97]  400
-    RHS1      R1[5,3,98]  400
-    RHS1      R1[5,3,99]  400
+    RHS1      R1[0,0,0]  1000
+    RHS1      R1[0,0,1]  1000
+    RHS1      R1[0,0,2]  1000
+    RHS1      R1[0,0,3]  1000
+    RHS1      R1[0,0,4]  1000
+    RHS1      R1[0,0,5]  1000
+    RHS1      R1[0,0,6]  1000
+    RHS1      R1[0,0,7]  1000
+    RHS1      R1[0,0,8]  1000
+    RHS1      R1[0,0,9]  1000
+    RHS1      R1[0,0,10]  1000
+    RHS1      R1[0,0,11]  1000
+    RHS1      R1[0,0,12]  1000
+    RHS1      R1[0,0,13]  1000
+    RHS1      R1[0,0,14]  1000
+    RHS1      R1[0,0,15]  1000
+    RHS1      R1[0,0,16]  1000
+    RHS1      R1[0,0,17]  1000
+    RHS1      R1[0,0,18]  1000
+    RHS1      R1[0,0,19]  1000
+    RHS1      R1[0,0,20]  1000
+    RHS1      R1[0,0,21]  1000
+    RHS1      R1[0,0,22]  1000
+    RHS1      R1[0,0,23]  1000
+    RHS1      R1[0,0,24]  1000
+    RHS1      R1[0,0,25]  1000
+    RHS1      R1[0,0,26]  1000
+    RHS1      R1[0,0,27]  1000
+    RHS1      R1[0,0,28]  1000
+    RHS1      R1[0,0,29]  1000
+    RHS1      R1[0,0,30]  1000
+    RHS1      R1[0,0,31]  1000
+    RHS1      R1[0,0,32]  1000
+    RHS1      R1[0,0,33]  1000
+    RHS1      R1[0,0,34]  1000
+    RHS1      R1[0,0,35]  1000
+    RHS1      R1[0,0,36]  1000
+    RHS1      R1[0,0,37]  1000
+    RHS1      R1[0,0,38]  1000
+    RHS1      R1[0,0,39]  1000
+    RHS1      R1[0,0,40]  1000
+    RHS1      R1[0,0,41]  1000
+    RHS1      R1[0,0,42]  1000
+    RHS1      R1[0,0,43]  1000
+    RHS1      R1[0,0,44]  1000
+    RHS1      R1[0,0,45]  1000
+    RHS1      R1[0,0,46]  1000
+    RHS1      R1[0,0,47]  1000
+    RHS1      R1[0,0,48]  1000
+    RHS1      R1[0,0,49]  1000
+    RHS1      R1[0,0,50]  1000
+    RHS1      R1[0,0,51]  1000
+    RHS1      R1[0,0,52]  1000
+    RHS1      R1[0,0,53]  1000
+    RHS1      R1[0,0,54]  1000
+    RHS1      R1[0,0,55]  1000
+    RHS1      R1[0,0,56]  1000
+    RHS1      R1[0,0,57]  1000
+    RHS1      R1[0,0,58]  1000
+    RHS1      R1[0,0,59]  1000
+    RHS1      R1[0,0,60]  1000
+    RHS1      R1[0,0,61]  1000
+    RHS1      R1[0,0,62]  1000
+    RHS1      R1[0,0,63]  1000
+    RHS1      R1[0,0,64]  1000
+    RHS1      R1[0,0,65]  1000
+    RHS1      R1[0,0,66]  1000
+    RHS1      R1[0,0,67]  1000
+    RHS1      R1[0,0,68]  1000
+    RHS1      R1[0,0,69]  1000
+    RHS1      R1[0,0,70]  1000
+    RHS1      R1[0,0,71]  1000
+    RHS1      R1[0,0,72]  1000
+    RHS1      R1[0,0,73]  1000
+    RHS1      R1[0,0,74]  1000
+    RHS1      R1[0,0,75]  1000
+    RHS1      R1[0,0,76]  1000
+    RHS1      R1[0,0,77]  1000
+    RHS1      R1[0,0,78]  1000
+    RHS1      R1[0,0,79]  1000
+    RHS1      R1[0,0,80]  1000
+    RHS1      R1[0,0,81]  1000
+    RHS1      R1[0,0,82]  1000
+    RHS1      R1[0,0,83]  1000
+    RHS1      R1[0,0,84]  1000
+    RHS1      R1[0,0,85]  1000
+    RHS1      R1[0,0,86]  1000
+    RHS1      R1[0,0,87]  1000
+    RHS1      R1[0,0,88]  1000
+    RHS1      R1[0,0,89]  1000
+    RHS1      R1[0,0,90]  1000
+    RHS1      R1[0,0,91]  1000
+    RHS1      R1[0,0,92]  1000
+    RHS1      R1[0,0,93]  1000
+    RHS1      R1[0,0,94]  1000
+    RHS1      R1[0,0,95]  1000
+    RHS1      R1[0,0,96]  1000
+    RHS1      R1[0,0,97]  1000
+    RHS1      R1[0,0,98]  1000
+    RHS1      R1[0,0,99]  1000
+    RHS1      R1[0,1,0]  1000
+    RHS1      R1[0,1,1]  1000
+    RHS1      R1[0,1,2]  1000
+    RHS1      R1[0,1,3]  1000
+    RHS1      R1[0,1,4]  1000
+    RHS1      R1[0,1,5]  1000
+    RHS1      R1[0,1,6]  1000
+    RHS1      R1[0,1,7]  1000
+    RHS1      R1[0,1,8]  1000
+    RHS1      R1[0,1,9]  1000
+    RHS1      R1[0,1,10]  1000
+    RHS1      R1[0,1,11]  1000
+    RHS1      R1[0,1,12]  1000
+    RHS1      R1[0,1,13]  1000
+    RHS1      R1[0,1,14]  1000
+    RHS1      R1[0,1,15]  1000
+    RHS1      R1[0,1,16]  1000
+    RHS1      R1[0,1,17]  1000
+    RHS1      R1[0,1,18]  1000
+    RHS1      R1[0,1,19]  1000
+    RHS1      R1[0,1,20]  1000
+    RHS1      R1[0,1,21]  1000
+    RHS1      R1[0,1,22]  1000
+    RHS1      R1[0,1,23]  1000
+    RHS1      R1[0,1,24]  1000
+    RHS1      R1[0,1,25]  1000
+    RHS1      R1[0,1,26]  1000
+    RHS1      R1[0,1,27]  1000
+    RHS1      R1[0,1,28]  1000
+    RHS1      R1[0,1,29]  1000
+    RHS1      R1[0,1,30]  1000
+    RHS1      R1[0,1,31]  1000
+    RHS1      R1[0,1,32]  1000
+    RHS1      R1[0,1,33]  1000
+    RHS1      R1[0,1,34]  1000
+    RHS1      R1[0,1,35]  1000
+    RHS1      R1[0,1,36]  1000
+    RHS1      R1[0,1,37]  1000
+    RHS1      R1[0,1,38]  1000
+    RHS1      R1[0,1,39]  1000
+    RHS1      R1[0,1,40]  1000
+    RHS1      R1[0,1,41]  1000
+    RHS1      R1[0,1,42]  1000
+    RHS1      R1[0,1,43]  1000
+    RHS1      R1[0,1,44]  1000
+    RHS1      R1[0,1,45]  1000
+    RHS1      R1[0,1,46]  1000
+    RHS1      R1[0,1,47]  1000
+    RHS1      R1[0,1,48]  1000
+    RHS1      R1[0,1,49]  1000
+    RHS1      R1[0,1,50]  1000
+    RHS1      R1[0,1,51]  1000
+    RHS1      R1[0,1,52]  1000
+    RHS1      R1[0,1,53]  1000
+    RHS1      R1[0,1,54]  1000
+    RHS1      R1[0,1,55]  1000
+    RHS1      R1[0,1,56]  1000
+    RHS1      R1[0,1,57]  1000
+    RHS1      R1[0,1,58]  1000
+    RHS1      R1[0,1,59]  1000
+    RHS1      R1[0,1,60]  1000
+    RHS1      R1[0,1,61]  1000
+    RHS1      R1[0,1,62]  1000
+    RHS1      R1[0,1,63]  1000
+    RHS1      R1[0,1,64]  1000
+    RHS1      R1[0,1,65]  1000
+    RHS1      R1[0,1,66]  1000
+    RHS1      R1[0,1,67]  1000
+    RHS1      R1[0,1,68]  1000
+    RHS1      R1[0,1,69]  1000
+    RHS1      R1[0,1,70]  1000
+    RHS1      R1[0,1,71]  1000
+    RHS1      R1[0,1,72]  1000
+    RHS1      R1[0,1,73]  1000
+    RHS1      R1[0,1,74]  1000
+    RHS1      R1[0,1,75]  1000
+    RHS1      R1[0,1,76]  1000
+    RHS1      R1[0,1,77]  1000
+    RHS1      R1[0,1,78]  1000
+    RHS1      R1[0,1,79]  1000
+    RHS1      R1[0,1,80]  1000
+    RHS1      R1[0,1,81]  1000
+    RHS1      R1[0,1,82]  1000
+    RHS1      R1[0,1,83]  1000
+    RHS1      R1[0,1,84]  1000
+    RHS1      R1[0,1,85]  1000
+    RHS1      R1[0,1,86]  1000
+    RHS1      R1[0,1,87]  1000
+    RHS1      R1[0,1,88]  1000
+    RHS1      R1[0,1,89]  1000
+    RHS1      R1[0,1,90]  1000
+    RHS1      R1[0,1,91]  1000
+    RHS1      R1[0,1,92]  1000
+    RHS1      R1[0,1,93]  1000
+    RHS1      R1[0,1,94]  1000
+    RHS1      R1[0,1,95]  1000
+    RHS1      R1[0,1,96]  1000
+    RHS1      R1[0,1,97]  1000
+    RHS1      R1[0,1,98]  1000
+    RHS1      R1[0,1,99]  1000
+    RHS1      R1[0,2,0]  1000
+    RHS1      R1[0,2,1]  1000
+    RHS1      R1[0,2,2]  1000
+    RHS1      R1[0,2,3]  1000
+    RHS1      R1[0,2,4]  1000
+    RHS1      R1[0,2,5]  1000
+    RHS1      R1[0,2,6]  1000
+    RHS1      R1[0,2,7]  1000
+    RHS1      R1[0,2,8]  1000
+    RHS1      R1[0,2,9]  1000
+    RHS1      R1[0,2,10]  1000
+    RHS1      R1[0,2,11]  1000
+    RHS1      R1[0,2,12]  1000
+    RHS1      R1[0,2,13]  1000
+    RHS1      R1[0,2,14]  1000
+    RHS1      R1[0,2,15]  1000
+    RHS1      R1[0,2,16]  1000
+    RHS1      R1[0,2,17]  1000
+    RHS1      R1[0,2,18]  1000
+    RHS1      R1[0,2,19]  1000
+    RHS1      R1[0,2,20]  1000
+    RHS1      R1[0,2,21]  1000
+    RHS1      R1[0,2,22]  1000
+    RHS1      R1[0,2,23]  1000
+    RHS1      R1[0,2,24]  1000
+    RHS1      R1[0,2,25]  1000
+    RHS1      R1[0,2,26]  1000
+    RHS1      R1[0,2,27]  1000
+    RHS1      R1[0,2,28]  1000
+    RHS1      R1[0,2,29]  1000
+    RHS1      R1[0,2,30]  1000
+    RHS1      R1[0,2,31]  1000
+    RHS1      R1[0,2,32]  1000
+    RHS1      R1[0,2,33]  1000
+    RHS1      R1[0,2,34]  1000
+    RHS1      R1[0,2,35]  1000
+    RHS1      R1[0,2,36]  1000
+    RHS1      R1[0,2,37]  1000
+    RHS1      R1[0,2,38]  1000
+    RHS1      R1[0,2,39]  1000
+    RHS1      R1[0,2,40]  1000
+    RHS1      R1[0,2,41]  1000
+    RHS1      R1[0,2,42]  1000
+    RHS1      R1[0,2,43]  1000
+    RHS1      R1[0,2,44]  1000
+    RHS1      R1[0,2,45]  1000
+    RHS1      R1[0,2,46]  1000
+    RHS1      R1[0,2,47]  1000
+    RHS1      R1[0,2,48]  1000
+    RHS1      R1[0,2,49]  1000
+    RHS1      R1[0,2,50]  1000
+    RHS1      R1[0,2,51]  1000
+    RHS1      R1[0,2,52]  1000
+    RHS1      R1[0,2,53]  1000
+    RHS1      R1[0,2,54]  1000
+    RHS1      R1[0,2,55]  1000
+    RHS1      R1[0,2,56]  1000
+    RHS1      R1[0,2,57]  1000
+    RHS1      R1[0,2,58]  1000
+    RHS1      R1[0,2,59]  1000
+    RHS1      R1[0,2,60]  1000
+    RHS1      R1[0,2,61]  1000
+    RHS1      R1[0,2,62]  1000
+    RHS1      R1[0,2,63]  1000
+    RHS1      R1[0,2,64]  1000
+    RHS1      R1[0,2,65]  1000
+    RHS1      R1[0,2,66]  1000
+    RHS1      R1[0,2,67]  1000
+    RHS1      R1[0,2,68]  1000
+    RHS1      R1[0,2,69]  1000
+    RHS1      R1[0,2,70]  1000
+    RHS1      R1[0,2,71]  1000
+    RHS1      R1[0,2,72]  1000
+    RHS1      R1[0,2,73]  1000
+    RHS1      R1[0,2,74]  1000
+    RHS1      R1[0,2,75]  1000
+    RHS1      R1[0,2,76]  1000
+    RHS1      R1[0,2,77]  1000
+    RHS1      R1[0,2,78]  1000
+    RHS1      R1[0,2,79]  1000
+    RHS1      R1[0,2,80]  1000
+    RHS1      R1[0,2,81]  1000
+    RHS1      R1[0,2,82]  1000
+    RHS1      R1[0,2,83]  1000
+    RHS1      R1[0,2,84]  1000
+    RHS1      R1[0,2,85]  1000
+    RHS1      R1[0,2,86]  1000
+    RHS1      R1[0,2,87]  1000
+    RHS1      R1[0,2,88]  1000
+    RHS1      R1[0,2,89]  1000
+    RHS1      R1[0,2,90]  1000
+    RHS1      R1[0,2,91]  1000
+    RHS1      R1[0,2,92]  1000
+    RHS1      R1[0,2,93]  1000
+    RHS1      R1[0,2,94]  1000
+    RHS1      R1[0,2,95]  1000
+    RHS1      R1[0,2,96]  1000
+    RHS1      R1[0,2,97]  1000
+    RHS1      R1[0,2,98]  1000
+    RHS1      R1[0,2,99]  1000
+    RHS1      R1[0,3,0]  1000
+    RHS1      R1[0,3,1]  1000
+    RHS1      R1[0,3,2]  1000
+    RHS1      R1[0,3,3]  1000
+    RHS1      R1[0,3,4]  1000
+    RHS1      R1[0,3,5]  1000
+    RHS1      R1[0,3,6]  1000
+    RHS1      R1[0,3,7]  1000
+    RHS1      R1[0,3,8]  1000
+    RHS1      R1[0,3,9]  1000
+    RHS1      R1[0,3,10]  1000
+    RHS1      R1[0,3,11]  1000
+    RHS1      R1[0,3,12]  1000
+    RHS1      R1[0,3,13]  1000
+    RHS1      R1[0,3,14]  1000
+    RHS1      R1[0,3,15]  1000
+    RHS1      R1[0,3,16]  1000
+    RHS1      R1[0,3,17]  1000
+    RHS1      R1[0,3,18]  1000
+    RHS1      R1[0,3,19]  1000
+    RHS1      R1[0,3,20]  1000
+    RHS1      R1[0,3,21]  1000
+    RHS1      R1[0,3,22]  1000
+    RHS1      R1[0,3,23]  1000
+    RHS1      R1[0,3,24]  1000
+    RHS1      R1[0,3,25]  1000
+    RHS1      R1[0,3,26]  1000
+    RHS1      R1[0,3,27]  1000
+    RHS1      R1[0,3,28]  1000
+    RHS1      R1[0,3,29]  1000
+    RHS1      R1[0,3,30]  1000
+    RHS1      R1[0,3,31]  1000
+    RHS1      R1[0,3,32]  1000
+    RHS1      R1[0,3,33]  1000
+    RHS1      R1[0,3,34]  1000
+    RHS1      R1[0,3,35]  1000
+    RHS1      R1[0,3,36]  1000
+    RHS1      R1[0,3,37]  1000
+    RHS1      R1[0,3,38]  1000
+    RHS1      R1[0,3,39]  1000
+    RHS1      R1[0,3,40]  1000
+    RHS1      R1[0,3,41]  1000
+    RHS1      R1[0,3,42]  1000
+    RHS1      R1[0,3,43]  1000
+    RHS1      R1[0,3,44]  1000
+    RHS1      R1[0,3,45]  1000
+    RHS1      R1[0,3,46]  1000
+    RHS1      R1[0,3,47]  1000
+    RHS1      R1[0,3,48]  1000
+    RHS1      R1[0,3,49]  1000
+    RHS1      R1[0,3,50]  1000
+    RHS1      R1[0,3,51]  1000
+    RHS1      R1[0,3,52]  1000
+    RHS1      R1[0,3,53]  1000
+    RHS1      R1[0,3,54]  1000
+    RHS1      R1[0,3,55]  1000
+    RHS1      R1[0,3,56]  1000
+    RHS1      R1[0,3,57]  1000
+    RHS1      R1[0,3,58]  1000
+    RHS1      R1[0,3,59]  1000
+    RHS1      R1[0,3,60]  1000
+    RHS1      R1[0,3,61]  1000
+    RHS1      R1[0,3,62]  1000
+    RHS1      R1[0,3,63]  1000
+    RHS1      R1[0,3,64]  1000
+    RHS1      R1[0,3,65]  1000
+    RHS1      R1[0,3,66]  1000
+    RHS1      R1[0,3,67]  1000
+    RHS1      R1[0,3,68]  1000
+    RHS1      R1[0,3,69]  1000
+    RHS1      R1[0,3,70]  1000
+    RHS1      R1[0,3,71]  1000
+    RHS1      R1[0,3,72]  1000
+    RHS1      R1[0,3,73]  1000
+    RHS1      R1[0,3,74]  1000
+    RHS1      R1[0,3,75]  1000
+    RHS1      R1[0,3,76]  1000
+    RHS1      R1[0,3,77]  1000
+    RHS1      R1[0,3,78]  1000
+    RHS1      R1[0,3,79]  1000
+    RHS1      R1[0,3,80]  1000
+    RHS1      R1[0,3,81]  1000
+    RHS1      R1[0,3,82]  1000
+    RHS1      R1[0,3,83]  1000
+    RHS1      R1[0,3,84]  1000
+    RHS1      R1[0,3,85]  1000
+    RHS1      R1[0,3,86]  1000
+    RHS1      R1[0,3,87]  1000
+    RHS1      R1[0,3,88]  1000
+    RHS1      R1[0,3,89]  1000
+    RHS1      R1[0,3,90]  1000
+    RHS1      R1[0,3,91]  1000
+    RHS1      R1[0,3,92]  1000
+    RHS1      R1[0,3,93]  1000
+    RHS1      R1[0,3,94]  1000
+    RHS1      R1[0,3,95]  1000
+    RHS1      R1[0,3,96]  1000
+    RHS1      R1[0,3,97]  1000
+    RHS1      R1[0,3,98]  1000
+    RHS1      R1[0,3,99]  1000
+    RHS1      R1[1,0,0]  1000
+    RHS1      R1[1,0,1]  1000
+    RHS1      R1[1,0,2]  1000
+    RHS1      R1[1,0,3]  1000
+    RHS1      R1[1,0,4]  1000
+    RHS1      R1[1,0,5]  1000
+    RHS1      R1[1,0,6]  1000
+    RHS1      R1[1,0,7]  1000
+    RHS1      R1[1,0,8]  1000
+    RHS1      R1[1,0,9]  1000
+    RHS1      R1[1,0,10]  1000
+    RHS1      R1[1,0,11]  1000
+    RHS1      R1[1,0,12]  1000
+    RHS1      R1[1,0,13]  1000
+    RHS1      R1[1,0,14]  1000
+    RHS1      R1[1,0,15]  1000
+    RHS1      R1[1,0,16]  1000
+    RHS1      R1[1,0,17]  1000
+    RHS1      R1[1,0,18]  1000
+    RHS1      R1[1,0,19]  1000
+    RHS1      R1[1,0,20]  1000
+    RHS1      R1[1,0,21]  1000
+    RHS1      R1[1,0,22]  1000
+    RHS1      R1[1,0,23]  1000
+    RHS1      R1[1,0,24]  1000
+    RHS1      R1[1,0,25]  1000
+    RHS1      R1[1,0,26]  1000
+    RHS1      R1[1,0,27]  1000
+    RHS1      R1[1,0,28]  1000
+    RHS1      R1[1,0,29]  1000
+    RHS1      R1[1,0,30]  1000
+    RHS1      R1[1,0,31]  1000
+    RHS1      R1[1,0,32]  1000
+    RHS1      R1[1,0,33]  1000
+    RHS1      R1[1,0,34]  1000
+    RHS1      R1[1,0,35]  1000
+    RHS1      R1[1,0,36]  1000
+    RHS1      R1[1,0,37]  1000
+    RHS1      R1[1,0,38]  1000
+    RHS1      R1[1,0,39]  1000
+    RHS1      R1[1,0,40]  1000
+    RHS1      R1[1,0,41]  1000
+    RHS1      R1[1,0,42]  1000
+    RHS1      R1[1,0,43]  1000
+    RHS1      R1[1,0,44]  1000
+    RHS1      R1[1,0,45]  1000
+    RHS1      R1[1,0,46]  1000
+    RHS1      R1[1,0,47]  1000
+    RHS1      R1[1,0,48]  1000
+    RHS1      R1[1,0,49]  1000
+    RHS1      R1[1,0,50]  1000
+    RHS1      R1[1,0,51]  1000
+    RHS1      R1[1,0,52]  1000
+    RHS1      R1[1,0,53]  1000
+    RHS1      R1[1,0,54]  1000
+    RHS1      R1[1,0,55]  1000
+    RHS1      R1[1,0,56]  1000
+    RHS1      R1[1,0,57]  1000
+    RHS1      R1[1,0,58]  1000
+    RHS1      R1[1,0,59]  1000
+    RHS1      R1[1,0,60]  1000
+    RHS1      R1[1,0,61]  1000
+    RHS1      R1[1,0,62]  1000
+    RHS1      R1[1,0,63]  1000
+    RHS1      R1[1,0,64]  1000
+    RHS1      R1[1,0,65]  1000
+    RHS1      R1[1,0,66]  1000
+    RHS1      R1[1,0,67]  1000
+    RHS1      R1[1,0,68]  1000
+    RHS1      R1[1,0,69]  1000
+    RHS1      R1[1,0,70]  1000
+    RHS1      R1[1,0,71]  1000
+    RHS1      R1[1,0,72]  1000
+    RHS1      R1[1,0,73]  1000
+    RHS1      R1[1,0,74]  1000
+    RHS1      R1[1,0,75]  1000
+    RHS1      R1[1,0,76]  1000
+    RHS1      R1[1,0,77]  1000
+    RHS1      R1[1,0,78]  1000
+    RHS1      R1[1,0,79]  1000
+    RHS1      R1[1,0,80]  1000
+    RHS1      R1[1,0,81]  1000
+    RHS1      R1[1,0,82]  1000
+    RHS1      R1[1,0,83]  1000
+    RHS1      R1[1,0,84]  1000
+    RHS1      R1[1,0,85]  1000
+    RHS1      R1[1,0,86]  1000
+    RHS1      R1[1,0,87]  1000
+    RHS1      R1[1,0,88]  1000
+    RHS1      R1[1,0,89]  1000
+    RHS1      R1[1,0,90]  1000
+    RHS1      R1[1,0,91]  1000
+    RHS1      R1[1,0,92]  1000
+    RHS1      R1[1,0,93]  1000
+    RHS1      R1[1,0,94]  1000
+    RHS1      R1[1,0,95]  1000
+    RHS1      R1[1,0,96]  1000
+    RHS1      R1[1,0,97]  1000
+    RHS1      R1[1,0,98]  1000
+    RHS1      R1[1,0,99]  1000
+    RHS1      R1[1,1,0]  1000
+    RHS1      R1[1,1,1]  1000
+    RHS1      R1[1,1,2]  1000
+    RHS1      R1[1,1,3]  1000
+    RHS1      R1[1,1,4]  1000
+    RHS1      R1[1,1,5]  1000
+    RHS1      R1[1,1,6]  1000
+    RHS1      R1[1,1,7]  1000
+    RHS1      R1[1,1,8]  1000
+    RHS1      R1[1,1,9]  1000
+    RHS1      R1[1,1,10]  1000
+    RHS1      R1[1,1,11]  1000
+    RHS1      R1[1,1,12]  1000
+    RHS1      R1[1,1,13]  1000
+    RHS1      R1[1,1,14]  1000
+    RHS1      R1[1,1,15]  1000
+    RHS1      R1[1,1,16]  1000
+    RHS1      R1[1,1,17]  1000
+    RHS1      R1[1,1,18]  1000
+    RHS1      R1[1,1,19]  1000
+    RHS1      R1[1,1,20]  1000
+    RHS1      R1[1,1,21]  1000
+    RHS1      R1[1,1,22]  1000
+    RHS1      R1[1,1,23]  1000
+    RHS1      R1[1,1,24]  1000
+    RHS1      R1[1,1,25]  1000
+    RHS1      R1[1,1,26]  1000
+    RHS1      R1[1,1,27]  1000
+    RHS1      R1[1,1,28]  1000
+    RHS1      R1[1,1,29]  1000
+    RHS1      R1[1,1,30]  1000
+    RHS1      R1[1,1,31]  1000
+    RHS1      R1[1,1,32]  1000
+    RHS1      R1[1,1,33]  1000
+    RHS1      R1[1,1,34]  1000
+    RHS1      R1[1,1,35]  1000
+    RHS1      R1[1,1,36]  1000
+    RHS1      R1[1,1,37]  1000
+    RHS1      R1[1,1,38]  1000
+    RHS1      R1[1,1,39]  1000
+    RHS1      R1[1,1,40]  1000
+    RHS1      R1[1,1,41]  1000
+    RHS1      R1[1,1,42]  1000
+    RHS1      R1[1,1,43]  1000
+    RHS1      R1[1,1,44]  1000
+    RHS1      R1[1,1,45]  1000
+    RHS1      R1[1,1,46]  1000
+    RHS1      R1[1,1,47]  1000
+    RHS1      R1[1,1,48]  1000
+    RHS1      R1[1,1,49]  1000
+    RHS1      R1[1,1,50]  1000
+    RHS1      R1[1,1,51]  1000
+    RHS1      R1[1,1,52]  1000
+    RHS1      R1[1,1,53]  1000
+    RHS1      R1[1,1,54]  1000
+    RHS1      R1[1,1,55]  1000
+    RHS1      R1[1,1,56]  1000
+    RHS1      R1[1,1,57]  1000
+    RHS1      R1[1,1,58]  1000
+    RHS1      R1[1,1,59]  1000
+    RHS1      R1[1,1,60]  1000
+    RHS1      R1[1,1,61]  1000
+    RHS1      R1[1,1,62]  1000
+    RHS1      R1[1,1,63]  1000
+    RHS1      R1[1,1,64]  1000
+    RHS1      R1[1,1,65]  1000
+    RHS1      R1[1,1,66]  1000
+    RHS1      R1[1,1,67]  1000
+    RHS1      R1[1,1,68]  1000
+    RHS1      R1[1,1,69]  1000
+    RHS1      R1[1,1,70]  1000
+    RHS1      R1[1,1,71]  1000
+    RHS1      R1[1,1,72]  1000
+    RHS1      R1[1,1,73]  1000
+    RHS1      R1[1,1,74]  1000
+    RHS1      R1[1,1,75]  1000
+    RHS1      R1[1,1,76]  1000
+    RHS1      R1[1,1,77]  1000
+    RHS1      R1[1,1,78]  1000
+    RHS1      R1[1,1,79]  1000
+    RHS1      R1[1,1,80]  1000
+    RHS1      R1[1,1,81]  1000
+    RHS1      R1[1,1,82]  1000
+    RHS1      R1[1,1,83]  1000
+    RHS1      R1[1,1,84]  1000
+    RHS1      R1[1,1,85]  1000
+    RHS1      R1[1,1,86]  1000
+    RHS1      R1[1,1,87]  1000
+    RHS1      R1[1,1,88]  1000
+    RHS1      R1[1,1,89]  1000
+    RHS1      R1[1,1,90]  1000
+    RHS1      R1[1,1,91]  1000
+    RHS1      R1[1,1,92]  1000
+    RHS1      R1[1,1,93]  1000
+    RHS1      R1[1,1,94]  1000
+    RHS1      R1[1,1,95]  1000
+    RHS1      R1[1,1,96]  1000
+    RHS1      R1[1,1,97]  1000
+    RHS1      R1[1,1,98]  1000
+    RHS1      R1[1,1,99]  1000
+    RHS1      R1[1,2,0]  1000
+    RHS1      R1[1,2,1]  1000
+    RHS1      R1[1,2,2]  1000
+    RHS1      R1[1,2,3]  1000
+    RHS1      R1[1,2,4]  1000
+    RHS1      R1[1,2,5]  1000
+    RHS1      R1[1,2,6]  1000
+    RHS1      R1[1,2,7]  1000
+    RHS1      R1[1,2,8]  1000
+    RHS1      R1[1,2,9]  1000
+    RHS1      R1[1,2,10]  1000
+    RHS1      R1[1,2,11]  1000
+    RHS1      R1[1,2,12]  1000
+    RHS1      R1[1,2,13]  1000
+    RHS1      R1[1,2,14]  1000
+    RHS1      R1[1,2,15]  1000
+    RHS1      R1[1,2,16]  1000
+    RHS1      R1[1,2,17]  1000
+    RHS1      R1[1,2,18]  1000
+    RHS1      R1[1,2,19]  1000
+    RHS1      R1[1,2,20]  1000
+    RHS1      R1[1,2,21]  1000
+    RHS1      R1[1,2,22]  1000
+    RHS1      R1[1,2,23]  1000
+    RHS1      R1[1,2,24]  1000
+    RHS1      R1[1,2,25]  1000
+    RHS1      R1[1,2,26]  1000
+    RHS1      R1[1,2,27]  1000
+    RHS1      R1[1,2,28]  1000
+    RHS1      R1[1,2,29]  1000
+    RHS1      R1[1,2,30]  1000
+    RHS1      R1[1,2,31]  1000
+    RHS1      R1[1,2,32]  1000
+    RHS1      R1[1,2,33]  1000
+    RHS1      R1[1,2,34]  1000
+    RHS1      R1[1,2,35]  1000
+    RHS1      R1[1,2,36]  1000
+    RHS1      R1[1,2,37]  1000
+    RHS1      R1[1,2,38]  1000
+    RHS1      R1[1,2,39]  1000
+    RHS1      R1[1,2,40]  1000
+    RHS1      R1[1,2,41]  1000
+    RHS1      R1[1,2,42]  1000
+    RHS1      R1[1,2,43]  1000
+    RHS1      R1[1,2,44]  1000
+    RHS1      R1[1,2,45]  1000
+    RHS1      R1[1,2,46]  1000
+    RHS1      R1[1,2,47]  1000
+    RHS1      R1[1,2,48]  1000
+    RHS1      R1[1,2,49]  1000
+    RHS1      R1[1,2,50]  1000
+    RHS1      R1[1,2,51]  1000
+    RHS1      R1[1,2,52]  1000
+    RHS1      R1[1,2,53]  1000
+    RHS1      R1[1,2,54]  1000
+    RHS1      R1[1,2,55]  1000
+    RHS1      R1[1,2,56]  1000
+    RHS1      R1[1,2,57]  1000
+    RHS1      R1[1,2,58]  1000
+    RHS1      R1[1,2,59]  1000
+    RHS1      R1[1,2,60]  1000
+    RHS1      R1[1,2,61]  1000
+    RHS1      R1[1,2,62]  1000
+    RHS1      R1[1,2,63]  1000
+    RHS1      R1[1,2,64]  1000
+    RHS1      R1[1,2,65]  1000
+    RHS1      R1[1,2,66]  1000
+    RHS1      R1[1,2,67]  1000
+    RHS1      R1[1,2,68]  1000
+    RHS1      R1[1,2,69]  1000
+    RHS1      R1[1,2,70]  1000
+    RHS1      R1[1,2,71]  1000
+    RHS1      R1[1,2,72]  1000
+    RHS1      R1[1,2,73]  1000
+    RHS1      R1[1,2,74]  1000
+    RHS1      R1[1,2,75]  1000
+    RHS1      R1[1,2,76]  1000
+    RHS1      R1[1,2,77]  1000
+    RHS1      R1[1,2,78]  1000
+    RHS1      R1[1,2,79]  1000
+    RHS1      R1[1,2,80]  1000
+    RHS1      R1[1,2,81]  1000
+    RHS1      R1[1,2,82]  1000
+    RHS1      R1[1,2,83]  1000
+    RHS1      R1[1,2,84]  1000
+    RHS1      R1[1,2,85]  1000
+    RHS1      R1[1,2,86]  1000
+    RHS1      R1[1,2,87]  1000
+    RHS1      R1[1,2,88]  1000
+    RHS1      R1[1,2,89]  1000
+    RHS1      R1[1,2,90]  1000
+    RHS1      R1[1,2,91]  1000
+    RHS1      R1[1,2,92]  1000
+    RHS1      R1[1,2,93]  1000
+    RHS1      R1[1,2,94]  1000
+    RHS1      R1[1,2,95]  1000
+    RHS1      R1[1,2,96]  1000
+    RHS1      R1[1,2,97]  1000
+    RHS1      R1[1,2,98]  1000
+    RHS1      R1[1,2,99]  1000
+    RHS1      R1[1,3,0]  1000
+    RHS1      R1[1,3,1]  1000
+    RHS1      R1[1,3,2]  1000
+    RHS1      R1[1,3,3]  1000
+    RHS1      R1[1,3,4]  1000
+    RHS1      R1[1,3,5]  1000
+    RHS1      R1[1,3,6]  1000
+    RHS1      R1[1,3,7]  1000
+    RHS1      R1[1,3,8]  1000
+    RHS1      R1[1,3,9]  1000
+    RHS1      R1[1,3,10]  1000
+    RHS1      R1[1,3,11]  1000
+    RHS1      R1[1,3,12]  1000
+    RHS1      R1[1,3,13]  1000
+    RHS1      R1[1,3,14]  1000
+    RHS1      R1[1,3,15]  1000
+    RHS1      R1[1,3,16]  1000
+    RHS1      R1[1,3,17]  1000
+    RHS1      R1[1,3,18]  1000
+    RHS1      R1[1,3,19]  1000
+    RHS1      R1[1,3,20]  1000
+    RHS1      R1[1,3,21]  1000
+    RHS1      R1[1,3,22]  1000
+    RHS1      R1[1,3,23]  1000
+    RHS1      R1[1,3,24]  1000
+    RHS1      R1[1,3,25]  1000
+    RHS1      R1[1,3,26]  1000
+    RHS1      R1[1,3,27]  1000
+    RHS1      R1[1,3,28]  1000
+    RHS1      R1[1,3,29]  1000
+    RHS1      R1[1,3,30]  1000
+    RHS1      R1[1,3,31]  1000
+    RHS1      R1[1,3,32]  1000
+    RHS1      R1[1,3,33]  1000
+    RHS1      R1[1,3,34]  1000
+    RHS1      R1[1,3,35]  1000
+    RHS1      R1[1,3,36]  1000
+    RHS1      R1[1,3,37]  1000
+    RHS1      R1[1,3,38]  1000
+    RHS1      R1[1,3,39]  1000
+    RHS1      R1[1,3,40]  1000
+    RHS1      R1[1,3,41]  1000
+    RHS1      R1[1,3,42]  1000
+    RHS1      R1[1,3,43]  1000
+    RHS1      R1[1,3,44]  1000
+    RHS1      R1[1,3,45]  1000
+    RHS1      R1[1,3,46]  1000
+    RHS1      R1[1,3,47]  1000
+    RHS1      R1[1,3,48]  1000
+    RHS1      R1[1,3,49]  1000
+    RHS1      R1[1,3,50]  1000
+    RHS1      R1[1,3,51]  1000
+    RHS1      R1[1,3,52]  1000
+    RHS1      R1[1,3,53]  1000
+    RHS1      R1[1,3,54]  1000
+    RHS1      R1[1,3,55]  1000
+    RHS1      R1[1,3,56]  1000
+    RHS1      R1[1,3,57]  1000
+    RHS1      R1[1,3,58]  1000
+    RHS1      R1[1,3,59]  1000
+    RHS1      R1[1,3,60]  1000
+    RHS1      R1[1,3,61]  1000
+    RHS1      R1[1,3,62]  1000
+    RHS1      R1[1,3,63]  1000
+    RHS1      R1[1,3,64]  1000
+    RHS1      R1[1,3,65]  1000
+    RHS1      R1[1,3,66]  1000
+    RHS1      R1[1,3,67]  1000
+    RHS1      R1[1,3,68]  1000
+    RHS1      R1[1,3,69]  1000
+    RHS1      R1[1,3,70]  1000
+    RHS1      R1[1,3,71]  1000
+    RHS1      R1[1,3,72]  1000
+    RHS1      R1[1,3,73]  1000
+    RHS1      R1[1,3,74]  1000
+    RHS1      R1[1,3,75]  1000
+    RHS1      R1[1,3,76]  1000
+    RHS1      R1[1,3,77]  1000
+    RHS1      R1[1,3,78]  1000
+    RHS1      R1[1,3,79]  1000
+    RHS1      R1[1,3,80]  1000
+    RHS1      R1[1,3,81]  1000
+    RHS1      R1[1,3,82]  1000
+    RHS1      R1[1,3,83]  1000
+    RHS1      R1[1,3,84]  1000
+    RHS1      R1[1,3,85]  1000
+    RHS1      R1[1,3,86]  1000
+    RHS1      R1[1,3,87]  1000
+    RHS1      R1[1,3,88]  1000
+    RHS1      R1[1,3,89]  1000
+    RHS1      R1[1,3,90]  1000
+    RHS1      R1[1,3,91]  1000
+    RHS1      R1[1,3,92]  1000
+    RHS1      R1[1,3,93]  1000
+    RHS1      R1[1,3,94]  1000
+    RHS1      R1[1,3,95]  1000
+    RHS1      R1[1,3,96]  1000
+    RHS1      R1[1,3,97]  1000
+    RHS1      R1[1,3,98]  1000
+    RHS1      R1[1,3,99]  1000
+    RHS1      R1[2,0,0]  1000
+    RHS1      R1[2,0,1]  1000
+    RHS1      R1[2,0,2]  1000
+    RHS1      R1[2,0,3]  1000
+    RHS1      R1[2,0,4]  1000
+    RHS1      R1[2,0,5]  1000
+    RHS1      R1[2,0,6]  1000
+    RHS1      R1[2,0,7]  1000
+    RHS1      R1[2,0,8]  1000
+    RHS1      R1[2,0,9]  1000
+    RHS1      R1[2,0,10]  1000
+    RHS1      R1[2,0,11]  1000
+    RHS1      R1[2,0,12]  1000
+    RHS1      R1[2,0,13]  1000
+    RHS1      R1[2,0,14]  1000
+    RHS1      R1[2,0,15]  1000
+    RHS1      R1[2,0,16]  1000
+    RHS1      R1[2,0,17]  1000
+    RHS1      R1[2,0,18]  1000
+    RHS1      R1[2,0,19]  1000
+    RHS1      R1[2,0,20]  1000
+    RHS1      R1[2,0,21]  1000
+    RHS1      R1[2,0,22]  1000
+    RHS1      R1[2,0,23]  1000
+    RHS1      R1[2,0,24]  1000
+    RHS1      R1[2,0,25]  1000
+    RHS1      R1[2,0,26]  1000
+    RHS1      R1[2,0,27]  1000
+    RHS1      R1[2,0,28]  1000
+    RHS1      R1[2,0,29]  1000
+    RHS1      R1[2,0,30]  1000
+    RHS1      R1[2,0,31]  1000
+    RHS1      R1[2,0,32]  1000
+    RHS1      R1[2,0,33]  1000
+    RHS1      R1[2,0,34]  1000
+    RHS1      R1[2,0,35]  1000
+    RHS1      R1[2,0,36]  1000
+    RHS1      R1[2,0,37]  1000
+    RHS1      R1[2,0,38]  1000
+    RHS1      R1[2,0,39]  1000
+    RHS1      R1[2,0,40]  1000
+    RHS1      R1[2,0,41]  1000
+    RHS1      R1[2,0,42]  1000
+    RHS1      R1[2,0,43]  1000
+    RHS1      R1[2,0,44]  1000
+    RHS1      R1[2,0,45]  1000
+    RHS1      R1[2,0,46]  1000
+    RHS1      R1[2,0,47]  1000
+    RHS1      R1[2,0,48]  1000
+    RHS1      R1[2,0,49]  1000
+    RHS1      R1[2,0,50]  1000
+    RHS1      R1[2,0,51]  1000
+    RHS1      R1[2,0,52]  1000
+    RHS1      R1[2,0,53]  1000
+    RHS1      R1[2,0,54]  1000
+    RHS1      R1[2,0,55]  1000
+    RHS1      R1[2,0,56]  1000
+    RHS1      R1[2,0,57]  1000
+    RHS1      R1[2,0,58]  1000
+    RHS1      R1[2,0,59]  1000
+    RHS1      R1[2,0,60]  1000
+    RHS1      R1[2,0,61]  1000
+    RHS1      R1[2,0,62]  1000
+    RHS1      R1[2,0,63]  1000
+    RHS1      R1[2,0,64]  1000
+    RHS1      R1[2,0,65]  1000
+    RHS1      R1[2,0,66]  1000
+    RHS1      R1[2,0,67]  1000
+    RHS1      R1[2,0,68]  1000
+    RHS1      R1[2,0,69]  1000
+    RHS1      R1[2,0,70]  1000
+    RHS1      R1[2,0,71]  1000
+    RHS1      R1[2,0,72]  1000
+    RHS1      R1[2,0,73]  1000
+    RHS1      R1[2,0,74]  1000
+    RHS1      R1[2,0,75]  1000
+    RHS1      R1[2,0,76]  1000
+    RHS1      R1[2,0,77]  1000
+    RHS1      R1[2,0,78]  1000
+    RHS1      R1[2,0,79]  1000
+    RHS1      R1[2,0,80]  1000
+    RHS1      R1[2,0,81]  1000
+    RHS1      R1[2,0,82]  1000
+    RHS1      R1[2,0,83]  1000
+    RHS1      R1[2,0,84]  1000
+    RHS1      R1[2,0,85]  1000
+    RHS1      R1[2,0,86]  1000
+    RHS1      R1[2,0,87]  1000
+    RHS1      R1[2,0,88]  1000
+    RHS1      R1[2,0,89]  1000
+    RHS1      R1[2,0,90]  1000
+    RHS1      R1[2,0,91]  1000
+    RHS1      R1[2,0,92]  1000
+    RHS1      R1[2,0,93]  1000
+    RHS1      R1[2,0,94]  1000
+    RHS1      R1[2,0,95]  1000
+    RHS1      R1[2,0,96]  1000
+    RHS1      R1[2,0,97]  1000
+    RHS1      R1[2,0,98]  1000
+    RHS1      R1[2,0,99]  1000
+    RHS1      R1[2,1,0]  1000
+    RHS1      R1[2,1,1]  1000
+    RHS1      R1[2,1,2]  1000
+    RHS1      R1[2,1,3]  1000
+    RHS1      R1[2,1,4]  1000
+    RHS1      R1[2,1,5]  1000
+    RHS1      R1[2,1,6]  1000
+    RHS1      R1[2,1,7]  1000
+    RHS1      R1[2,1,8]  1000
+    RHS1      R1[2,1,9]  1000
+    RHS1      R1[2,1,10]  1000
+    RHS1      R1[2,1,11]  1000
+    RHS1      R1[2,1,12]  1000
+    RHS1      R1[2,1,13]  1000
+    RHS1      R1[2,1,14]  1000
+    RHS1      R1[2,1,15]  1000
+    RHS1      R1[2,1,16]  1000
+    RHS1      R1[2,1,17]  1000
+    RHS1      R1[2,1,18]  1000
+    RHS1      R1[2,1,19]  1000
+    RHS1      R1[2,1,20]  1000
+    RHS1      R1[2,1,21]  1000
+    RHS1      R1[2,1,22]  1000
+    RHS1      R1[2,1,23]  1000
+    RHS1      R1[2,1,24]  1000
+    RHS1      R1[2,1,25]  1000
+    RHS1      R1[2,1,26]  1000
+    RHS1      R1[2,1,27]  1000
+    RHS1      R1[2,1,28]  1000
+    RHS1      R1[2,1,29]  1000
+    RHS1      R1[2,1,30]  1000
+    RHS1      R1[2,1,31]  1000
+    RHS1      R1[2,1,32]  1000
+    RHS1      R1[2,1,33]  1000
+    RHS1      R1[2,1,34]  1000
+    RHS1      R1[2,1,35]  1000
+    RHS1      R1[2,1,36]  1000
+    RHS1      R1[2,1,37]  1000
+    RHS1      R1[2,1,38]  1000
+    RHS1      R1[2,1,39]  1000
+    RHS1      R1[2,1,40]  1000
+    RHS1      R1[2,1,41]  1000
+    RHS1      R1[2,1,42]  1000
+    RHS1      R1[2,1,43]  1000
+    RHS1      R1[2,1,44]  1000
+    RHS1      R1[2,1,45]  1000
+    RHS1      R1[2,1,46]  1000
+    RHS1      R1[2,1,47]  1000
+    RHS1      R1[2,1,48]  1000
+    RHS1      R1[2,1,49]  1000
+    RHS1      R1[2,1,50]  1000
+    RHS1      R1[2,1,51]  1000
+    RHS1      R1[2,1,52]  1000
+    RHS1      R1[2,1,53]  1000
+    RHS1      R1[2,1,54]  1000
+    RHS1      R1[2,1,55]  1000
+    RHS1      R1[2,1,56]  1000
+    RHS1      R1[2,1,57]  1000
+    RHS1      R1[2,1,58]  1000
+    RHS1      R1[2,1,59]  1000
+    RHS1      R1[2,1,60]  1000
+    RHS1      R1[2,1,61]  1000
+    RHS1      R1[2,1,62]  1000
+    RHS1      R1[2,1,63]  1000
+    RHS1      R1[2,1,64]  1000
+    RHS1      R1[2,1,65]  1000
+    RHS1      R1[2,1,66]  1000
+    RHS1      R1[2,1,67]  1000
+    RHS1      R1[2,1,68]  1000
+    RHS1      R1[2,1,69]  1000
+    RHS1      R1[2,1,70]  1000
+    RHS1      R1[2,1,71]  1000
+    RHS1      R1[2,1,72]  1000
+    RHS1      R1[2,1,73]  1000
+    RHS1      R1[2,1,74]  1000
+    RHS1      R1[2,1,75]  1000
+    RHS1      R1[2,1,76]  1000
+    RHS1      R1[2,1,77]  1000
+    RHS1      R1[2,1,78]  1000
+    RHS1      R1[2,1,79]  1000
+    RHS1      R1[2,1,80]  1000
+    RHS1      R1[2,1,81]  1000
+    RHS1      R1[2,1,82]  1000
+    RHS1      R1[2,1,83]  1000
+    RHS1      R1[2,1,84]  1000
+    RHS1      R1[2,1,85]  1000
+    RHS1      R1[2,1,86]  1000
+    RHS1      R1[2,1,87]  1000
+    RHS1      R1[2,1,88]  1000
+    RHS1      R1[2,1,89]  1000
+    RHS1      R1[2,1,90]  1000
+    RHS1      R1[2,1,91]  1000
+    RHS1      R1[2,1,92]  1000
+    RHS1      R1[2,1,93]  1000
+    RHS1      R1[2,1,94]  1000
+    RHS1      R1[2,1,95]  1000
+    RHS1      R1[2,1,96]  1000
+    RHS1      R1[2,1,97]  1000
+    RHS1      R1[2,1,98]  1000
+    RHS1      R1[2,1,99]  1000
+    RHS1      R1[2,2,0]  1000
+    RHS1      R1[2,2,1]  1000
+    RHS1      R1[2,2,2]  1000
+    RHS1      R1[2,2,3]  1000
+    RHS1      R1[2,2,4]  1000
+    RHS1      R1[2,2,5]  1000
+    RHS1      R1[2,2,6]  1000
+    RHS1      R1[2,2,7]  1000
+    RHS1      R1[2,2,8]  1000
+    RHS1      R1[2,2,9]  1000
+    RHS1      R1[2,2,10]  1000
+    RHS1      R1[2,2,11]  1000
+    RHS1      R1[2,2,12]  1000
+    RHS1      R1[2,2,13]  1000
+    RHS1      R1[2,2,14]  1000
+    RHS1      R1[2,2,15]  1000
+    RHS1      R1[2,2,16]  1000
+    RHS1      R1[2,2,17]  1000
+    RHS1      R1[2,2,18]  1000
+    RHS1      R1[2,2,19]  1000
+    RHS1      R1[2,2,20]  1000
+    RHS1      R1[2,2,21]  1000
+    RHS1      R1[2,2,22]  1000
+    RHS1      R1[2,2,23]  1000
+    RHS1      R1[2,2,24]  1000
+    RHS1      R1[2,2,25]  1000
+    RHS1      R1[2,2,26]  1000
+    RHS1      R1[2,2,27]  1000
+    RHS1      R1[2,2,28]  1000
+    RHS1      R1[2,2,29]  1000
+    RHS1      R1[2,2,30]  1000
+    RHS1      R1[2,2,31]  1000
+    RHS1      R1[2,2,32]  1000
+    RHS1      R1[2,2,33]  1000
+    RHS1      R1[2,2,34]  1000
+    RHS1      R1[2,2,35]  1000
+    RHS1      R1[2,2,36]  1000
+    RHS1      R1[2,2,37]  1000
+    RHS1      R1[2,2,38]  1000
+    RHS1      R1[2,2,39]  1000
+    RHS1      R1[2,2,40]  1000
+    RHS1      R1[2,2,41]  1000
+    RHS1      R1[2,2,42]  1000
+    RHS1      R1[2,2,43]  1000
+    RHS1      R1[2,2,44]  1000
+    RHS1      R1[2,2,45]  1000
+    RHS1      R1[2,2,46]  1000
+    RHS1      R1[2,2,47]  1000
+    RHS1      R1[2,2,48]  1000
+    RHS1      R1[2,2,49]  1000
+    RHS1      R1[2,2,50]  1000
+    RHS1      R1[2,2,51]  1000
+    RHS1      R1[2,2,52]  1000
+    RHS1      R1[2,2,53]  1000
+    RHS1      R1[2,2,54]  1000
+    RHS1      R1[2,2,55]  1000
+    RHS1      R1[2,2,56]  1000
+    RHS1      R1[2,2,57]  1000
+    RHS1      R1[2,2,58]  1000
+    RHS1      R1[2,2,59]  1000
+    RHS1      R1[2,2,60]  1000
+    RHS1      R1[2,2,61]  1000
+    RHS1      R1[2,2,62]  1000
+    RHS1      R1[2,2,63]  1000
+    RHS1      R1[2,2,64]  1000
+    RHS1      R1[2,2,65]  1000
+    RHS1      R1[2,2,66]  1000
+    RHS1      R1[2,2,67]  1000
+    RHS1      R1[2,2,68]  1000
+    RHS1      R1[2,2,69]  1000
+    RHS1      R1[2,2,70]  1000
+    RHS1      R1[2,2,71]  1000
+    RHS1      R1[2,2,72]  1000
+    RHS1      R1[2,2,73]  1000
+    RHS1      R1[2,2,74]  1000
+    RHS1      R1[2,2,75]  1000
+    RHS1      R1[2,2,76]  1000
+    RHS1      R1[2,2,77]  1000
+    RHS1      R1[2,2,78]  1000
+    RHS1      R1[2,2,79]  1000
+    RHS1      R1[2,2,80]  1000
+    RHS1      R1[2,2,81]  1000
+    RHS1      R1[2,2,82]  1000
+    RHS1      R1[2,2,83]  1000
+    RHS1      R1[2,2,84]  1000
+    RHS1      R1[2,2,85]  1000
+    RHS1      R1[2,2,86]  1000
+    RHS1      R1[2,2,87]  1000
+    RHS1      R1[2,2,88]  1000
+    RHS1      R1[2,2,89]  1000
+    RHS1      R1[2,2,90]  1000
+    RHS1      R1[2,2,91]  1000
+    RHS1      R1[2,2,92]  1000
+    RHS1      R1[2,2,93]  1000
+    RHS1      R1[2,2,94]  1000
+    RHS1      R1[2,2,95]  1000
+    RHS1      R1[2,2,96]  1000
+    RHS1      R1[2,2,97]  1000
+    RHS1      R1[2,2,98]  1000
+    RHS1      R1[2,2,99]  1000
+    RHS1      R1[2,3,0]  1000
+    RHS1      R1[2,3,1]  1000
+    RHS1      R1[2,3,2]  1000
+    RHS1      R1[2,3,3]  1000
+    RHS1      R1[2,3,4]  1000
+    RHS1      R1[2,3,5]  1000
+    RHS1      R1[2,3,6]  1000
+    RHS1      R1[2,3,7]  1000
+    RHS1      R1[2,3,8]  1000
+    RHS1      R1[2,3,9]  1000
+    RHS1      R1[2,3,10]  1000
+    RHS1      R1[2,3,11]  1000
+    RHS1      R1[2,3,12]  1000
+    RHS1      R1[2,3,13]  1000
+    RHS1      R1[2,3,14]  1000
+    RHS1      R1[2,3,15]  1000
+    RHS1      R1[2,3,16]  1000
+    RHS1      R1[2,3,17]  1000
+    RHS1      R1[2,3,18]  1000
+    RHS1      R1[2,3,19]  1000
+    RHS1      R1[2,3,20]  1000
+    RHS1      R1[2,3,21]  1000
+    RHS1      R1[2,3,22]  1000
+    RHS1      R1[2,3,23]  1000
+    RHS1      R1[2,3,24]  1000
+    RHS1      R1[2,3,25]  1000
+    RHS1      R1[2,3,26]  1000
+    RHS1      R1[2,3,27]  1000
+    RHS1      R1[2,3,28]  1000
+    RHS1      R1[2,3,29]  1000
+    RHS1      R1[2,3,30]  1000
+    RHS1      R1[2,3,31]  1000
+    RHS1      R1[2,3,32]  1000
+    RHS1      R1[2,3,33]  1000
+    RHS1      R1[2,3,34]  1000
+    RHS1      R1[2,3,35]  1000
+    RHS1      R1[2,3,36]  1000
+    RHS1      R1[2,3,37]  1000
+    RHS1      R1[2,3,38]  1000
+    RHS1      R1[2,3,39]  1000
+    RHS1      R1[2,3,40]  1000
+    RHS1      R1[2,3,41]  1000
+    RHS1      R1[2,3,42]  1000
+    RHS1      R1[2,3,43]  1000
+    RHS1      R1[2,3,44]  1000
+    RHS1      R1[2,3,45]  1000
+    RHS1      R1[2,3,46]  1000
+    RHS1      R1[2,3,47]  1000
+    RHS1      R1[2,3,48]  1000
+    RHS1      R1[2,3,49]  1000
+    RHS1      R1[2,3,50]  1000
+    RHS1      R1[2,3,51]  1000
+    RHS1      R1[2,3,52]  1000
+    RHS1      R1[2,3,53]  1000
+    RHS1      R1[2,3,54]  1000
+    RHS1      R1[2,3,55]  1000
+    RHS1      R1[2,3,56]  1000
+    RHS1      R1[2,3,57]  1000
+    RHS1      R1[2,3,58]  1000
+    RHS1      R1[2,3,59]  1000
+    RHS1      R1[2,3,60]  1000
+    RHS1      R1[2,3,61]  1000
+    RHS1      R1[2,3,62]  1000
+    RHS1      R1[2,3,63]  1000
+    RHS1      R1[2,3,64]  1000
+    RHS1      R1[2,3,65]  1000
+    RHS1      R1[2,3,66]  1000
+    RHS1      R1[2,3,67]  1000
+    RHS1      R1[2,3,68]  1000
+    RHS1      R1[2,3,69]  1000
+    RHS1      R1[2,3,70]  1000
+    RHS1      R1[2,3,71]  1000
+    RHS1      R1[2,3,72]  1000
+    RHS1      R1[2,3,73]  1000
+    RHS1      R1[2,3,74]  1000
+    RHS1      R1[2,3,75]  1000
+    RHS1      R1[2,3,76]  1000
+    RHS1      R1[2,3,77]  1000
+    RHS1      R1[2,3,78]  1000
+    RHS1      R1[2,3,79]  1000
+    RHS1      R1[2,3,80]  1000
+    RHS1      R1[2,3,81]  1000
+    RHS1      R1[2,3,82]  1000
+    RHS1      R1[2,3,83]  1000
+    RHS1      R1[2,3,84]  1000
+    RHS1      R1[2,3,85]  1000
+    RHS1      R1[2,3,86]  1000
+    RHS1      R1[2,3,87]  1000
+    RHS1      R1[2,3,88]  1000
+    RHS1      R1[2,3,89]  1000
+    RHS1      R1[2,3,90]  1000
+    RHS1      R1[2,3,91]  1000
+    RHS1      R1[2,3,92]  1000
+    RHS1      R1[2,3,93]  1000
+    RHS1      R1[2,3,94]  1000
+    RHS1      R1[2,3,95]  1000
+    RHS1      R1[2,3,96]  1000
+    RHS1      R1[2,3,97]  1000
+    RHS1      R1[2,3,98]  1000
+    RHS1      R1[2,3,99]  1000
+    RHS1      R1[3,0,0]  1000
+    RHS1      R1[3,0,1]  1000
+    RHS1      R1[3,0,2]  1000
+    RHS1      R1[3,0,3]  1000
+    RHS1      R1[3,0,4]  1000
+    RHS1      R1[3,0,5]  1000
+    RHS1      R1[3,0,6]  1000
+    RHS1      R1[3,0,7]  1000
+    RHS1      R1[3,0,8]  1000
+    RHS1      R1[3,0,9]  1000
+    RHS1      R1[3,0,10]  1000
+    RHS1      R1[3,0,11]  1000
+    RHS1      R1[3,0,12]  1000
+    RHS1      R1[3,0,13]  1000
+    RHS1      R1[3,0,14]  1000
+    RHS1      R1[3,0,15]  1000
+    RHS1      R1[3,0,16]  1000
+    RHS1      R1[3,0,17]  1000
+    RHS1      R1[3,0,18]  1000
+    RHS1      R1[3,0,19]  1000
+    RHS1      R1[3,0,20]  1000
+    RHS1      R1[3,0,21]  1000
+    RHS1      R1[3,0,22]  1000
+    RHS1      R1[3,0,23]  1000
+    RHS1      R1[3,0,24]  1000
+    RHS1      R1[3,0,25]  1000
+    RHS1      R1[3,0,26]  1000
+    RHS1      R1[3,0,27]  1000
+    RHS1      R1[3,0,28]  1000
+    RHS1      R1[3,0,29]  1000
+    RHS1      R1[3,0,30]  1000
+    RHS1      R1[3,0,31]  1000
+    RHS1      R1[3,0,32]  1000
+    RHS1      R1[3,0,33]  1000
+    RHS1      R1[3,0,34]  1000
+    RHS1      R1[3,0,35]  1000
+    RHS1      R1[3,0,36]  1000
+    RHS1      R1[3,0,37]  1000
+    RHS1      R1[3,0,38]  1000
+    RHS1      R1[3,0,39]  1000
+    RHS1      R1[3,0,40]  1000
+    RHS1      R1[3,0,41]  1000
+    RHS1      R1[3,0,42]  1000
+    RHS1      R1[3,0,43]  1000
+    RHS1      R1[3,0,44]  1000
+    RHS1      R1[3,0,45]  1000
+    RHS1      R1[3,0,46]  1000
+    RHS1      R1[3,0,47]  1000
+    RHS1      R1[3,0,48]  1000
+    RHS1      R1[3,0,49]  1000
+    RHS1      R1[3,0,50]  1000
+    RHS1      R1[3,0,51]  1000
+    RHS1      R1[3,0,52]  1000
+    RHS1      R1[3,0,53]  1000
+    RHS1      R1[3,0,54]  1000
+    RHS1      R1[3,0,55]  1000
+    RHS1      R1[3,0,56]  1000
+    RHS1      R1[3,0,57]  1000
+    RHS1      R1[3,0,58]  1000
+    RHS1      R1[3,0,59]  1000
+    RHS1      R1[3,0,60]  1000
+    RHS1      R1[3,0,61]  1000
+    RHS1      R1[3,0,62]  1000
+    RHS1      R1[3,0,63]  1000
+    RHS1      R1[3,0,64]  1000
+    RHS1      R1[3,0,65]  1000
+    RHS1      R1[3,0,66]  1000
+    RHS1      R1[3,0,67]  1000
+    RHS1      R1[3,0,68]  1000
+    RHS1      R1[3,0,69]  1000
+    RHS1      R1[3,0,70]  1000
+    RHS1      R1[3,0,71]  1000
+    RHS1      R1[3,0,72]  1000
+    RHS1      R1[3,0,73]  1000
+    RHS1      R1[3,0,74]  1000
+    RHS1      R1[3,0,75]  1000
+    RHS1      R1[3,0,76]  1000
+    RHS1      R1[3,0,77]  1000
+    RHS1      R1[3,0,78]  1000
+    RHS1      R1[3,0,79]  1000
+    RHS1      R1[3,0,80]  1000
+    RHS1      R1[3,0,81]  1000
+    RHS1      R1[3,0,82]  1000
+    RHS1      R1[3,0,83]  1000
+    RHS1      R1[3,0,84]  1000
+    RHS1      R1[3,0,85]  1000
+    RHS1      R1[3,0,86]  1000
+    RHS1      R1[3,0,87]  1000
+    RHS1      R1[3,0,88]  1000
+    RHS1      R1[3,0,89]  1000
+    RHS1      R1[3,0,90]  1000
+    RHS1      R1[3,0,91]  1000
+    RHS1      R1[3,0,92]  1000
+    RHS1      R1[3,0,93]  1000
+    RHS1      R1[3,0,94]  1000
+    RHS1      R1[3,0,95]  1000
+    RHS1      R1[3,0,96]  1000
+    RHS1      R1[3,0,97]  1000
+    RHS1      R1[3,0,98]  1000
+    RHS1      R1[3,0,99]  1000
+    RHS1      R1[3,1,0]  1000
+    RHS1      R1[3,1,1]  1000
+    RHS1      R1[3,1,2]  1000
+    RHS1      R1[3,1,3]  1000
+    RHS1      R1[3,1,4]  1000
+    RHS1      R1[3,1,5]  1000
+    RHS1      R1[3,1,6]  1000
+    RHS1      R1[3,1,7]  1000
+    RHS1      R1[3,1,8]  1000
+    RHS1      R1[3,1,9]  1000
+    RHS1      R1[3,1,10]  1000
+    RHS1      R1[3,1,11]  1000
+    RHS1      R1[3,1,12]  1000
+    RHS1      R1[3,1,13]  1000
+    RHS1      R1[3,1,14]  1000
+    RHS1      R1[3,1,15]  1000
+    RHS1      R1[3,1,16]  1000
+    RHS1      R1[3,1,17]  1000
+    RHS1      R1[3,1,18]  1000
+    RHS1      R1[3,1,19]  1000
+    RHS1      R1[3,1,20]  1000
+    RHS1      R1[3,1,21]  1000
+    RHS1      R1[3,1,22]  1000
+    RHS1      R1[3,1,23]  1000
+    RHS1      R1[3,1,24]  1000
+    RHS1      R1[3,1,25]  1000
+    RHS1      R1[3,1,26]  1000
+    RHS1      R1[3,1,27]  1000
+    RHS1      R1[3,1,28]  1000
+    RHS1      R1[3,1,29]  1000
+    RHS1      R1[3,1,30]  1000
+    RHS1      R1[3,1,31]  1000
+    RHS1      R1[3,1,32]  1000
+    RHS1      R1[3,1,33]  1000
+    RHS1      R1[3,1,34]  1000
+    RHS1      R1[3,1,35]  1000
+    RHS1      R1[3,1,36]  1000
+    RHS1      R1[3,1,37]  1000
+    RHS1      R1[3,1,38]  1000
+    RHS1      R1[3,1,39]  1000
+    RHS1      R1[3,1,40]  1000
+    RHS1      R1[3,1,41]  1000
+    RHS1      R1[3,1,42]  1000
+    RHS1      R1[3,1,43]  1000
+    RHS1      R1[3,1,44]  1000
+    RHS1      R1[3,1,45]  1000
+    RHS1      R1[3,1,46]  1000
+    RHS1      R1[3,1,47]  1000
+    RHS1      R1[3,1,48]  1000
+    RHS1      R1[3,1,49]  1000
+    RHS1      R1[3,1,50]  1000
+    RHS1      R1[3,1,51]  1000
+    RHS1      R1[3,1,52]  1000
+    RHS1      R1[3,1,53]  1000
+    RHS1      R1[3,1,54]  1000
+    RHS1      R1[3,1,55]  1000
+    RHS1      R1[3,1,56]  1000
+    RHS1      R1[3,1,57]  1000
+    RHS1      R1[3,1,58]  1000
+    RHS1      R1[3,1,59]  1000
+    RHS1      R1[3,1,60]  1000
+    RHS1      R1[3,1,61]  1000
+    RHS1      R1[3,1,62]  1000
+    RHS1      R1[3,1,63]  1000
+    RHS1      R1[3,1,64]  1000
+    RHS1      R1[3,1,65]  1000
+    RHS1      R1[3,1,66]  1000
+    RHS1      R1[3,1,67]  1000
+    RHS1      R1[3,1,68]  1000
+    RHS1      R1[3,1,69]  1000
+    RHS1      R1[3,1,70]  1000
+    RHS1      R1[3,1,71]  1000
+    RHS1      R1[3,1,72]  1000
+    RHS1      R1[3,1,73]  1000
+    RHS1      R1[3,1,74]  1000
+    RHS1      R1[3,1,75]  1000
+    RHS1      R1[3,1,76]  1000
+    RHS1      R1[3,1,77]  1000
+    RHS1      R1[3,1,78]  1000
+    RHS1      R1[3,1,79]  1000
+    RHS1      R1[3,1,80]  1000
+    RHS1      R1[3,1,81]  1000
+    RHS1      R1[3,1,82]  1000
+    RHS1      R1[3,1,83]  1000
+    RHS1      R1[3,1,84]  1000
+    RHS1      R1[3,1,85]  1000
+    RHS1      R1[3,1,86]  1000
+    RHS1      R1[3,1,87]  1000
+    RHS1      R1[3,1,88]  1000
+    RHS1      R1[3,1,89]  1000
+    RHS1      R1[3,1,90]  1000
+    RHS1      R1[3,1,91]  1000
+    RHS1      R1[3,1,92]  1000
+    RHS1      R1[3,1,93]  1000
+    RHS1      R1[3,1,94]  1000
+    RHS1      R1[3,1,95]  1000
+    RHS1      R1[3,1,96]  1000
+    RHS1      R1[3,1,97]  1000
+    RHS1      R1[3,1,98]  1000
+    RHS1      R1[3,1,99]  1000
+    RHS1      R1[3,2,0]  1000
+    RHS1      R1[3,2,1]  1000
+    RHS1      R1[3,2,2]  1000
+    RHS1      R1[3,2,3]  1000
+    RHS1      R1[3,2,4]  1000
+    RHS1      R1[3,2,5]  1000
+    RHS1      R1[3,2,6]  1000
+    RHS1      R1[3,2,7]  1000
+    RHS1      R1[3,2,8]  1000
+    RHS1      R1[3,2,9]  1000
+    RHS1      R1[3,2,10]  1000
+    RHS1      R1[3,2,11]  1000
+    RHS1      R1[3,2,12]  1000
+    RHS1      R1[3,2,13]  1000
+    RHS1      R1[3,2,14]  1000
+    RHS1      R1[3,2,15]  1000
+    RHS1      R1[3,2,16]  1000
+    RHS1      R1[3,2,17]  1000
+    RHS1      R1[3,2,18]  1000
+    RHS1      R1[3,2,19]  1000
+    RHS1      R1[3,2,20]  1000
+    RHS1      R1[3,2,21]  1000
+    RHS1      R1[3,2,22]  1000
+    RHS1      R1[3,2,23]  1000
+    RHS1      R1[3,2,24]  1000
+    RHS1      R1[3,2,25]  1000
+    RHS1      R1[3,2,26]  1000
+    RHS1      R1[3,2,27]  1000
+    RHS1      R1[3,2,28]  1000
+    RHS1      R1[3,2,29]  1000
+    RHS1      R1[3,2,30]  1000
+    RHS1      R1[3,2,31]  1000
+    RHS1      R1[3,2,32]  1000
+    RHS1      R1[3,2,33]  1000
+    RHS1      R1[3,2,34]  1000
+    RHS1      R1[3,2,35]  1000
+    RHS1      R1[3,2,36]  1000
+    RHS1      R1[3,2,37]  1000
+    RHS1      R1[3,2,38]  1000
+    RHS1      R1[3,2,39]  1000
+    RHS1      R1[3,2,40]  1000
+    RHS1      R1[3,2,41]  1000
+    RHS1      R1[3,2,42]  1000
+    RHS1      R1[3,2,43]  1000
+    RHS1      R1[3,2,44]  1000
+    RHS1      R1[3,2,45]  1000
+    RHS1      R1[3,2,46]  1000
+    RHS1      R1[3,2,47]  1000
+    RHS1      R1[3,2,48]  1000
+    RHS1      R1[3,2,49]  1000
+    RHS1      R1[3,2,50]  1000
+    RHS1      R1[3,2,51]  1000
+    RHS1      R1[3,2,52]  1000
+    RHS1      R1[3,2,53]  1000
+    RHS1      R1[3,2,54]  1000
+    RHS1      R1[3,2,55]  1000
+    RHS1      R1[3,2,56]  1000
+    RHS1      R1[3,2,57]  1000
+    RHS1      R1[3,2,58]  1000
+    RHS1      R1[3,2,59]  1000
+    RHS1      R1[3,2,60]  1000
+    RHS1      R1[3,2,61]  1000
+    RHS1      R1[3,2,62]  1000
+    RHS1      R1[3,2,63]  1000
+    RHS1      R1[3,2,64]  1000
+    RHS1      R1[3,2,65]  1000
+    RHS1      R1[3,2,66]  1000
+    RHS1      R1[3,2,67]  1000
+    RHS1      R1[3,2,68]  1000
+    RHS1      R1[3,2,69]  1000
+    RHS1      R1[3,2,70]  1000
+    RHS1      R1[3,2,71]  1000
+    RHS1      R1[3,2,72]  1000
+    RHS1      R1[3,2,73]  1000
+    RHS1      R1[3,2,74]  1000
+    RHS1      R1[3,2,75]  1000
+    RHS1      R1[3,2,76]  1000
+    RHS1      R1[3,2,77]  1000
+    RHS1      R1[3,2,78]  1000
+    RHS1      R1[3,2,79]  1000
+    RHS1      R1[3,2,80]  1000
+    RHS1      R1[3,2,81]  1000
+    RHS1      R1[3,2,82]  1000
+    RHS1      R1[3,2,83]  1000
+    RHS1      R1[3,2,84]  1000
+    RHS1      R1[3,2,85]  1000
+    RHS1      R1[3,2,86]  1000
+    RHS1      R1[3,2,87]  1000
+    RHS1      R1[3,2,88]  1000
+    RHS1      R1[3,2,89]  1000
+    RHS1      R1[3,2,90]  1000
+    RHS1      R1[3,2,91]  1000
+    RHS1      R1[3,2,92]  1000
+    RHS1      R1[3,2,93]  1000
+    RHS1      R1[3,2,94]  1000
+    RHS1      R1[3,2,95]  1000
+    RHS1      R1[3,2,96]  1000
+    RHS1      R1[3,2,97]  1000
+    RHS1      R1[3,2,98]  1000
+    RHS1      R1[3,2,99]  1000
+    RHS1      R1[3,3,0]  1000
+    RHS1      R1[3,3,1]  1000
+    RHS1      R1[3,3,2]  1000
+    RHS1      R1[3,3,3]  1000
+    RHS1      R1[3,3,4]  1000
+    RHS1      R1[3,3,5]  1000
+    RHS1      R1[3,3,6]  1000
+    RHS1      R1[3,3,7]  1000
+    RHS1      R1[3,3,8]  1000
+    RHS1      R1[3,3,9]  1000
+    RHS1      R1[3,3,10]  1000
+    RHS1      R1[3,3,11]  1000
+    RHS1      R1[3,3,12]  1000
+    RHS1      R1[3,3,13]  1000
+    RHS1      R1[3,3,14]  1000
+    RHS1      R1[3,3,15]  1000
+    RHS1      R1[3,3,16]  1000
+    RHS1      R1[3,3,17]  1000
+    RHS1      R1[3,3,18]  1000
+    RHS1      R1[3,3,19]  1000
+    RHS1      R1[3,3,20]  1000
+    RHS1      R1[3,3,21]  1000
+    RHS1      R1[3,3,22]  1000
+    RHS1      R1[3,3,23]  1000
+    RHS1      R1[3,3,24]  1000
+    RHS1      R1[3,3,25]  1000
+    RHS1      R1[3,3,26]  1000
+    RHS1      R1[3,3,27]  1000
+    RHS1      R1[3,3,28]  1000
+    RHS1      R1[3,3,29]  1000
+    RHS1      R1[3,3,30]  1000
+    RHS1      R1[3,3,31]  1000
+    RHS1      R1[3,3,32]  1000
+    RHS1      R1[3,3,33]  1000
+    RHS1      R1[3,3,34]  1000
+    RHS1      R1[3,3,35]  1000
+    RHS1      R1[3,3,36]  1000
+    RHS1      R1[3,3,37]  1000
+    RHS1      R1[3,3,38]  1000
+    RHS1      R1[3,3,39]  1000
+    RHS1      R1[3,3,40]  1000
+    RHS1      R1[3,3,41]  1000
+    RHS1      R1[3,3,42]  1000
+    RHS1      R1[3,3,43]  1000
+    RHS1      R1[3,3,44]  1000
+    RHS1      R1[3,3,45]  1000
+    RHS1      R1[3,3,46]  1000
+    RHS1      R1[3,3,47]  1000
+    RHS1      R1[3,3,48]  1000
+    RHS1      R1[3,3,49]  1000
+    RHS1      R1[3,3,50]  1000
+    RHS1      R1[3,3,51]  1000
+    RHS1      R1[3,3,52]  1000
+    RHS1      R1[3,3,53]  1000
+    RHS1      R1[3,3,54]  1000
+    RHS1      R1[3,3,55]  1000
+    RHS1      R1[3,3,56]  1000
+    RHS1      R1[3,3,57]  1000
+    RHS1      R1[3,3,58]  1000
+    RHS1      R1[3,3,59]  1000
+    RHS1      R1[3,3,60]  1000
+    RHS1      R1[3,3,61]  1000
+    RHS1      R1[3,3,62]  1000
+    RHS1      R1[3,3,63]  1000
+    RHS1      R1[3,3,64]  1000
+    RHS1      R1[3,3,65]  1000
+    RHS1      R1[3,3,66]  1000
+    RHS1      R1[3,3,67]  1000
+    RHS1      R1[3,3,68]  1000
+    RHS1      R1[3,3,69]  1000
+    RHS1      R1[3,3,70]  1000
+    RHS1      R1[3,3,71]  1000
+    RHS1      R1[3,3,72]  1000
+    RHS1      R1[3,3,73]  1000
+    RHS1      R1[3,3,74]  1000
+    RHS1      R1[3,3,75]  1000
+    RHS1      R1[3,3,76]  1000
+    RHS1      R1[3,3,77]  1000
+    RHS1      R1[3,3,78]  1000
+    RHS1      R1[3,3,79]  1000
+    RHS1      R1[3,3,80]  1000
+    RHS1      R1[3,3,81]  1000
+    RHS1      R1[3,3,82]  1000
+    RHS1      R1[3,3,83]  1000
+    RHS1      R1[3,3,84]  1000
+    RHS1      R1[3,3,85]  1000
+    RHS1      R1[3,3,86]  1000
+    RHS1      R1[3,3,87]  1000
+    RHS1      R1[3,3,88]  1000
+    RHS1      R1[3,3,89]  1000
+    RHS1      R1[3,3,90]  1000
+    RHS1      R1[3,3,91]  1000
+    RHS1      R1[3,3,92]  1000
+    RHS1      R1[3,3,93]  1000
+    RHS1      R1[3,3,94]  1000
+    RHS1      R1[3,3,95]  1000
+    RHS1      R1[3,3,96]  1000
+    RHS1      R1[3,3,97]  1000
+    RHS1      R1[3,3,98]  1000
+    RHS1      R1[3,3,99]  1000
+    RHS1      R1[4,0,0]  1000
+    RHS1      R1[4,0,1]  1000
+    RHS1      R1[4,0,2]  1000
+    RHS1      R1[4,0,3]  1000
+    RHS1      R1[4,0,4]  1000
+    RHS1      R1[4,0,5]  1000
+    RHS1      R1[4,0,6]  1000
+    RHS1      R1[4,0,7]  1000
+    RHS1      R1[4,0,8]  1000
+    RHS1      R1[4,0,9]  1000
+    RHS1      R1[4,0,10]  1000
+    RHS1      R1[4,0,11]  1000
+    RHS1      R1[4,0,12]  1000
+    RHS1      R1[4,0,13]  1000
+    RHS1      R1[4,0,14]  1000
+    RHS1      R1[4,0,15]  1000
+    RHS1      R1[4,0,16]  1000
+    RHS1      R1[4,0,17]  1000
+    RHS1      R1[4,0,18]  1000
+    RHS1      R1[4,0,19]  1000
+    RHS1      R1[4,0,20]  1000
+    RHS1      R1[4,0,21]  1000
+    RHS1      R1[4,0,22]  1000
+    RHS1      R1[4,0,23]  1000
+    RHS1      R1[4,0,24]  1000
+    RHS1      R1[4,0,25]  1000
+    RHS1      R1[4,0,26]  1000
+    RHS1      R1[4,0,27]  1000
+    RHS1      R1[4,0,28]  1000
+    RHS1      R1[4,0,29]  1000
+    RHS1      R1[4,0,30]  1000
+    RHS1      R1[4,0,31]  1000
+    RHS1      R1[4,0,32]  1000
+    RHS1      R1[4,0,33]  1000
+    RHS1      R1[4,0,34]  1000
+    RHS1      R1[4,0,35]  1000
+    RHS1      R1[4,0,36]  1000
+    RHS1      R1[4,0,37]  1000
+    RHS1      R1[4,0,38]  1000
+    RHS1      R1[4,0,39]  1000
+    RHS1      R1[4,0,40]  1000
+    RHS1      R1[4,0,41]  1000
+    RHS1      R1[4,0,42]  1000
+    RHS1      R1[4,0,43]  1000
+    RHS1      R1[4,0,44]  1000
+    RHS1      R1[4,0,45]  1000
+    RHS1      R1[4,0,46]  1000
+    RHS1      R1[4,0,47]  1000
+    RHS1      R1[4,0,48]  1000
+    RHS1      R1[4,0,49]  1000
+    RHS1      R1[4,0,50]  1000
+    RHS1      R1[4,0,51]  1000
+    RHS1      R1[4,0,52]  1000
+    RHS1      R1[4,0,53]  1000
+    RHS1      R1[4,0,54]  1000
+    RHS1      R1[4,0,55]  1000
+    RHS1      R1[4,0,56]  1000
+    RHS1      R1[4,0,57]  1000
+    RHS1      R1[4,0,58]  1000
+    RHS1      R1[4,0,59]  1000
+    RHS1      R1[4,0,60]  1000
+    RHS1      R1[4,0,61]  1000
+    RHS1      R1[4,0,62]  1000
+    RHS1      R1[4,0,63]  1000
+    RHS1      R1[4,0,64]  1000
+    RHS1      R1[4,0,65]  1000
+    RHS1      R1[4,0,66]  1000
+    RHS1      R1[4,0,67]  1000
+    RHS1      R1[4,0,68]  1000
+    RHS1      R1[4,0,69]  1000
+    RHS1      R1[4,0,70]  1000
+    RHS1      R1[4,0,71]  1000
+    RHS1      R1[4,0,72]  1000
+    RHS1      R1[4,0,73]  1000
+    RHS1      R1[4,0,74]  1000
+    RHS1      R1[4,0,75]  1000
+    RHS1      R1[4,0,76]  1000
+    RHS1      R1[4,0,77]  1000
+    RHS1      R1[4,0,78]  1000
+    RHS1      R1[4,0,79]  1000
+    RHS1      R1[4,0,80]  1000
+    RHS1      R1[4,0,81]  1000
+    RHS1      R1[4,0,82]  1000
+    RHS1      R1[4,0,83]  1000
+    RHS1      R1[4,0,84]  1000
+    RHS1      R1[4,0,85]  1000
+    RHS1      R1[4,0,86]  1000
+    RHS1      R1[4,0,87]  1000
+    RHS1      R1[4,0,88]  1000
+    RHS1      R1[4,0,89]  1000
+    RHS1      R1[4,0,90]  1000
+    RHS1      R1[4,0,91]  1000
+    RHS1      R1[4,0,92]  1000
+    RHS1      R1[4,0,93]  1000
+    RHS1      R1[4,0,94]  1000
+    RHS1      R1[4,0,95]  1000
+    RHS1      R1[4,0,96]  1000
+    RHS1      R1[4,0,97]  1000
+    RHS1      R1[4,0,98]  1000
+    RHS1      R1[4,0,99]  1000
+    RHS1      R1[4,1,0]  1000
+    RHS1      R1[4,1,1]  1000
+    RHS1      R1[4,1,2]  1000
+    RHS1      R1[4,1,3]  1000
+    RHS1      R1[4,1,4]  1000
+    RHS1      R1[4,1,5]  1000
+    RHS1      R1[4,1,6]  1000
+    RHS1      R1[4,1,7]  1000
+    RHS1      R1[4,1,8]  1000
+    RHS1      R1[4,1,9]  1000
+    RHS1      R1[4,1,10]  1000
+    RHS1      R1[4,1,11]  1000
+    RHS1      R1[4,1,12]  1000
+    RHS1      R1[4,1,13]  1000
+    RHS1      R1[4,1,14]  1000
+    RHS1      R1[4,1,15]  1000
+    RHS1      R1[4,1,16]  1000
+    RHS1      R1[4,1,17]  1000
+    RHS1      R1[4,1,18]  1000
+    RHS1      R1[4,1,19]  1000
+    RHS1      R1[4,1,20]  1000
+    RHS1      R1[4,1,21]  1000
+    RHS1      R1[4,1,22]  1000
+    RHS1      R1[4,1,23]  1000
+    RHS1      R1[4,1,24]  1000
+    RHS1      R1[4,1,25]  1000
+    RHS1      R1[4,1,26]  1000
+    RHS1      R1[4,1,27]  1000
+    RHS1      R1[4,1,28]  1000
+    RHS1      R1[4,1,29]  1000
+    RHS1      R1[4,1,30]  1000
+    RHS1      R1[4,1,31]  1000
+    RHS1      R1[4,1,32]  1000
+    RHS1      R1[4,1,33]  1000
+    RHS1      R1[4,1,34]  1000
+    RHS1      R1[4,1,35]  1000
+    RHS1      R1[4,1,36]  1000
+    RHS1      R1[4,1,37]  1000
+    RHS1      R1[4,1,38]  1000
+    RHS1      R1[4,1,39]  1000
+    RHS1      R1[4,1,40]  1000
+    RHS1      R1[4,1,41]  1000
+    RHS1      R1[4,1,42]  1000
+    RHS1      R1[4,1,43]  1000
+    RHS1      R1[4,1,44]  1000
+    RHS1      R1[4,1,45]  1000
+    RHS1      R1[4,1,46]  1000
+    RHS1      R1[4,1,47]  1000
+    RHS1      R1[4,1,48]  1000
+    RHS1      R1[4,1,49]  1000
+    RHS1      R1[4,1,50]  1000
+    RHS1      R1[4,1,51]  1000
+    RHS1      R1[4,1,52]  1000
+    RHS1      R1[4,1,53]  1000
+    RHS1      R1[4,1,54]  1000
+    RHS1      R1[4,1,55]  1000
+    RHS1      R1[4,1,56]  1000
+    RHS1      R1[4,1,57]  1000
+    RHS1      R1[4,1,58]  1000
+    RHS1      R1[4,1,59]  1000
+    RHS1      R1[4,1,60]  1000
+    RHS1      R1[4,1,61]  1000
+    RHS1      R1[4,1,62]  1000
+    RHS1      R1[4,1,63]  1000
+    RHS1      R1[4,1,64]  1000
+    RHS1      R1[4,1,65]  1000
+    RHS1      R1[4,1,66]  1000
+    RHS1      R1[4,1,67]  1000
+    RHS1      R1[4,1,68]  1000
+    RHS1      R1[4,1,69]  1000
+    RHS1      R1[4,1,70]  1000
+    RHS1      R1[4,1,71]  1000
+    RHS1      R1[4,1,72]  1000
+    RHS1      R1[4,1,73]  1000
+    RHS1      R1[4,1,74]  1000
+    RHS1      R1[4,1,75]  1000
+    RHS1      R1[4,1,76]  1000
+    RHS1      R1[4,1,77]  1000
+    RHS1      R1[4,1,78]  1000
+    RHS1      R1[4,1,79]  1000
+    RHS1      R1[4,1,80]  1000
+    RHS1      R1[4,1,81]  1000
+    RHS1      R1[4,1,82]  1000
+    RHS1      R1[4,1,83]  1000
+    RHS1      R1[4,1,84]  1000
+    RHS1      R1[4,1,85]  1000
+    RHS1      R1[4,1,86]  1000
+    RHS1      R1[4,1,87]  1000
+    RHS1      R1[4,1,88]  1000
+    RHS1      R1[4,1,89]  1000
+    RHS1      R1[4,1,90]  1000
+    RHS1      R1[4,1,91]  1000
+    RHS1      R1[4,1,92]  1000
+    RHS1      R1[4,1,93]  1000
+    RHS1      R1[4,1,94]  1000
+    RHS1      R1[4,1,95]  1000
+    RHS1      R1[4,1,96]  1000
+    RHS1      R1[4,1,97]  1000
+    RHS1      R1[4,1,98]  1000
+    RHS1      R1[4,1,99]  1000
+    RHS1      R1[4,2,0]  1000
+    RHS1      R1[4,2,1]  1000
+    RHS1      R1[4,2,2]  1000
+    RHS1      R1[4,2,3]  1000
+    RHS1      R1[4,2,4]  1000
+    RHS1      R1[4,2,5]  1000
+    RHS1      R1[4,2,6]  1000
+    RHS1      R1[4,2,7]  1000
+    RHS1      R1[4,2,8]  1000
+    RHS1      R1[4,2,9]  1000
+    RHS1      R1[4,2,10]  1000
+    RHS1      R1[4,2,11]  1000
+    RHS1      R1[4,2,12]  1000
+    RHS1      R1[4,2,13]  1000
+    RHS1      R1[4,2,14]  1000
+    RHS1      R1[4,2,15]  1000
+    RHS1      R1[4,2,16]  1000
+    RHS1      R1[4,2,17]  1000
+    RHS1      R1[4,2,18]  1000
+    RHS1      R1[4,2,19]  1000
+    RHS1      R1[4,2,20]  1000
+    RHS1      R1[4,2,21]  1000
+    RHS1      R1[4,2,22]  1000
+    RHS1      R1[4,2,23]  1000
+    RHS1      R1[4,2,24]  1000
+    RHS1      R1[4,2,25]  1000
+    RHS1      R1[4,2,26]  1000
+    RHS1      R1[4,2,27]  1000
+    RHS1      R1[4,2,28]  1000
+    RHS1      R1[4,2,29]  1000
+    RHS1      R1[4,2,30]  1000
+    RHS1      R1[4,2,31]  1000
+    RHS1      R1[4,2,32]  1000
+    RHS1      R1[4,2,33]  1000
+    RHS1      R1[4,2,34]  1000
+    RHS1      R1[4,2,35]  1000
+    RHS1      R1[4,2,36]  1000
+    RHS1      R1[4,2,37]  1000
+    RHS1      R1[4,2,38]  1000
+    RHS1      R1[4,2,39]  1000
+    RHS1      R1[4,2,40]  1000
+    RHS1      R1[4,2,41]  1000
+    RHS1      R1[4,2,42]  1000
+    RHS1      R1[4,2,43]  1000
+    RHS1      R1[4,2,44]  1000
+    RHS1      R1[4,2,45]  1000
+    RHS1      R1[4,2,46]  1000
+    RHS1      R1[4,2,47]  1000
+    RHS1      R1[4,2,48]  1000
+    RHS1      R1[4,2,49]  1000
+    RHS1      R1[4,2,50]  1000
+    RHS1      R1[4,2,51]  1000
+    RHS1      R1[4,2,52]  1000
+    RHS1      R1[4,2,53]  1000
+    RHS1      R1[4,2,54]  1000
+    RHS1      R1[4,2,55]  1000
+    RHS1      R1[4,2,56]  1000
+    RHS1      R1[4,2,57]  1000
+    RHS1      R1[4,2,58]  1000
+    RHS1      R1[4,2,59]  1000
+    RHS1      R1[4,2,60]  1000
+    RHS1      R1[4,2,61]  1000
+    RHS1      R1[4,2,62]  1000
+    RHS1      R1[4,2,63]  1000
+    RHS1      R1[4,2,64]  1000
+    RHS1      R1[4,2,65]  1000
+    RHS1      R1[4,2,66]  1000
+    RHS1      R1[4,2,67]  1000
+    RHS1      R1[4,2,68]  1000
+    RHS1      R1[4,2,69]  1000
+    RHS1      R1[4,2,70]  1000
+    RHS1      R1[4,2,71]  1000
+    RHS1      R1[4,2,72]  1000
+    RHS1      R1[4,2,73]  1000
+    RHS1      R1[4,2,74]  1000
+    RHS1      R1[4,2,75]  1000
+    RHS1      R1[4,2,76]  1000
+    RHS1      R1[4,2,77]  1000
+    RHS1      R1[4,2,78]  1000
+    RHS1      R1[4,2,79]  1000
+    RHS1      R1[4,2,80]  1000
+    RHS1      R1[4,2,81]  1000
+    RHS1      R1[4,2,82]  1000
+    RHS1      R1[4,2,83]  1000
+    RHS1      R1[4,2,84]  1000
+    RHS1      R1[4,2,85]  1000
+    RHS1      R1[4,2,86]  1000
+    RHS1      R1[4,2,87]  1000
+    RHS1      R1[4,2,88]  1000
+    RHS1      R1[4,2,89]  1000
+    RHS1      R1[4,2,90]  1000
+    RHS1      R1[4,2,91]  1000
+    RHS1      R1[4,2,92]  1000
+    RHS1      R1[4,2,93]  1000
+    RHS1      R1[4,2,94]  1000
+    RHS1      R1[4,2,95]  1000
+    RHS1      R1[4,2,96]  1000
+    RHS1      R1[4,2,97]  1000
+    RHS1      R1[4,2,98]  1000
+    RHS1      R1[4,2,99]  1000
+    RHS1      R1[4,3,0]  1000
+    RHS1      R1[4,3,1]  1000
+    RHS1      R1[4,3,2]  1000
+    RHS1      R1[4,3,3]  1000
+    RHS1      R1[4,3,4]  1000
+    RHS1      R1[4,3,5]  1000
+    RHS1      R1[4,3,6]  1000
+    RHS1      R1[4,3,7]  1000
+    RHS1      R1[4,3,8]  1000
+    RHS1      R1[4,3,9]  1000
+    RHS1      R1[4,3,10]  1000
+    RHS1      R1[4,3,11]  1000
+    RHS1      R1[4,3,12]  1000
+    RHS1      R1[4,3,13]  1000
+    RHS1      R1[4,3,14]  1000
+    RHS1      R1[4,3,15]  1000
+    RHS1      R1[4,3,16]  1000
+    RHS1      R1[4,3,17]  1000
+    RHS1      R1[4,3,18]  1000
+    RHS1      R1[4,3,19]  1000
+    RHS1      R1[4,3,20]  1000
+    RHS1      R1[4,3,21]  1000
+    RHS1      R1[4,3,22]  1000
+    RHS1      R1[4,3,23]  1000
+    RHS1      R1[4,3,24]  1000
+    RHS1      R1[4,3,25]  1000
+    RHS1      R1[4,3,26]  1000
+    RHS1      R1[4,3,27]  1000
+    RHS1      R1[4,3,28]  1000
+    RHS1      R1[4,3,29]  1000
+    RHS1      R1[4,3,30]  1000
+    RHS1      R1[4,3,31]  1000
+    RHS1      R1[4,3,32]  1000
+    RHS1      R1[4,3,33]  1000
+    RHS1      R1[4,3,34]  1000
+    RHS1      R1[4,3,35]  1000
+    RHS1      R1[4,3,36]  1000
+    RHS1      R1[4,3,37]  1000
+    RHS1      R1[4,3,38]  1000
+    RHS1      R1[4,3,39]  1000
+    RHS1      R1[4,3,40]  1000
+    RHS1      R1[4,3,41]  1000
+    RHS1      R1[4,3,42]  1000
+    RHS1      R1[4,3,43]  1000
+    RHS1      R1[4,3,44]  1000
+    RHS1      R1[4,3,45]  1000
+    RHS1      R1[4,3,46]  1000
+    RHS1      R1[4,3,47]  1000
+    RHS1      R1[4,3,48]  1000
+    RHS1      R1[4,3,49]  1000
+    RHS1      R1[4,3,50]  1000
+    RHS1      R1[4,3,51]  1000
+    RHS1      R1[4,3,52]  1000
+    RHS1      R1[4,3,53]  1000
+    RHS1      R1[4,3,54]  1000
+    RHS1      R1[4,3,55]  1000
+    RHS1      R1[4,3,56]  1000
+    RHS1      R1[4,3,57]  1000
+    RHS1      R1[4,3,58]  1000
+    RHS1      R1[4,3,59]  1000
+    RHS1      R1[4,3,60]  1000
+    RHS1      R1[4,3,61]  1000
+    RHS1      R1[4,3,62]  1000
+    RHS1      R1[4,3,63]  1000
+    RHS1      R1[4,3,64]  1000
+    RHS1      R1[4,3,65]  1000
+    RHS1      R1[4,3,66]  1000
+    RHS1      R1[4,3,67]  1000
+    RHS1      R1[4,3,68]  1000
+    RHS1      R1[4,3,69]  1000
+    RHS1      R1[4,3,70]  1000
+    RHS1      R1[4,3,71]  1000
+    RHS1      R1[4,3,72]  1000
+    RHS1      R1[4,3,73]  1000
+    RHS1      R1[4,3,74]  1000
+    RHS1      R1[4,3,75]  1000
+    RHS1      R1[4,3,76]  1000
+    RHS1      R1[4,3,77]  1000
+    RHS1      R1[4,3,78]  1000
+    RHS1      R1[4,3,79]  1000
+    RHS1      R1[4,3,80]  1000
+    RHS1      R1[4,3,81]  1000
+    RHS1      R1[4,3,82]  1000
+    RHS1      R1[4,3,83]  1000
+    RHS1      R1[4,3,84]  1000
+    RHS1      R1[4,3,85]  1000
+    RHS1      R1[4,3,86]  1000
+    RHS1      R1[4,3,87]  1000
+    RHS1      R1[4,3,88]  1000
+    RHS1      R1[4,3,89]  1000
+    RHS1      R1[4,3,90]  1000
+    RHS1      R1[4,3,91]  1000
+    RHS1      R1[4,3,92]  1000
+    RHS1      R1[4,3,93]  1000
+    RHS1      R1[4,3,94]  1000
+    RHS1      R1[4,3,95]  1000
+    RHS1      R1[4,3,96]  1000
+    RHS1      R1[4,3,97]  1000
+    RHS1      R1[4,3,98]  1000
+    RHS1      R1[4,3,99]  1000
+    RHS1      R1[5,0,0]  1000
+    RHS1      R1[5,0,1]  1000
+    RHS1      R1[5,0,2]  1000
+    RHS1      R1[5,0,3]  1000
+    RHS1      R1[5,0,4]  1000
+    RHS1      R1[5,0,5]  1000
+    RHS1      R1[5,0,6]  1000
+    RHS1      R1[5,0,7]  1000
+    RHS1      R1[5,0,8]  1000
+    RHS1      R1[5,0,9]  1000
+    RHS1      R1[5,0,10]  1000
+    RHS1      R1[5,0,11]  1000
+    RHS1      R1[5,0,12]  1000
+    RHS1      R1[5,0,13]  1000
+    RHS1      R1[5,0,14]  1000
+    RHS1      R1[5,0,15]  1000
+    RHS1      R1[5,0,16]  1000
+    RHS1      R1[5,0,17]  1000
+    RHS1      R1[5,0,18]  1000
+    RHS1      R1[5,0,19]  1000
+    RHS1      R1[5,0,20]  1000
+    RHS1      R1[5,0,21]  1000
+    RHS1      R1[5,0,22]  1000
+    RHS1      R1[5,0,23]  1000
+    RHS1      R1[5,0,24]  1000
+    RHS1      R1[5,0,25]  1000
+    RHS1      R1[5,0,26]  1000
+    RHS1      R1[5,0,27]  1000
+    RHS1      R1[5,0,28]  1000
+    RHS1      R1[5,0,29]  1000
+    RHS1      R1[5,0,30]  1000
+    RHS1      R1[5,0,31]  1000
+    RHS1      R1[5,0,32]  1000
+    RHS1      R1[5,0,33]  1000
+    RHS1      R1[5,0,34]  1000
+    RHS1      R1[5,0,35]  1000
+    RHS1      R1[5,0,36]  1000
+    RHS1      R1[5,0,37]  1000
+    RHS1      R1[5,0,38]  1000
+    RHS1      R1[5,0,39]  1000
+    RHS1      R1[5,0,40]  1000
+    RHS1      R1[5,0,41]  1000
+    RHS1      R1[5,0,42]  1000
+    RHS1      R1[5,0,43]  1000
+    RHS1      R1[5,0,44]  1000
+    RHS1      R1[5,0,45]  1000
+    RHS1      R1[5,0,46]  1000
+    RHS1      R1[5,0,47]  1000
+    RHS1      R1[5,0,48]  1000
+    RHS1      R1[5,0,49]  1000
+    RHS1      R1[5,0,50]  1000
+    RHS1      R1[5,0,51]  1000
+    RHS1      R1[5,0,52]  1000
+    RHS1      R1[5,0,53]  1000
+    RHS1      R1[5,0,54]  1000
+    RHS1      R1[5,0,55]  1000
+    RHS1      R1[5,0,56]  1000
+    RHS1      R1[5,0,57]  1000
+    RHS1      R1[5,0,58]  1000
+    RHS1      R1[5,0,59]  1000
+    RHS1      R1[5,0,60]  1000
+    RHS1      R1[5,0,61]  1000
+    RHS1      R1[5,0,62]  1000
+    RHS1      R1[5,0,63]  1000
+    RHS1      R1[5,0,64]  1000
+    RHS1      R1[5,0,65]  1000
+    RHS1      R1[5,0,66]  1000
+    RHS1      R1[5,0,67]  1000
+    RHS1      R1[5,0,68]  1000
+    RHS1      R1[5,0,69]  1000
+    RHS1      R1[5,0,70]  1000
+    RHS1      R1[5,0,71]  1000
+    RHS1      R1[5,0,72]  1000
+    RHS1      R1[5,0,73]  1000
+    RHS1      R1[5,0,74]  1000
+    RHS1      R1[5,0,75]  1000
+    RHS1      R1[5,0,76]  1000
+    RHS1      R1[5,0,77]  1000
+    RHS1      R1[5,0,78]  1000
+    RHS1      R1[5,0,79]  1000
+    RHS1      R1[5,0,80]  1000
+    RHS1      R1[5,0,81]  1000
+    RHS1      R1[5,0,82]  1000
+    RHS1      R1[5,0,83]  1000
+    RHS1      R1[5,0,84]  1000
+    RHS1      R1[5,0,85]  1000
+    RHS1      R1[5,0,86]  1000
+    RHS1      R1[5,0,87]  1000
+    RHS1      R1[5,0,88]  1000
+    RHS1      R1[5,0,89]  1000
+    RHS1      R1[5,0,90]  1000
+    RHS1      R1[5,0,91]  1000
+    RHS1      R1[5,0,92]  1000
+    RHS1      R1[5,0,93]  1000
+    RHS1      R1[5,0,94]  1000
+    RHS1      R1[5,0,95]  1000
+    RHS1      R1[5,0,96]  1000
+    RHS1      R1[5,0,97]  1000
+    RHS1      R1[5,0,98]  1000
+    RHS1      R1[5,0,99]  1000
+    RHS1      R1[5,1,0]  1000
+    RHS1      R1[5,1,1]  1000
+    RHS1      R1[5,1,2]  1000
+    RHS1      R1[5,1,3]  1000
+    RHS1      R1[5,1,4]  1000
+    RHS1      R1[5,1,5]  1000
+    RHS1      R1[5,1,6]  1000
+    RHS1      R1[5,1,7]  1000
+    RHS1      R1[5,1,8]  1000
+    RHS1      R1[5,1,9]  1000
+    RHS1      R1[5,1,10]  1000
+    RHS1      R1[5,1,11]  1000
+    RHS1      R1[5,1,12]  1000
+    RHS1      R1[5,1,13]  1000
+    RHS1      R1[5,1,14]  1000
+    RHS1      R1[5,1,15]  1000
+    RHS1      R1[5,1,16]  1000
+    RHS1      R1[5,1,17]  1000
+    RHS1      R1[5,1,18]  1000
+    RHS1      R1[5,1,19]  1000
+    RHS1      R1[5,1,20]  1000
+    RHS1      R1[5,1,21]  1000
+    RHS1      R1[5,1,22]  1000
+    RHS1      R1[5,1,23]  1000
+    RHS1      R1[5,1,24]  1000
+    RHS1      R1[5,1,25]  1000
+    RHS1      R1[5,1,26]  1000
+    RHS1      R1[5,1,27]  1000
+    RHS1      R1[5,1,28]  1000
+    RHS1      R1[5,1,29]  1000
+    RHS1      R1[5,1,30]  1000
+    RHS1      R1[5,1,31]  1000
+    RHS1      R1[5,1,32]  1000
+    RHS1      R1[5,1,33]  1000
+    RHS1      R1[5,1,34]  1000
+    RHS1      R1[5,1,35]  1000
+    RHS1      R1[5,1,36]  1000
+    RHS1      R1[5,1,37]  1000
+    RHS1      R1[5,1,38]  1000
+    RHS1      R1[5,1,39]  1000
+    RHS1      R1[5,1,40]  1000
+    RHS1      R1[5,1,41]  1000
+    RHS1      R1[5,1,42]  1000
+    RHS1      R1[5,1,43]  1000
+    RHS1      R1[5,1,44]  1000
+    RHS1      R1[5,1,45]  1000
+    RHS1      R1[5,1,46]  1000
+    RHS1      R1[5,1,47]  1000
+    RHS1      R1[5,1,48]  1000
+    RHS1      R1[5,1,49]  1000
+    RHS1      R1[5,1,50]  1000
+    RHS1      R1[5,1,51]  1000
+    RHS1      R1[5,1,52]  1000
+    RHS1      R1[5,1,53]  1000
+    RHS1      R1[5,1,54]  1000
+    RHS1      R1[5,1,55]  1000
+    RHS1      R1[5,1,56]  1000
+    RHS1      R1[5,1,57]  1000
+    RHS1      R1[5,1,58]  1000
+    RHS1      R1[5,1,59]  1000
+    RHS1      R1[5,1,60]  1000
+    RHS1      R1[5,1,61]  1000
+    RHS1      R1[5,1,62]  1000
+    RHS1      R1[5,1,63]  1000
+    RHS1      R1[5,1,64]  1000
+    RHS1      R1[5,1,65]  1000
+    RHS1      R1[5,1,66]  1000
+    RHS1      R1[5,1,67]  1000
+    RHS1      R1[5,1,68]  1000
+    RHS1      R1[5,1,69]  1000
+    RHS1      R1[5,1,70]  1000
+    RHS1      R1[5,1,71]  1000
+    RHS1      R1[5,1,72]  1000
+    RHS1      R1[5,1,73]  1000
+    RHS1      R1[5,1,74]  1000
+    RHS1      R1[5,1,75]  1000
+    RHS1      R1[5,1,76]  1000
+    RHS1      R1[5,1,77]  1000
+    RHS1      R1[5,1,78]  1000
+    RHS1      R1[5,1,79]  1000
+    RHS1      R1[5,1,80]  1000
+    RHS1      R1[5,1,81]  1000
+    RHS1      R1[5,1,82]  1000
+    RHS1      R1[5,1,83]  1000
+    RHS1      R1[5,1,84]  1000
+    RHS1      R1[5,1,85]  1000
+    RHS1      R1[5,1,86]  1000
+    RHS1      R1[5,1,87]  1000
+    RHS1      R1[5,1,88]  1000
+    RHS1      R1[5,1,89]  1000
+    RHS1      R1[5,1,90]  1000
+    RHS1      R1[5,1,91]  1000
+    RHS1      R1[5,1,92]  1000
+    RHS1      R1[5,1,93]  1000
+    RHS1      R1[5,1,94]  1000
+    RHS1      R1[5,1,95]  1000
+    RHS1      R1[5,1,96]  1000
+    RHS1      R1[5,1,97]  1000
+    RHS1      R1[5,1,98]  1000
+    RHS1      R1[5,1,99]  1000
+    RHS1      R1[5,2,0]  1000
+    RHS1      R1[5,2,1]  1000
+    RHS1      R1[5,2,2]  1000
+    RHS1      R1[5,2,3]  1000
+    RHS1      R1[5,2,4]  1000
+    RHS1      R1[5,2,5]  1000
+    RHS1      R1[5,2,6]  1000
+    RHS1      R1[5,2,7]  1000
+    RHS1      R1[5,2,8]  1000
+    RHS1      R1[5,2,9]  1000
+    RHS1      R1[5,2,10]  1000
+    RHS1      R1[5,2,11]  1000
+    RHS1      R1[5,2,12]  1000
+    RHS1      R1[5,2,13]  1000
+    RHS1      R1[5,2,14]  1000
+    RHS1      R1[5,2,15]  1000
+    RHS1      R1[5,2,16]  1000
+    RHS1      R1[5,2,17]  1000
+    RHS1      R1[5,2,18]  1000
+    RHS1      R1[5,2,19]  1000
+    RHS1      R1[5,2,20]  1000
+    RHS1      R1[5,2,21]  1000
+    RHS1      R1[5,2,22]  1000
+    RHS1      R1[5,2,23]  1000
+    RHS1      R1[5,2,24]  1000
+    RHS1      R1[5,2,25]  1000
+    RHS1      R1[5,2,26]  1000
+    RHS1      R1[5,2,27]  1000
+    RHS1      R1[5,2,28]  1000
+    RHS1      R1[5,2,29]  1000
+    RHS1      R1[5,2,30]  1000
+    RHS1      R1[5,2,31]  1000
+    RHS1      R1[5,2,32]  1000
+    RHS1      R1[5,2,33]  1000
+    RHS1      R1[5,2,34]  1000
+    RHS1      R1[5,2,35]  1000
+    RHS1      R1[5,2,36]  1000
+    RHS1      R1[5,2,37]  1000
+    RHS1      R1[5,2,38]  1000
+    RHS1      R1[5,2,39]  1000
+    RHS1      R1[5,2,40]  1000
+    RHS1      R1[5,2,41]  1000
+    RHS1      R1[5,2,42]  1000
+    RHS1      R1[5,2,43]  1000
+    RHS1      R1[5,2,44]  1000
+    RHS1      R1[5,2,45]  1000
+    RHS1      R1[5,2,46]  1000
+    RHS1      R1[5,2,47]  1000
+    RHS1      R1[5,2,48]  1000
+    RHS1      R1[5,2,49]  1000
+    RHS1      R1[5,2,50]  1000
+    RHS1      R1[5,2,51]  1000
+    RHS1      R1[5,2,52]  1000
+    RHS1      R1[5,2,53]  1000
+    RHS1      R1[5,2,54]  1000
+    RHS1      R1[5,2,55]  1000
+    RHS1      R1[5,2,56]  1000
+    RHS1      R1[5,2,57]  1000
+    RHS1      R1[5,2,58]  1000
+    RHS1      R1[5,2,59]  1000
+    RHS1      R1[5,2,60]  1000
+    RHS1      R1[5,2,61]  1000
+    RHS1      R1[5,2,62]  1000
+    RHS1      R1[5,2,63]  1000
+    RHS1      R1[5,2,64]  1000
+    RHS1      R1[5,2,65]  1000
+    RHS1      R1[5,2,66]  1000
+    RHS1      R1[5,2,67]  1000
+    RHS1      R1[5,2,68]  1000
+    RHS1      R1[5,2,69]  1000
+    RHS1      R1[5,2,70]  1000
+    RHS1      R1[5,2,71]  1000
+    RHS1      R1[5,2,72]  1000
+    RHS1      R1[5,2,73]  1000
+    RHS1      R1[5,2,74]  1000
+    RHS1      R1[5,2,75]  1000
+    RHS1      R1[5,2,76]  1000
+    RHS1      R1[5,2,77]  1000
+    RHS1      R1[5,2,78]  1000
+    RHS1      R1[5,2,79]  1000
+    RHS1      R1[5,2,80]  1000
+    RHS1      R1[5,2,81]  1000
+    RHS1      R1[5,2,82]  1000
+    RHS1      R1[5,2,83]  1000
+    RHS1      R1[5,2,84]  1000
+    RHS1      R1[5,2,85]  1000
+    RHS1      R1[5,2,86]  1000
+    RHS1      R1[5,2,87]  1000
+    RHS1      R1[5,2,88]  1000
+    RHS1      R1[5,2,89]  1000
+    RHS1      R1[5,2,90]  1000
+    RHS1      R1[5,2,91]  1000
+    RHS1      R1[5,2,92]  1000
+    RHS1      R1[5,2,93]  1000
+    RHS1      R1[5,2,94]  1000
+    RHS1      R1[5,2,95]  1000
+    RHS1      R1[5,2,96]  1000
+    RHS1      R1[5,2,97]  1000
+    RHS1      R1[5,2,98]  1000
+    RHS1      R1[5,2,99]  1000
+    RHS1      R1[5,3,0]  1000
+    RHS1      R1[5,3,1]  1000
+    RHS1      R1[5,3,2]  1000
+    RHS1      R1[5,3,3]  1000
+    RHS1      R1[5,3,4]  1000
+    RHS1      R1[5,3,5]  1000
+    RHS1      R1[5,3,6]  1000
+    RHS1      R1[5,3,7]  1000
+    RHS1      R1[5,3,8]  1000
+    RHS1      R1[5,3,9]  1000
+    RHS1      R1[5,3,10]  1000
+    RHS1      R1[5,3,11]  1000
+    RHS1      R1[5,3,12]  1000
+    RHS1      R1[5,3,13]  1000
+    RHS1      R1[5,3,14]  1000
+    RHS1      R1[5,3,15]  1000
+    RHS1      R1[5,3,16]  1000
+    RHS1      R1[5,3,17]  1000
+    RHS1      R1[5,3,18]  1000
+    RHS1      R1[5,3,19]  1000
+    RHS1      R1[5,3,20]  1000
+    RHS1      R1[5,3,21]  1000
+    RHS1      R1[5,3,22]  1000
+    RHS1      R1[5,3,23]  1000
+    RHS1      R1[5,3,24]  1000
+    RHS1      R1[5,3,25]  1000
+    RHS1      R1[5,3,26]  1000
+    RHS1      R1[5,3,27]  1000
+    RHS1      R1[5,3,28]  1000
+    RHS1      R1[5,3,29]  1000
+    RHS1      R1[5,3,30]  1000
+    RHS1      R1[5,3,31]  1000
+    RHS1      R1[5,3,32]  1000
+    RHS1      R1[5,3,33]  1000
+    RHS1      R1[5,3,34]  1000
+    RHS1      R1[5,3,35]  1000
+    RHS1      R1[5,3,36]  1000
+    RHS1      R1[5,3,37]  1000
+    RHS1      R1[5,3,38]  1000
+    RHS1      R1[5,3,39]  1000
+    RHS1      R1[5,3,40]  1000
+    RHS1      R1[5,3,41]  1000
+    RHS1      R1[5,3,42]  1000
+    RHS1      R1[5,3,43]  1000
+    RHS1      R1[5,3,44]  1000
+    RHS1      R1[5,3,45]  1000
+    RHS1      R1[5,3,46]  1000
+    RHS1      R1[5,3,47]  1000
+    RHS1      R1[5,3,48]  1000
+    RHS1      R1[5,3,49]  1000
+    RHS1      R1[5,3,50]  1000
+    RHS1      R1[5,3,51]  1000
+    RHS1      R1[5,3,52]  1000
+    RHS1      R1[5,3,53]  1000
+    RHS1      R1[5,3,54]  1000
+    RHS1      R1[5,3,55]  1000
+    RHS1      R1[5,3,56]  1000
+    RHS1      R1[5,3,57]  1000
+    RHS1      R1[5,3,58]  1000
+    RHS1      R1[5,3,59]  1000
+    RHS1      R1[5,3,60]  1000
+    RHS1      R1[5,3,61]  1000
+    RHS1      R1[5,3,62]  1000
+    RHS1      R1[5,3,63]  1000
+    RHS1      R1[5,3,64]  1000
+    RHS1      R1[5,3,65]  1000
+    RHS1      R1[5,3,66]  1000
+    RHS1      R1[5,3,67]  1000
+    RHS1      R1[5,3,68]  1000
+    RHS1      R1[5,3,69]  1000
+    RHS1      R1[5,3,70]  1000
+    RHS1      R1[5,3,71]  1000
+    RHS1      R1[5,3,72]  1000
+    RHS1      R1[5,3,73]  1000
+    RHS1      R1[5,3,74]  1000
+    RHS1      R1[5,3,75]  1000
+    RHS1      R1[5,3,76]  1000
+    RHS1      R1[5,3,77]  1000
+    RHS1      R1[5,3,78]  1000
+    RHS1      R1[5,3,79]  1000
+    RHS1      R1[5,3,80]  1000
+    RHS1      R1[5,3,81]  1000
+    RHS1      R1[5,3,82]  1000
+    RHS1      R1[5,3,83]  1000
+    RHS1      R1[5,3,84]  1000
+    RHS1      R1[5,3,85]  1000
+    RHS1      R1[5,3,86]  1000
+    RHS1      R1[5,3,87]  1000
+    RHS1      R1[5,3,88]  1000
+    RHS1      R1[5,3,89]  1000
+    RHS1      R1[5,3,90]  1000
+    RHS1      R1[5,3,91]  1000
+    RHS1      R1[5,3,92]  1000
+    RHS1      R1[5,3,93]  1000
+    RHS1      R1[5,3,94]  1000
+    RHS1      R1[5,3,95]  1000
+    RHS1      R1[5,3,96]  1000
+    RHS1      R1[5,3,97]  1000
+    RHS1      R1[5,3,98]  1000
+    RHS1      R1[5,3,99]  1000
     RHS1      R2[0,0]   1
     RHS1      R2[0,1]   1
     RHS1      R2[0,2]   1

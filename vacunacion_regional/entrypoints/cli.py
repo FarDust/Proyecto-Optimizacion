@@ -65,5 +65,6 @@ def cli_entrypoint(source_path: str, output_path, save, experiments, is_random_e
             sys.stdout = Path(stats_path, f"model_stats_{experiment}.txt").open('w')
             print(f"Objetivo: {obj.getValue()}\n")
             model.printStats()
+            model.printAttr("X")
             sys.stdout = original
             model.printStats()

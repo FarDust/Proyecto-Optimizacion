@@ -7,7 +7,7 @@
         4,
         5
     ],
-    "capacidad_max": 400,
+    "capacidad_max": 1000.0,
     "comunas": [
         0,
         1,
@@ -128,6 +128,6 @@
         947,
         142
     ],
-    "vacunacion_dia": 1000.0,
+    "vacunacion_dia": 400,
     "vacunas_disponibles": 500000.0
 }

@@ -221,10 +221,10 @@
 219,19,Putre,0.0
 220,20,Putre,-0.0
 221,21,Putre,-0.0
-222,22,Putre,-0.0
+222,22,Putre,0.0
 223,23,Putre,-0.0
 224,24,Putre,-0.0
-225,25,Putre,0.0
+225,25,Putre,-0.0
 226,26,Putre,-0.0
 227,27,Putre,-0.0
 228,28,Putre,-0.0
@@ -239,8 +239,8 @@
 237,37,Putre,400.0
 238,38,Putre,0.0
 239,39,Putre,-0.0
-240,40,Putre,-0.0
-241,41,Putre,-0.0
+240,40,Putre,0.0
+241,41,Putre,0.0
 242,42,Putre,0.0
 243,43,Putre,-0.0
 244,44,Putre,-0.0
@@ -250,17 +250,17 @@
 248,48,Putre,400.0
 249,49,Putre,-0.0
 250,50,Putre,-0.0
-251,51,Putre,-0.0
+251,51,Putre,0.0
 252,52,Putre,-0.0
 253,53,Putre,-0.0
-254,54,Putre,0.0
-255,55,Putre,0.0
+254,54,Putre,-0.0
+255,55,Putre,-0.0
 256,56,Putre,-0.0
 257,57,Putre,0.0
 258,58,Putre,-0.0
 259,59,Putre,-0.0
-260,60,Putre,-0.0
-261,61,Putre,-0.0
+260,60,Putre,0.0
+261,61,Putre,0.0
 262,62,Putre,-0.0
 263,63,Putre,-0.0
 264,64,Putre,-0.0
@@ -276,22 +276,22 @@
 274,74,Putre,-0.0
 275,75,Putre,400.0
 276,76,Putre,0.0
-277,77,Putre,0.0
-278,78,Putre,-0.0
+277,77,Putre,-0.0
+278,78,Putre,0.0
 279,79,Putre,-0.0
-280,80,Putre,-0.0
+280,80,Putre,0.0
 281,81,Putre,-0.0
-282,82,Putre,-0.0
+282,82,Putre,0.0
 283,83,Putre,-0.0
 284,84,Putre,-0.0
 285,85,Putre,-0.0
-286,86,Putre,-0.0
+286,86,Putre,0.0
 287,87,Putre,0.0
-288,88,Putre,0.0
+288,88,Putre,-0.0
 289,89,Putre,-0.0
-290,90,Putre,0.0
+290,90,Putre,-0.0
 291,91,Putre,0.0
-292,92,Putre,0.0
+292,92,Putre,-0.0
 293,93,Putre,400.0
 294,94,Putre,0.0
 295,95,Putre,0.0
@@ -300,9 +300,9 @@
 298,98,Putre,-0.0
 299,99,Putre,0.0
 300,0,General Lagos,400.0
-301,1,General Lagos,0.0
+301,1,General Lagos,-0.0
 302,2,General Lagos,0.0
-303,3,General Lagos,-0.0
+303,3,General Lagos,0.0
 304,4,General Lagos,0.0
 305,5,General Lagos,-0.0
 306,6,General Lagos,-0.0
@@ -372,30 +372,30 @@
 370,70,General Lagos,-0.0
 371,71,General Lagos,-0.0
 372,72,General Lagos,-0.0
-373,73,General Lagos,0.0
+373,73,General Lagos,-0.0
 374,74,General Lagos,0.0
 375,75,General Lagos,-0.0
-376,76,General Lagos,0.0
+376,76,General Lagos,-0.0
 377,77,General Lagos,-0.0
 378,78,General Lagos,-0.0
-379,79,General Lagos,-0.0
+379,79,General Lagos,0.0
 380,80,General Lagos,-0.0
 381,81,General Lagos,-0.0
 382,82,General Lagos,-0.0
 383,83,General Lagos,-0.0
 384,84,General Lagos,-0.0
-385,85,General Lagos,-0.0
+385,85,General Lagos,0.0
 386,86,General Lagos,-0.0
 387,87,General Lagos,-0.0
 388,88,General Lagos,-0.0
 389,89,General Lagos,-0.0
 390,90,General Lagos,-0.0
 391,91,General Lagos,-0.0
-392,92,General Lagos,0.0
+392,92,General Lagos,-0.0
 393,93,General Lagos,0.0
 394,94,General Lagos,-0.0
-395,95,General Lagos,0.0
+395,95,General Lagos,-0.0
 396,96,General Lagos,-0.0
 397,97,General Lagos,-0.0
-398,98,General Lagos,-0.0
+398,98,General Lagos,0.0
 399,99,General Lagos,0.0
