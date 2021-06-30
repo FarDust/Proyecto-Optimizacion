@@ -1,0 +1,2401 @@
+,camion,dia,comuna,value
+0,0,0,Arica,1.0
+1,0,1,Arica,1.0
+2,0,2,Arica,1.0
+3,0,3,Arica,1.0
+4,0,4,Arica,1.0
+5,0,5,Arica,1.0
+6,0,6,Arica,1.0
+7,0,7,Arica,1.0
+8,0,8,Arica,1.0
+9,0,9,Arica,1.0
+10,0,10,Arica,1.0
+11,0,11,Arica,1.0
+12,0,12,Arica,1.0
+13,0,13,Arica,1.0
+14,0,14,Arica,1.0
+15,0,15,Arica,1.0
+16,0,16,Arica,1.0
+17,0,17,Arica,1.0
+18,0,18,Arica,1.0
+19,0,19,Arica,1.0
+20,0,20,Arica,1.0
+21,0,21,Arica,1.0
+22,0,22,Arica,1.0
+23,0,23,Arica,1.0
+24,0,24,Arica,1.0
+25,0,25,Arica,1.0
+26,0,26,Arica,1.0
+27,0,27,Arica,1.0
+28,0,28,Arica,1.0
+29,0,29,Arica,1.0
+30,0,30,Arica,1.0
+31,0,31,Arica,1.0
+32,0,32,Arica,1.0
+33,0,33,Arica,1.0
+34,0,34,Arica,1.0
+35,0,35,Arica,1.0
+36,0,36,Arica,1.0
+37,0,37,Arica,1.0
+38,0,38,Arica,1.0
+39,0,39,Arica,1.0
+40,0,40,Arica,1.0
+41,0,41,Arica,1.0
+42,0,42,Arica,1.0
+43,0,43,Arica,1.0
+44,0,44,Arica,1.0
+45,0,45,Arica,1.0
+46,0,46,Arica,1.0
+47,0,47,Arica,1.0
+48,0,48,Arica,1.0
+49,0,49,Arica,1.0
+50,0,50,Arica,1.0
+51,0,51,Arica,1.0
+52,0,52,Arica,1.0
+53,0,53,Arica,1.0
+54,0,54,Arica,1.0
+55,0,55,Arica,1.0
+56,0,56,Arica,1.0
+57,0,57,Arica,1.0
+58,0,58,Arica,1.0
+59,0,59,Arica,1.0
+60,0,60,Arica,1.0
+61,0,61,Arica,1.0
+62,0,62,Arica,1.0
+63,0,63,Arica,1.0
+64,0,64,Arica,1.0
+65,0,65,Arica,1.0
+66,0,66,Arica,1.0
+67,0,67,Arica,1.0
+68,0,68,Arica,1.0
+69,0,69,Arica,1.0
+70,0,70,Arica,1.0
+71,0,71,Arica,1.0
+72,0,72,Arica,1.0
+73,0,73,Arica,1.0
+74,0,74,Arica,1.0
+75,0,75,Arica,1.0
+76,0,76,Arica,1.0
+77,0,77,Arica,1.0
+78,0,78,Arica,1.0
+79,0,79,Arica,1.0
+80,0,80,Arica,1.0
+81,0,81,Arica,1.0
+82,0,82,Arica,1.0
+83,0,83,Arica,1.0
+84,0,84,Arica,1.0
+85,0,85,Arica,1.0
+86,0,86,Arica,1.0
+87,0,87,Arica,1.0
+88,0,88,Arica,1.0
+89,0,89,Arica,1.0
+90,0,90,Arica,1.0
+91,0,91,Arica,1.0
+92,0,92,Arica,1.0
+93,0,93,Arica,1.0
+94,0,94,Arica,1.0
+95,0,95,Arica,1.0
+96,0,96,Arica,1.0
+97,0,97,Arica,1.0
+98,0,98,Arica,1.0
+99,0,99,Arica,1.0
+100,0,0,Camarones,-0.0
+101,0,1,Camarones,0.0
+102,0,2,Camarones,-0.0
+103,0,3,Camarones,0.0
+104,0,4,Camarones,-0.0
+105,0,5,Camarones,0.0
+106,0,6,Camarones,-0.0
+107,0,7,Camarones,0.0
+108,0,8,Camarones,-0.0
+109,0,9,Camarones,-0.0
+110,0,10,Camarones,0.0
+111,0,11,Camarones,0.0
+112,0,12,Camarones,0.0
+113,0,13,Camarones,-0.0
+114,0,14,Camarones,-0.0
+115,0,15,Camarones,-0.0
+116,0,16,Camarones,0.0
+117,0,17,Camarones,-0.0
+118,0,18,Camarones,0.0
+119,0,19,Camarones,-0.0
+120,0,20,Camarones,-0.0
+121,0,21,Camarones,0.0
+122,0,22,Camarones,0.0
+123,0,23,Camarones,0.0
+124,0,24,Camarones,0.0
+125,0,25,Camarones,0.0
+126,0,26,Camarones,-0.0
+127,0,27,Camarones,-0.0
+128,0,28,Camarones,-0.0
+129,0,29,Camarones,-0.0
+130,0,30,Camarones,-0.0
+131,0,31,Camarones,-0.0
+132,0,32,Camarones,0.0
+133,0,33,Camarones,-0.0
+134,0,34,Camarones,-0.0
+135,0,35,Camarones,-0.0
+136,0,36,Camarones,-0.0
+137,0,37,Camarones,-0.0
+138,0,38,Camarones,-0.0
+139,0,39,Camarones,-0.0
+140,0,40,Camarones,-0.0
+141,0,41,Camarones,0.0
+142,0,42,Camarones,0.0
+143,0,43,Camarones,-0.0
+144,0,44,Camarones,-0.0
+145,0,45,Camarones,0.0
+146,0,46,Camarones,-0.0
+147,0,47,Camarones,0.0
+148,0,48,Camarones,-0.0
+149,0,49,Camarones,-0.0
+150,0,50,Camarones,0.0
+151,0,51,Camarones,0.0
+152,0,52,Camarones,0.0
+153,0,53,Camarones,-0.0
+154,0,54,Camarones,0.0
+155,0,55,Camarones,0.0
+156,0,56,Camarones,-0.0
+157,0,57,Camarones,-0.0
+158,0,58,Camarones,-0.0
+159,0,59,Camarones,-0.0
+160,0,60,Camarones,-0.0
+161,0,61,Camarones,0.0
+162,0,62,Camarones,0.0
+163,0,63,Camarones,0.0
+164,0,64,Camarones,0.0
+165,0,65,Camarones,-0.0
+166,0,66,Camarones,-0.0
+167,0,67,Camarones,-0.0
+168,0,68,Camarones,0.0
+169,0,69,Camarones,0.0
+170,0,70,Camarones,0.0
+171,0,71,Camarones,0.0
+172,0,72,Camarones,-0.0
+173,0,73,Camarones,0.0
+174,0,74,Camarones,-0.0
+175,0,75,Camarones,0.0
+176,0,76,Camarones,-0.0
+177,0,77,Camarones,0.0
+178,0,78,Camarones,0.0
+179,0,79,Camarones,-0.0
+180,0,80,Camarones,-0.0
+181,0,81,Camarones,0.0
+182,0,82,Camarones,0.0
+183,0,83,Camarones,0.0
+184,0,84,Camarones,-0.0
+185,0,85,Camarones,0.0
+186,0,86,Camarones,0.0
+187,0,87,Camarones,0.0
+188,0,88,Camarones,-0.0
+189,0,89,Camarones,0.0
+190,0,90,Camarones,0.0
+191,0,91,Camarones,0.0
+192,0,92,Camarones,0.0
+193,0,93,Camarones,-0.0
+194,0,94,Camarones,-0.0
+195,0,95,Camarones,-0.0
+196,0,96,Camarones,0.0
+197,0,97,Camarones,-0.0
+198,0,98,Camarones,-0.0
+199,0,99,Camarones,-0.0
+200,0,0,Putre,-0.0
+201,0,1,Putre,0.0
+202,0,2,Putre,0.0
+203,0,3,Putre,0.0
+204,0,4,Putre,0.0
+205,0,5,Putre,-0.0
+206,0,6,Putre,0.0
+207,0,7,Putre,-0.0
+208,0,8,Putre,0.0
+209,0,9,Putre,0.0
+210,0,10,Putre,-0.0
+211,0,11,Putre,-0.0
+212,0,12,Putre,-0.0
+213,0,13,Putre,0.0
+214,0,14,Putre,0.0
+215,0,15,Putre,-0.0
+216,0,16,Putre,-0.0
+217,0,17,Putre,0.0
+218,0,18,Putre,-0.0
+219,0,19,Putre,-0.0
+220,0,20,Putre,0.0
+221,0,21,Putre,0.0
+222,0,22,Putre,0.0
+223,0,23,Putre,-0.0
+224,0,24,Putre,0.0
+225,0,25,Putre,-0.0
+226,0,26,Putre,0.0
+227,0,27,Putre,0.0
+228,0,28,Putre,0.0
+229,0,29,Putre,-0.0
+230,0,30,Putre,-0.0
+231,0,31,Putre,0.0
+232,0,32,Putre,-0.0
+233,0,33,Putre,0.0
+234,0,34,Putre,-0.0
+235,0,35,Putre,-0.0
+236,0,36,Putre,-0.0
+237,0,37,Putre,-0.0
+238,0,38,Putre,-0.0
+239,0,39,Putre,-0.0
+240,0,40,Putre,-0.0
+241,0,41,Putre,-0.0
+242,0,42,Putre,-0.0
+243,0,43,Putre,-0.0
+244,0,44,Putre,-0.0
+245,0,45,Putre,-0.0
+246,0,46,Putre,0.0
+247,0,47,Putre,-0.0
+248,0,48,Putre,0.0
+249,0,49,Putre,-0.0
+250,0,50,Putre,-0.0
+251,0,51,Putre,0.0
+252,0,52,Putre,0.0
+253,0,53,Putre,0.0
+254,0,54,Putre,-0.0
+255,0,55,Putre,-0.0
+256,0,56,Putre,0.0
+257,0,57,Putre,-0.0
+258,0,58,Putre,-0.0
+259,0,59,Putre,0.0
+260,0,60,Putre,0.0
+261,0,61,Putre,-0.0
+262,0,62,Putre,-0.0
+263,0,63,Putre,-0.0
+264,0,64,Putre,-0.0
+265,0,65,Putre,-0.0
+266,0,66,Putre,0.0
+267,0,67,Putre,-0.0
+268,0,68,Putre,-0.0
+269,0,69,Putre,-0.0
+270,0,70,Putre,-0.0
+271,0,71,Putre,-0.0
+272,0,72,Putre,-0.0
+273,0,73,Putre,-0.0
+274,0,74,Putre,-0.0
+275,0,75,Putre,-0.0
+276,0,76,Putre,-0.0
+277,0,77,Putre,-0.0
+278,0,78,Putre,-0.0
+279,0,79,Putre,-0.0
+280,0,80,Putre,-0.0
+281,0,81,Putre,0.0
+282,0,82,Putre,-0.0
+283,0,83,Putre,-0.0
+284,0,84,Putre,0.0
+285,0,85,Putre,0.0
+286,0,86,Putre,-0.0
+287,0,87,Putre,-0.0
+288,0,88,Putre,-0.0
+289,0,89,Putre,0.0
+290,0,90,Putre,-0.0
+291,0,91,Putre,-0.0
+292,0,92,Putre,-0.0
+293,0,93,Putre,0.0
+294,0,94,Putre,-0.0
+295,0,95,Putre,-0.0
+296,0,96,Putre,-0.0
+297,0,97,Putre,0.0
+298,0,98,Putre,0.0
+299,0,99,Putre,-0.0
+300,0,0,General Lagos,-0.0
+301,0,1,General Lagos,-0.0
+302,0,2,General Lagos,-0.0
+303,0,3,General Lagos,-0.0
+304,0,4,General Lagos,-0.0
+305,0,5,General Lagos,-0.0
+306,0,6,General Lagos,-0.0
+307,0,7,General Lagos,0.0
+308,0,8,General Lagos,0.0
+309,0,9,General Lagos,-0.0
+310,0,10,General Lagos,-0.0
+311,0,11,General Lagos,-0.0
+312,0,12,General Lagos,-0.0
+313,0,13,General Lagos,-0.0
+314,0,14,General Lagos,-0.0
+315,0,15,General Lagos,0.0
+316,0,16,General Lagos,-0.0
+317,0,17,General Lagos,-0.0
+318,0,18,General Lagos,-0.0
+319,0,19,General Lagos,-0.0
+320,0,20,General Lagos,-0.0
+321,0,21,General Lagos,-0.0
+322,0,22,General Lagos,-0.0
+323,0,23,General Lagos,-0.0
+324,0,24,General Lagos,-0.0
+325,0,25,General Lagos,0.0
+326,0,26,General Lagos,0.0
+327,0,27,General Lagos,-0.0
+328,0,28,General Lagos,-0.0
+329,0,29,General Lagos,0.0
+330,0,30,General Lagos,0.0
+331,0,31,General Lagos,0.0
+332,0,32,General Lagos,-0.0
+333,0,33,General Lagos,0.0
+334,0,34,General Lagos,0.0
+335,0,35,General Lagos,-0.0
+336,0,36,General Lagos,-0.0
+337,0,37,General Lagos,-0.0
+338,0,38,General Lagos,-0.0
+339,0,39,General Lagos,0.0
+340,0,40,General Lagos,-0.0
+341,0,41,General Lagos,-0.0
+342,0,42,General Lagos,0.0
+343,0,43,General Lagos,-0.0
+344,0,44,General Lagos,-0.0
+345,0,45,General Lagos,-0.0
+346,0,46,General Lagos,0.0
+347,0,47,General Lagos,-0.0
+348,0,48,General Lagos,-0.0
+349,0,49,General Lagos,-0.0
+350,0,50,General Lagos,-0.0
+351,0,51,General Lagos,-0.0
+352,0,52,General Lagos,-0.0
+353,0,53,General Lagos,-0.0
+354,0,54,General Lagos,-0.0
+355,0,55,General Lagos,-0.0
+356,0,56,General Lagos,-0.0
+357,0,57,General Lagos,-0.0
+358,0,58,General Lagos,0.0
+359,0,59,General Lagos,-0.0
+360,0,60,General Lagos,-0.0
+361,0,61,General Lagos,0.0
+362,0,62,General Lagos,0.0
+363,0,63,General Lagos,-0.0
+364,0,64,General Lagos,-0.0
+365,0,65,General Lagos,0.0
+366,0,66,General Lagos,-0.0
+367,0,67,General Lagos,0.0
+368,0,68,General Lagos,-0.0
+369,0,69,General Lagos,-0.0
+370,0,70,General Lagos,-0.0
+371,0,71,General Lagos,-0.0
+372,0,72,General Lagos,0.0
+373,0,73,General Lagos,-0.0
+374,0,74,General Lagos,-0.0
+375,0,75,General Lagos,0.0
+376,0,76,General Lagos,-0.0
+377,0,77,General Lagos,-0.0
+378,0,78,General Lagos,0.0
+379,0,79,General Lagos,-0.0
+380,0,80,General Lagos,0.0
+381,0,81,General Lagos,-0.0
+382,0,82,General Lagos,-0.0
+383,0,83,General Lagos,-0.0
+384,0,84,General Lagos,-0.0
+385,0,85,General Lagos,-0.0
+386,0,86,General Lagos,-0.0
+387,0,87,General Lagos,-0.0
+388,0,88,General Lagos,-0.0
+389,0,89,General Lagos,-0.0
+390,0,90,General Lagos,-0.0
+391,0,91,General Lagos,-0.0
+392,0,92,General Lagos,-0.0
+393,0,93,General Lagos,-0.0
+394,0,94,General Lagos,0.0
+395,0,95,General Lagos,-0.0
+396,0,96,General Lagos,-0.0
+397,0,97,General Lagos,-0.0
+398,0,98,General Lagos,-0.0
+399,0,99,General Lagos,-0.0
+400,1,0,Arica,-0.0
+401,1,1,Arica,1.0
+402,1,2,Arica,1.0
+403,1,3,Arica,1.0
+404,1,4,Arica,1.0
+405,1,5,Arica,1.0
+406,1,6,Arica,1.0
+407,1,7,Arica,1.0
+408,1,8,Arica,1.0
+409,1,9,Arica,1.0
+410,1,10,Arica,-0.0
+411,1,11,Arica,1.0
+412,1,12,Arica,-0.0
+413,1,13,Arica,1.0
+414,1,14,Arica,1.0
+415,1,15,Arica,1.0
+416,1,16,Arica,1.0
+417,1,17,Arica,1.0
+418,1,18,Arica,1.0
+419,1,19,Arica,1.0
+420,1,20,Arica,1.0
+421,1,21,Arica,1.0
+422,1,22,Arica,1.0
+423,1,23,Arica,1.0
+424,1,24,Arica,1.0
+425,1,25,Arica,1.0
+426,1,26,Arica,1.0
+427,1,27,Arica,1.0
+428,1,28,Arica,1.0
+429,1,29,Arica,1.0
+430,1,30,Arica,1.0
+431,1,31,Arica,1.0
+432,1,32,Arica,1.0
+433,1,33,Arica,1.0
+434,1,34,Arica,1.0
+435,1,35,Arica,1.0
+436,1,36,Arica,1.0
+437,1,37,Arica,0.0
+438,1,38,Arica,1.0
+439,1,39,Arica,1.0
+440,1,40,Arica,1.0
+441,1,41,Arica,1.0
+442,1,42,Arica,1.0
+443,1,43,Arica,1.0
+444,1,44,Arica,1.0
+445,1,45,Arica,1.0
+446,1,46,Arica,1.0
+447,1,47,Arica,1.0
+448,1,48,Arica,-0.0
+449,1,49,Arica,1.0
+450,1,50,Arica,1.0
+451,1,51,Arica,1.0
+452,1,52,Arica,1.0
+453,1,53,Arica,1.0
+454,1,54,Arica,1.0
+455,1,55,Arica,1.0
+456,1,56,Arica,1.0
+457,1,57,Arica,1.0
+458,1,58,Arica,1.0
+459,1,59,Arica,1.0
+460,1,60,Arica,1.0
+461,1,61,Arica,1.0
+462,1,62,Arica,1.0
+463,1,63,Arica,1.0
+464,1,64,Arica,1.0
+465,1,65,Arica,1.0
+466,1,66,Arica,1.0
+467,1,67,Arica,1.0
+468,1,68,Arica,1.0
+469,1,69,Arica,1.0
+470,1,70,Arica,1.0
+471,1,71,Arica,1.0
+472,1,72,Arica,1.0
+473,1,73,Arica,1.0
+474,1,74,Arica,1.0
+475,1,75,Arica,0.0
+476,1,76,Arica,1.0
+477,1,77,Arica,1.0
+478,1,78,Arica,1.0
+479,1,79,Arica,1.0
+480,1,80,Arica,1.0
+481,1,81,Arica,1.0
+482,1,82,Arica,1.0
+483,1,83,Arica,1.0
+484,1,84,Arica,1.0
+485,1,85,Arica,1.0
+486,1,86,Arica,1.0
+487,1,87,Arica,1.0
+488,1,88,Arica,1.0
+489,1,89,Arica,1.0
+490,1,90,Arica,1.0
+491,1,91,Arica,1.0
+492,1,92,Arica,1.0
+493,1,93,Arica,-0.0
+494,1,94,Arica,1.0
+495,1,95,Arica,1.0
+496,1,96,Arica,1.0
+497,1,97,Arica,1.0
+498,1,98,Arica,1.0
+499,1,99,Arica,1.0
+500,1,0,Camarones,0.0
+501,1,1,Camarones,-0.0
+502,1,2,Camarones,-0.0
+503,1,3,Camarones,-0.0
+504,1,4,Camarones,-0.0
+505,1,5,Camarones,-0.0
+506,1,6,Camarones,-0.0
+507,1,7,Camarones,-0.0
+508,1,8,Camarones,-0.0
+509,1,9,Camarones,-0.0
+510,1,10,Camarones,0.0
+511,1,11,Camarones,-0.0
+512,1,12,Camarones,1.0
+513,1,13,Camarones,-0.0
+514,1,14,Camarones,-0.0
+515,1,15,Camarones,-0.0
+516,1,16,Camarones,0.0
+517,1,17,Camarones,-0.0
+518,1,18,Camarones,-0.0
+519,1,19,Camarones,0.0
+520,1,20,Camarones,-0.0
+521,1,21,Camarones,-0.0
+522,1,22,Camarones,-0.0
+523,1,23,Camarones,0.0
+524,1,24,Camarones,-0.0
+525,1,25,Camarones,-0.0
+526,1,26,Camarones,-0.0
+527,1,27,Camarones,0.0
+528,1,28,Camarones,-0.0
+529,1,29,Camarones,-0.0
+530,1,30,Camarones,-0.0
+531,1,31,Camarones,-0.0
+532,1,32,Camarones,-0.0
+533,1,33,Camarones,0.0
+534,1,34,Camarones,-0.0
+535,1,35,Camarones,-0.0
+536,1,36,Camarones,0.0
+537,1,37,Camarones,-0.0
+538,1,38,Camarones,-0.0
+539,1,39,Camarones,0.0
+540,1,40,Camarones,-0.0
+541,1,41,Camarones,0.0
+542,1,42,Camarones,0.0
+543,1,43,Camarones,0.0
+544,1,44,Camarones,-0.0
+545,1,45,Camarones,0.0
+546,1,46,Camarones,-0.0
+547,1,47,Camarones,0.0
+548,1,48,Camarones,-0.0
+549,1,49,Camarones,-0.0
+550,1,50,Camarones,0.0
+551,1,51,Camarones,0.0
+552,1,52,Camarones,-0.0
+553,1,53,Camarones,-0.0
+554,1,54,Camarones,0.0
+555,1,55,Camarones,0.0
+556,1,56,Camarones,-0.0
+557,1,57,Camarones,0.0
+558,1,58,Camarones,-0.0
+559,1,59,Camarones,0.0
+560,1,60,Camarones,0.0
+561,1,61,Camarones,0.0
+562,1,62,Camarones,-0.0
+563,1,63,Camarones,-0.0
+564,1,64,Camarones,-0.0
+565,1,65,Camarones,-0.0
+566,1,66,Camarones,0.0
+567,1,67,Camarones,-0.0
+568,1,68,Camarones,0.0
+569,1,69,Camarones,-0.0
+570,1,70,Camarones,0.0
+571,1,71,Camarones,0.0
+572,1,72,Camarones,-0.0
+573,1,73,Camarones,-0.0
+574,1,74,Camarones,-0.0
+575,1,75,Camarones,-0.0
+576,1,76,Camarones,0.0
+577,1,77,Camarones,0.0
+578,1,78,Camarones,-0.0
+579,1,79,Camarones,-0.0
+580,1,80,Camarones,-0.0
+581,1,81,Camarones,0.0
+582,1,82,Camarones,-0.0
+583,1,83,Camarones,-0.0
+584,1,84,Camarones,-0.0
+585,1,85,Camarones,-0.0
+586,1,86,Camarones,0.0
+587,1,87,Camarones,0.0
+588,1,88,Camarones,0.0
+589,1,89,Camarones,0.0
+590,1,90,Camarones,0.0
+591,1,91,Camarones,0.0
+592,1,92,Camarones,-0.0
+593,1,93,Camarones,-0.0
+594,1,94,Camarones,-0.0
+595,1,95,Camarones,0.0
+596,1,96,Camarones,0.0
+597,1,97,Camarones,-0.0
+598,1,98,Camarones,-0.0
+599,1,99,Camarones,-0.0
+600,1,0,Putre,1.0
+601,1,1,Putre,-0.0
+602,1,2,Putre,-0.0
+603,1,3,Putre,0.0
+604,1,4,Putre,-0.0
+605,1,5,Putre,-0.0
+606,1,6,Putre,-0.0
+607,1,7,Putre,0.0
+608,1,8,Putre,-0.0
+609,1,9,Putre,-0.0
+610,1,10,Putre,-0.0
+611,1,11,Putre,-0.0
+612,1,12,Putre,-0.0
+613,1,13,Putre,-0.0
+614,1,14,Putre,0.0
+615,1,15,Putre,-0.0
+616,1,16,Putre,-0.0
+617,1,17,Putre,-0.0
+618,1,18,Putre,-0.0
+619,1,19,Putre,-0.0
+620,1,20,Putre,0.0
+621,1,21,Putre,-0.0
+622,1,22,Putre,-0.0
+623,1,23,Putre,-0.0
+624,1,24,Putre,-0.0
+625,1,25,Putre,-0.0
+626,1,26,Putre,-0.0
+627,1,27,Putre,0.0
+628,1,28,Putre,0.0
+629,1,29,Putre,-0.0
+630,1,30,Putre,-0.0
+631,1,31,Putre,-0.0
+632,1,32,Putre,-0.0
+633,1,33,Putre,-0.0
+634,1,34,Putre,0.0
+635,1,35,Putre,-0.0
+636,1,36,Putre,-0.0
+637,1,37,Putre,1.0
+638,1,38,Putre,-0.0
+639,1,39,Putre,-0.0
+640,1,40,Putre,-0.0
+641,1,41,Putre,0.0
+642,1,42,Putre,-0.0
+643,1,43,Putre,-0.0
+644,1,44,Putre,-0.0
+645,1,45,Putre,-0.0
+646,1,46,Putre,-0.0
+647,1,47,Putre,-0.0
+648,1,48,Putre,1.0
+649,1,49,Putre,-0.0
+650,1,50,Putre,-0.0
+651,1,51,Putre,-0.0
+652,1,52,Putre,0.0
+653,1,53,Putre,-0.0
+654,1,54,Putre,-0.0
+655,1,55,Putre,-0.0
+656,1,56,Putre,0.0
+657,1,57,Putre,-0.0
+658,1,58,Putre,0.0
+659,1,59,Putre,-0.0
+660,1,60,Putre,-0.0
+661,1,61,Putre,-0.0
+662,1,62,Putre,-0.0
+663,1,63,Putre,0.0
+664,1,64,Putre,-0.0
+665,1,65,Putre,-0.0
+666,1,66,Putre,0.0
+667,1,67,Putre,-0.0
+668,1,68,Putre,-0.0
+669,1,69,Putre,0.0
+670,1,70,Putre,-0.0
+671,1,71,Putre,0.0
+672,1,72,Putre,-0.0
+673,1,73,Putre,-0.0
+674,1,74,Putre,0.0
+675,1,75,Putre,1.0
+676,1,76,Putre,-0.0
+677,1,77,Putre,-0.0
+678,1,78,Putre,-0.0
+679,1,79,Putre,0.0
+680,1,80,Putre,-0.0
+681,1,81,Putre,-0.0
+682,1,82,Putre,-0.0
+683,1,83,Putre,-0.0
+684,1,84,Putre,-0.0
+685,1,85,Putre,0.0
+686,1,86,Putre,-0.0
+687,1,87,Putre,-0.0
+688,1,88,Putre,-0.0
+689,1,89,Putre,-0.0
+690,1,90,Putre,-0.0
+691,1,91,Putre,-0.0
+692,1,92,Putre,-0.0
+693,1,93,Putre,1.0
+694,1,94,Putre,-0.0
+695,1,95,Putre,-0.0
+696,1,96,Putre,-0.0
+697,1,97,Putre,-0.0
+698,1,98,Putre,0.0
+699,1,99,Putre,-0.0
+700,1,0,General Lagos,-0.0
+701,1,1,General Lagos,-0.0
+702,1,2,General Lagos,-0.0
+703,1,3,General Lagos,-0.0
+704,1,4,General Lagos,-0.0
+705,1,5,General Lagos,-0.0
+706,1,6,General Lagos,-0.0
+707,1,7,General Lagos,-0.0
+708,1,8,General Lagos,0.0
+709,1,9,General Lagos,-0.0
+710,1,10,General Lagos,1.0
+711,1,11,General Lagos,0.0
+712,1,12,General Lagos,-0.0
+713,1,13,General Lagos,-0.0
+714,1,14,General Lagos,-0.0
+715,1,15,General Lagos,-0.0
+716,1,16,General Lagos,-0.0
+717,1,17,General Lagos,-0.0
+718,1,18,General Lagos,-0.0
+719,1,19,General Lagos,-0.0
+720,1,20,General Lagos,-0.0
+721,1,21,General Lagos,0.0
+722,1,22,General Lagos,-0.0
+723,1,23,General Lagos,-0.0
+724,1,24,General Lagos,-0.0
+725,1,25,General Lagos,0.0
+726,1,26,General Lagos,-0.0
+727,1,27,General Lagos,-0.0
+728,1,28,General Lagos,0.0
+729,1,29,General Lagos,-0.0
+730,1,30,General Lagos,0.0
+731,1,31,General Lagos,-0.0
+732,1,32,General Lagos,-0.0
+733,1,33,General Lagos,0.0
+734,1,34,General Lagos,0.0
+735,1,35,General Lagos,0.0
+736,1,36,General Lagos,-0.0
+737,1,37,General Lagos,0.0
+738,1,38,General Lagos,-0.0
+739,1,39,General Lagos,0.0
+740,1,40,General Lagos,-0.0
+741,1,41,General Lagos,0.0
+742,1,42,General Lagos,-0.0
+743,1,43,General Lagos,-0.0
+744,1,44,General Lagos,-0.0
+745,1,45,General Lagos,-0.0
+746,1,46,General Lagos,-0.0
+747,1,47,General Lagos,-0.0
+748,1,48,General Lagos,-0.0
+749,1,49,General Lagos,-0.0
+750,1,50,General Lagos,-0.0
+751,1,51,General Lagos,-0.0
+752,1,52,General Lagos,-0.0
+753,1,53,General Lagos,0.0
+754,1,54,General Lagos,-0.0
+755,1,55,General Lagos,-0.0
+756,1,56,General Lagos,-0.0
+757,1,57,General Lagos,-0.0
+758,1,58,General Lagos,-0.0
+759,1,59,General Lagos,0.0
+760,1,60,General Lagos,-0.0
+761,1,61,General Lagos,-0.0
+762,1,62,General Lagos,-0.0
+763,1,63,General Lagos,-0.0
+764,1,64,General Lagos,0.0
+765,1,65,General Lagos,-0.0
+766,1,66,General Lagos,0.0
+767,1,67,General Lagos,0.0
+768,1,68,General Lagos,0.0
+769,1,69,General Lagos,-0.0
+770,1,70,General Lagos,-0.0
+771,1,71,General Lagos,0.0
+772,1,72,General Lagos,-0.0
+773,1,73,General Lagos,-0.0
+774,1,74,General Lagos,-0.0
+775,1,75,General Lagos,-0.0
+776,1,76,General Lagos,-0.0
+777,1,77,General Lagos,-0.0
+778,1,78,General Lagos,0.0
+779,1,79,General Lagos,-0.0
+780,1,80,General Lagos,-0.0
+781,1,81,General Lagos,-0.0
+782,1,82,General Lagos,-0.0
+783,1,83,General Lagos,-0.0
+784,1,84,General Lagos,0.0
+785,1,85,General Lagos,-0.0
+786,1,86,General Lagos,0.0
+787,1,87,General Lagos,-0.0
+788,1,88,General Lagos,-0.0
+789,1,89,General Lagos,-0.0
+790,1,90,General Lagos,-0.0
+791,1,91,General Lagos,0.0
+792,1,92,General Lagos,-0.0
+793,1,93,General Lagos,-0.0
+794,1,94,General Lagos,0.0
+795,1,95,General Lagos,-0.0
+796,1,96,General Lagos,-0.0
+797,1,97,General Lagos,0.0
+798,1,98,General Lagos,-0.0
+799,1,99,General Lagos,-0.0
+800,2,0,Arica,-0.0
+801,2,1,Arica,1.0
+802,2,2,Arica,1.0
+803,2,3,Arica,1.0
+804,2,4,Arica,1.0
+805,2,5,Arica,1.0
+806,2,6,Arica,1.0
+807,2,7,Arica,1.0
+808,2,8,Arica,1.0
+809,2,9,Arica,1.0
+810,2,10,Arica,1.0
+811,2,11,Arica,1.0
+812,2,12,Arica,1.0
+813,2,13,Arica,1.0
+814,2,14,Arica,1.0
+815,2,15,Arica,1.0
+816,2,16,Arica,1.0
+817,2,17,Arica,1.0
+818,2,18,Arica,1.0
+819,2,19,Arica,1.0
+820,2,20,Arica,1.0
+821,2,21,Arica,1.0
+822,2,22,Arica,1.0
+823,2,23,Arica,1.0
+824,2,24,Arica,1.0
+825,2,25,Arica,1.0
+826,2,26,Arica,1.0
+827,2,27,Arica,1.0
+828,2,28,Arica,1.0
+829,2,29,Arica,1.0
+830,2,30,Arica,1.0
+831,2,31,Arica,1.0
+832,2,32,Arica,1.0
+833,2,33,Arica,1.0
+834,2,34,Arica,1.0
+835,2,35,Arica,1.0
+836,2,36,Arica,1.0
+837,2,37,Arica,1.0
+838,2,38,Arica,1.0
+839,2,39,Arica,1.0
+840,2,40,Arica,1.0
+841,2,41,Arica,1.0
+842,2,42,Arica,1.0
+843,2,43,Arica,1.0
+844,2,44,Arica,1.0
+845,2,45,Arica,1.0
+846,2,46,Arica,1.0
+847,2,47,Arica,1.0
+848,2,48,Arica,1.0
+849,2,49,Arica,1.0
+850,2,50,Arica,1.0
+851,2,51,Arica,1.0
+852,2,52,Arica,1.0
+853,2,53,Arica,1.0
+854,2,54,Arica,1.0
+855,2,55,Arica,1.0
+856,2,56,Arica,1.0
+857,2,57,Arica,1.0
+858,2,58,Arica,1.0
+859,2,59,Arica,1.0
+860,2,60,Arica,1.0
+861,2,61,Arica,1.0
+862,2,62,Arica,1.0
+863,2,63,Arica,1.0
+864,2,64,Arica,1.0
+865,2,65,Arica,1.0
+866,2,66,Arica,1.0
+867,2,67,Arica,1.0
+868,2,68,Arica,1.0
+869,2,69,Arica,1.0
+870,2,70,Arica,1.0
+871,2,71,Arica,1.0
+872,2,72,Arica,1.0
+873,2,73,Arica,1.0
+874,2,74,Arica,-0.0
+875,2,75,Arica,1.0
+876,2,76,Arica,1.0
+877,2,77,Arica,1.0
+878,2,78,Arica,1.0
+879,2,79,Arica,1.0
+880,2,80,Arica,1.0
+881,2,81,Arica,1.0
+882,2,82,Arica,1.0
+883,2,83,Arica,1.0
+884,2,84,Arica,1.0
+885,2,85,Arica,1.0
+886,2,86,Arica,1.0
+887,2,87,Arica,1.0
+888,2,88,Arica,1.0
+889,2,89,Arica,1.0
+890,2,90,Arica,1.0
+891,2,91,Arica,1.0
+892,2,92,Arica,1.0
+893,2,93,Arica,1.0
+894,2,94,Arica,1.0
+895,2,95,Arica,1.0
+896,2,96,Arica,1.0
+897,2,97,Arica,1.0
+898,2,98,Arica,1.0
+899,2,99,Arica,1.0
+900,2,0,Camarones,-0.0
+901,2,1,Camarones,-0.0
+902,2,2,Camarones,-0.0
+903,2,3,Camarones,0.0
+904,2,4,Camarones,-0.0
+905,2,5,Camarones,0.0
+906,2,6,Camarones,-0.0
+907,2,7,Camarones,-0.0
+908,2,8,Camarones,-0.0
+909,2,9,Camarones,-0.0
+910,2,10,Camarones,0.0
+911,2,11,Camarones,0.0
+912,2,12,Camarones,0.0
+913,2,13,Camarones,-0.0
+914,2,14,Camarones,-0.0
+915,2,15,Camarones,-0.0
+916,2,16,Camarones,0.0
+917,2,17,Camarones,0.0
+918,2,18,Camarones,0.0
+919,2,19,Camarones,0.0
+920,2,20,Camarones,-0.0
+921,2,21,Camarones,0.0
+922,2,22,Camarones,-0.0
+923,2,23,Camarones,0.0
+924,2,24,Camarones,-0.0
+925,2,25,Camarones,-0.0
+926,2,26,Camarones,-0.0
+927,2,27,Camarones,0.0
+928,2,28,Camarones,-0.0
+929,2,29,Camarones,-0.0
+930,2,30,Camarones,0.0
+931,2,31,Camarones,0.0
+932,2,32,Camarones,-0.0
+933,2,33,Camarones,-0.0
+934,2,34,Camarones,0.0
+935,2,35,Camarones,-0.0
+936,2,36,Camarones,0.0
+937,2,37,Camarones,-0.0
+938,2,38,Camarones,0.0
+939,2,39,Camarones,-0.0
+940,2,40,Camarones,-0.0
+941,2,41,Camarones,0.0
+942,2,42,Camarones,-0.0
+943,2,43,Camarones,-0.0
+944,2,44,Camarones,0.0
+945,2,45,Camarones,0.0
+946,2,46,Camarones,-0.0
+947,2,47,Camarones,0.0
+948,2,48,Camarones,0.0
+949,2,49,Camarones,-0.0
+950,2,50,Camarones,0.0
+951,2,51,Camarones,0.0
+952,2,52,Camarones,-0.0
+953,2,53,Camarones,-0.0
+954,2,54,Camarones,-0.0
+955,2,55,Camarones,0.0
+956,2,56,Camarones,-0.0
+957,2,57,Camarones,-0.0
+958,2,58,Camarones,0.0
+959,2,59,Camarones,-0.0
+960,2,60,Camarones,-0.0
+961,2,61,Camarones,0.0
+962,2,62,Camarones,0.0
+963,2,63,Camarones,-0.0
+964,2,64,Camarones,-0.0
+965,2,65,Camarones,-0.0
+966,2,66,Camarones,-0.0
+967,2,67,Camarones,0.0
+968,2,68,Camarones,-0.0
+969,2,69,Camarones,-0.0
+970,2,70,Camarones,0.0
+971,2,71,Camarones,-0.0
+972,2,72,Camarones,0.0
+973,2,73,Camarones,0.0
+974,2,74,Camarones,1.0
+975,2,75,Camarones,0.0
+976,2,76,Camarones,-0.0
+977,2,77,Camarones,0.0
+978,2,78,Camarones,0.0
+979,2,79,Camarones,-0.0
+980,2,80,Camarones,-0.0
+981,2,81,Camarones,-0.0
+982,2,82,Camarones,-0.0
+983,2,83,Camarones,-0.0
+984,2,84,Camarones,-0.0
+985,2,85,Camarones,-0.0
+986,2,86,Camarones,0.0
+987,2,87,Camarones,0.0
+988,2,88,Camarones,0.0
+989,2,89,Camarones,0.0
+990,2,90,Camarones,-0.0
+991,2,91,Camarones,0.0
+992,2,92,Camarones,0.0
+993,2,93,Camarones,-0.0
+994,2,94,Camarones,-0.0
+995,2,95,Camarones,0.0
+996,2,96,Camarones,0.0
+997,2,97,Camarones,-0.0
+998,2,98,Camarones,0.0
+999,2,99,Camarones,-0.0
+1000,2,0,Putre,-0.0
+1001,2,1,Putre,0.0
+1002,2,2,Putre,0.0
+1003,2,3,Putre,-0.0
+1004,2,4,Putre,0.0
+1005,2,5,Putre,-0.0
+1006,2,6,Putre,0.0
+1007,2,7,Putre,0.0
+1008,2,8,Putre,-0.0
+1009,2,9,Putre,-0.0
+1010,2,10,Putre,-0.0
+1011,2,11,Putre,0.0
+1012,2,12,Putre,0.0
+1013,2,13,Putre,0.0
+1014,2,14,Putre,-0.0
+1015,2,15,Putre,-0.0
+1016,2,16,Putre,-0.0
+1017,2,17,Putre,0.0
+1018,2,18,Putre,-0.0
+1019,2,19,Putre,-0.0
+1020,2,20,Putre,0.0
+1021,2,21,Putre,-0.0
+1022,2,22,Putre,-0.0
+1023,2,23,Putre,-0.0
+1024,2,24,Putre,-0.0
+1025,2,25,Putre,-0.0
+1026,2,26,Putre,-0.0
+1027,2,27,Putre,-0.0
+1028,2,28,Putre,0.0
+1029,2,29,Putre,-0.0
+1030,2,30,Putre,0.0
+1031,2,31,Putre,-0.0
+1032,2,32,Putre,-0.0
+1033,2,33,Putre,0.0
+1034,2,34,Putre,-0.0
+1035,2,35,Putre,-0.0
+1036,2,36,Putre,-0.0
+1037,2,37,Putre,-0.0
+1038,2,38,Putre,-0.0
+1039,2,39,Putre,-0.0
+1040,2,40,Putre,-0.0
+1041,2,41,Putre,-0.0
+1042,2,42,Putre,-0.0
+1043,2,43,Putre,-0.0
+1044,2,44,Putre,-0.0
+1045,2,45,Putre,0.0
+1046,2,46,Putre,-0.0
+1047,2,47,Putre,-0.0
+1048,2,48,Putre,-0.0
+1049,2,49,Putre,0.0
+1050,2,50,Putre,-0.0
+1051,2,51,Putre,-0.0
+1052,2,52,Putre,0.0
+1053,2,53,Putre,0.0
+1054,2,54,Putre,-0.0
+1055,2,55,Putre,-0.0
+1056,2,56,Putre,0.0
+1057,2,57,Putre,-0.0
+1058,2,58,Putre,-0.0
+1059,2,59,Putre,0.0
+1060,2,60,Putre,-0.0
+1061,2,61,Putre,-0.0
+1062,2,62,Putre,-0.0
+1063,2,63,Putre,0.0
+1064,2,64,Putre,-0.0
+1065,2,65,Putre,0.0
+1066,2,66,Putre,0.0
+1067,2,67,Putre,0.0
+1068,2,68,Putre,-0.0
+1069,2,69,Putre,0.0
+1070,2,70,Putre,-0.0
+1071,2,71,Putre,0.0
+1072,2,72,Putre,-0.0
+1073,2,73,Putre,-0.0
+1074,2,74,Putre,-0.0
+1075,2,75,Putre,-0.0
+1076,2,76,Putre,-0.0
+1077,2,77,Putre,-0.0
+1078,2,78,Putre,0.0
+1079,2,79,Putre,0.0
+1080,2,80,Putre,-0.0
+1081,2,81,Putre,0.0
+1082,2,82,Putre,0.0
+1083,2,83,Putre,-0.0
+1084,2,84,Putre,-0.0
+1085,2,85,Putre,-0.0
+1086,2,86,Putre,-0.0
+1087,2,87,Putre,-0.0
+1088,2,88,Putre,-0.0
+1089,2,89,Putre,-0.0
+1090,2,90,Putre,-0.0
+1091,2,91,Putre,-0.0
+1092,2,92,Putre,-0.0
+1093,2,93,Putre,0.0
+1094,2,94,Putre,-0.0
+1095,2,95,Putre,-0.0
+1096,2,96,Putre,-0.0
+1097,2,97,Putre,-0.0
+1098,2,98,Putre,0.0
+1099,2,99,Putre,-0.0
+1100,2,0,General Lagos,1.0
+1101,2,1,General Lagos,-0.0
+1102,2,2,General Lagos,-0.0
+1103,2,3,General Lagos,-0.0
+1104,2,4,General Lagos,0.0
+1105,2,5,General Lagos,-0.0
+1106,2,6,General Lagos,-0.0
+1107,2,7,General Lagos,-0.0
+1108,2,8,General Lagos,0.0
+1109,2,9,General Lagos,-0.0
+1110,2,10,General Lagos,-0.0
+1111,2,11,General Lagos,0.0
+1112,2,12,General Lagos,-0.0
+1113,2,13,General Lagos,-0.0
+1114,2,14,General Lagos,0.0
+1115,2,15,General Lagos,0.0
+1116,2,16,General Lagos,-0.0
+1117,2,17,General Lagos,0.0
+1118,2,18,General Lagos,-0.0
+1119,2,19,General Lagos,-0.0
+1120,2,20,General Lagos,-0.0
+1121,2,21,General Lagos,-0.0
+1122,2,22,General Lagos,0.0
+1123,2,23,General Lagos,-0.0
+1124,2,24,General Lagos,-0.0
+1125,2,25,General Lagos,0.0
+1126,2,26,General Lagos,0.0
+1127,2,27,General Lagos,-0.0
+1128,2,28,General Lagos,-0.0
+1129,2,29,General Lagos,-0.0
+1130,2,30,General Lagos,0.0
+1131,2,31,General Lagos,-0.0
+1132,2,32,General Lagos,-0.0
+1133,2,33,General Lagos,-0.0
+1134,2,34,General Lagos,-0.0
+1135,2,35,General Lagos,-0.0
+1136,2,36,General Lagos,-0.0
+1137,2,37,General Lagos,-0.0
+1138,2,38,General Lagos,0.0
+1139,2,39,General Lagos,0.0
+1140,2,40,General Lagos,-0.0
+1141,2,41,General Lagos,-0.0
+1142,2,42,General Lagos,0.0
+1143,2,43,General Lagos,-0.0
+1144,2,44,General Lagos,-0.0
+1145,2,45,General Lagos,-0.0
+1146,2,46,General Lagos,-0.0
+1147,2,47,General Lagos,-0.0
+1148,2,48,General Lagos,-0.0
+1149,2,49,General Lagos,-0.0
+1150,2,50,General Lagos,-0.0
+1151,2,51,General Lagos,-0.0
+1152,2,52,General Lagos,-0.0
+1153,2,53,General Lagos,-0.0
+1154,2,54,General Lagos,-0.0
+1155,2,55,General Lagos,-0.0
+1156,2,56,General Lagos,-0.0
+1157,2,57,General Lagos,-0.0
+1158,2,58,General Lagos,0.0
+1159,2,59,General Lagos,-0.0
+1160,2,60,General Lagos,-0.0
+1161,2,61,General Lagos,-0.0
+1162,2,62,General Lagos,-0.0
+1163,2,63,General Lagos,-0.0
+1164,2,64,General Lagos,-0.0
+1165,2,65,General Lagos,0.0
+1166,2,66,General Lagos,-0.0
+1167,2,67,General Lagos,0.0
+1168,2,68,General Lagos,-0.0
+1169,2,69,General Lagos,0.0
+1170,2,70,General Lagos,0.0
+1171,2,71,General Lagos,-0.0
+1172,2,72,General Lagos,-0.0
+1173,2,73,General Lagos,-0.0
+1174,2,74,General Lagos,-0.0
+1175,2,75,General Lagos,-0.0
+1176,2,76,General Lagos,-0.0
+1177,2,77,General Lagos,-0.0
+1178,2,78,General Lagos,-0.0
+1179,2,79,General Lagos,-0.0
+1180,2,80,General Lagos,0.0
+1181,2,81,General Lagos,-0.0
+1182,2,82,General Lagos,0.0
+1183,2,83,General Lagos,0.0
+1184,2,84,General Lagos,-0.0
+1185,2,85,General Lagos,-0.0
+1186,2,86,General Lagos,-0.0
+1187,2,87,General Lagos,-0.0
+1188,2,88,General Lagos,-0.0
+1189,2,89,General Lagos,0.0
+1190,2,90,General Lagos,-0.0
+1191,2,91,General Lagos,-0.0
+1192,2,92,General Lagos,-0.0
+1193,2,93,General Lagos,-0.0
+1194,2,94,General Lagos,0.0
+1195,2,95,General Lagos,-0.0
+1196,2,96,General Lagos,0.0
+1197,2,97,General Lagos,0.0
+1198,2,98,General Lagos,0.0
+1199,2,99,General Lagos,-0.0
+1200,3,0,Arica,-0.0
+1201,3,1,Arica,1.0
+1202,3,2,Arica,1.0
+1203,3,3,Arica,1.0
+1204,3,4,Arica,1.0
+1205,3,5,Arica,1.0
+1206,3,6,Arica,1.0
+1207,3,7,Arica,1.0
+1208,3,8,Arica,1.0
+1209,3,9,Arica,1.0
+1210,3,10,Arica,1.0
+1211,3,11,Arica,1.0
+1212,3,12,Arica,1.0
+1213,3,13,Arica,1.0
+1214,3,14,Arica,1.0
+1215,3,15,Arica,1.0
+1216,3,16,Arica,1.0
+1217,3,17,Arica,-0.0
+1218,3,18,Arica,1.0
+1219,3,19,Arica,1.0
+1220,3,20,Arica,1.0
+1221,3,21,Arica,1.0
+1222,3,22,Arica,1.0
+1223,3,23,Arica,1.0
+1224,3,24,Arica,1.0
+1225,3,25,Arica,1.0
+1226,3,26,Arica,1.0
+1227,3,27,Arica,1.0
+1228,3,28,Arica,1.0
+1229,3,29,Arica,1.0
+1230,3,30,Arica,1.0
+1231,3,31,Arica,1.0
+1232,3,32,Arica,1.0
+1233,3,33,Arica,1.0
+1234,3,34,Arica,1.0
+1235,3,35,Arica,1.0
+1236,3,36,Arica,1.0
+1237,3,37,Arica,1.0
+1238,3,38,Arica,1.0
+1239,3,39,Arica,1.0
+1240,3,40,Arica,1.0
+1241,3,41,Arica,1.0
+1242,3,42,Arica,1.0
+1243,3,43,Arica,1.0
+1244,3,44,Arica,1.0
+1245,3,45,Arica,1.0
+1246,3,46,Arica,1.0
+1247,3,47,Arica,1.0
+1248,3,48,Arica,1.0
+1249,3,49,Arica,1.0
+1250,3,50,Arica,1.0
+1251,3,51,Arica,1.0
+1252,3,52,Arica,1.0
+1253,3,53,Arica,1.0
+1254,3,54,Arica,1.0
+1255,3,55,Arica,1.0
+1256,3,56,Arica,1.0
+1257,3,57,Arica,1.0
+1258,3,58,Arica,1.0
+1259,3,59,Arica,1.0
+1260,3,60,Arica,1.0
+1261,3,61,Arica,1.0
+1262,3,62,Arica,1.0
+1263,3,63,Arica,1.0
+1264,3,64,Arica,1.0
+1265,3,65,Arica,1.0
+1266,3,66,Arica,1.0
+1267,3,67,Arica,1.0
+1268,3,68,Arica,1.0
+1269,3,69,Arica,1.0
+1270,3,70,Arica,1.0
+1271,3,71,Arica,1.0
+1272,3,72,Arica,1.0
+1273,3,73,Arica,1.0
+1274,3,74,Arica,1.0
+1275,3,75,Arica,1.0
+1276,3,76,Arica,1.0
+1277,3,77,Arica,1.0
+1278,3,78,Arica,1.0
+1279,3,79,Arica,1.0
+1280,3,80,Arica,1.0
+1281,3,81,Arica,1.0
+1282,3,82,Arica,1.0
+1283,3,83,Arica,1.0
+1284,3,84,Arica,1.0
+1285,3,85,Arica,1.0
+1286,3,86,Arica,1.0
+1287,3,87,Arica,1.0
+1288,3,88,Arica,1.0
+1289,3,89,Arica,1.0
+1290,3,90,Arica,1.0
+1291,3,91,Arica,1.0
+1292,3,92,Arica,1.0
+1293,3,93,Arica,1.0
+1294,3,94,Arica,1.0
+1295,3,95,Arica,1.0
+1296,3,96,Arica,1.0
+1297,3,97,Arica,1.0
+1298,3,98,Arica,1.0
+1299,3,99,Arica,1.0
+1300,3,0,Camarones,0.0
+1301,3,1,Camarones,0.0
+1302,3,2,Camarones,-0.0
+1303,3,3,Camarones,-0.0
+1304,3,4,Camarones,-0.0
+1305,3,5,Camarones,0.0
+1306,3,6,Camarones,-0.0
+1307,3,7,Camarones,0.0
+1308,3,8,Camarones,-0.0
+1309,3,9,Camarones,-0.0
+1310,3,10,Camarones,0.0
+1311,3,11,Camarones,-0.0
+1312,3,12,Camarones,0.0
+1313,3,13,Camarones,-0.0
+1314,3,14,Camarones,-0.0
+1315,3,15,Camarones,-0.0
+1316,3,16,Camarones,0.0
+1317,3,17,Camarones,-0.0
+1318,3,18,Camarones,0.0
+1319,3,19,Camarones,0.0
+1320,3,20,Camarones,0.0
+1321,3,21,Camarones,0.0
+1322,3,22,Camarones,0.0
+1323,3,23,Camarones,0.0
+1324,3,24,Camarones,-0.0
+1325,3,25,Camarones,-0.0
+1326,3,26,Camarones,-0.0
+1327,3,27,Camarones,0.0
+1328,3,28,Camarones,-0.0
+1329,3,29,Camarones,-0.0
+1330,3,30,Camarones,-0.0
+1331,3,31,Camarones,-0.0
+1332,3,32,Camarones,0.0
+1333,3,33,Camarones,-0.0
+1334,3,34,Camarones,-0.0
+1335,3,35,Camarones,0.0
+1336,3,36,Camarones,-0.0
+1337,3,37,Camarones,-0.0
+1338,3,38,Camarones,-0.0
+1339,3,39,Camarones,-0.0
+1340,3,40,Camarones,-0.0
+1341,3,41,Camarones,0.0
+1342,3,42,Camarones,0.0
+1343,3,43,Camarones,-0.0
+1344,3,44,Camarones,0.0
+1345,3,45,Camarones,0.0
+1346,3,46,Camarones,0.0
+1347,3,47,Camarones,-0.0
+1348,3,48,Camarones,0.0
+1349,3,49,Camarones,0.0
+1350,3,50,Camarones,-0.0
+1351,3,51,Camarones,-0.0
+1352,3,52,Camarones,-0.0
+1353,3,53,Camarones,-0.0
+1354,3,54,Camarones,0.0
+1355,3,55,Camarones,0.0
+1356,3,56,Camarones,-0.0
+1357,3,57,Camarones,-0.0
+1358,3,58,Camarones,-0.0
+1359,3,59,Camarones,-0.0
+1360,3,60,Camarones,0.0
+1361,3,61,Camarones,-0.0
+1362,3,62,Camarones,-0.0
+1363,3,63,Camarones,0.0
+1364,3,64,Camarones,-0.0
+1365,3,65,Camarones,-0.0
+1366,3,66,Camarones,-0.0
+1367,3,67,Camarones,-0.0
+1368,3,68,Camarones,0.0
+1369,3,69,Camarones,-0.0
+1370,3,70,Camarones,0.0
+1371,3,71,Camarones,0.0
+1372,3,72,Camarones,0.0
+1373,3,73,Camarones,0.0
+1374,3,74,Camarones,-0.0
+1375,3,75,Camarones,-0.0
+1376,3,76,Camarones,0.0
+1377,3,77,Camarones,0.0
+1378,3,78,Camarones,-0.0
+1379,3,79,Camarones,0.0
+1380,3,80,Camarones,0.0
+1381,3,81,Camarones,0.0
+1382,3,82,Camarones,-0.0
+1383,3,83,Camarones,0.0
+1384,3,84,Camarones,-0.0
+1385,3,85,Camarones,0.0
+1386,3,86,Camarones,0.0
+1387,3,87,Camarones,0.0
+1388,3,88,Camarones,0.0
+1389,3,89,Camarones,0.0
+1390,3,90,Camarones,0.0
+1391,3,91,Camarones,0.0
+1392,3,92,Camarones,0.0
+1393,3,93,Camarones,-0.0
+1394,3,94,Camarones,-0.0
+1395,3,95,Camarones,0.0
+1396,3,96,Camarones,0.0
+1397,3,97,Camarones,-0.0
+1398,3,98,Camarones,-0.0
+1399,3,99,Camarones,-0.0
+1400,3,0,Putre,1.0
+1401,3,1,Putre,-0.0
+1402,3,2,Putre,0.0
+1403,3,3,Putre,0.0
+1404,3,4,Putre,0.0
+1405,3,5,Putre,-0.0
+1406,3,6,Putre,0.0
+1407,3,7,Putre,0.0
+1408,3,8,Putre,-0.0
+1409,3,9,Putre,0.0
+1410,3,10,Putre,-0.0
+1411,3,11,Putre,-0.0
+1412,3,12,Putre,-0.0
+1413,3,13,Putre,0.0
+1414,3,14,Putre,-0.0
+1415,3,15,Putre,-0.0
+1416,3,16,Putre,-0.0
+1417,3,17,Putre,1.0
+1418,3,18,Putre,-0.0
+1419,3,19,Putre,-0.0
+1420,3,20,Putre,0.0
+1421,3,21,Putre,-0.0
+1422,3,22,Putre,-0.0
+1423,3,23,Putre,-0.0
+1424,3,24,Putre,-0.0
+1425,3,25,Putre,-0.0
+1426,3,26,Putre,-0.0
+1427,3,27,Putre,-0.0
+1428,3,28,Putre,0.0
+1429,3,29,Putre,-0.0
+1430,3,30,Putre,-0.0
+1431,3,31,Putre,-0.0
+1432,3,32,Putre,-0.0
+1433,3,33,Putre,0.0
+1434,3,34,Putre,-0.0
+1435,3,35,Putre,0.0
+1436,3,36,Putre,-0.0
+1437,3,37,Putre,-0.0
+1438,3,38,Putre,-0.0
+1439,3,39,Putre,0.0
+1440,3,40,Putre,-0.0
+1441,3,41,Putre,-0.0
+1442,3,42,Putre,-0.0
+1443,3,43,Putre,-0.0
+1444,3,44,Putre,0.0
+1445,3,45,Putre,-0.0
+1446,3,46,Putre,-0.0
+1447,3,47,Putre,-0.0
+1448,3,48,Putre,-0.0
+1449,3,49,Putre,0.0
+1450,3,50,Putre,0.0
+1451,3,51,Putre,-0.0
+1452,3,52,Putre,0.0
+1453,3,53,Putre,-0.0
+1454,3,54,Putre,-0.0
+1455,3,55,Putre,-0.0
+1456,3,56,Putre,0.0
+1457,3,57,Putre,-0.0
+1458,3,58,Putre,0.0
+1459,3,59,Putre,0.0
+1460,3,60,Putre,-0.0
+1461,3,61,Putre,-0.0
+1462,3,62,Putre,0.0
+1463,3,63,Putre,0.0
+1464,3,64,Putre,0.0
+1465,3,65,Putre,0.0
+1466,3,66,Putre,0.0
+1467,3,67,Putre,-0.0
+1468,3,68,Putre,-0.0
+1469,3,69,Putre,0.0
+1470,3,70,Putre,-0.0
+1471,3,71,Putre,-0.0
+1472,3,72,Putre,-0.0
+1473,3,73,Putre,-0.0
+1474,3,74,Putre,-0.0
+1475,3,75,Putre,0.0
+1476,3,76,Putre,-0.0
+1477,3,77,Putre,-0.0
+1478,3,78,Putre,-0.0
+1479,3,79,Putre,-0.0
+1480,3,80,Putre,-0.0
+1481,3,81,Putre,-0.0
+1482,3,82,Putre,-0.0
+1483,3,83,Putre,-0.0
+1484,3,84,Putre,0.0
+1485,3,85,Putre,-0.0
+1486,3,86,Putre,-0.0
+1487,3,87,Putre,-0.0
+1488,3,88,Putre,-0.0
+1489,3,89,Putre,-0.0
+1490,3,90,Putre,-0.0
+1491,3,91,Putre,-0.0
+1492,3,92,Putre,-0.0
+1493,3,93,Putre,0.0
+1494,3,94,Putre,-0.0
+1495,3,95,Putre,-0.0
+1496,3,96,Putre,-0.0
+1497,3,97,Putre,-0.0
+1498,3,98,Putre,0.0
+1499,3,99,Putre,0.0
+1500,3,0,General Lagos,-0.0
+1501,3,1,General Lagos,-0.0
+1502,3,2,General Lagos,-0.0
+1503,3,3,General Lagos,0.0
+1504,3,4,General Lagos,-0.0
+1505,3,5,General Lagos,-0.0
+1506,3,6,General Lagos,-0.0
+1507,3,7,General Lagos,-0.0
+1508,3,8,General Lagos,0.0
+1509,3,9,General Lagos,-0.0
+1510,3,10,General Lagos,-0.0
+1511,3,11,General Lagos,0.0
+1512,3,12,General Lagos,-0.0
+1513,3,13,General Lagos,-0.0
+1514,3,14,General Lagos,-0.0
+1515,3,15,General Lagos,0.0
+1516,3,16,General Lagos,-0.0
+1517,3,17,General Lagos,-0.0
+1518,3,18,General Lagos,-0.0
+1519,3,19,General Lagos,-0.0
+1520,3,20,General Lagos,-0.0
+1521,3,21,General Lagos,-0.0
+1522,3,22,General Lagos,-0.0
+1523,3,23,General Lagos,0.0
+1524,3,24,General Lagos,-0.0
+1525,3,25,General Lagos,0.0
+1526,3,26,General Lagos,0.0
+1527,3,27,General Lagos,-0.0
+1528,3,28,General Lagos,-0.0
+1529,3,29,General Lagos,0.0
+1530,3,30,General Lagos,-0.0
+1531,3,31,General Lagos,-0.0
+1532,3,32,General Lagos,-0.0
+1533,3,33,General Lagos,-0.0
+1534,3,34,General Lagos,0.0
+1535,3,35,General Lagos,0.0
+1536,3,36,General Lagos,-0.0
+1537,3,37,General Lagos,-0.0
+1538,3,38,General Lagos,-0.0
+1539,3,39,General Lagos,-0.0
+1540,3,40,General Lagos,-0.0
+1541,3,41,General Lagos,-0.0
+1542,3,42,General Lagos,-0.0
+1543,3,43,General Lagos,-0.0
+1544,3,44,General Lagos,-0.0
+1545,3,45,General Lagos,-0.0
+1546,3,46,General Lagos,-0.0
+1547,3,47,General Lagos,-0.0
+1548,3,48,General Lagos,-0.0
+1549,3,49,General Lagos,0.0
+1550,3,50,General Lagos,-0.0
+1551,3,51,General Lagos,-0.0
+1552,3,52,General Lagos,-0.0
+1553,3,53,General Lagos,-0.0
+1554,3,54,General Lagos,-0.0
+1555,3,55,General Lagos,-0.0
+1556,3,56,General Lagos,-0.0
+1557,3,57,General Lagos,-0.0
+1558,3,58,General Lagos,-0.0
+1559,3,59,General Lagos,-0.0
+1560,3,60,General Lagos,-0.0
+1561,3,61,General Lagos,0.0
+1562,3,62,General Lagos,-0.0
+1563,3,63,General Lagos,-0.0
+1564,3,64,General Lagos,0.0
+1565,3,65,General Lagos,-0.0
+1566,3,66,General Lagos,-0.0
+1567,3,67,General Lagos,0.0
+1568,3,68,General Lagos,-0.0
+1569,3,69,General Lagos,-0.0
+1570,3,70,General Lagos,-0.0
+1571,3,71,General Lagos,-0.0
+1572,3,72,General Lagos,-0.0
+1573,3,73,General Lagos,-0.0
+1574,3,74,General Lagos,-0.0
+1575,3,75,General Lagos,-0.0
+1576,3,76,General Lagos,-0.0
+1577,3,77,General Lagos,-0.0
+1578,3,78,General Lagos,0.0
+1579,3,79,General Lagos,0.0
+1580,3,80,General Lagos,0.0
+1581,3,81,General Lagos,-0.0
+1582,3,82,General Lagos,0.0
+1583,3,83,General Lagos,-0.0
+1584,3,84,General Lagos,-0.0
+1585,3,85,General Lagos,-0.0
+1586,3,86,General Lagos,-0.0
+1587,3,87,General Lagos,-0.0
+1588,3,88,General Lagos,-0.0
+1589,3,89,General Lagos,-0.0
+1590,3,90,General Lagos,-0.0
+1591,3,91,General Lagos,-0.0
+1592,3,92,General Lagos,-0.0
+1593,3,93,General Lagos,-0.0
+1594,3,94,General Lagos,0.0
+1595,3,95,General Lagos,-0.0
+1596,3,96,General Lagos,-0.0
+1597,3,97,General Lagos,-0.0
+1598,3,98,General Lagos,-0.0
+1599,3,99,General Lagos,-0.0
+1600,4,0,Arica,1.0
+1601,4,1,Arica,1.0
+1602,4,2,Arica,1.0
+1603,4,3,Arica,1.0
+1604,4,4,Arica,1.0
+1605,4,5,Arica,1.0
+1606,4,6,Arica,1.0
+1607,4,7,Arica,1.0
+1608,4,8,Arica,1.0
+1609,4,9,Arica,1.0
+1610,4,10,Arica,0.0
+1611,4,11,Arica,1.0
+1612,4,12,Arica,1.0
+1613,4,13,Arica,1.0
+1614,4,14,Arica,1.0
+1615,4,15,Arica,1.0
+1616,4,16,Arica,1.0
+1617,4,17,Arica,1.0
+1618,4,18,Arica,1.0
+1619,4,19,Arica,1.0
+1620,4,20,Arica,1.0
+1621,4,21,Arica,1.0
+1622,4,22,Arica,1.0
+1623,4,23,Arica,1.0
+1624,4,24,Arica,1.0
+1625,4,25,Arica,1.0
+1626,4,26,Arica,1.0
+1627,4,27,Arica,1.0
+1628,4,28,Arica,1.0
+1629,4,29,Arica,1.0
+1630,4,30,Arica,1.0
+1631,4,31,Arica,1.0
+1632,4,32,Arica,1.0
+1633,4,33,Arica,1.0
+1634,4,34,Arica,1.0
+1635,4,35,Arica,1.0
+1636,4,36,Arica,1.0
+1637,4,37,Arica,1.0
+1638,4,38,Arica,1.0
+1639,4,39,Arica,1.0
+1640,4,40,Arica,1.0
+1641,4,41,Arica,1.0
+1642,4,42,Arica,1.0
+1643,4,43,Arica,1.0
+1644,4,44,Arica,1.0
+1645,4,45,Arica,1.0
+1646,4,46,Arica,1.0
+1647,4,47,Arica,1.0
+1648,4,48,Arica,1.0
+1649,4,49,Arica,1.0
+1650,4,50,Arica,1.0
+1651,4,51,Arica,1.0
+1652,4,52,Arica,1.0
+1653,4,53,Arica,1.0
+1654,4,54,Arica,1.0
+1655,4,55,Arica,1.0
+1656,4,56,Arica,1.0
+1657,4,57,Arica,1.0
+1658,4,58,Arica,1.0
+1659,4,59,Arica,1.0
+1660,4,60,Arica,1.0
+1661,4,61,Arica,1.0
+1662,4,62,Arica,1.0
+1663,4,63,Arica,1.0
+1664,4,64,Arica,1.0
+1665,4,65,Arica,1.0
+1666,4,66,Arica,1.0
+1667,4,67,Arica,1.0
+1668,4,68,Arica,1.0
+1669,4,69,Arica,1.0
+1670,4,70,Arica,1.0
+1671,4,71,Arica,1.0
+1672,4,72,Arica,1.0
+1673,4,73,Arica,1.0
+1674,4,74,Arica,1.0
+1675,4,75,Arica,1.0
+1676,4,76,Arica,1.0
+1677,4,77,Arica,1.0
+1678,4,78,Arica,1.0
+1679,4,79,Arica,1.0
+1680,4,80,Arica,1.0
+1681,4,81,Arica,1.0
+1682,4,82,Arica,1.0
+1683,4,83,Arica,1.0
+1684,4,84,Arica,1.0
+1685,4,85,Arica,1.0
+1686,4,86,Arica,1.0
+1687,4,87,Arica,1.0
+1688,4,88,Arica,1.0
+1689,4,89,Arica,1.0
+1690,4,90,Arica,1.0
+1691,4,91,Arica,1.0
+1692,4,92,Arica,1.0
+1693,4,93,Arica,1.0
+1694,4,94,Arica,1.0
+1695,4,95,Arica,1.0
+1696,4,96,Arica,1.0
+1697,4,97,Arica,1.0
+1698,4,98,Arica,1.0
+1699,4,99,Arica,1.0
+1700,4,0,Camarones,0.0
+1701,4,1,Camarones,-0.0
+1702,4,2,Camarones,-0.0
+1703,4,3,Camarones,0.0
+1704,4,4,Camarones,-0.0
+1705,4,5,Camarones,-0.0
+1706,4,6,Camarones,-0.0
+1707,4,7,Camarones,-0.0
+1708,4,8,Camarones,0.0
+1709,4,9,Camarones,-0.0
+1710,4,10,Camarones,1.0
+1711,4,11,Camarones,-0.0
+1712,4,12,Camarones,0.0
+1713,4,13,Camarones,-0.0
+1714,4,14,Camarones,0.0
+1715,4,15,Camarones,0.0
+1716,4,16,Camarones,0.0
+1717,4,17,Camarones,-0.0
+1718,4,18,Camarones,0.0
+1719,4,19,Camarones,0.0
+1720,4,20,Camarones,-0.0
+1721,4,21,Camarones,-0.0
+1722,4,22,Camarones,-0.0
+1723,4,23,Camarones,0.0
+1724,4,24,Camarones,-0.0
+1725,4,25,Camarones,-0.0
+1726,4,26,Camarones,0.0
+1727,4,27,Camarones,-0.0
+1728,4,28,Camarones,0.0
+1729,4,29,Camarones,-0.0
+1730,4,30,Camarones,-0.0
+1731,4,31,Camarones,0.0
+1732,4,32,Camarones,0.0
+1733,4,33,Camarones,-0.0
+1734,4,34,Camarones,0.0
+1735,4,35,Camarones,-0.0
+1736,4,36,Camarones,-0.0
+1737,4,37,Camarones,-0.0
+1738,4,38,Camarones,-0.0
+1739,4,39,Camarones,-0.0
+1740,4,40,Camarones,0.0
+1741,4,41,Camarones,0.0
+1742,4,42,Camarones,-0.0
+1743,4,43,Camarones,0.0
+1744,4,44,Camarones,-0.0
+1745,4,45,Camarones,0.0
+1746,4,46,Camarones,0.0
+1747,4,47,Camarones,0.0
+1748,4,48,Camarones,0.0
+1749,4,49,Camarones,-0.0
+1750,4,50,Camarones,0.0
+1751,4,51,Camarones,0.0
+1752,4,52,Camarones,0.0
+1753,4,53,Camarones,0.0
+1754,4,54,Camarones,0.0
+1755,4,55,Camarones,0.0
+1756,4,56,Camarones,0.0
+1757,4,57,Camarones,0.0
+1758,4,58,Camarones,-0.0
+1759,4,59,Camarones,-0.0
+1760,4,60,Camarones,-0.0
+1761,4,61,Camarones,0.0
+1762,4,62,Camarones,-0.0
+1763,4,63,Camarones,-0.0
+1764,4,64,Camarones,0.0
+1765,4,65,Camarones,0.0
+1766,4,66,Camarones,-0.0
+1767,4,67,Camarones,-0.0
+1768,4,68,Camarones,0.0
+1769,4,69,Camarones,0.0
+1770,4,70,Camarones,0.0
+1771,4,71,Camarones,0.0
+1772,4,72,Camarones,-0.0
+1773,4,73,Camarones,0.0
+1774,4,74,Camarones,-0.0
+1775,4,75,Camarones,-0.0
+1776,4,76,Camarones,-0.0
+1777,4,77,Camarones,0.0
+1778,4,78,Camarones,0.0
+1779,4,79,Camarones,-0.0
+1780,4,80,Camarones,-0.0
+1781,4,81,Camarones,0.0
+1782,4,82,Camarones,0.0
+1783,4,83,Camarones,0.0
+1784,4,84,Camarones,0.0
+1785,4,85,Camarones,0.0
+1786,4,86,Camarones,0.0
+1787,4,87,Camarones,-0.0
+1788,4,88,Camarones,-0.0
+1789,4,89,Camarones,0.0
+1790,4,90,Camarones,-0.0
+1791,4,91,Camarones,0.0
+1792,4,92,Camarones,0.0
+1793,4,93,Camarones,-0.0
+1794,4,94,Camarones,-0.0
+1795,4,95,Camarones,0.0
+1796,4,96,Camarones,-0.0
+1797,4,97,Camarones,-0.0
+1798,4,98,Camarones,-0.0
+1799,4,99,Camarones,-0.0
+1800,4,0,Putre,-0.0
+1801,4,1,Putre,0.0
+1802,4,2,Putre,0.0
+1803,4,3,Putre,-0.0
+1804,4,4,Putre,0.0
+1805,4,5,Putre,0.0
+1806,4,6,Putre,0.0
+1807,4,7,Putre,0.0
+1808,4,8,Putre,-0.0
+1809,4,9,Putre,0.0
+1810,4,10,Putre,-0.0
+1811,4,11,Putre,0.0
+1812,4,12,Putre,-0.0
+1813,4,13,Putre,0.0
+1814,4,14,Putre,0.0
+1815,4,15,Putre,0.0
+1816,4,16,Putre,-0.0
+1817,4,17,Putre,0.0
+1818,4,18,Putre,-0.0
+1819,4,19,Putre,-0.0
+1820,4,20,Putre,0.0
+1821,4,21,Putre,-0.0
+1822,4,22,Putre,-0.0
+1823,4,23,Putre,0.0
+1824,4,24,Putre,0.0
+1825,4,25,Putre,-0.0
+1826,4,26,Putre,-0.0
+1827,4,27,Putre,0.0
+1828,4,28,Putre,0.0
+1829,4,29,Putre,-0.0
+1830,4,30,Putre,-0.0
+1831,4,31,Putre,-0.0
+1832,4,32,Putre,0.0
+1833,4,33,Putre,0.0
+1834,4,34,Putre,-0.0
+1835,4,35,Putre,-0.0
+1836,4,36,Putre,-0.0
+1837,4,37,Putre,-0.0
+1838,4,38,Putre,-0.0
+1839,4,39,Putre,0.0
+1840,4,40,Putre,0.0
+1841,4,41,Putre,-0.0
+1842,4,42,Putre,-0.0
+1843,4,43,Putre,0.0
+1844,4,44,Putre,-0.0
+1845,4,45,Putre,-0.0
+1846,4,46,Putre,-0.0
+1847,4,47,Putre,0.0
+1848,4,48,Putre,-0.0
+1849,4,49,Putre,0.0
+1850,4,50,Putre,0.0
+1851,4,51,Putre,-0.0
+1852,4,52,Putre,-0.0
+1853,4,53,Putre,0.0
+1854,4,54,Putre,-0.0
+1855,4,55,Putre,-0.0
+1856,4,56,Putre,0.0
+1857,4,57,Putre,-0.0
+1858,4,58,Putre,0.0
+1859,4,59,Putre,-0.0
+1860,4,60,Putre,0.0
+1861,4,61,Putre,-0.0
+1862,4,62,Putre,0.0
+1863,4,63,Putre,0.0
+1864,4,64,Putre,-0.0
+1865,4,65,Putre,-0.0
+1866,4,66,Putre,-0.0
+1867,4,67,Putre,-0.0
+1868,4,68,Putre,-0.0
+1869,4,69,Putre,0.0
+1870,4,70,Putre,-0.0
+1871,4,71,Putre,-0.0
+1872,4,72,Putre,0.0
+1873,4,73,Putre,-0.0
+1874,4,74,Putre,-0.0
+1875,4,75,Putre,0.0
+1876,4,76,Putre,-0.0
+1877,4,77,Putre,-0.0
+1878,4,78,Putre,-0.0
+1879,4,79,Putre,-0.0
+1880,4,80,Putre,-0.0
+1881,4,81,Putre,-0.0
+1882,4,82,Putre,-0.0
+1883,4,83,Putre,0.0
+1884,4,84,Putre,0.0
+1885,4,85,Putre,-0.0
+1886,4,86,Putre,-0.0
+1887,4,87,Putre,-0.0
+1888,4,88,Putre,-0.0
+1889,4,89,Putre,-0.0
+1890,4,90,Putre,-0.0
+1891,4,91,Putre,-0.0
+1892,4,92,Putre,-0.0
+1893,4,93,Putre,-0.0
+1894,4,94,Putre,-0.0
+1895,4,95,Putre,-0.0
+1896,4,96,Putre,-0.0
+1897,4,97,Putre,-0.0
+1898,4,98,Putre,0.0
+1899,4,99,Putre,-0.0
+1900,4,0,General Lagos,-0.0
+1901,4,1,General Lagos,-0.0
+1902,4,2,General Lagos,-0.0
+1903,4,3,General Lagos,-0.0
+1904,4,4,General Lagos,-0.0
+1905,4,5,General Lagos,0.0
+1906,4,6,General Lagos,-0.0
+1907,4,7,General Lagos,-0.0
+1908,4,8,General Lagos,0.0
+1909,4,9,General Lagos,-0.0
+1910,4,10,General Lagos,-0.0
+1911,4,11,General Lagos,-0.0
+1912,4,12,General Lagos,0.0
+1913,4,13,General Lagos,-0.0
+1914,4,14,General Lagos,0.0
+1915,4,15,General Lagos,-0.0
+1916,4,16,General Lagos,-0.0
+1917,4,17,General Lagos,-0.0
+1918,4,18,General Lagos,-0.0
+1919,4,19,General Lagos,-0.0
+1920,4,20,General Lagos,-0.0
+1921,4,21,General Lagos,-0.0
+1922,4,22,General Lagos,-0.0
+1923,4,23,General Lagos,-0.0
+1924,4,24,General Lagos,-0.0
+1925,4,25,General Lagos,0.0
+1926,4,26,General Lagos,-0.0
+1927,4,27,General Lagos,-0.0
+1928,4,28,General Lagos,-0.0
+1929,4,29,General Lagos,0.0
+1930,4,30,General Lagos,0.0
+1931,4,31,General Lagos,0.0
+1932,4,32,General Lagos,-0.0
+1933,4,33,General Lagos,-0.0
+1934,4,34,General Lagos,0.0
+1935,4,35,General Lagos,0.0
+1936,4,36,General Lagos,-0.0
+1937,4,37,General Lagos,0.0
+1938,4,38,General Lagos,0.0
+1939,4,39,General Lagos,0.0
+1940,4,40,General Lagos,-0.0
+1941,4,41,General Lagos,-0.0
+1942,4,42,General Lagos,0.0
+1943,4,43,General Lagos,-0.0
+1944,4,44,General Lagos,-0.0
+1945,4,45,General Lagos,-0.0
+1946,4,46,General Lagos,-0.0
+1947,4,47,General Lagos,-0.0
+1948,4,48,General Lagos,-0.0
+1949,4,49,General Lagos,-0.0
+1950,4,50,General Lagos,0.0
+1951,4,51,General Lagos,-0.0
+1952,4,52,General Lagos,-0.0
+1953,4,53,General Lagos,0.0
+1954,4,54,General Lagos,-0.0
+1955,4,55,General Lagos,-0.0
+1956,4,56,General Lagos,-0.0
+1957,4,57,General Lagos,-0.0
+1958,4,58,General Lagos,-0.0
+1959,4,59,General Lagos,0.0
+1960,4,60,General Lagos,0.0
+1961,4,61,General Lagos,-0.0
+1962,4,62,General Lagos,-0.0
+1963,4,63,General Lagos,-0.0
+1964,4,64,General Lagos,-0.0
+1965,4,65,General Lagos,-0.0
+1966,4,66,General Lagos,0.0
+1967,4,67,General Lagos,0.0
+1968,4,68,General Lagos,-0.0
+1969,4,69,General Lagos,-0.0
+1970,4,70,General Lagos,-0.0
+1971,4,71,General Lagos,-0.0
+1972,4,72,General Lagos,0.0
+1973,4,73,General Lagos,-0.0
+1974,4,74,General Lagos,-0.0
+1975,4,75,General Lagos,-0.0
+1976,4,76,General Lagos,-0.0
+1977,4,77,General Lagos,0.0
+1978,4,78,General Lagos,-0.0
+1979,4,79,General Lagos,0.0
+1980,4,80,General Lagos,0.0
+1981,4,81,General Lagos,-0.0
+1982,4,82,General Lagos,-0.0
+1983,4,83,General Lagos,0.0
+1984,4,84,General Lagos,0.0
+1985,4,85,General Lagos,-0.0
+1986,4,86,General Lagos,-0.0
+1987,4,87,General Lagos,0.0
+1988,4,88,General Lagos,0.0
+1989,4,89,General Lagos,-0.0
+1990,4,90,General Lagos,0.0
+1991,4,91,General Lagos,-0.0
+1992,4,92,General Lagos,-0.0
+1993,4,93,General Lagos,-0.0
+1994,4,94,General Lagos,-0.0
+1995,4,95,General Lagos,-0.0
+1996,4,96,General Lagos,0.0
+1997,4,97,General Lagos,0.0
+1998,4,98,General Lagos,-0.0
+1999,4,99,General Lagos,-0.0
+2000,5,0,Arica,-0.0
+2001,5,1,Arica,1.0
+2002,5,2,Arica,1.0
+2003,5,3,Arica,1.0
+2004,5,4,Arica,1.0
+2005,5,5,Arica,1.0
+2006,5,6,Arica,1.0
+2007,5,7,Arica,1.0
+2008,5,8,Arica,1.0
+2009,5,9,Arica,1.0
+2010,5,10,Arica,-0.0
+2011,5,11,Arica,1.0
+2012,5,12,Arica,1.0
+2013,5,13,Arica,1.0
+2014,5,14,Arica,1.0
+2015,5,15,Arica,1.0
+2016,5,16,Arica,1.0
+2017,5,17,Arica,1.0
+2018,5,18,Arica,1.0
+2019,5,19,Arica,1.0
+2020,5,20,Arica,1.0
+2021,5,21,Arica,1.0
+2022,5,22,Arica,1.0
+2023,5,23,Arica,1.0
+2024,5,24,Arica,1.0
+2025,5,25,Arica,1.0
+2026,5,26,Arica,1.0
+2027,5,27,Arica,1.0
+2028,5,28,Arica,1.0
+2029,5,29,Arica,1.0
+2030,5,30,Arica,1.0
+2031,5,31,Arica,1.0
+2032,5,32,Arica,1.0
+2033,5,33,Arica,1.0
+2034,5,34,Arica,1.0
+2035,5,35,Arica,1.0
+2036,5,36,Arica,1.0
+2037,5,37,Arica,1.0
+2038,5,38,Arica,1.0
+2039,5,39,Arica,1.0
+2040,5,40,Arica,1.0
+2041,5,41,Arica,1.0
+2042,5,42,Arica,1.0
+2043,5,43,Arica,1.0
+2044,5,44,Arica,1.0
+2045,5,45,Arica,1.0
+2046,5,46,Arica,1.0
+2047,5,47,Arica,1.0
+2048,5,48,Arica,1.0
+2049,5,49,Arica,1.0
+2050,5,50,Arica,1.0
+2051,5,51,Arica,1.0
+2052,5,52,Arica,1.0
+2053,5,53,Arica,1.0
+2054,5,54,Arica,1.0
+2055,5,55,Arica,1.0
+2056,5,56,Arica,1.0
+2057,5,57,Arica,1.0
+2058,5,58,Arica,1.0
+2059,5,59,Arica,1.0
+2060,5,60,Arica,1.0
+2061,5,61,Arica,1.0
+2062,5,62,Arica,1.0
+2063,5,63,Arica,1.0
+2064,5,64,Arica,1.0
+2065,5,65,Arica,1.0
+2066,5,66,Arica,1.0
+2067,5,67,Arica,1.0
+2068,5,68,Arica,1.0
+2069,5,69,Arica,1.0
+2070,5,70,Arica,1.0
+2071,5,71,Arica,1.0
+2072,5,72,Arica,1.0
+2073,5,73,Arica,1.0
+2074,5,74,Arica,1.0
+2075,5,75,Arica,1.0
+2076,5,76,Arica,1.0
+2077,5,77,Arica,1.0
+2078,5,78,Arica,1.0
+2079,5,79,Arica,1.0
+2080,5,80,Arica,1.0
+2081,5,81,Arica,1.0
+2082,5,82,Arica,1.0
+2083,5,83,Arica,1.0
+2084,5,84,Arica,1.0
+2085,5,85,Arica,1.0
+2086,5,86,Arica,1.0
+2087,5,87,Arica,1.0
+2088,5,88,Arica,1.0
+2089,5,89,Arica,1.0
+2090,5,90,Arica,1.0
+2091,5,91,Arica,1.0
+2092,5,92,Arica,1.0
+2093,5,93,Arica,1.0
+2094,5,94,Arica,1.0
+2095,5,95,Arica,1.0
+2096,5,96,Arica,1.0
+2097,5,97,Arica,1.0
+2098,5,98,Arica,1.0
+2099,5,99,Arica,1.0
+2100,5,0,Camarones,-0.0
+2101,5,1,Camarones,-0.0
+2102,5,2,Camarones,-0.0
+2103,5,3,Camarones,-0.0
+2104,5,4,Camarones,0.0
+2105,5,5,Camarones,0.0
+2106,5,6,Camarones,0.0
+2107,5,7,Camarones,-0.0
+2108,5,8,Camarones,-0.0
+2109,5,9,Camarones,-0.0
+2110,5,10,Camarones,-0.0
+2111,5,11,Camarones,-0.0
+2112,5,12,Camarones,0.0
+2113,5,13,Camarones,-0.0
+2114,5,14,Camarones,-0.0
+2115,5,15,Camarones,-0.0
+2116,5,16,Camarones,-0.0
+2117,5,17,Camarones,-0.0
+2118,5,18,Camarones,0.0
+2119,5,19,Camarones,0.0
+2120,5,20,Camarones,-0.0
+2121,5,21,Camarones,0.0
+2122,5,22,Camarones,-0.0
+2123,5,23,Camarones,0.0
+2124,5,24,Camarones,-0.0
+2125,5,25,Camarones,-0.0
+2126,5,26,Camarones,0.0
+2127,5,27,Camarones,-0.0
+2128,5,28,Camarones,-0.0
+2129,5,29,Camarones,-0.0
+2130,5,30,Camarones,-0.0
+2131,5,31,Camarones,-0.0
+2132,5,32,Camarones,0.0
+2133,5,33,Camarones,-0.0
+2134,5,34,Camarones,-0.0
+2135,5,35,Camarones,-0.0
+2136,5,36,Camarones,-0.0
+2137,5,37,Camarones,-0.0
+2138,5,38,Camarones,0.0
+2139,5,39,Camarones,-0.0
+2140,5,40,Camarones,0.0
+2141,5,41,Camarones,0.0
+2142,5,42,Camarones,0.0
+2143,5,43,Camarones,-0.0
+2144,5,44,Camarones,-0.0
+2145,5,45,Camarones,0.0
+2146,5,46,Camarones,0.0
+2147,5,47,Camarones,0.0
+2148,5,48,Camarones,0.0
+2149,5,49,Camarones,-0.0
+2150,5,50,Camarones,-0.0
+2151,5,51,Camarones,0.0
+2152,5,52,Camarones,-0.0
+2153,5,53,Camarones,-0.0
+2154,5,54,Camarones,0.0
+2155,5,55,Camarones,0.0
+2156,5,56,Camarones,-0.0
+2157,5,57,Camarones,0.0
+2158,5,58,Camarones,-0.0
+2159,5,59,Camarones,-0.0
+2160,5,60,Camarones,0.0
+2161,5,61,Camarones,0.0
+2162,5,62,Camarones,0.0
+2163,5,63,Camarones,0.0
+2164,5,64,Camarones,0.0
+2165,5,65,Camarones,0.0
+2166,5,66,Camarones,-0.0
+2167,5,67,Camarones,-0.0
+2168,5,68,Camarones,-0.0
+2169,5,69,Camarones,-0.0
+2170,5,70,Camarones,-0.0
+2171,5,71,Camarones,-0.0
+2172,5,72,Camarones,-0.0
+2173,5,73,Camarones,0.0
+2174,5,74,Camarones,0.0
+2175,5,75,Camarones,-0.0
+2176,5,76,Camarones,0.0
+2177,5,77,Camarones,0.0
+2178,5,78,Camarones,-0.0
+2179,5,79,Camarones,-0.0
+2180,5,80,Camarones,-0.0
+2181,5,81,Camarones,-0.0
+2182,5,82,Camarones,0.0
+2183,5,83,Camarones,0.0
+2184,5,84,Camarones,-0.0
+2185,5,85,Camarones,0.0
+2186,5,86,Camarones,0.0
+2187,5,87,Camarones,0.0
+2188,5,88,Camarones,0.0
+2189,5,89,Camarones,0.0
+2190,5,90,Camarones,0.0
+2191,5,91,Camarones,0.0
+2192,5,92,Camarones,0.0
+2193,5,93,Camarones,-0.0
+2194,5,94,Camarones,0.0
+2195,5,95,Camarones,0.0
+2196,5,96,Camarones,0.0
+2197,5,97,Camarones,-0.0
+2198,5,98,Camarones,-0.0
+2199,5,99,Camarones,-0.0
+2200,5,0,Putre,1.0
+2201,5,1,Putre,-0.0
+2202,5,2,Putre,0.0
+2203,5,3,Putre,0.0
+2204,5,4,Putre,0.0
+2205,5,5,Putre,0.0
+2206,5,6,Putre,0.0
+2207,5,7,Putre,-0.0
+2208,5,8,Putre,0.0
+2209,5,9,Putre,-0.0
+2210,5,10,Putre,-0.0
+2211,5,11,Putre,-0.0
+2212,5,12,Putre,-0.0
+2213,5,13,Putre,0.0
+2214,5,14,Putre,0.0
+2215,5,15,Putre,0.0
+2216,5,16,Putre,-0.0
+2217,5,17,Putre,0.0
+2218,5,18,Putre,-0.0
+2219,5,19,Putre,-0.0
+2220,5,20,Putre,0.0
+2221,5,21,Putre,-0.0
+2222,5,22,Putre,0.0
+2223,5,23,Putre,-0.0
+2224,5,24,Putre,0.0
+2225,5,25,Putre,-0.0
+2226,5,26,Putre,0.0
+2227,5,27,Putre,0.0
+2228,5,28,Putre,-0.0
+2229,5,29,Putre,0.0
+2230,5,30,Putre,-0.0
+2231,5,31,Putre,-0.0
+2232,5,32,Putre,-0.0
+2233,5,33,Putre,0.0
+2234,5,34,Putre,-0.0
+2235,5,35,Putre,-0.0
+2236,5,36,Putre,-0.0
+2237,5,37,Putre,-0.0
+2238,5,38,Putre,-0.0
+2239,5,39,Putre,-0.0
+2240,5,40,Putre,-0.0
+2241,5,41,Putre,-0.0
+2242,5,42,Putre,-0.0
+2243,5,43,Putre,-0.0
+2244,5,44,Putre,0.0
+2245,5,45,Putre,-0.0
+2246,5,46,Putre,0.0
+2247,5,47,Putre,-0.0
+2248,5,48,Putre,0.0
+2249,5,49,Putre,0.0
+2250,5,50,Putre,-0.0
+2251,5,51,Putre,-0.0
+2252,5,52,Putre,0.0
+2253,5,53,Putre,0.0
+2254,5,54,Putre,-0.0
+2255,5,55,Putre,-0.0
+2256,5,56,Putre,0.0
+2257,5,57,Putre,-0.0
+2258,5,58,Putre,0.0
+2259,5,59,Putre,0.0
+2260,5,60,Putre,-0.0
+2261,5,61,Putre,0.0
+2262,5,62,Putre,0.0
+2263,5,63,Putre,-0.0
+2264,5,64,Putre,-0.0
+2265,5,65,Putre,-0.0
+2266,5,66,Putre,-0.0
+2267,5,67,Putre,-0.0
+2268,5,68,Putre,0.0
+2269,5,69,Putre,0.0
+2270,5,70,Putre,0.0
+2271,5,71,Putre,-0.0
+2272,5,72,Putre,-0.0
+2273,5,73,Putre,-0.0
+2274,5,74,Putre,0.0
+2275,5,75,Putre,0.0
+2276,5,76,Putre,-0.0
+2277,5,77,Putre,-0.0
+2278,5,78,Putre,-0.0
+2279,5,79,Putre,0.0
+2280,5,80,Putre,0.0
+2281,5,81,Putre,0.0
+2282,5,82,Putre,-0.0
+2283,5,83,Putre,-0.0
+2284,5,84,Putre,-0.0
+2285,5,85,Putre,-0.0
+2286,5,86,Putre,0.0
+2287,5,87,Putre,-0.0
+2288,5,88,Putre,-0.0
+2289,5,89,Putre,-0.0
+2290,5,90,Putre,-0.0
+2291,5,91,Putre,-0.0
+2292,5,92,Putre,-0.0
+2293,5,93,Putre,-0.0
+2294,5,94,Putre,-0.0
+2295,5,95,Putre,-0.0
+2296,5,96,Putre,-0.0
+2297,5,97,Putre,-0.0
+2298,5,98,Putre,0.0
+2299,5,99,Putre,0.0
+2300,5,0,General Lagos,-0.0
+2301,5,1,General Lagos,-0.0
+2302,5,2,General Lagos,-0.0
+2303,5,3,General Lagos,-0.0
+2304,5,4,General Lagos,-0.0
+2305,5,5,General Lagos,-0.0
+2306,5,6,General Lagos,0.0
+2307,5,7,General Lagos,-0.0
+2308,5,8,General Lagos,-0.0
+2309,5,9,General Lagos,-0.0
+2310,5,10,General Lagos,1.0
+2311,5,11,General Lagos,-0.0
+2312,5,12,General Lagos,-0.0
+2313,5,13,General Lagos,-0.0
+2314,5,14,General Lagos,-0.0
+2315,5,15,General Lagos,0.0
+2316,5,16,General Lagos,-0.0
+2317,5,17,General Lagos,-0.0
+2318,5,18,General Lagos,-0.0
+2319,5,19,General Lagos,-0.0
+2320,5,20,General Lagos,0.0
+2321,5,21,General Lagos,0.0
+2322,5,22,General Lagos,0.0
+2323,5,23,General Lagos,-0.0
+2324,5,24,General Lagos,-0.0
+2325,5,25,General Lagos,0.0
+2326,5,26,General Lagos,-0.0
+2327,5,27,General Lagos,-0.0
+2328,5,28,General Lagos,0.0
+2329,5,29,General Lagos,0.0
+2330,5,30,General Lagos,0.0
+2331,5,31,General Lagos,0.0
+2332,5,32,General Lagos,-0.0
+2333,5,33,General Lagos,-0.0
+2334,5,34,General Lagos,0.0
+2335,5,35,General Lagos,0.0
+2336,5,36,General Lagos,-0.0
+2337,5,37,General Lagos,0.0
+2338,5,38,General Lagos,-0.0
+2339,5,39,General Lagos,0.0
+2340,5,40,General Lagos,-0.0
+2341,5,41,General Lagos,-0.0
+2342,5,42,General Lagos,-0.0
+2343,5,43,General Lagos,-0.0
+2344,5,44,General Lagos,-0.0
+2345,5,45,General Lagos,-0.0
+2346,5,46,General Lagos,-0.0
+2347,5,47,General Lagos,-0.0
+2348,5,48,General Lagos,-0.0
+2349,5,49,General Lagos,-0.0
+2350,5,50,General Lagos,-0.0
+2351,5,51,General Lagos,-0.0
+2352,5,52,General Lagos,-0.0
+2353,5,53,General Lagos,-0.0
+2354,5,54,General Lagos,-0.0
+2355,5,55,General Lagos,-0.0
+2356,5,56,General Lagos,-0.0
+2357,5,57,General Lagos,-0.0
+2358,5,58,General Lagos,0.0
+2359,5,59,General Lagos,-0.0
+2360,5,60,General Lagos,0.0
+2361,5,61,General Lagos,-0.0
+2362,5,62,General Lagos,-0.0
+2363,5,63,General Lagos,0.0
+2364,5,64,General Lagos,0.0
+2365,5,65,General Lagos,0.0
+2366,5,66,General Lagos,0.0
+2367,5,67,General Lagos,0.0
+2368,5,68,General Lagos,0.0
+2369,5,69,General Lagos,-0.0
+2370,5,70,General Lagos,0.0
+2371,5,71,General Lagos,0.0
+2372,5,72,General Lagos,0.0
+2373,5,73,General Lagos,-0.0
+2374,5,74,General Lagos,-0.0
+2375,5,75,General Lagos,-0.0
+2376,5,76,General Lagos,-0.0
+2377,5,77,General Lagos,-0.0
+2378,5,78,General Lagos,-0.0
+2379,5,79,General Lagos,-0.0
+2380,5,80,General Lagos,0.0
+2381,5,81,General Lagos,0.0
+2382,5,82,General Lagos,0.0
+2383,5,83,General Lagos,-0.0
+2384,5,84,General Lagos,0.0
+2385,5,85,General Lagos,0.0
+2386,5,86,General Lagos,-0.0
+2387,5,87,General Lagos,0.0
+2388,5,88,General Lagos,0.0
+2389,5,89,General Lagos,-0.0
+2390,5,90,General Lagos,0.0
+2391,5,91,General Lagos,-0.0
+2392,5,92,General Lagos,-0.0
+2393,5,93,General Lagos,-0.0
+2394,5,94,General Lagos,0.0
+2395,5,95,General Lagos,-0.0
+2396,5,96,General Lagos,-0.0
+2397,5,97,General Lagos,0.0
+2398,5,98,General Lagos,-0.0
+2399,5,99,General Lagos,-0.0

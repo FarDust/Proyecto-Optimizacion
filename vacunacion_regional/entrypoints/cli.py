@@ -17,7 +17,7 @@ from vacunacion_regional.model.main import get_model
 @option("--save", "save", flag_value=True, default=False)
 @option("--output", "output_path", default="out.mps")
 @option("--experiments", "experiments", default=1)
-@option("--attribute", "attribute", default='camiones')
+@option("--attribute", "attribute", default=None)
 @option("--random", "is_random_experiment", flag_value=True, default=False)
 def cli_entrypoint(source_path: str, output_path, save, experiments, is_random_experiment, attribute):
     config, mappings = get_from_data_parameters(source_path=source_path)
