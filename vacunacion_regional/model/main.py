@@ -1,4 +1,5 @@
 from random import seed
+from vacunacion_regional.setting import TIMELIMIT
 
 from gurobipy import GRB, Model, quicksum
 
@@ -256,6 +257,6 @@ def get_model(pm: ParametersConfig):
     )
 
     model.setObjective(obj, GRB.MAXIMIZE)
-    model.setParam('TimeLimit', 20)
+    model.setParam('TimeLimit', TIMELIMIT)
 
     return model
